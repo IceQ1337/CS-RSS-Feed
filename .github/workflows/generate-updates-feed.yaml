@@ -24,10 +24,10 @@ jobs:
 
     - name: Install language packs
       run: |
-        apt-get update && \
-        apt-get -y install locales && \
-        localedef -i en_US -f UTF-8 en_US.UTF-8 && \
-        localedef -i de_DE -f UTF-8 de_DE.UTF-8 && \
+        sudo apt-get update
+        sudo apt-get install -y locales
+        localedef -i en_US -f UTF-8 en_US.UTF-8
+        localedef -i de_DE -f UTF-8 de_DE.UTF-8
         localedef -i fr_FR -f UTF-8 fr_FR.UTF-8
 
     - name: Generate RSS Feeds
