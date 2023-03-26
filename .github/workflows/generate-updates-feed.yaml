@@ -22,13 +22,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
 
-    - name: Install language packs
+    - name: Configure languages
       run: |
-        sudo apt-get update
-        sudo apt-get install -y locales
-        sudo localedef -i en_US -f UTF-8 en_US.UTF-8
-        sudo localedef -i de_DE -f UTF-8 de_DE.UTF-8
-        sudo localedef -i fr_FR -f UTF-8 fr_FR.UTF-8
+        export LC_ALL="en_US.UTF-8"
+        export LC_CTYPE="en_US.UTF-8"
+        sudo dpkg-reconfigure locales
 
     - name: Generate RSS Feeds
       id: generate_rss_feeds
