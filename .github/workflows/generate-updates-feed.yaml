@@ -22,6 +22,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
 
+    - name: Install language packs
+      run: |
+        apt-get update && \
+        apt-get -y install locales && \
+        localedef -i en_US -f UTF-8 en_US.UTF-8 && \
+        localedef -i de_DE -f UTF-8 de_DE.UTF-8 && \
+        localedef -i fr_FR -f UTF-8 fr_FR.UTF-8
+
     - name: Generate RSS Feeds
       id: generate_rss_feeds
       run: python scripts/update-updates-feed.py
