@@ -22,15 +22,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
 
-    - name: Configure languages
-      run: |
+    - name: Generate RSS Feeds
+      id: generate_rss_feeds
+      run:
         export LC_ALL="en_US.UTF-8"
         export LC_CTYPE="en_US.UTF-8"
         sudo dpkg-reconfigure locales
-
-    - name: Generate RSS Feeds
-      id: generate_rss_feeds
-      run: python scripts/update-updates-feed.py
+        python scripts/update-updates-feed.py
 
     - name: Write RSS feed to files
       run: |
