@@ -1,4 +1,4 @@
-name: Generate RSS feed for Counter-Strike 2 updates
+name: Generate RSS feeds for CS2 updates
 on:
   schedule:
     - cron: "0 */6 * * *"
