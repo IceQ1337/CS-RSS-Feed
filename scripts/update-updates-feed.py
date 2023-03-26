@@ -113,7 +113,7 @@ for language_name, (language_code, language_locale) in language_map.items():
         language_code: rss_content
     })
 
-print(f'::set-output name=rss_feeds::{json.dumps(rss_feeds)}')
+print(f'::set-output name=rss_feeds::{json.dumps(rss_feeds.decode('utf-8'))}')
 
 driver.quit()
 sys.exit(0)
