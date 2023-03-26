@@ -32,6 +32,7 @@ jobs:
 
     - name: Write RSS feed to files
       run: |
+        echo "${{ steps.generate_rss_feeds.outputs.rss_feeds }}" | jq .
         for rss_feed in ${{ fromJSON(steps.generate_rss_feeds.outputs.rss_feeds) }}; do
           language_code=$(echo $rss_feed | jq -r 'keys[]')
           rss_content=$(echo $rss_feed | jq -r '.[].content')
