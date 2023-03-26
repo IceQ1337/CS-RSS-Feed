@@ -1,3 +1,4 @@
+import os
 import sys
 import locale
 import json
@@ -113,7 +114,9 @@ for language_name, (language_code, language_locale) in language_map.items():
         language_code: rss_content.decode('utf-8')
     })
 
-print(f'::set-output name=rss_feeds::{json.dumps(rss_feeds)}')
+#print(f'::set-output name=rss_feeds::{json.dumps(rss_feeds)}')
+with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+    print(f'rss_feeds={json.dumps(rss_feeds)}', file=fh)
 
 driver.quit()
 sys.exit(0)
