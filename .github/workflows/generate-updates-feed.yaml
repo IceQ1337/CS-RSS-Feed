@@ -32,12 +32,10 @@ jobs:
 
     - name: Write RSS feed to files
       run: |
-        echo "${{ steps.generate_rss_feeds.outputs.rss_feeds }}" | jq .
-        for rss_feed in ${{ fromJSON(steps.generate_rss_feeds.outputs.rss_feeds) }}; do
-          language_code=$(echo $rss_feed | jq -r 'keys[]')
-          rss_content=$(echo $rss_feed | jq -r '.[].content')
-          echo "$rss_content" > feeds/updates-feed-$language_code.xml
-        done
+        rss_feeds=$(echo '${{ steps.generate_rss_feeds.outputs.rss_feeds }}' | jq -r 'to_entries[] | "\(.key)=\(.value)"')
+        while IFS='=' read -r language_code rss_content; do
+          echo "$rss_content" > "feeds/updates-feed-$language_code.xml"
+        done <<< "$rss_feeds"
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
