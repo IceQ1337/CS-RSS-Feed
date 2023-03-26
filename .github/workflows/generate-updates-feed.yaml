@@ -42,7 +42,7 @@ jobs:
           language_code=$(echo $rss_feed | jq -r 'keys[]')
           rss_content=$(echo $rss_feed | jq -r ".[\"$language_code\"]")
           echo "$rss_content" > "feeds/updates-feed-$language_code.xml"
-        done
+        done <<< "$rss_feeds"
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
