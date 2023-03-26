@@ -24,7 +24,7 @@ jobs:
 
     - name: Generate RSS Feeds
       id: generate_rss_feeds
-      run:
+      run: |
         export LC_ALL="en_US.UTF-8"
         export LC_CTYPE="en_US.UTF-8"
         sudo dpkg-reconfigure locales
