@@ -38,16 +38,10 @@ jobs:
 
     - name: Write RSS feed to files
       run: |
-        rss_feeds="${{ steps.generate_rss_feeds.outputs.rss_feeds }}"
-        for rss_feed in $(echo "${rss_feeds}" | jq -r '.[]'); do
-          _jq() {
-            echo "${rss_feed}" | jq -r "${1}"
-          }
-          
-          lang=$(_jq '.language_code')
-          rss_content=$(_jq '.content')
-          
-          echo "$rss_content" > "feeds/updates-feed-${lang}.xml"
+        echo ${{ steps.generate_rss_feeds.outputs.rss_feeds }} |
+        jq --raw-output 'map([.language_code, .content])[]' |
+        while IFS=$'\t' read language_code content; do
+            echo "$content" > "feeds/updates-feed-$language_code.xml"
         done
 
     - name: Commit changes
