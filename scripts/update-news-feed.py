@@ -66,11 +66,11 @@ for language_name, (language_code, language_locale) in language_map.items():
     news_items = []
 
     # Set locale to parse the date, but dates are currently not localized anyways (Thanks Valve)
-    #locale.setlocale(locale.LC_TIME, f'en_US.UTF-8') # Change to language_locale after its fixed
-    #date_format = '%B %d, %Y' # English
+    locale.setlocale(locale.LC_TIME, f'en_US.UTF-8') # Change to language_locale after its fixed
+    date_format = '%B %d, %Y' # English
     
-    locale.setlocale(locale.LC_TIME, 'de_DE') # German
-    date_format = '%d. %B %Y' # German
+    #locale.setlocale(locale.LC_TIME, 'de_DE') # German
+    #date_format = '%d. %B %Y' # German
 
     # For each news capsule, open the entry and find all div containers with relevant information
     for capsule in capsules:
