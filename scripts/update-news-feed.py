@@ -101,7 +101,7 @@ for language_name, (language_code, language_locale) in language_map.items():
         news_soup = BeautifulSoup(news_html_content, 'html.parser')
         news_page = news_soup.select_one('div[class*="blogentrypage_BlogEntryPage"]')
 
-        title = news_page.select_one('div[class*="blogentrypage_Title"]').text.strip()
+        title = news_page.select_one('div[class*="blogentrypage_Title_"]').text.strip()
         date = datetime.strptime(news_page.select_one('div[class*="blogentrypage_Date"]').text.strip(), date_format)
         body = news_page.select_one('div[class*="blogentrypage_Body"]').decode_contents().strip()
 
