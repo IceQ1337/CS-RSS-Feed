@@ -1,6 +1,8 @@
 name: Generate RSS feeds for CS2 news
 
 on:
+  schedule:
+    - cron: "0 9 * * *"
   workflow_dispatch:
 
 jobs:
