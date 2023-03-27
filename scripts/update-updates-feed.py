@@ -32,8 +32,6 @@ except:
     driver.quit()
     sys.exit(f'Failed to initialize the headless web browser.')
 
-rss_feeds = []
-
 # Loop over the languages and generate an RSS feed for each language
 for language_name, (language_code, language_locale) in language_map.items():
     # Construct the URL for the current language
@@ -110,14 +108,10 @@ for language_name, (language_code, language_locale) in language_map.items():
         fe.rights('Valve Corporation')
 
     rss_content = fg.rss_str(pretty=True)
-    rss_feeds.append({
-        'language_code': language_code,
-        'content': rss_content.decode('utf-8')
-    })
 
-#print(f'::set-output name=rss_feeds::{json.dumps(rss_feeds)}')
-with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-    print(f'rss_feeds={json.dumps(rss_feeds)}', file=fh)
+    # Create or update XML File
+    with open(f'../feeds/updates-feed-{language_code}.xml', "wb") as f:
+        f.write(rss_content)
 
 driver.quit()
 sys.exit(0)
