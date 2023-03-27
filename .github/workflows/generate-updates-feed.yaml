@@ -1,8 +1,6 @@
 name: Generate RSS feeds for CS2 updates
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -40,7 +38,7 @@ jobs:
       run: |
         echo '${{ steps.generate_rss_feeds.outputs.rss_feeds }}' |
         jq --raw-output 'map([.language_code, .content])[] | @tsv' |
-        while IFS=$'\t' read language_code content; do
+        while IFS=$'\t\n' read language_code content; do
             echo "$content" > "feeds/updates-feed-$language_code.xml"
         done
 
