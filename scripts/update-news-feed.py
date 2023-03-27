@@ -75,7 +75,7 @@ for language_name, (language_code, language_locale) in language_map.items():
     # For each news capsule, open the entry and find all div containers with relevant information
     for capsule in capsules:
         unique_relative_url = capsule.get('href')
-        unique_url = f'{base_url}{unique_relative_url}'
+        unique_url = f'{base_url}{unique_relative_url}?l={language_name}'
         unique_identifier = unique_relative_url.replace('/newsentry/', '')
 
         # Navigate the browser to the news entry
