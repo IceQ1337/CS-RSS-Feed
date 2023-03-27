@@ -46,7 +46,7 @@ for language_name, (language_code, language_locale) in language_map.items():
             EC.presence_of_element_located((By.CSS_SELECTOR, 'div[class^="blogoverviewpage_SubUpdates"]'))
         )
 
-        # Extract the (hopefully) complete HTML and quit web browser
+        # Extract the (hopefully) complete HTML
         html_content = driver.page_source
     except TimeoutException:
         driver.quit()
