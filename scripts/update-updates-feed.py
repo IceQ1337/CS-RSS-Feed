@@ -110,7 +110,7 @@ for language_name, (language_code, language_locale) in language_map.items():
     rss_content = fg.rss_str(pretty=True)
 
     # Create or update XML File
-    with open(os.path.join(os.pardir, f'feeds/updates-feed-{language_code}.xml'), "wb") as f:
+    with open(os.path.join(os.pardir, 'feeds', f'updates-feed-{language_code}.xml'), "wb") as f:
         f.write(rss_content)
 
 driver.quit()
