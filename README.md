@@ -5,12 +5,12 @@ This repository provides a daily updated collection of RSS feeds for news and up
 
 ## Available RSS-Feeds
 ### News
--  [English](https://raw.githubusercontent.com/IceQ1337/CS2-RSS-Feed/master/feeds/news-feed-en.xml)
--  [German](https://raw.githubusercontent.com/IceQ1337/CS2-RSS-Feed/master/feeds/news-feed-de.xml)
+-  [English](https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml)
+-  [German](https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-de.xml)
 
 ### Updates
--  [English](https://raw.githubusercontent.com/IceQ1337/CS2-RSS-Feed/master/feeds/updates-feed-en.xml)
--  [German](https://raw.githubusercontent.com/IceQ1337/CS2-RSS-Feed/master/feeds/updates-feed-de.xml)
+-  [English](https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml)
+-  [German](https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml)
 
 **Notes:**
 - Valve does not localize all of their blog/update posts immediately.
