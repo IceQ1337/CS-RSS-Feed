@@ -20,7 +20,9 @@ This repository provides a daily updated collection of RSS feeds for news and up
 
 ## Contribution Guidelines
 There are currently no contributing guidelines, but I am open to any kind of improvements.  
-In order to contribute to the project, please follow the GitHub Standard Fork & Pull Request Workflow
+In order to contribute to the project, please follow the GitHub Standard Fork & Pull Request Workflow  
+
+**Note:** Do not make direct changes to *.xml files in the feeds directory.
 
 ## Acknowledgements
 - [Selenium](https://github.com/SeleniumHQ/selenium)
