@@ -53,7 +53,6 @@ for language_name, (language_code, language_locale) in language_map.items():
         sys.exit(f'Unable to find the updates container in the given time frame.')
     except Exception as e:
         driver.quit()
-        print(e)
         sys.exit(f'Failed to extract the HTML data.')
 
     # Parse the HTML content with BeautifulSoup and extract all relevant information
@@ -90,7 +89,7 @@ for language_name, (language_code, language_locale) in language_map.items():
         })
 
     # Generate the RSS feed with feedgen and add the extracted information as entries
-    feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS2-RSS-Feed/master/feeds/updates-feed-{language_code}.xml'
+    feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-{language_code}.xml'
 
     fg = FeedGenerator()
     fg.title(f'Counter-Strike 2 - Updates ({language_name.capitalize()})')

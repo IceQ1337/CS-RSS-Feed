@@ -94,7 +94,6 @@ for language_name, (language_code, language_locale) in language_map.items():
             sys.exit(f'Unable to open or find the news entry page in the given time frame.')
         except Exception as e:
             driver.quit()
-            print(e)
             sys.exit(f'Failed to extract the HTML data of a news entry.')
 
         # Parse the HTML content with BeautifulSoup and extract all relevant information
@@ -119,7 +118,7 @@ for language_name, (language_code, language_locale) in language_map.items():
         })
 
     # Generate the RSS feed with feedgen and add the extracted information as entries
-    feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS2-RSS-Feed/master/feeds/news-feed-{language_code}.xml'
+    feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-{language_code}.xml'
 
     fg = FeedGenerator()
     fg.title(f'Counter-Strike 2 - News ({language_name.capitalize()})')
