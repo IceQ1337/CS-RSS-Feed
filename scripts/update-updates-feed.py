@@ -111,6 +111,13 @@ for language_name, (language_code, language_locale) in language_map.items():
             fe = fg.add_entry()
             fe.source(url)
             fe.title(update['title'])
+            fe.link({
+                'href': url,
+                'rel': 'alternate',
+                'type': 'text/html',
+                'hreflang': language_code,
+                'title': update['title']
+            })
             fe.pubDate(datetime.strftime(update['date'], '%Y-%m-%dT%H:%M:%SZ'))
             fe.author({'name':'Valve Corporation', 'email':'support@steampowered.com'})
             fe.content(update['content'], None, 'CDATA')
