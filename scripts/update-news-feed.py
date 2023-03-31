@@ -2,6 +2,7 @@ import os
 import sys
 import locale
 import json
+import feedparser
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -11,8 +12,6 @@ from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime
-
-# Fetch the HTML content from the new counter-strike website
 
 base_url = 'https://www.counter-strike.net'
 content_url = base_url + '/news'
@@ -37,7 +36,7 @@ for language_name, (language_code, language_locale) in language_map.items():
     # Construct the URL for the current language
     url = f'{content_url}?l={language_name}'
 
-    # Launch the browser and navigate to the website
+    # Launch the browser and navigate to the website to fetch its HTML content
     try:
         driver.get(url)
 
@@ -117,38 +116,49 @@ for language_name, (language_code, language_locale) in language_map.items():
             'content': body
         })
 
-    # Generate the RSS feed with feedgen and add the extracted information as entries
-    feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-{language_code}.xml'
+    # Parse an existing RSS feed file and compare the last entry
+    rss_feed_file = os.path.join(os.environ['GITHUB_WORKSPACE'], 'feeds', f'news-feed-{language_code}.xml')
+    skip_file = False
 
-    fg = FeedGenerator()
-    fg.title(f'Counter-Strike 2 - News ({language_name.capitalize()})')
-    fg.description('Counter-Strike 2 News Feed')
-    fg.link(href=feed_link, rel='self')
-    fg.language(language_code)
+    if os.path.exists(rss_feed_file):
+        current_feed = feedparser.parse(rss_feed_file)
+        if current_feed.entries and news_items and current_feed.entries[0].title == news_items[0]['title']:
+            skip_file = True
 
-    for news in reversed(news_items):
-        fe = fg.add_entry()
-        fe.source(url)
-        fe.id(news['url'])
-        fe.guid(news['guid'])
-        fe.title(news['title'])
-        fe.link({
-            'href': news['url'],
-            'rel': 'alternate',
-            'type': 'text/html',
-            'hreflang': language_code,
-            'title': news['title']
-        })
-        fe.pubDate(datetime.strftime(news['date'], '%Y-%m-%dT%H:%M:%SZ'))
-        fe.author({'name':'Valve Corporation', 'email':'support@steampowered.com'})
-        fe.content(news['content'], None, 'CDATA')
-        fe.rights('Valve Corporation')
+    # Generate the RSS feed with feedgen if the latest entry is different from the current RSS feed
+    if not skip_file:
+        feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-{language_code}.xml'
 
-    rss_content = fg.rss_str(pretty=True)
+        fg = FeedGenerator()
+        fg.title(f'Counter-Strike 2 - News ({language_name.capitalize()})')
+        fg.description('Counter-Strike 2 News Feed')
+        fg.link(href=feed_link, rel='self')
+        fg.language(language_code)
 
-    # Create or update XML File
-    with open(os.path.join(os.environ['GITHUB_WORKSPACE'], 'feeds', f'news-feed-{language_code}.xml'), "wb") as f:
-        f.write(rss_content)
+        # Add the extracted information as entries to the RSS feed
+        for news in reversed(news_items):
+            fe = fg.add_entry()
+            fe.source(url)
+            fe.id(news['url'])
+            fe.guid(news['guid'])
+            fe.title(news['title'])
+            fe.link({
+                'href': news['url'],
+                'rel': 'alternate',
+                'type': 'text/html',
+                'hreflang': language_code,
+                'title': news['title']
+            })
+            fe.pubDate(datetime.strftime(news['date'], '%Y-%m-%dT%H:%M:%SZ'))
+            fe.author({'name':'Valve Corporation', 'email':'support@steampowered.com'})
+            fe.content(news['content'], None, 'CDATA')
+            fe.rights('Valve Corporation')
+
+        rss_content = fg.rss_str(pretty=True)
+
+        # Create or update XML File
+        with open(rss_feed_file, "wb") as f:
+            f.write(rss_content)
 
 driver.quit()
 sys.exit(0)
