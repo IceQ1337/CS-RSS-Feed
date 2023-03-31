@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Mar 2023 04:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 20:08:15 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 3/31/2023</title>
+      <description><![CDATA[[NETWORKING]<br/>- Multiple network optimizations.<br/>- The player lister in private matchmaking should no longer mix CS:GO and CS2 players together if they use the same private matchmaking pool code.<br/><br/>[UI]<br/>- Added Defuse Kit to team equipment display.<br/>- Scoreboard - Various font and style changes<br/>- Adjusted voting panel to more closely match other UI <br/><br/>[VISUALS]<br/>- Continued physically based rendering (PBR) compatibility adjustments to stickers:<br/>-- Brightened some sticker styles for better contrast<br/>-- Added some functionality to support fine-tuning individual items in future content adjustments.<br/>- Adjusted some main menu and end of round animations to reduce interpenetration of weapons and character models.<br/>- Various improvements to character models.<br/>- Continued improvements to inspect/reload behavior.<br/><br/>[DUST II]<br/>- Various adjustments to clipping and materials.<br/>- Sealed rooftops to prevent grenades/molotovs from landing in places they shouldn't.<br/><br/>[MISC]<br/>- Restored functionality for adding/removing bots while playing offline.<br/>- Restored spray menu functionality.<br/>- Restored radio command functionality.<br/>- Fixes for various crashes.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 3/30/2023</title>
       <description><![CDATA[[ NETWORKING ]<br/>- Multiple network traffic optimizations.<br/>- Shooting random seeds are now correctly desynchronized between server and client code.<br/><br/>[ VISUALS ]<br/>- Fixed positions of overhead labels and ping elements at different resolutions.<br/>- Fixed halo around enemies to not give away their locations.<br/>- Bomb code will now correctly clear when aborting the bomb plant.<br/>- Fixed rare inspect animations to be rare and not every anim.<br/>- Inspect then reload ("f", "r", "f", "r") more closely matches CS:GO behavior.<br/>- Disabled all development console commands (including "cl_physics_highlight_active 5").<br/><br/>[ GAMEPLAY ]<br/>- HE grenades no longer affect smokes through walls.<br/>- Disabled collisions between ragdolls.<br/>- Players will no longer drop weapons when getting a bonus weapon in Deathmatch.<br/>- Trajectory preview for decoy grenades is now correct.<br/>- Improved behavior of picking up weapons with the use key.  <br/><br/>[ INPUT SYSTEM ]<br/>- Buy menu and scoreboard now allow movement while they have focus.<br/>- Team intro allows voice chat.<br/>- Keys will no longer get stuck when opening the steam overlay.<br/>- Fixed many cases where user input would get confused.<br/>- Multiple actions cannot be bound to one key.<br/><br/>[ SOUND ]<br/>- Adjustments to smoke grenade sound timing at a distance.<br/>- Fixed a bug where flashbang or grenade sound effect would remain if player died while having that sound effect active.<br/>- Added dedicated player-only sound when a grenade is correctly jump-thrown.<br/>- Fixed chat wheel lines to be restricted to legitimate chat wheel lines that can be configured in game options.<br/><br/>[ DUST II ]<br/>- Fixed a hole in the wall.]]></description>
@@ -92,12 +98,6 @@
       <description><![CDATA[[ MISC ]<br/>– Fixed “env_fade” entities for “only triggering player” configuration.<br/>– Added vscript function ScriptTraceLinePlayersIncluded.<br/><br/>[ MAPS ]<br/>- Guard<br/>-- Updated Guard to the most recent workshop<br/>-- Fixed boost spot on arches (Thanks @FilyandraXBL)<br/>-- Fixed nodraw behind CT Spawn (Thanks Mii Fanboy)<br/>-- Fixed various spots where players could get stuck on walls (Thanks @FilyandraXBL, Mii Fanboy, Kerluck, @goodchicken45)]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 3/1/2021</title>
-      <description><![CDATA[[ MISC ]<br/>– Fixed a bug that allowed enemy players to spawn outside of their spawn location.<br/>– Fixed a case where players would see a second bomb in retakes mode.<br/>– Fixed some cases where dropped weapons exited the play area.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
