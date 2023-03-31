@@ -33,4 +33,5 @@ In order to contribute to the project, please follow the GitHub Standard Fork & 
 - [Selenium](https://github.com/SeleniumHQ/selenium)
 - [Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/)
 - [Feedgen](https://feedgen.kiesow.be/)
+- [Feedparser](https://github.com/kurtmckee/feedparser)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
