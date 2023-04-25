@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 31 Mar 2023 09:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 01:47:57 +0000</lastBuildDate>
+    <item>
+      <title>The Anubis Collection</title>
+      <link>https://www.counter-strike.net/newsentry/3729585915985023882?l=german</link>
+      <description><![CDATA[Since November, players have been peeking mid and rushing through the waters of Anubis.<br/><br/>Today we're introducing the Anubis Collection, featuring 19 weapon finishes themed around the newest addition to Counter-Strike's Active Duty map pool.<br/><br/><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/83365b8ee0486f386cb148e31705fc6e2567d66e.png"/><br/><br/>The Anubis Collection is available for purchase now in-game.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3729585915985023882</guid>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Die neue Ära von Counter-Strike</title>
       <link>https://www.counter-strike.net/newsentry/3716071937633222892?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3102412015874606494</guid>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PGL Stockholm 2021 – Championphase</title>
-      <link>https://www.counter-strike.net/newsentry/3102411380811182021?l=german</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/7295ccad0758d2c7d5f4a158da984479a502560d.png"/><br/>Von den 24 besten Teams der Welt sind nur noch 8 übrig, die in der Championphase der PGL Stockholm 2021 gegeneinander um den Meistertitel kämpfen.<br/><br/>G2 und NAVI blieben in der Legendenphase unangetastet und haben sich ihren Platz bei den Play-offs wohlverdient. FURIA, Heroic und Gambit hingegen begannen mit je einer Niederlage, konnten dies aber mit je 2 Siegen hintereinander wieder wettmachen. Die übrigen Finalisten entschieden am fünften Tag das Spiel auf dramatische Weise für sich: Vitality, Virtus.pro und Ninjas in Pyjamas konnten sich erst in der dritten Karte ihrer Best-of-3-Serien ein Ticket zur Championphase ergattern.<br/><br/>Seien Sie am 4. November über Steam.tv, GOTV oder einem der vielen anderen Streaming-Partnern live mit dabei, um zu sehen, wer der nächste CS:GO-Meister wird.<br/><br/>Vergessen Sie nicht, vor Beginn der Spiele bei der Pick'Em Challenge Ihre Tipps für die Play-offs abzugeben. Und wenn Sie noch keinen Zuschauerpass haben, schlagen Sie jetzt zu – es ist noch nicht zu spät. Der Zuschauerpass, Teamaufkleberkapseln und Teamaufnäherpakete sind auf der <a class="Focusable" href="https://store.steampowered.com/sale/csgostockholm?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">Steam-Seite zur PGL Stockholm 2021</span></a> erhältlich.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3102411380811182021</guid>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

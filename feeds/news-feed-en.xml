@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Mar 2023 09:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 01:47:40 +0000</lastBuildDate>
+    <item>
+      <title>The Anubis Collection</title>
+      <link>https://www.counter-strike.net/newsentry/3729585915985023882?l=english</link>
+      <description><![CDATA[Since November, players have been peeking mid and rushing through the waters of Anubis.<br/><br/>Today we're introducing the Anubis Collection, featuring 19 weapon finishes themed around the newest addition to Counter-Strike's Active Duty map pool.<br/><br/><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/83365b8ee0486f386cb148e31705fc6e2567d66e.png"/><br/><br/>The Anubis Collection is available for purchase now in-game.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3729585915985023882</guid>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Next Era of Counter-Strike</title>
       <link>https://www.counter-strike.net/newsentry/3716071937633222892?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3102412015874606494</guid>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stockholm 2021—Champions Stage</title>
-      <link>https://www.counter-strike.net/newsentry/3102411380811182021?l=english</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/7295ccad0758d2c7d5f4a158da984479a502560d.png"/><br/>We started with 24 of the world’s best teams, and now we’re down to the final eight as we enter the Champions Stage of the 2021 Stockholm Major.<br/><br/>G2 and NaVi went undefeated in the Legends Stage–comfortably earning their playoff spot–while FURIA, Heroic, and Gambit recovered from day 1 losses with two straight wins. The remaining finalists were decided in dramatic fashion on the fifth day, with Vitality, Virtus.Pro and Ninjas in Pyjamas each going to the third map in their best-of-three series to earn their trip to the Champions Stage.<br/><br/>Watch live coverage beginning 4 November on Steam.tv, in GOTV, or on one of several other streaming platforms to see which team will become the next CS:GO Major Champions.<br/><br/>Don’t forget to make your playoff picks in the Pick’Em Challenge before the matches begin. And if you haven’t picked up a Viewer Pass yet, it’s not too late! You can find the Viewer Pass, along with Team Sticker Capsules and Team Patch Packs on the <a class="Focusable" href="https://store.steampowered.com/sale/csgostockholm?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">2021 Stockholm Major Steam page</span></a>.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3102411380811182021</guid>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
