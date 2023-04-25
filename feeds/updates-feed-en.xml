@@ -8,96 +8,111 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Mar 2023 20:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 00:41:15 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 4/24/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ANUBIS COLLECTION]<br/>- Introducing the Anubis Collection, featuring 19 weapon finishes themed around the newest addition to Counter-Strike's Active Duty map pool.<br/><br/>[MAPS]<br/>-Spring celebrations have ended in Ember Land.<br/>-Lava in the tunnels is rising.<br/>-Minor bug fixes.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 3/31/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[NETWORKING]<br/>- Multiple network optimizations.<br/>- The player lister in private matchmaking should no longer mix CS:GO and CS2 players together if they use the same private matchmaking pool code.<br/><br/>[UI]<br/>- Added Defuse Kit to team equipment display.<br/>- Scoreboard - Various font and style changes<br/>- Adjusted voting panel to more closely match other UI <br/><br/>[VISUALS]<br/>- Continued physically based rendering (PBR) compatibility adjustments to stickers:<br/>-- Brightened some sticker styles for better contrast<br/>-- Added some functionality to support fine-tuning individual items in future content adjustments.<br/>- Adjusted some main menu and end of round animations to reduce interpenetration of weapons and character models.<br/>- Various improvements to character models.<br/>- Continued improvements to inspect/reload behavior.<br/><br/>[DUST II]<br/>- Various adjustments to clipping and materials.<br/>- Sealed rooftops to prevent grenades/molotovs from landing in places they shouldn't.<br/><br/>[MISC]<br/>- Restored functionality for adding/removing bots while playing offline.<br/>- Restored spray menu functionality.<br/>- Restored radio command functionality.<br/>- Fixes for various crashes.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 3/30/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[ NETWORKING ]<br/>- Multiple network traffic optimizations.<br/>- Shooting random seeds are now correctly desynchronized between server and client code.<br/><br/>[ VISUALS ]<br/>- Fixed positions of overhead labels and ping elements at different resolutions.<br/>- Fixed halo around enemies to not give away their locations.<br/>- Bomb code will now correctly clear when aborting the bomb plant.<br/>- Fixed rare inspect animations to be rare and not every anim.<br/>- Inspect then reload ("f", "r", "f", "r") more closely matches CS:GO behavior.<br/>- Disabled all development console commands (including "cl_physics_highlight_active 5").<br/><br/>[ GAMEPLAY ]<br/>- HE grenades no longer affect smokes through walls.<br/>- Disabled collisions between ragdolls.<br/>- Players will no longer drop weapons when getting a bonus weapon in Deathmatch.<br/>- Trajectory preview for decoy grenades is now correct.<br/>- Improved behavior of picking up weapons with the use key.  <br/><br/>[ INPUT SYSTEM ]<br/>- Buy menu and scoreboard now allow movement while they have focus.<br/>- Team intro allows voice chat.<br/>- Keys will no longer get stuck when opening the steam overlay.<br/>- Fixed many cases where user input would get confused.<br/>- Multiple actions cannot be bound to one key.<br/><br/>[ SOUND ]<br/>- Adjustments to smoke grenade sound timing at a distance.<br/>- Fixed a bug where flashbang or grenade sound effect would remain if player died while having that sound effect active.<br/>- Added dedicated player-only sound when a grenade is correctly jump-thrown.<br/>- Fixed chat wheel lines to be restricted to legitimate chat wheel lines that can be configured in game options.<br/><br/>[ DUST II ]<br/>- Fixed a hole in the wall.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 3/24/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[ Ui ]<br/>- Fixed common asserts.<br/>- Removed Trade-Up contract UI for Limited Test.<br/>- Fixed multiple items showing up in the inspect panel.<br/><br/>[ Audio ]<br/>- Use correct audio device name when user picks "default" device.<br/>- Added weapon drop sounds to minimap distance broadcast.<br/>- Lowered volume of some dust2 ambience.<br/>- Added some missing ui sounds.<br/>- Lowered volume of flashbang ringing and volume ducking effect.<br/>- Reduced stereo spread of grenade explosions.<br/>- Fixed phasing with deathmatch kill bonus sound.<br/><br/>[ Game ]<br/>- Fixed various game crashes.<br/>- Smoke bullet holes are now fixed relative to the firstperson camera.<br/>- Smoke grenades dropped in small crevices no longer detonate on the incorrect side of thin walls.<br/>- Players can no longer pick up weapons while dead during a competitive match.<br/>- Fixed dropping weapons during the team intro.<br/>- Fixed +voicerecord getting stuck on when held during team intro and released after.<br/>- Chat messages sent during end of match no longer show players as *DEAD* if they were dead at the end of the last round.<br/>- Fixed handling game input keys such as +voicerecord while panorama has focus.<br/>- Added netgraph.<br/><br/>[ Graphics ]<br/>- Fixed flickering with MSAA.<br/>- Fixed smoke cloud volume lighting.<br/>- Fixed stencil issue on glass when MSAA is disabled.<br/>- Updated various weapon finishes based on community feedback.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 3/22/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[COUNTER-STRIKE 2 LIMITED TEST]<br/>- Shipped the mechanism for players to gain access to the Counter-Strike 2 Limited Test.<br/>- If you have been selected to participate in the limited test, you will see an invitation banner when you launch CS:GO with further instructions.<br/><br/>[MAPS]<br/>Ember<br/>-Introducing Ember spring update<br/>-The chickens have laid colourful eggs<br/>-Replaced cannonballs with eggs<br/>-Festive Tablet image<br/>-Weeds<br/>-General updates<br/>-Added new path at Swimming Pool<br/>-Players no longer take damage from slow rolling cannonballs]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 2/15/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[REVOLUTION CASE]<br/>- The AWP | Doodle Lore has been replaced by the AWP | Duality in the Revolution Case<br/>- Existing AWP | Doodle Lore inventory items have been converted to the AWP | Duality<br/><br/>[MAPS]<br/>Ember<br/>- Seasonal celebrations have ended in Ember land.<br/>- Map lighting, theme, textures, and models have returned to their pre-seasonal state.<br/>- Cave rock textures are now using $seamless_scale for improved texture quality and look.<br/>- Various texture improvements.<br/>- Fixed an areaportal issue.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 2/2/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[MAPS]<br/><br/>Boyard<br/>– Clipped boost onto top of arches (Thanks Lazavelli)<br/>– Fixed gap in side of stairs<br/>– Lowered floating railings<br/><br/>Chalice<br/>– Remastered art assets<br/>– Updated lighting<br/>– Updated clipping<br/>– Made the grate bars on A-site less obstructive<br/>– Added place names<br/>– Improved occlusion to be more performant<br/><br/>Anubis<br/>– Fixed optimization regression]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>bbnomu$ic kit</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[Today we are shipping a new Music Kit from bbno$ featuring the song “u mad!” from his new album “eat ya veggies”—out tomorrow!<br/><br/>So eat ya veggies and pick up the new bbno$ Music Kit in standard or StatTrak versions, available now!<br/><br/>Release Notes from today are below:<br/><br/>[MUSIC KITS]<br/>- Added the bbno$ - u mad! Music Kit, available in regular and StatTrak™ variants.<br/><br/>[GAMEPLAY]<br/>- Danger Zone<br/>— Respawning players are no longer able to select respawn locations that should have been prohibited by the spawnmask map.<br/>— Smoothed camera motion when using ExoJump.<br/><br/>[MISC]<br/>- Added new VO for Trapper and Trapper Agressor Agents.<br/>- Adjusted ragdoll physics.<br/><br/>[MAPS]<br/>- Dust 2<br/>— Re-tired visblocker from T spawn to mid<br/>— Blocked unintended wallbang<br/><br/>- Insertion 2<br/>— New glass texture for windows in office, to make it easier to see from inside if the glass is broken or not.<br/>— other minor tweaks<br/><br/>- Ravine<br/>— Fixed bomb stuck spot near spawn<br/>— Clipping fixes<br/>— Updated radar<br/><br/>- Basalt<br/>— Added a reception desk to B Connector<br/>— Added an additional window to Red Barn<br/>— Removed railing on A for easier movement<br/>— Visual upgrades to bombsite B<br/>— Visual upgrades to Red Barn<br/>— Added literature<br/>— Added a fuzzy carpet<br/>— Small visual upgrades across the whole map<br/><br/>- County<br/>— Disabled physics on window at creek house<br/>— Removed possibility to set metal frame of the quarry building in motion<br/>— Set proper scale on metal containers <br/>— Improved cliff models collision<br/>— Clipped cave ceiling and wooden roofs in order to prevent players from getting stuck while using exojump<br/>— Fixed collision on aspen tree models to prevent players from getting stuck<br/>— Fixed global sound on bunker doors <br/>— Fixed all reported stuck spots while jumping<br/>— Increased fade distance for corn field<br/>— Clipped beach part of the map to prevent players from escaping the map with bump mines<br/>— Extended watertower ladder<br/>— Fixed reported floating barrels/turrets<br/>— Made waterfall floor more shallow so that the items can be picked up<br/>— Closed of some of the rooms in haunted mansion<br/>— Renovated haunted mansion<br/>— Removed killzone on the left side of the bridge<br/>— Optimization]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sound Tactics</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[Today we’re shipping the Tacticians Music Kit box, featuring six new Music Kits from Austin Wintory, Chipzel, Jesse Harlin, Laura Shigihara, Leonard Paul (Freaky DNA) and Sarah Schachner.<br/><br/>There’s no better tactic than sharing your new MVP anthem with the rest of the server!<br/><br/>Release Notes for 8/12/2021 can be found below:<br/><br/>[MUSIC KITS]<br/>– Added the “Tacticians” Music Kit Box, available in regular and StatTrak™ variants, featuring 6 new music kits:<br/>— Austin Wintory, Mocha Petal<br/>— Chipzel, ~Yellow Magic~<br/>— Freaky DNA, Vici<br/>— Jesse Harlin, Astro Bellum<br/>— Laura Shigihara: Work Hard, Play Hard<br/>— Sarah Schachner, KOLIBRI<br/><br/>[MISC]<br/>– Added a designation of bombsite A and B to game events generated when player begins to plant the bomb and finishes planting the bomb.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 7/6/2021</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[ MATCHMAKING ]<br/>– Premier matchmaking can now be selected together with other competitive maps.<br/>– Added competitive matchmaking presets and ability to save/load favorite map selections.<br/>– Added a link to CS:GO Fair Play Guidelines when playing on official game servers.<br/><br/>[ MISC ]<br/>– Bullet penetration check will ignore the firing player model entirely.<br/>– Fixed bot difficulty selector to correctly apply for offline with bots War Games matches.<br/>– Stability improvements.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 5/27/2021</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[ MISC ]<br/>– Added option ‘2’ to sv_damage_print_enable, which, when set, will only print damage output after round has ended.<br/>– Coach positions are now saved in round backup files.<br/>– In Deathmatch, fixed the ability to extend invulnerability by repeatedly issuing the “open_buymenu” command.<br/>– In Retakes, armor value now remains fixed during card selection.<br/><br/>[ VSCRIPT ]<br/>– Fixed bounding box issue for rotated entities.<br/><br/>[ MAPS ]<br/>– Ancient<br/>— Art-revision on bombsite B and surrounding area<br/>— Higher contrast base textures at B for better player reads<br/>— Fixed random missing micro-polygons in bomb B totem/sculpture<br/>— Recolored plywood throughout the map for better contrast<br/>— Straightened out broken-wall passage to bombsite B<br/>— Tweaked spawnpoint placement for both teams<br/><br/>– Grind<br/>— Reduced lurk positions in mid for more fluid rotations.<br/>— Lowered cover on A Short to allow boosting over smokes.<br/>— Removed unintended boost locations.<br/>— Fixed multiple bomb stuck spots.<br/>— Minor quality of life and art updates.<br/><br/>– Mocha<br/>— Clipping improvements.<br/>— Navigation mesh improvements.<br/>— Added additional bombsite markers.<br/>— Bug fixes: deathmatch gamemode spawns, CT spawn soundscape, minor lighting errors.<br/><br/>– Cache<br/>— Performance optimizations. (Thanks leplubodeslapin!)<br/>— Reduced bird sounds volume.<br/>— Reduced contrast on some textures.<br/>— Brightened sky slightly.<br/>— Fixed minor issues. (Thanks imik!)<br/>— Restored vivid color to select textures and models.<br/>— Restored select details even on lowest graphical settings.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 5/13/2021</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[CSGO 360 STATS]<br/>– Adjusted the calculation for the weapon performance category score.<br/><br/>[MISC]<br/>– Fixed a case where players would receive duplicate warnings about launching in untrusted mode. <br/><br/>[MAPS] <br/>Ancient<br/>-Implemented Cubby 2.0 in mid connector to A, to remove cheap shoulder angle towards site<br/>-Slimmed down the fancy rock, also in mid connector to A<br/>-Sparsed foliage and improved clipping on boost planter near A main<br/>-Quieted down soundscape birds<br/>-Removed clipping from top of bombsite sign in A site, allowing you to self-boost to planter by T main<br/>-Added vphysics clip to T spawn water so guns don’t fully submerge<br/>-So many clip brush tweaks<br/>-Blocked grenades from entering inaccessible building by T entrance to mid<br/>-Blocked pixelgaps through scaffolding near B site<br/>-Blocked pixelgaps through doorway trim in new CT path to A site<br/>-Simplified grenade collision on rooftops<br/>-General optimizations<br/><br/>Grind<br/>– Made wall on A long surfable<br/>– Fixed invisible wall near B site<br/>– Fixed out of map boost near A site<br/>– Fixed collision of wall near A site<br/>– Fixed collision of pillars around A site<br/>– Minor art updates around T spawn<br/><br/>Frostbite<br/>– Fixed a regression with airdrops<br/>– Fixed stuck spots (thanks Jakob &amp; conzept)<br/>– Fixed a gap in terrain<br/>– Reworked watchtower models]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 5/6/2021</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[ CS:GO 360 STATS ]<br/>– Updated heatmap images for calavera, grind, mocha, and pitstop<br/><br/>[ MISC ]<br/>– Removed option to look for nearby players for Guardian Missions<br/>– Security and stability improvements<br/><br/>[ MAPS ]<br/>Ancient<br/>– Updated minimap image<br/><br/>Pitstop<br/>– Latest version from workshop]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 4/28/2021</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[– Numerous security and stability improvements.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Release Notes for 4/16/2021</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[STORE]<br/>– Items purchased from the in-game store will not be tradable/marketable for one week.<br/>– Operation Cases redeemed as an operation reward will not be tradable/marketable for one week.<br/>– Items received from market-restricted containers will continue to be sellable immediately on the Steam Community Market.<br/><br/>[MISC]<br/>– Fixed a rare visual bug with equipped item indicators when equipping a default item into a loadout slot.<br/>– Various stability improvements.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 3/15/2021</title>
-      <description><![CDATA[[ MISC ]<br/>– Fixed “env_fade” entities for “only triggering player” configuration.<br/>– Added vscript function ScriptTraceLinePlayersIncluded.<br/><br/>[ MAPS ]<br/>- Guard<br/>-- Updated Guard to the most recent workshop<br/>-- Fixed boost spot on arches (Thanks @FilyandraXBL)<br/>-- Fixed nodraw behind CT Spawn (Thanks Mii Fanboy)<br/>-- Fixed various spots where players could get stuck on walls (Thanks @FilyandraXBL, Mii Fanboy, Kerluck, @goodchicken45)]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
