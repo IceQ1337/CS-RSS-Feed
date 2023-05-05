@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Apr 2023 20:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2023 00:37:59 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 5/4/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[PARIS 2023 CS:GO MAJOR CHAMPIONSHIP]<br/>– The “Paris 2023 Viewer Pass” and the “Paris 2023 Viewer Pass + 3 Souvenir Tokens” are now available for purchase. 50% of the proceeds go to the players, teams, and organizations taking part in the BLAST.TV Paris Major.<br/>– With a Viewer Pass, you’ll get:<br/>— An upgradable Paris 2023 Event Coin.<br/>— Access to the Paris Pick’Em Challenge.<br/>— Unlimited team graffiti for the duration of the event.<br/>— Steam.tv team flair.<br/>— Access to Paris 2023 Souvenir Packages.<br/>– Team stickers and Player Autograph stickers are available for purchase. 50% of the proceeds go to the players, teams, and organizations taking part in the BLAST.TV Paris Major.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 24.04.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -106,13 +113,6 @@
       <description><![CDATA[– Mehrere Sicherheits- und Stabilitätsverbesserungen.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 4/16/2021</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[STORE]<br/>– Items purchased from the in-game store will not be tradable/marketable for one week.<br/>– Operation Cases redeemed as an operation reward will not be tradable/marketable for one week.<br/>– Items received from market-restricted containers will continue to be sellable immediately on the Steam Community Market.<br/><br/>[MISC]<br/>– Fixed a rare visual bug with equipped item indicators when equipping a default item into a loadout slot.<br/>– Various stability improvements.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
