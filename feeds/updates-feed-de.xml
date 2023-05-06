@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 05 May 2023 00:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2023 00:37:45 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 5/5/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[PARIS 2023 MAJOR]<br/>- Adjusted 9INE team and autograph stickers.<br/>- Updated the UploadTournamentPredictions WebAPI for third-party integration websites, to allow placing all group predictions in a single batch. More details are available <a class="Focusable" href="https://steamcommunity.com/linkfilter/?url=https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_PickEm_Fantasy_Management#Placing_Pick.27Em_Challenge_Prediction" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="developer.valvesoftware.com">here</span></a>.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 5/4/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -106,13 +113,6 @@
       <description><![CDATA[[ CS:GO 360 STATS ]<br/>– Updated heatmap images for calavera, grind, mocha, and pitstop<br/><br/>[ MISC ]<br/>– Removed option to look for nearby players for Guardian Missions<br/>– Security and stability improvements<br/><br/>[ MAPS ]<br/>Ancient<br/>– Updated minimap image<br/><br/>Pitstop<br/>– Latest version from workshop]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen für 28.04.2021</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[– Mehrere Sicherheits- und Stabilitätsverbesserungen.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
