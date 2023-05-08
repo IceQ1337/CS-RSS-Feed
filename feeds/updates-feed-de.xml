@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 06 May 2023 00:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 16:10:40 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 5/5/2023</title>
+      <title>Patchnotizen vom 05.05.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[PARIS 2023 MAJOR]<br/>- Adjusted 9INE team and autograph stickers.<br/>- Updated the UploadTournamentPredictions WebAPI for third-party integration websites, to allow placing all group predictions in a single batch. More details are available <a class="Focusable" href="https://steamcommunity.com/linkfilter/?url=https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_PickEm_Fantasy_Management#Placing_Pick.27Em_Challenge_Prediction" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="developer.valvesoftware.com">here</span></a>.]]></description>
+      <description><![CDATA[[ PARIS-MAJOR 2023 ]<br/>- Team- und Spielerautogrammaufkleber für 9INE angepasst.<br/>- Web-API „UploadTournamentPredictions“ für Websites und Anwendungen von Drittanbietern aktualisiert, sodass nun alle Tipps für eine bestimmte Turnierphase auf einmal abgegeben werden können. Weitere Informationen finden Sie <a class="Focusable" href="https://steamcommunity.com/linkfilter/?url=https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_PickEm_Fantasy_Management#Placing_Pick.27Em_Challenge_Prediction" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="developer.valvesoftware.com">hier</span></a>.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 5/4/2023</title>
+      <title>Patchnotizen vom 04.05.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[PARIS 2023 CS:GO MAJOR CHAMPIONSHIP]<br/>– The “Paris 2023 Viewer Pass” and the “Paris 2023 Viewer Pass + 3 Souvenir Tokens” are now available for purchase. 50% of the proceeds go to the players, teams, and organizations taking part in the BLAST.TV Paris Major.<br/>– With a Viewer Pass, you’ll get:<br/>— An upgradable Paris 2023 Event Coin.<br/>— Access to the Paris Pick’Em Challenge.<br/>— Unlimited team graffiti for the duration of the event.<br/>— Steam.tv team flair.<br/>— Access to Paris 2023 Souvenir Packages.<br/>– Team stickers and Player Autograph stickers are available for purchase. 50% of the proceeds go to the players, teams, and organizations taking part in the BLAST.TV Paris Major.]]></description>
+      <description><![CDATA[[ PARIS-MAJOR 2023 ]<br/>– Der „Zuschauerpass – Paris 2023“ und der „Zuschauerpass + 3 Souvenirmarken – Paris 2023“ sind ab sofort erhältlich. 50 % der Erlöse unterstützen die am von BLAST.tv veranstalteten Paris-Major 2023 beteiligten Spieler, Teams und Organisationen.<br/>– Mit einem Zuschauerpass erhalten Sie:<br/>— Eine aufwertbare Eventmünze zum Paris-Major 2023.<br/>— Zugriff auf die Pick’Em Challenge für das Paris-Major 2023.<br/>— Die Möglichkeit, unbegrenzt viele Teamgraffiti während des Events zu versprühen.<br/>— Einen Teamflair für Steam.tv.<br/>— Zugriff auf Souvenirpakete für das Paris-Major 2023.<br/>– Außerdem sind Team- und Spielerautogrammaufkleber jetzt erhältlich. 50 % der Erlöse unterstützen die am von BLAST.tv veranstalteten Paris-Major 2023 beteiligten Spieler, Teams und Organisationen.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
     </item>
