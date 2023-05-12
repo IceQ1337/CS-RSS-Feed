@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 May 2023 01:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2023 01:44:05 +0000</lastBuildDate>
+    <item>
+      <title>Enter The Legends</title>
+      <link>https://www.counter-strike.net/newsentry/5448836977153818924?l=english</link>
+      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/01a596a210639b94aaf175af53b9c5b8db2ca38f.png"/><br/>The Challengers Stage of the BLAST.tv Paris Major has concluded and 8 teams have advanced to the Legends Stage.<br/><br/><span class="Bold">3-0:</span><br/>ENCE<br/>G2<br/><br/><span class="Bold">3-1:</span><br/>Apeks<br/>FaZe<br/>Ninjas in Pyjamas<br/><br/><span class="Bold">3-2:</span><br/>GamerLegion<br/>Monte<br/>Team Liquid<br/><br/>The Legends Stage begins May 13th and Pick'Ems are now open. <br/><br/>Team items are available <a class="Focusable" href="https://store.steampowered.com/sale/csgoparis2023?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">here</span></a> with 50% of the proceeds going to teams and organizations taking part in the Major.<br/><br/>Good luck to the 16 remaining teams!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">5448836977153818924</guid>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Paris 2023 Major</title>
       <link>https://www.counter-strike.net/newsentry/3717202192664258501?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3142945046847716701</guid>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On the Battlefield</title>
-      <link>https://www.counter-strike.net/newsentry/3142945046841094505?l=english</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/896255406698d98f1ddb56d0f61875961ff91df7.jpg"/><br/>Today we are releasing the Battlefield 2042 Sticker Capsule, featuring 12 unique stickers from EA's incoming shooter, Battlefield 2042, <a class="Focusable" href="https://store.steampowered.com/app/1517290/Battlefield_2042/?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">releasing November 19th on Steam</span></a>!<br/><br/>So get your Wingsuit and be Ready for Battle; the stickers are now available in-game!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3142945046841094505</guid>
-      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
