@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 May 2023 20:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 02:29:08 +0000</lastBuildDate>
+    <item>
+      <title>Team Vitality - Major Champions!</title>
+      <link>https://www.counter-strike.net/newsentry/3702568031445748803?l=english</link>
+      <description><![CDATA[<a class="Focusable" href="https://store.steampowered.com/sale/csgoparis2023?snr=" tabindex="0"><span><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/f172d2084850b4719a2332c9c98ce030f8ce88c7.png"/></span></a><br/><br/>Congratulations to Team Vitality, champions of the BLAST.TV Paris Major! They defeated GamerLegion and completed a dominating performance, sailing through the event without losing a single map. <br/><br/>Today we are releasing the Paris 2023 Champions Autograph Capsule, featuring autographs from apEX, dupreeh, Magisk, Spinx, and ZywOo. Celebrate the champions in style, with paper, glitter, holo, and gold player autograph stickers!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3702568031445748803</guid>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Grand Finale</title>
       <link>https://www.counter-strike.net/newsentry/3686804163583320073?l=english</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/4cd2b3130a0c580dbfc5c6b8f87a61896fae75e4.png"/><br/>The BLAST.tv Paris Major began with 24 teams and 2 finalists remain: GamerLegion and Team Vitality. <br/><br/>The Champions Stage saw GamerLegion defeat Monte 2-0 and Heroic 2-1 on their path to the Grand Finals. <br/><br/>In front of a home crowd Team Vitality bested Into the Breach and Apeks 2-0 on consecutive days. The Grand Finals of the last CS:GO Major take place tomorrow, May 21st, from Accor Arena in Paris.<br/><br/>Team items are available <a class="Focusable" href="https://store.steampowered.com/sale/csgoparis2023?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">here</span></a> with 50% of the proceeds going to teams and organizations taking part in the Major.<br/><br/>Good luck to the grand finalists!]]></description>
+      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/4cd2b3130a0c580dbfc5c6b8f87a61896fae75e4.png"/><br/><br/>The BLAST.tv Paris Major began with 24 teams and 2 finalists remain: GamerLegion and Team Vitality. <br/><br/>The Champions Stage saw GamerLegion defeat Monte 2-0 and Heroic 2-1 on their path to the Grand Finals. <br/><br/>In front of a home crowd Team Vitality bested Into the Breach and Apeks 2-0 on consecutive days. The Grand Finals of the last CS:GO Major take place tomorrow, May 21st, from Accor Arena in Paris.<br/><br/>Team items are available <a class="Focusable" href="https://store.steampowered.com/sale/csgoparis2023?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">here</span></a> with 50% of the proceeds going to teams and organizations taking part in the Major.<br/><br/>Good luck to the grand finalists!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3686804163583320073</guid>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3216144458731601001</guid>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the CSGO10 sticker contest</title>
-      <link>https://www.counter-strike.net/newsentry/3126067963253164723?l=english</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/b51d7794f31e3795a0335eab5ae103b29ed4b439.png"/><br/><br/>To celebrate CS:GO's upcoming 10th birthday we are accepting entries for another CS-themed sticker capsule.<br/><br/>This time, the theme is “CS:GO” (and CS:GO only). Over the last ten years CS:GO game has evolved from a beta to the most popular game on Steam, and we are excited to look through submissions to find great stickers that celebrate all things CS:GO! The sticker designs may be created in any style and all designs must be original with the exception of Counter-Strike logos or icons.<br/><br/>To help sort these themed submissions, please tag them with "CSGO10" in the title on the workshop (e.g. "CSGO10 | Sticker Name"). Previous workshop submissions are eligible for the capsule, just make sure to tag them so we can find them more easily.<br/><br/>All submissions for this event must be completed and submitted to the workshop by July 21st, 2022, and the capsule will release on or around CS:GO's 10th birthday (August 21, 2022). All items submitted for this event will still be eligible for future sticker capsules.<br/> <br/>Good luck and have fun; we are excited to see what the community comes up with!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3126067963253164723</guid>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
