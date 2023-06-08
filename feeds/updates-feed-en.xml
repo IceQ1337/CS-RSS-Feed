@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jun 2023 00:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 04:10:00 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 6/7/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<span class="Bold">[ MAPS ]</span><br/><br/><li class="bbcodes_ListItem_1BF9I">Added Mirage as an option for the main menu scenery map.<br/><br/><br/><span class="Bold">[ WEAPONS ]</span><br/><br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a regression with weapon recoil on high-punch weapons like MAG-7 sometimes punching weapon view model towards the ground instead of up in the air.<br/><br/></li><li class="bbcodes_ListItem_1BF9I">Improved the look of UMP-45, MAG-7, R8 Revolver, Sawed-Off.<br/><br/><br/><span class="Bold">[ WORKSHOP TOOLS ]</span><br/><br/></li><li class="bbcodes_ListItem_1BF9I">Fixed legacy models appearing when previewing new weapon paint finishes.<br/><br/><br/><span class="Bold">[ SOUND ]</span><br/><br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a regression where 10-second music cue was sometimes not playing.<br/><br/></li><li class="bbcodes_ListItem_1BF9I">Fixed wooden ladders to play wooden footstep sounds.<br/><br/><br/><span class="Bold">[ MISC ]</span><br/><br/></li><li class="bbcodes_ListItem_1BF9I">Fixed free armor side-effect of armor refunding.<br/><br/></li><li class="bbcodes_ListItem_1BF9I">Fixed loadout tooltips getting stuck on main menu.<br/><br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a regression with inspecting Huntsman knives.<br/><br/></li><li class="bbcodes_ListItem_1BF9I">Brought back an option to pass number keys through to the game while in buy menu.<br/><br/></li><li class="bbcodes_ListItem_1BF9I">Numerous stability improvements.<br/></li>[*]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 6/6/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -106,13 +113,6 @@
       <description><![CDATA[[ MISC ]<br/>– Added option ‘2’ to sv_damage_print_enable, which, when set, will only print damage output after round has ended.<br/>– Coach positions are now saved in round backup files.<br/>– In Deathmatch, fixed the ability to extend invulnerability by repeatedly issuing the “open_buymenu” command.<br/>– In Retakes, armor value now remains fixed during card selection.<br/><br/>[ VSCRIPT ]<br/>– Fixed bounding box issue for rotated entities.<br/><br/>[ MAPS ]<br/>– Ancient<br/>— Art-revision on bombsite B and surrounding area<br/>— Higher contrast base textures at B for better player reads<br/>— Fixed random missing micro-polygons in bomb B totem/sculpture<br/>— Recolored plywood throughout the map for better contrast<br/>— Straightened out broken-wall passage to bombsite B<br/>— Tweaked spawnpoint placement for both teams<br/><br/>– Grind<br/>— Reduced lurk positions in mid for more fluid rotations.<br/>— Lowered cover on A Short to allow boosting over smokes.<br/>— Removed unintended boost locations.<br/>— Fixed multiple bomb stuck spots.<br/>— Minor quality of life and art updates.<br/><br/>– Mocha<br/>— Clipping improvements.<br/>— Navigation mesh improvements.<br/>— Added additional bombsite markers.<br/>— Bug fixes: deathmatch gamemode spawns, CT spawn soundscape, minor lighting errors.<br/><br/>– Cache<br/>— Performance optimizations. (Thanks leplubodeslapin!)<br/>— Reduced bird sounds volume.<br/>— Reduced contrast on some textures.<br/>— Brightened sky slightly.<br/>— Fixed minor issues. (Thanks imik!)<br/>— Restored vivid color to select textures and models.<br/>— Restored select details even on lowest graphical settings.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 5/13/2021</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[CSGO 360 STATS]<br/>– Adjusted the calculation for the weapon performance category score.<br/><br/>[MISC]<br/>– Fixed a case where players would receive duplicate warnings about launching in untrusted mode. <br/><br/>[MAPS] <br/>Ancient<br/>-Implemented Cubby 2.0 in mid connector to A, to remove cheap shoulder angle towards site<br/>-Slimmed down the fancy rock, also in mid connector to A<br/>-Sparsed foliage and improved clipping on boost planter near A main<br/>-Quieted down soundscape birds<br/>-Removed clipping from top of bombsite sign in A site, allowing you to self-boost to planter by T main<br/>-Added vphysics clip to T spawn water so guns don’t fully submerge<br/>-So many clip brush tweaks<br/>-Blocked grenades from entering inaccessible building by T entrance to mid<br/>-Blocked pixelgaps through scaffolding near B site<br/>-Blocked pixelgaps through doorway trim in new CT path to A site<br/>-Simplified grenade collision on rooftops<br/>-General optimizations<br/><br/>Grind<br/>– Made wall on A long surfable<br/>– Fixed invisible wall near B site<br/>– Fixed out of map boost near A site<br/>– Fixed collision of wall near A site<br/>– Fixed collision of pillars around A site<br/>– Minor art updates around T spawn<br/><br/>Frostbite<br/>– Fixed a regression with airdrops<br/>– Fixed stuck spots (thanks Jakob &amp; conzept)<br/>– Fixed a gap in terrain<br/>– Reworked watchtower models]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
