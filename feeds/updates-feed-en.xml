@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jun 2023 00:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2023 00:44:12 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 6/9/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<div class="bbcodes_Header3_2q6Vr BB_Header3">CS:GO</div><br/><span class="Bold">[ CASE DROPS ]</span><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Players now get a weapon case with their first weekly XP rank up, rather than after some amount of (idle) playtime.<br/></li></ul><br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">CS2</div><br/><span class="Bold">[ LIMITED TEST ACCESS ]</span><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> A second tranche of users are in process of being added to the limited test.<br/></li></ul><br/><br/><span class="Bold">[ MAPS ]</span><br/><br/>Mirage:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Removed wallbang through door towards connector.<br/></li><li class="bbcodes_ListItem_1BF9I"> Blocked gap in box stack top of mid.<br/></li><li class="bbcodes_ListItem_1BF9I"> Blocked pixel gap by ticket booth.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added back jump onto firebox in A site.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed various player and grenade collision bugs.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed various minor graphical bugs.<br/></li></ul><br/><br/><span class="Bold">[ WEAPONS ]</span><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed disconnecting players taking C4 explosive with them.<br/></li><li class="bbcodes_ListItem_1BF9I"> Deathmatch bonus weapons now offer weapons from equipped loadout options.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added "Replace for CT" context menu loadout shortcut for USP-S when P2000 is equipped and vice versa.<br/></li><li class="bbcodes_ListItem_1BF9I"> Automatically cancel drag and drop operation when switching away from loadout menu.<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved the look of SCAR-20, G3SG1.<br/></li></ul><br/><br/><span class="Bold">[ WORKSHOP TOOLS ]</span><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed asset compiler bug creating stray files when running in directories that have spaces.<br/></li></ul><br/><br/><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 6/8/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -106,13 +113,6 @@
       <description><![CDATA[Today we’re shipping the Tacticians Music Kit box, featuring six new Music Kits from Austin Wintory, Chipzel, Jesse Harlin, Laura Shigihara, Leonard Paul (Freaky DNA) and Sarah Schachner.<br/><br/>There’s no better tactic than sharing your new MVP anthem with the rest of the server!<br/><br/>Release Notes for 8/12/2021 can be found below:<br/><br/>[MUSIC KITS]<br/>– Added the “Tacticians” Music Kit Box, available in regular and StatTrak™ variants, featuring 6 new music kits:<br/>— Austin Wintory, Mocha Petal<br/>— Chipzel, ~Yellow Magic~<br/>— Freaky DNA, Vici<br/>— Jesse Harlin, Astro Bellum<br/>— Laura Shigihara: Work Hard, Play Hard<br/>— Sarah Schachner, KOLIBRI<br/><br/>[MISC]<br/>– Added a designation of bombsite A and B to game events generated when player begins to plant the bomb and finishes planting the bomb.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 7/6/2021</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MATCHMAKING ]<br/>– Premier matchmaking can now be selected together with other competitive maps.<br/>– Added competitive matchmaking presets and ability to save/load favorite map selections.<br/>– Added a link to CS:GO Fair Play Guidelines when playing on official game servers.<br/><br/>[ MISC ]<br/>– Bullet penetration check will ignore the firing player model entirely.<br/>– Fixed bot difficulty selector to correctly apply for offline with bots War Games matches.<br/>– Stability improvements.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
