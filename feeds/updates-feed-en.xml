@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jun 2023 00:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2023 00:47:26 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 6/15/23</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed auto rebuy not working if you survived through the Deathmatch warmup<br/></li><li class="bbcodes_ListItem_1BF9I"> Pressing the jump key to respawn in Deathmatch no longer results in an actual jump<br/></li><li class="bbcodes_ListItem_1BF9I"> The buy menu now closes on right mouse button DOWN instead of UP<br/></li><li class="bbcodes_ListItem_1BF9I"> Refunds are now correctly accounted for when tracking total money spent by user<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed bad kerning in accolade descriptions<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a freeze/hang in Hammer<br/></li><li class="bbcodes_ListItem_1BF9I"> The CS2 Workshop Tools convar helper page now has better descriptions<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed aspect ratio for workshop submission screenshot<br/></li><li class="bbcodes_ListItem_1BF9I"> Various improvements to the look of the M249, MP5-SD, Desert Eagle, Dual Elites, and Taser<br/></li><li class="bbcodes_ListItem_1BF9I"> Added Zeus x27 to workshop submission weapon list<br/></li></ul><br/><br/>[ MAPS ] <br/><ul class="bbcodes_List_20uQh">Mirage<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">   Various map fixes<br/></li></ul><br/></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 6/14/23</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -106,13 +113,6 @@
       <description><![CDATA[[MAPS]<br/><br/>Boyard<br/>– Clipped boost onto top of arches (Thanks Lazavelli)<br/>– Fixed gap in side of stairs<br/>– Lowered floating railings<br/><br/>Chalice<br/>– Remastered art assets<br/>– Updated lighting<br/>– Updated clipping<br/>– Made the grate bars on A-site less obstructive<br/>– Added place names<br/>– Improved occlusion to be more performant<br/><br/>Anubis<br/>– Fixed optimization regression]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>bbnomu$ic kit</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[Today we are shipping a new Music Kit from bbno$ featuring the song “u mad!” from his new album “eat ya veggies”—out tomorrow!<br/><br/>So eat ya veggies and pick up the new bbno$ Music Kit in standard or StatTrak versions, available now!<br/><br/>Release Notes from today are below:<br/><br/>[MUSIC KITS]<br/>- Added the bbno$ - u mad! Music Kit, available in regular and StatTrak™ variants.<br/><br/>[GAMEPLAY]<br/>- Danger Zone<br/>— Respawning players are no longer able to select respawn locations that should have been prohibited by the spawnmask map.<br/>— Smoothed camera motion when using ExoJump.<br/><br/>[MISC]<br/>- Added new VO for Trapper and Trapper Agressor Agents.<br/>- Adjusted ragdoll physics.<br/><br/>[MAPS]<br/>- Dust 2<br/>— Re-tired visblocker from T spawn to mid<br/>— Blocked unintended wallbang<br/><br/>- Insertion 2<br/>— New glass texture for windows in office, to make it easier to see from inside if the glass is broken or not.<br/>— other minor tweaks<br/><br/>- Ravine<br/>— Fixed bomb stuck spot near spawn<br/>— Clipping fixes<br/>— Updated radar<br/><br/>- Basalt<br/>— Added a reception desk to B Connector<br/>— Added an additional window to Red Barn<br/>— Removed railing on A for easier movement<br/>— Visual upgrades to bombsite B<br/>— Visual upgrades to Red Barn<br/>— Added literature<br/>— Added a fuzzy carpet<br/>— Small visual upgrades across the whole map<br/><br/>- County<br/>— Disabled physics on window at creek house<br/>— Removed possibility to set metal frame of the quarry building in motion<br/>— Set proper scale on metal containers <br/>— Improved cliff models collision<br/>— Clipped cave ceiling and wooden roofs in order to prevent players from getting stuck while using exojump<br/>— Fixed collision on aspen tree models to prevent players from getting stuck<br/>— Fixed global sound on bunker doors <br/>— Fixed all reported stuck spots while jumping<br/>— Increased fade distance for corn field<br/>— Clipped beach part of the map to prevent players from escaping the map with bump mines<br/>— Extended watertower ladder<br/>— Fixed reported floating barrels/turrets<br/>— Made waterfall floor more shallow so that the items can be picked up<br/>— Closed of some of the rooms in haunted mansion<br/>— Renovated haunted mansion<br/>— Removed killzone on the left side of the bridge<br/>— Optimization]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
