@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jun 2023 00:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 00:46:45 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 6/20/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with the sell-back feature<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a few financial fun facts<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted the main menu position of CTs holding the Dual Elites<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed tooltips sometimes staying up when you exit the loadout screen<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some texture streaming issues<br/></li><li class="bbcodes_ListItem_1BF9I"> Various improvements to stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved sound synchronization for the first bullets during automatic fire<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the death panel would appear if killed during the end of match screen<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh">Mirage<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various lightmap fixes<br/></li><li class="bbcodes_ListItem_1BF9I"> Smoke clouds now pass through the metal rollup grating in underpass<br/></li></ul></ul><br/><br/>[ MOVEMENT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug that would cause the player to sometimes move too far forward<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 6/15/23</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -104,13 +111,6 @@
       <title>Release Notes for 2/15/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[REVOLUTION CASE]<br/>- The AWP | Doodle Lore has been replaced by the AWP | Duality in the Revolution Case<br/>- Existing AWP | Doodle Lore inventory items have been converted to the AWP | Duality<br/><br/>[MAPS]<br/>Ember<br/>- Seasonal celebrations have ended in Ember land.<br/>- Map lighting, theme, textures, and models have returned to their pre-seasonal state.<br/>- Cave rock textures are now using $seamless_scale for improved texture quality and look.<br/>- Various texture improvements.<br/>- Fixed an areaportal issue.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 2/2/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[MAPS]<br/><br/>Boyard<br/>– Clipped boost onto top of arches (Thanks Lazavelli)<br/>– Fixed gap in side of stairs<br/>– Lowered floating railings<br/><br/>Chalice<br/>– Remastered art assets<br/>– Updated lighting<br/>– Updated clipping<br/>– Made the grate bars on A-site less obstructive<br/>– Added place names<br/>– Improved occlusion to be more performant<br/><br/>Anubis<br/>– Fixed optimization regression]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
     </item>
