@@ -64,7 +64,7 @@ for language_name, (language_code, language_locale) in language_map.items():
     updates = []
 
     # Set locale to parse the date, but dates are currently not localized anyways (Thanks Valve)
-    locale.setlocale(locale.LC_TIME, f'en_US.UTF-8') # Change to language_locale after its fixed
+    locale.setlocale(locale.LC_TIME, f'en_US.UTF-8') # Switch to language_locale after it's fixed (if ever)
     date_format = '%B %d, %Y' # English
     
     #locale.setlocale(locale.LC_TIME, 'de_DE') # German
@@ -88,7 +88,13 @@ for language_name, (language_code, language_locale) in language_map.items():
         })
 
     # Parse an existing RSS feed file and compare the last entry
-    rss_feed_file = os.path.join(os.environ['GITHUB_WORKSPACE'], 'feeds', f'updates-feed-{language_code}.xml')
+    github_workspace = os.getenv('GITHUB_WORKSPACE')
+
+    if github_workspace:
+        rss_feed_file = os.path.join(os.environ['GITHUB_WORKSPACE'], 'feeds', f'updates-feed-{language_code}.xml')
+    else:
+        rss_feed_file = os.path.join(os.pardir, 'feeds', f'updates-feed-{language_code}.xml')
+
     skip_file = False
 
     if os.path.exists(rss_feed_file):
