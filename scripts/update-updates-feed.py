@@ -3,6 +3,7 @@ import sys
 import locale
 import json
 import feedparser
+import hashlib
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -82,6 +83,7 @@ for language_name, (language_code, language_locale) in language_map.items():
             desc = desc[index:]
 
         updates.append({
+            'guid': hashlib.sha256(f'{date.day}{date.month}{date.year}'.encode()).hexdigest(),
             'title': title,
             'date': date,
             'content': desc
@@ -116,6 +118,7 @@ for language_name, (language_code, language_locale) in language_map.items():
         for update in reversed(updates):
             fe = fg.add_entry()
             fe.source(url)
+            fe.guid(update['guid'])
             fe.title(update['title'])
             fe.link({
                 'href': url,
