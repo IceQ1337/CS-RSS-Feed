@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 08:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2023 01:10:14 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 7/17/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Wingman game mode<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Overpass to Deathmatch, Casual, Wingman, and Competitive game modes<br/></li><li class="bbcodes_ListItem_1BF9I"> Added Vertigo to Deathmatch and Casual game modes<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed Nuke and Office<br/></li></ul><br/>[ WORKSHOP TOOLS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Enabled undo/redo buttons<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added the "Secondary Fire Hold" option to the input settings menu<br/></li><li class="bbcodes_ListItem_1BF9I"> The halftime countdown timer is now visible<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the camera would not interpolate correctly when switching between chase and roaming spectator modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the viewmodel weapon would disappear for one frame when switching in-eye spectator targets.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added leading zeroes on StatTrak module<br/></li><li class="bbcodes_ListItem_1BF9I"> Glove patterns and wear now more closely align with CS:GO versions<br/></li><li class="bbcodes_ListItem_1BF9I"> Various improvements to foil stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Various adjustments to the size of stickers applied to weapons<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">2c4450ff8ba01b1df9eea39848a1402b8d36935362a8ceafc92ea2ec9f85ad63</guid>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 6/30/23</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">75bca332c252e48a36271a5255f1a28eb1062238606fb39deb48eb6271a379d3</guid>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 3/24/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ Ui ]<br/>- Fixed common asserts.<br/>- Removed Trade-Up contract UI for Limited Test.<br/>- Fixed multiple items showing up in the inspect panel.<br/><br/>[ Audio ]<br/>- Use correct audio device name when user picks "default" device.<br/>- Added weapon drop sounds to minimap distance broadcast.<br/>- Lowered volume of some dust2 ambience.<br/>- Added some missing ui sounds.<br/>- Lowered volume of flashbang ringing and volume ducking effect.<br/>- Reduced stereo spread of grenade explosions.<br/>- Fixed phasing with deathmatch kill bonus sound.<br/><br/>[ Game ]<br/>- Fixed various game crashes.<br/>- Smoke bullet holes are now fixed relative to the firstperson camera.<br/>- Smoke grenades dropped in small crevices no longer detonate on the incorrect side of thin walls.<br/>- Players can no longer pick up weapons while dead during a competitive match.<br/>- Fixed dropping weapons during the team intro.<br/>- Fixed +voicerecord getting stuck on when held during team intro and released after.<br/>- Chat messages sent during end of match no longer show players as *DEAD* if they were dead at the end of the last round.<br/>- Fixed handling game input keys such as +voicerecord while panorama has focus.<br/>- Added netgraph.<br/><br/>[ Graphics ]<br/>- Fixed flickering with MSAA.<br/>- Fixed smoke cloud volume lighting.<br/>- Fixed stencil issue on glass when MSAA is disabled.<br/>- Updated various weapon finishes based on community feedback.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">a9f141ca03eb418e934c55383a5649fe47f7270519540fed071f6e7193c2ffa4</guid>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
