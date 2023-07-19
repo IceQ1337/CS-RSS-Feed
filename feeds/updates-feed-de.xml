@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 18 Jul 2023 20:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 01:22:43 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 7/18/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where parties of two or more were unable to enter matchmaking<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted door interactions with dropped weapons and ragdolls  <br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where door interactions with players affected hit registration<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where four grenade icons would scale incorrectly in the team hud<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> M249 now has bullet belt animation<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various adjustments to lighting<br/></li><li class="bbcodes_ListItem_1BF9I"> Added sounds to potty doors<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed vacancy signs on potties<br/></li></ul></li><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various fixes<br/></li></ul><br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">af52348ac09da88d9c5ba030e6cd9ad5ae1c81b293a95dd30a07fd40fe7fcbdc</guid>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 17.07.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">1e4f656701e5708e34bdc71f718d299e0c4bc09678479747b55fdb2b25a673b1</guid>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 30.03.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ NETZWERK ]<br/>- Mehrere Optimierungen am Datenverkehr im Netzwerk vorgenommen.<br/>- Die Zufallsverteilung von Schüssen ist jetzt zwischen Server- und Clientcode nicht mehr synchronisiert.<br/><br/>[ GRAFIK ]<br/>- Positionen von Namensanzeigen über Charakteren und Signalen bei verschiedenen Auflösungen korrigiert.<br/>- Fehler korrigiert, durch den Umrisse von Gegnern angezeigt werden konnten und deren Position preisgegeben haben.<br/>- Der Bombencode wird jetzt korrekt zurückgesetzt, wenn das Legen der Bombe abgebrochen wird.<br/>- Fehler behoben, durch den seltene Animationen zu häufig abgespielt wurden.<br/>- Untersuchen und Nachladen („f“, „r“, „f“, „r“) entspricht jetzt mehr dem Verhalten von CS:GO.<br/>- Alle Entwicklerbefehle für die Konsole wurden deaktiviert (einschließlich „cl_physics_highlight_active 5“).<br/><br/>[ GAMEPLAY ]<br/>- Splittergranaten beeinflussen keinen Rauch mehr durch Wände hinweg.<br/>- Kollisionen zwischen Ragdolls deaktiviert.<br/>- Spieler lassen ihre Waffe nicht mehr fallen, wenn sie im Deathmatch zur Bonuswaffe wechseln.<br/>- Der Vorschaupfad für Ködergranaten wurde korrigiert.<br/>- Das Verhalten beim Aufheben von Waffen mit der Taste „Benutzen“ wurde korrigiert.  <br/><br/>[ EINGABESYSTEM ]<br/>- Man kann sich nun weiterhin bewegen, wenn Kaufmenü und Punktestand geöffnet sind.<br/>- Sprachchat während des Teamintros ist jetzt möglich.<br/>- Tastenanschläge frieren nicht mehr ein, wenn das Steam-Overlay geöffnet wird.<br/>- Diverse Fälle behoben, in denen Nutzereingaben falsch interpretiert werden konnten.<br/>- Mehrere Aktionen können nicht mehr auf dieselbe Taste gelegt werden.<br/><br/>[ SOUND ]<br/>- Das Timing, mit dem Geräusche von Rauchgranaten auf Distanz hörbar sind, wurde angepasst.<br/>- Fehler korrigiert, durch den der Soundeffekt von Blend- oder Splittergranaten dauerhaft abgespielt wurde, wenn der Spieler während des Soundeffekts gestorben ist.<br/>- Neuen Soundeffekt hinzugefügt, wenn eine Granate korrekt im Sprung abgeworfen wurde (nur für den Spieler selbst).<br/>- Das Chatrad akzeptiert jetzt nur noch Chatradsprüche, die auch in den Spieleinstellungen eingestellt werden können.<br/><br/>[ DUST II ]<br/>- Ein Loch in der Wand wurde gestopft.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">75bca332c252e48a36271a5255f1a28eb1062238606fb39deb48eb6271a379d3</guid>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
