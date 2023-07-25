@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 22 Jul 2023 00:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 00:49:09 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 7/21/2023</title>
+      <title>Patchnotizen vom 21.07.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MOVEMENT ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed some instances of pixelwalks across all maps<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Slight adjustments to some Holo stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where some match stats would be reported incorrectly at the end of the game<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated some signage <br/></li><li class="bbcodes_ListItem_1BF9I"> Adjustments to jumpable locations<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjustments for improved player movement<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjustments to wall-bangable locations<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes<br/></li></ul></li></ul>]]></description>
+      <description><![CDATA[[ BEWEGUNG ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Mehrere Pixelwalks in allen Karten korrigiert.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Leichte Anpassungen an einigen Holo-Aufklebern.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das am Ende des Spiels einige Spielstatistiken nicht korrekt angezeigt wurden.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Beschilderung aktualisiert. <br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an einigen Objekten vorgenommen, auf die man springen kann.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spielerbewegung verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Wände in Hinsicht ihrer Durchdringbarkeit angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen vorgenommen.<br/></li></ul></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">94655f304694744343f48aa7efed7863f81f3688c495f0afa6a00f8e7aee9aca</guid>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
