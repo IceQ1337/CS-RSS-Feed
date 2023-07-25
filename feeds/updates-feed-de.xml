@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Jul 2023 00:49:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 20:08:14 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 7/25/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjustments to jumpable locations<br/></li><li class="bbcodes_ListItem_1BF9I"> Collision adjustments<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">87451d712cf5a7a02f6351149bde9036c515d69f0cc171a66f54992d1e2ae128</guid>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 21.07.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4bc9c81b415fa95cd58ff9bc92463838729d7a0080e6e2489b232f747113dc24</guid>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 04.05.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ PARIS-MAJOR 2023 ]<br/>– Der „Zuschauerpass – Paris 2023“ und der „Zuschauerpass + 3 Souvenirmarken – Paris 2023“ sind ab sofort erhältlich. 50 % der Erlöse unterstützen die am von BLAST.tv veranstalteten Paris-Major 2023 beteiligten Spieler, Teams und Organisationen.<br/>– Mit einem Zuschauerpass erhalten Sie:<br/>— Eine aufwertbare Eventmünze zum Paris-Major 2023.<br/>— Zugriff auf die Pick’Em Challenge für das Paris-Major 2023.<br/>— Die Möglichkeit, unbegrenzt viele Teamgraffiti während des Events zu versprühen.<br/>— Einen Teamflair für Steam.tv.<br/>— Zugriff auf Souvenirpakete für das Paris-Major 2023.<br/>– Außerdem sind Team- und Spielerautogrammaufkleber jetzt erhältlich. 50 % der Erlöse unterstützen die am von BLAST.tv veranstalteten Paris-Major 2023 beteiligten Spieler, Teams und Organisationen.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">aef30e7de21dc202eed5441475636fe33dcb200287adca1852fb01a4d4dfe612</guid>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
