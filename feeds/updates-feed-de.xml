@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Jul 2023 00:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2023 00:43:17 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 8/2/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Disabled Wingman<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Anubis to Deathmatch, Casual, and Competitive game modes<br/></li><li class="bbcodes_ListItem_1BF9I"> Added Ancient to Deathmatch and Casual game modes<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed Overpass and Vertigo<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Taught chickens how to swim<br/></li><li class="bbcodes_ListItem_1BF9I"> Weapons splash when dropped in water<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted grenade/water interaction sounds<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Improved head animation when crouching while running<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved foot animation when quickly alternating between standing still and moving<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">f895ba95c6b2c3dea483072d7a16df8c7125f39765f0d113bbe42c3b84bca220</guid>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 25.07.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">c5e28d4df33eea9619260f68bc5a8dcb115b18414f089033c96f96164f4a09c3</guid>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 05.05.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ PARIS-MAJOR 2023 ]<br/>- Team- und Spielerautogrammaufkleber für 9INE angepasst.<br/>- Web-API „UploadTournamentPredictions“ für Websites und Anwendungen von Drittanbietern aktualisiert, sodass nun alle Tipps für eine bestimmte Turnierphase auf einmal abgegeben werden können. Weitere Informationen finden Sie <a class="Focusable" href="https://steamcommunity.com/linkfilter/?url=https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_PickEm_Fantasy_Management#Placing_Pick.27Em_Challenge_Prediction" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="developer.valvesoftware.com">hier</span></a>.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4bc9c81b415fa95cd58ff9bc92463838729d7a0080e6e2489b232f747113dc24</guid>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
