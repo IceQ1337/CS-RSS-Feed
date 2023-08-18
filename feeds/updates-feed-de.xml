@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 17 Aug 2023 00:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 00:34:40 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 8/17/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> All maps previously shipped in the Limited Test are available in casual and deathmatch matchmaking<br/></li><li class="bbcodes_ListItem_1BF9I"> All maps and game modes previously shipped in the Limited Test are available for offline play<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Dropped bombs no longer sink in water<br/></li><li class="bbcodes_ListItem_1BF9I"> Reworked the bullet penetration system<br/></li><li class="bbcodes_ListItem_1BF9I"> Enabled bot takeover where applicable<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8308dc2bd954fdff8c54f07432ab94ab9ef052dfbd298537dffc64ab2269245f</guid>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 8/16/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">855a3b63dafa52767c46c06b7b53ac4a4a3efb6d9a52bbca11799218ab7d3479</guid>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 14.06.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ] <br/><ul class="bbcodes_List_20uQh">Mirage<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler in Verbindung mit einem Ort nahe der Bank auf Bombenort B behoben, der zu Lag auf dem Server führte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse seltsame Schüsse durch die Wand behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bildschirm am Ende einer Partie angepasst.<br/></li></ul><br/></ul><br/>[ KAUFMENÜ ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Selten auftretende Probleme bei der Rückerstattung behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Farbe des Kaufmenüs entspricht nun der HUD-Farbe (Konsolenbefehl: cl_hud_color).<br/></li></ul><br/><br/>[ AUSRÜSTUNG ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Selten auftretende Probleme beim Untersuchen von Gegenständen behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Ungewollte Interaktion zwischen der Bestätigungsbenachrichtigung zu neuen Gegenständen und dem Inventar behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler beim Aktualisieren des Tabs „Ausrüstung“ behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Lokalisierungsfehler behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Ursachen für Abstürze behoben.<br/></li></ul><br/><br/>[ SONSTIGES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler in Verbindung mit der Bewegung behoben, durch den sich Spieler entlang bestimmten Kanten auf Dust II rutschend fortbewegten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Blendgranaten sind nun nach einem Wurf sofort wieder einsatzbereit, sodass Spieler jetzt mehrere nacheinander in schneller Abfolge werfen können.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einzelbild-Blendungseffekt beim Herauszoomen mit Scharfschützengewehren reduziert.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">f074109aa054dfdcfefffe71d07b76799751cf4061e7f6246d8303fe8128734d</guid>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
