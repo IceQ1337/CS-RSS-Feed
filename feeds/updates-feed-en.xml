@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 00:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 00:33:28 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 8/18/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed bullet penetration through players<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Audio mix tweaks and adjustments<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">58d013c60daeb0ccee50152bdedd297dfd0ba6d565c498bf2bfa10a3ebc0d42b</guid>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 8/17/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4ffcbbadcb506fa4079a4cc9d049cc3249fd3e3c4c2e92eb2123600b9aa9f699</guid>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 6/15/23</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed auto rebuy not working if you survived through the Deathmatch warmup<br/></li><li class="bbcodes_ListItem_1BF9I"> Pressing the jump key to respawn in Deathmatch no longer results in an actual jump<br/></li><li class="bbcodes_ListItem_1BF9I"> The buy menu now closes on right mouse button DOWN instead of UP<br/></li><li class="bbcodes_ListItem_1BF9I"> Refunds are now correctly accounted for when tracking total money spent by user<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed bad kerning in accolade descriptions<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a freeze/hang in Hammer<br/></li><li class="bbcodes_ListItem_1BF9I"> The CS2 Workshop Tools convar helper page now has better descriptions<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed aspect ratio for workshop submission screenshot<br/></li><li class="bbcodes_ListItem_1BF9I"> Various improvements to the look of the M249, MP5-SD, Desert Eagle, Dual Elites, and Taser<br/></li><li class="bbcodes_ListItem_1BF9I"> Added Zeus x27 to workshop submission weapon list<br/></li></ul><br/><br/>[ MAPS ] <br/><ul class="bbcodes_List_20uQh">Mirage<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">   Various map fixes<br/></li></ul><br/></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">855a3b63dafa52767c46c06b7b53ac4a4a3efb6d9a52bbca11799218ab7d3479</guid>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
