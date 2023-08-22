@@ -8,27 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Aug 2023 00:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 20:08:10 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 8/18/2023</title>
+      <title>Patchnotizen vom 18.08.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed bullet penetration through players<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Audio mix tweaks and adjustments<br/></li></ul>]]></description>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Korrekturen am Kugeldurchschlag bei Spielern vorgenommen.<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Optimierungen und Verbesserungen am Audiomix vorgenommen.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">58d013c60daeb0ccee50152bdedd297dfd0ba6d565c498bf2bfa10a3ebc0d42b</guid>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 8/17/2023</title>
+      <title>Patchnotizen vom 17.08.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> All maps previously shipped in the Limited Test are available in casual and deathmatch matchmaking<br/></li><li class="bbcodes_ListItem_1BF9I"> All maps and game modes previously shipped in the Limited Test are available for offline play<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Dropped bombs no longer sink in water<br/></li><li class="bbcodes_ListItem_1BF9I"> Reworked the bullet penetration system<br/></li><li class="bbcodes_ListItem_1BF9I"> Enabled bot takeover where applicable<br/></li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Alle bereits in der limitierten Testphase veröffentlichten Karten stehen in den Spielmodi Gelegenheitsspiel und Deathmatch zur Verfügung.<br/></li><li class="bbcodes_ListItem_1BF9I"> Alle bereits in der limitierten Testphase veröffentlichten Karten und Spielmodi stehen im Offlinemodus gegen Bots zur Verfügung.<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fallen gelassene Bomben versinken nicht mehr im Wasser.<br/></li><li class="bbcodes_ListItem_1BF9I"> System des Kugeldurchschlags von Materialien überarbeitet.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler können die Kontrolle über Bots übernehmen (abhängig vom Spielmodus).<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">8308dc2bd954fdff8c54f07432ab94ab9ef052dfbd298537dffc64ab2269245f</guid>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 8/16/2023</title>
+      <title>Patchnotizen vom 16.08.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Italy<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added more hostage variants<br/></li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Italy<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen vorgenommen.<br/></li></ul></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Weitere Varianten von Geiselmodellen hinzugefügt.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">5dfc6551fd167407a77a37ed1a7056bac1f18c3f9fc60101818f18106ca8ac82</guid>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
