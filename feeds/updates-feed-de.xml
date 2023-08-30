@@ -8,6 +8,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Aug 2023 00:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 04:09:38 +0000</lastBuildDate>
+    <item>
+      <title>Patchnotizen vom 18.08.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Korrekturen am Kugeldurchschlag bei Spielern vorgenommen.<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Optimierungen und Verbesserungen am Audiomix vorgenommen.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">58d013c60daeb0ccee50152bdedd297dfd0ba6d565c498bf2bfa10a3ebc0d42b</guid>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 17.08.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Alle bereits in der limitierten Testphase veröffentlichten Karten stehen in den Spielmodi Gelegenheitsspiel und Deathmatch zur Verfügung.<br/></li><li class="bbcodes_ListItem_1BF9I"> Alle bereits in der limitierten Testphase veröffentlichten Karten und Spielmodi stehen im Offlinemodus gegen Bots zur Verfügung.<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fallen gelassene Bomben versinken nicht mehr im Wasser.<br/></li><li class="bbcodes_ListItem_1BF9I"> System des Kugeldurchschlags von Materialien überarbeitet.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler können die Kontrolle über Bots übernehmen (abhängig vom Spielmodus).<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8308dc2bd954fdff8c54f07432ab94ab9ef052dfbd298537dffc64ab2269245f</guid>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 16.08.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Italy<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen vorgenommen.<br/></li></ul></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Weitere Varianten von Geiselmodellen hinzugefügt.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">5dfc6551fd167407a77a37ed1a7056bac1f18c3f9fc60101818f18106ca8ac82</guid>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 15.08.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Wettkampfmodus und private Spielsuche in der limitierten Testphase vorübergehend deaktiviert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kleinere Anpassungen an der Ausbreitung der Rauchwolke vorgenommen.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Italy zu den Spielmodi Deathmatch und Gelegenheitsspiel hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anubis und Ancient entfernt.<br/></li></ul><br/>[ WIRTSCHAFT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Position des StatTrak™-Zählers für beide M4-Modelle in CS2 angepasst, damit diese keine Aufkleber mehr verdecken.<br/></li><li class="bbcodes_ListItem_1BF9I"> Größen der Aufkleber für die M4A4 in CS2 angepasst, damit diese sich nicht mehr überlappen.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Modelle der Geiseln aktualisiert.<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Optimierungen und Verbesserungen am Audiomix vorgenommen.<br/></li></ul><br/>[ WORKSHOP-WERKZEUGE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Unterstützung für mehrere Varianten der Teamvorstellung hinzugefügt.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">04175bc0515cc9d80ab6af1ac746feefdd305893f2b4de20f9c766a1280da8bc</guid>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 07.08.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Aus dem Spielmodus Wettkampf entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Fehlerbehebungen und Optimierungen vorgenommen.<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Zum Spielmodus Wettkampf hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Anpassungen an der Beleuchtung vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlende Kollisionserkennung zu herumliegenden Trümmern hinzugefügt.<br/></li></ul></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Anpassungen an Animationen des C4-Sprengstoffs vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Leistungsverbesserungen beim Wasser-Rendering vorgenommen.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">6ca1e35d589d173c06baccff372d89172add58a7cbe8d43be8bc42afb6e87d2a</guid>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 03.08.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Clipping für sauberere Fortbewegung auf der ganzen Karte verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an Kollisionen rund um Säulen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Löcher in der Geometrie der Karte ausgebessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Probleme behoben, durch die Waffen und Bomben die Geometrie der Karte durchdringen konnten.<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Klarheit des Wassers im T-Spawn verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an einigen Objekten vorgenommen, auf die man springen kann.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an Kollisionen rund um Ecken vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Anpassungen an der Beleuchtung vorgenommen.<br/></li></ul></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Problem mit dem Neustart einer Runde behoben, während eine Waffe nachgeladen wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Brandgranaten im Wasser nicht ordnungsgemäß detonierten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Gliedmaßen von Ragdolls verursachen einen sichtbaren Platscher, wenn sie mit Wasser in Berührung kommen.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">ea4439c1ddb6dd5fe51ac1496483ec0dee02b6f59e782487d79d27382cf5da2c</guid>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 02.08.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Spielmodus Wingman deaktiviert.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis zu den Spielmodi Deathmatch, Gelegenheitsspiel und Wettkampf hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Ancient zu den Spielmodi Deathmatch und Gelegenheitsspiel hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Overpass und Vertigo entfernt.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Hühner können jetzt schwimmen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Waffen verursachen einen sichtbaren Platscher, wenn sie ins Wasser fallen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Sounds bei Interaktionen von Granaten und Wasser angepasst.<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Kopf-Animation bei geduckter Fortbewegung verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bein-Animation bei schnellem Wechsel zwischen Stillstand und Fortbewegung verbessert.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">f895ba95c6b2c3dea483072d7a16df8c7125f39765f0d113bbe42c3b84bca220</guid>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 25.07.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen an einigen Objekten vorgenommen, auf die man springen kann.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an Kollisionen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen vorgenommen.<br/></li></ul></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">87451d712cf5a7a02f6351149bde9036c515d69f0cc171a66f54992d1e2ae128</guid>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 21.07.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ BEWEGUNG ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Mehrere Pixelwalks in allen Karten korrigiert.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Leichte Anpassungen an einigen Holo-Aufklebern.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das am Ende des Spiels einige Spielstatistiken nicht korrekt angezeigt wurden.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Beschilderung aktualisiert. <br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an einigen Objekten vorgenommen, auf die man springen kann.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spielerbewegung verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Wände in Hinsicht ihrer Durchdringbarkeit angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen vorgenommen.<br/></li></ul></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">94655f304694744343f48aa7efed7863f81f3688c495f0afa6a00f8e7aee9aca</guid>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 19.07.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen an Vertigo und Overpass vorgenommen.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">c8d445abb881aa0d2aed13d476bde461d197a4c0ff48581198e62ad82009bda0</guid>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 18.07.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das Gruppen von zwei oder mehr Spielern keine Spielsuche starten konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Interaktionen zwischen Türen und fallen gelassenen Waffen und Ragdolls angepasst.  <br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das die Interaktionen zwischen Türen und Spielern die Trefferregistrierung beeinflussen konnte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das die Granatensymbole im Teamausrüstungs-HUD falsch skaliert wurden, wenn der jeweilige Spieler vier Granaten mit sich führte.<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Animation für den Patronengürtel der M249 hinzugefügt.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Anpassungen an der Beleuchtung vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Geräusche für das Öffnen/Schließen der Baustellenklotüren hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem mit der Belegungsanzeige der Baustellenklotüren behoben.<br/></li></ul></li><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen vorgenommen.<br/></li></ul><br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">af52348ac09da88d9c5ba030e6cd9ad5ae1c81b293a95dd30a07fd40fe7fcbdc</guid>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 17.07.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Spielmodus Wingman hinzugefügt.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass zu den Spielmodi Deathmatch, Gelegenheitsspiel, Wingman und Wettkampf hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Vertigo zu den Spielmodi Deathmatch und Gelegenheitsspiel hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Nuke und Office entfernt.<br/></li></ul><br/>[ WORKSHOP-WERKZEUGE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Schaltflächen „Rückgängig“/„Wiederholen“ aktiviert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen vorgenommen.<br/></li></ul><br/>[ SONSTIGES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Option „Sekundärfeuer halten“ zu den Maus- und Tastatureinstellungen hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Der Countdown-Zähler für die Halbzeit ist nun sichtbar.<br/></li><li class="bbcodes_ListItem_1BF9I"> Interpolationsfehler der Kamera behoben, der im Zuschauermodus beim Wechsel zwischen der Verfolgerkamera und der freien Kamera auftrat.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den das Waffenmodell im Zuschauermodus beim Wechsel in die Egoperspektive eines Spielers für einen kurzen Augenblick verschwand.<br/></li><li class="bbcodes_ListItem_1BF9I"> Führende Nullen zu StatTrak™-Zählern hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Handschuhmuster und -abnutzung entsprechen nun genauer den jeweiligen CS:GO-Versionen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Verbesserungen an Glanzaufklebern vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Anpassungen an der Größe von Aufklebern beim Anbringen an Waffen vorgenommen.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">2c4450ff8ba01b1df9eea39848a1402b8d36935362a8ceafc92ea2ec9f85ad63</guid>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 30.06.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den kleine Knackgeräusche und Audioaussetzer verursacht wurden, weil einige Sounds zu früh endeten und nicht vollständig ausklangen.<br/></li></ul><br/><br/>[ BEWEGUNG ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Beim Bunnyhopping gibt es wieder ein Geschwindigkeitslimit. Falls Sie das Limit deaktivieren möchten, können Sie den Konsolenbefehl „sv_enablebunnyhopping 1“ benutzen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Seltenes Problem behoben, wodurch beim Wiedereinstieg eine falsch eingestellte Kamerahöhe angezeigt wurde.<br/></li></ul><br/><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh">Nuke<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Flackernde Schatten bei den Verkaufsautomaten behoben.<br/></li></ul><br/></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4d0816945e457dc142f2b5008add10c3282d0db738a494b1eff7b1e1ee19d0e6</guid>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 29.06.23</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Spielmodus für Gelegenheitsspiele hinzugefügt.<br/></li></ul><br/><br/>[ SCHIEẞEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Seltenen Fehler behoben, durch den Kugeln gelegentlich nicht dem Schussmuster folgten.<br/></li></ul><br/><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Nuke zu Deathmatch, Gelegenheitsspiel und Wettkampf hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Office zu Deathmatch und Gelegenheitsspiel hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Mirage entfernt.<br/></li></ul><br/><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Distanzeffekte zu allen Raumklangquellen hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> 3D-Klangverarbeitung verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Allgemeine Optimierungen und Verbesserungen bei der Klangabstimmung vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Klänge gelegentlich Okklusionswerte der umgebenden Geometrie ignorierten, wodurch Klangquellen näher zu sein schienen, als sie es tatsächlich waren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler mit fehlenden Niedrigfrequenzen auf bestimmten Distanzen von Klangquellen wie Granaten und Waffenfeuer korrigiert. <br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den manche Klänge je nach Orientierung des Hörers etwas lauter oder leiser sein konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Musikalische Hinweise für „Partie angenommen“ und Ladebildschirme hinzugefügt. <br/></li><li class="bbcodes_ListItem_1BF9I"> Dedizierte Audio-Okklusionsebene hinzugefügt, um die vertikale Klangpositionierung in Nuke zu ermöglichen. <br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Granaten können jetzt untersucht werden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Animationen von Heilungsspritzen verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Untersuchverhalten für diverse Waffen verbessert.<br/></li></ul><br/><br/>[ BEWEGUNG ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler korrigiert, der gelegentlich dazu führen konnte, dass Ducken/Aufstehen zu langsam war.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bunnyhopping sollte sich jetzt sehr ähnlich anfühlen wie in CS:GO bei 128 Ticks.<br/></li><li class="bbcodes_ListItem_1BF9I"> Konfigurationsvariable sv_jump_spam_penalty_time hinzugefügt, um die Feinabstimmung für Bunnyhopping zu ermöglichen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die Ausgabe für cl_showpos wurde erweitert und zeigt jetzt die maximale Geschwindigkeit der letzten 3 Sekunden an. Dieser Wert steht in Klammern in der Zeile, die mit „vel“ (velocity = Geschwindigkeit) beginnt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler können am Ende der Aufwärmphase nicht mehr springen.<br/></li></ul><br/><br/>[ NETZWERK ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Delta-Frame-Spieldaten werden jetzt asynchron gesendet. Dadurch verringert sich auf dedizierten Servern die CPU-Auslastung des Hauptthreads und infolgedessen auch die Wahrscheinlichkeit für übersprungene Ticks.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den bei toten Spielern eine Waffe im Holster angezeigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Teamunabhängiges Ausrüstsymbol zu den Kacheln im Inventar/in der Ausrüstung hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Wenn möglich, wird beim Umschalten in den Zuschauermodus standardmäßig die Egoperspektive ausgewählt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Übergang zwischen der Verfolgungskamera und der freien Kamera angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Beschreibung des Spielmodus im Ladebildschirm zentriert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Hinweis „Die Besten aus X Runden“ vom Ladebildschirm entfernt.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">fc393209f796cc7394e92dea0551d5a26364280f10464d42545b4095b06abb67</guid>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 20.06.2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler bei der Rückerstattung behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler bei den Randbemerkungen über finanzielle Ausgaben behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Position der AT-Einheiten im Hauptmenü bei ausgerüsteten Akimbo-Berettas angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Beschreibungstexte beim Verlassen der Ausrüstung gelegentlich nicht ausgeblendet wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Textur-Streaming-Probleme behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Verbesserungen an Aufklebern vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Soundsynchronisation für die ersten Kugeln bei Automatikfeuer verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Abschussanzeige im Partieendbildschirm eingeblendet wurde, wenn ein Spieler nach Rundenende starb.<br/></li></ul><br/><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh">Mirage<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Einige Korrekturen an der Lightmap vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Rauchwolken dringen nun durch die Metallgitter in der Unterführung.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler können nicht mehr auf die Skybox gelangen.<br/></li></ul></ul><br/><br/>[ BEWEGUNG ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den sich der Spieler gelegentlich zu weit vorwärts bewegte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige kleinere Fehlerbehebungen vorgenommen.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4ffcbbadcb506fa4079a4cc9d049cc3249fd3e3c4c2e92eb2123600b9aa9f699</guid>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
