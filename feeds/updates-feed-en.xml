@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Sep 2023 04:08:51 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/1/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Players who survive the last round before overtime no longer carry their items into overtime<br/></li><li class="bbcodes_ListItem_1BF9I"> Disabled Casual matchmaking temporarily to avoid a bug where servers get stuck in the end-of-match state<br/></li></ul><br/><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixes for missing music in Casual mode<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to Premier UI elements<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a crash that occurs when changing audio devices<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed an issue where players who abandon during Premier map voting receive multiple cooldowns<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">e75013c0ffa4cc850060bc451c20861f636ad8af2121e53909ce8d3f4b3d49ca</guid>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 8/31/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4d0816945e457dc142f2b5008add10c3282d0db738a494b1eff7b1e1ee19d0e6</guid>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 6/29/23</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Casual game mode.<br/></li></ul><br/><br/>[ SHOOTING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed rare cases where bullets would not follow spray pattern.<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Nuke to Deathmatch, Casual, and Competitive game modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added Office to Deathmatch and Casual game modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed Mirage.<br/></li></ul><br/><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added distance effects to all positional sound sources.<br/></li><li class="bbcodes_ListItem_1BF9I"> Improvements to 3d sound processing.<br/></li><li class="bbcodes_ListItem_1BF9I"> General mix tweaks and improvements.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed bug where sometimes sounds would not respect the occlusion values of surrounding geometry resulting in sources appearing closer than what they were.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing low frequencies at certain distances away from sound sources such as grenades and weapon fire. <br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where some sounds would be slightly louder or quieter depending on the listeners orientation.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added music cues to Match Accept and Loading screens. <br/></li><li class="bbcodes_ListItem_1BF9I"> Added unique audio occlusion layer to help with vertical sound positioning in Nuke. <br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Grenades can now be inspected.<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved healthshot animations<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved inspect behavior for various weapons<br/></li></ul><br/><br/>[ MOVEMENT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed cases of unintended slow crouch/uncrouch.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bunny hopping feel should now closely match CS:GO running at 128 tick.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added convar sv_jump_spam_penalty_time to allow fine tuning of bunny hop feel.<br/></li><li class="bbcodes_ListItem_1BF9I"> The readout for cl_showpos has been enhanced to show the maximum speed of the last 3 seconds; this number is in parenthesis on the 'vel' line<br/></li><li class="bbcodes_ListItem_1BF9I"> Players can no longer jump at the end of warmup time<br/></li></ul><br/><br/>[ NETWORKING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Sending game delta frames is now asynchronous, reducing dedicated server main thread CPU usage, thus reducing probability of dropped ticks.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where a holstered weapon would be rendered on a dead player<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a team-agnostic equip icon for inventory/loadout item tiles<br/></li><li class="bbcodes_ListItem_1BF9I"> When possible, switching to spectator mode will default to in-eye spectating<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted the transition between spectator chase cam and roaming cam<br/></li><li class="bbcodes_ListItem_1BF9I"> Centered game mode text in the loading screen<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed "Best out of X rounds" from the loading screen<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">fc393209f796cc7394e92dea0551d5a26364280f10464d42545b4095b06abb67</guid>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
