@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 02 Sep 2023 04:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 00:35:55 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/5/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed CT spawn area shape in minimap<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted spawn locations to reduce the likelihood of players spawning stuck together<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Re-enabled Casual matchmaking<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped weapons were behaving like held weapons<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted interpolation parameters<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing bullet tracers on hits<br/></li><li class="bbcodes_ListItem_1BF9I"> Made it easier to pick up dropped weapons<br/></li></ul><br/><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where music wouldn't play at the end of deathmatch<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to Premier UI elements<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted freeze time post-processing effects<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing player models for the first few seconds after team introductions<br/></li><li class="bbcodes_ListItem_1BF9I"> Windows community servers can now appear in Steam Server Browser<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">a012def21be75e843dddc57d7b868ff521fec9398180d55d7e9e843212eef5df</guid>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 9/1/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">2c4450ff8ba01b1df9eea39848a1402b8d36935362a8ceafc92ea2ec9f85ad63</guid>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 30.06.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den kleine Knackgeräusche und Audioaussetzer verursacht wurden, weil einige Sounds zu früh endeten und nicht vollständig ausklangen.<br/></li></ul><br/><br/>[ BEWEGUNG ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Beim Bunnyhopping gibt es wieder ein Geschwindigkeitslimit. Falls Sie das Limit deaktivieren möchten, können Sie den Konsolenbefehl „sv_enablebunnyhopping 1“ benutzen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Seltenes Problem behoben, wodurch beim Wiedereinstieg eine falsch eingestellte Kamerahöhe angezeigt wurde.<br/></li></ul><br/><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh">Nuke<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Flackernde Schatten bei den Verkaufsautomaten behoben.<br/></li></ul><br/></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4d0816945e457dc142f2b5008add10c3282d0db738a494b1eff7b1e1ee19d0e6</guid>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
