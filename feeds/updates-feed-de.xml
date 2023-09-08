@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2023 00:35:51 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/7/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes to molotov/incendiary explosions<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed ladders blocking bullet penetration<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed missing USP-S description in the buy menu<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted low health indication<br/></li><li class="bbcodes_ListItem_1BF9I"> Various animation bug fixes and tweaks<br/></li><li class="bbcodes_ListItem_1BF9I"> Various performance improvements<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">5e21e1a820f1f083d4138e59d246bd200a79da5f16d2248471d2e337310b6038</guid>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 9/6/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">c8d445abb881aa0d2aed13d476bde461d197a4c0ff48581198e62ad82009bda0</guid>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 18.07.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das Gruppen von zwei oder mehr Spielern keine Spielsuche starten konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Interaktionen zwischen Türen und fallen gelassenen Waffen und Ragdolls angepasst.  <br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das die Interaktionen zwischen Türen und Spielern die Trefferregistrierung beeinflussen konnte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das die Granatensymbole im Teamausrüstungs-HUD falsch skaliert wurden, wenn der jeweilige Spieler vier Granaten mit sich führte.<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Animation für den Patronengürtel der M249 hinzugefügt.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Anpassungen an der Beleuchtung vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Geräusche für das Öffnen/Schließen der Baustellenklotüren hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem mit der Belegungsanzeige der Baustellenklotüren behoben.<br/></li></ul></li><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen vorgenommen.<br/></li></ul><br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">af52348ac09da88d9c5ba030e6cd9ad5ae1c81b293a95dd30a07fd40fe7fcbdc</guid>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
