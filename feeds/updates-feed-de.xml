@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 13 Sep 2023 04:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2023 00:36:19 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/13/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks for all shipped maps<br/></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various fixes for molotov/incendiary grenades<br/></li><li class="bbcodes_ListItem_1BF9I"> Various fixes for smoke grenades<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed damage indicators for fire damage<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted first-person sniper contrails to reflect shot accuracy<br/></li><li class="bbcodes_ListItem_1BF9I"> Various adjustments to lag compensation<br/></li><li class="bbcodes_ListItem_1BF9I"> Replaced player elevation indicators on the radar with look directions<br/></li></ul><br/><br/>[ PREMIER MATCHMAKING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to UI elements<br/></li></ul><br/><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Audio mix changes and tweaks<br/></li><li class="bbcodes_ListItem_1BF9I"> Lowered occlusion and distance effects for gunfire, footsteps and reloads<br/></li><li class="bbcodes_ListItem_1BF9I"> Slight increase to stereo spread<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where incorrect footstep and jump land sounds would play on elevated edges<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where music would stop playing at the end of deathmatch<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Changed armor number in buy menu from amount you currently have to amount you can buy<br/></li><li class="bbcodes_ListItem_1BF9I"> Various fixes for weapon finishes, gloves, and stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Water rendering performance improvements<br/></li><li class="bbcodes_ListItem_1BF9I"> Added nametag positions for all knife models<br/></li><li class="bbcodes_ListItem_1BF9I"> Allow adjusting individual player voice volumes<br/></li><li class="bbcodes_ListItem_1BF9I"> Various HUD bug fixes and tweaks<br/></li><li class="bbcodes_ListItem_1BF9I"> Added option to disallow animated avatars<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed several legacy networking convars that existed in CS:GO but never had an effect in CS2<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">c00b4ff5e673d99c6436af8f2aa0fab7eb0e93005abaccccb806f4b93c3c4c78</guid>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 08.09.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">87451d712cf5a7a02f6351149bde9036c515d69f0cc171a66f54992d1e2ae128</guid>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 21.07.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ BEWEGUNG ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Mehrere Pixelwalks in allen Karten korrigiert.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Leichte Anpassungen an einigen Holo-Aufklebern.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das am Ende des Spiels einige Spielstatistiken nicht korrekt angezeigt wurden.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Beschilderung aktualisiert. <br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an einigen Objekten vorgenommen, auf die man springen kann.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spielerbewegung verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Wände in Hinsicht ihrer Durchdringbarkeit angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen vorgenommen.<br/></li></ul></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">94655f304694744343f48aa7efed7863f81f3688c495f0afa6a00f8e7aee9aca</guid>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
