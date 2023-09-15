@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 00:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 00:36:55 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/14/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various clipping adjustments<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rebalanced lag compensation to favor lower-latency players<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped grenades were invisible<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped bombs and weapons would appear in the wrong location<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">eb16d7cc04f3f6e83fed1a75c811dc49a7ebdea8654d2a64aba6e1af4d1deecc</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 9/13/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">f895ba95c6b2c3dea483072d7a16df8c7125f39765f0d113bbe42c3b84bca220</guid>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 7/25/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjustments to jumpable locations<br/></li><li class="bbcodes_ListItem_1BF9I"> Collision adjustments<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">87451d712cf5a7a02f6351149bde9036c515d69f0cc171a66f54992d1e2ae128</guid>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
