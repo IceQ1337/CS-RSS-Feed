@@ -8,19 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 16 Sep 2023 00:35:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 00:36:48 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 9/15/2023</title>
+      <title>Patchnotizen vom 15.09.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]<br/>Office<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted the weight of the vending machine<br/></li><li class="bbcodes_ListItem_1BF9I"> Various fixes<br/></li></ul>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various clipping adjustments<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Tuned the vertical audio occlusion of grenade sounds in Nuke and Vertigo<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted ambient sounds in Office<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted silenced weapon falloff<br/></li></ul><br/>[MISC]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where an AK47 headshot would not deal lethal damage<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted nametag location for Shadow Daggers<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ KARTEN ]<br/>Office<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Gewicht der Verkaufsautomaten angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen vorgenommen.<br/></li></ul>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Anpassungen am Clipping vorgenommen.<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Vertikaler Audio-Okklusionseffekt von Granaten auf Nuke und Vertigo angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Umgebungsgeräusche auf Office angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Geräuschreduzierung von schallgedämpften Waffen auf Distanz angepasst.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein Kopfschuss mit einer AK-47 keinen tödlichen Schaden verursachte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Position des Namensschilds für Schattendolche angepasst.<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">9efcec8f935f4a579062675645b5df2fdccd8dcd074f34d38b514fc59165ba0a</guid>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 9/14/2023</title>
+      <title>Patchnotizen vom 14.09.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various clipping adjustments<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rebalanced lag compensation to favor lower-latency players<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped grenades were invisible<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped bombs and weapons would appear in the wrong location<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes<br/></li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Anpassungen am Clipping vorgenommen.<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verzögerungskompensation zugunsten von Spielern mit niedrigerer Latenz neu ausbalanciert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den fallen gelassene Granaten unsichtbar waren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den fallen gelassene Bomben und Waffen an der falschen Stelle erschienen.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen an Waffenlackierungen vorgenommen.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">eb16d7cc04f3f6e83fed1a75c811dc49a7ebdea8654d2a64aba6e1af4d1deecc</guid>
       <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
