@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 04:09:40 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/27/2023 Night</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Weapon sounds will no longer sound like they come from the spot you are zoomed into<br/></li></ul><br/><br/>[ WATER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated water in Nuke to fix an issue with smoke<br/></li><li class="bbcodes_ListItem_1BF9I"> Reduced maximum amount of water refraction since it was looking too noisy/distracting<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the death panel wouldn't show<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the preview crosshair wouldn't show in game settings<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where debug text would appear on the crosshair<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">7cb1c88954b34e9264783ee2a885d9d8361a702acefc4019b4d5025c2a67404a</guid>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 9/27/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">04175bc0515cc9d80ab6af1ac746feefdd305893f2b4de20f9c766a1280da8bc</guid>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 07.08.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Aus dem Spielmodus Wettkampf entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Fehlerbehebungen und Optimierungen vorgenommen.<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Zum Spielmodus Wettkampf hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Anpassungen an der Beleuchtung vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlende Kollisionserkennung zu herumliegenden Trümmern hinzugefügt.<br/></li></ul></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Anpassungen an Animationen des C4-Sprengstoffs vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Leistungsverbesserungen beim Wasser-Rendering vorgenommen.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6ca1e35d589d173c06baccff372d89172add58a7cbe8d43be8bc42afb6e87d2a</guid>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
