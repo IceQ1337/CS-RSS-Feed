@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 01:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 01:31:32 +0000</lastBuildDate>
+    <item>
+      <title>Welcome Home</title>
+      <link>https://www.counter-strike.net/newsentry/3747614808335282785?l=english</link>
+      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/8d881c9e69922ab988c6304052979d16bc920346.png"/><br/>Counter-Strike 2 is here.<br/><br/>Come take a look around. Counter-Strike 2 is the largest technical leap forward in Counter-Strike's history, supporting new features today and updates for years to come.<br/><br/>If you're a returning player you'll find your favorite maps and matchmaking modes right where you left them, along with a revamped Premier mode where you can establish your all-new CS Rating. Rise through the ranks and see where you stand on global and regional leaderboards.<br/><br/>For new players, learn the basics with some offline training and jump into Casual and Deathmatch to hone your skills. Once you've unlocked Competitive matchmaking you'll be off to the races.<br/><br/>Grab your friends, and come join millions of players around the world. Welcome to Counter-Strike 2.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3747614808335282785</guid>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Your Time is Now</title>
       <link>https://www.counter-strike.net/newsentry/3644028846252008595?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3414317363017248850</guid>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Happy Birthday CS:GO!</title>
-      <link>https://www.counter-strike.net/newsentry/3401926123937881444?l=english</link>
-      <description><![CDATA[It's CS:GO's 10th birthday, and we're celebrating with stickers, maps, and cupcakes!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/88695ecb1922d1881ba9ba14d193a0939a7946e6.png"/><br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">10 Year Birthday Sticker Capsule</div>The community pulled together for the 10th anniversary sticker competition, and the results speak for themselves--the 10 Year Birthday Sticker Capsule contains over 60 community submitted designs, including an all new animated 'Lenticular' quality. Congratulations to the winners!<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Maps</div>You've been patient, and it's finally here. Tuscan is available in all game modes, so jump in to this classic map and put it through its paces!<br/><br/><img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/afed74f51e74df7dec80aab66eb3d7c463be39b5.png"/><br/><br/>And that's not all: we've brought back Anubis and Breach to competitive matchmaking, and added Primetime and Blagai to Wingman!<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Cake!</div>It wouldn't be a birthday without some cake... specifically, a cupcake topped with a birthday coin! For the next week (until Monday, August 22nd), CS:GO players with Prime status can grab their birthday coin by earning enough XP for their first in-game drop of the week.<br/><br/>Ten years. It's a big number, yet CS:GO is stronger than ever. Over the past 12 months alone, we've seen more players than ever before (averaging over 20 million monthly unique players), record viewership for Majors (2.7m concurrent viewers), and massive community support with over $70 million raised for professional organizations, teams, and players. The future could not look brighter.<br/><br/>Happy Birthday, CS:GO.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3401926123937881444</guid>
-      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
