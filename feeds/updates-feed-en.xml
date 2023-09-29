@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Sep 2023 04:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 00:36:53 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/28/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed missing win/loss/MVP music in Casual<br/></li></ul><br/><br/>[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Put range clamps on r_fullscreen_gamma, r_texture_stream_max_resolution, and r_character_decal_resolution<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed smokes not rendering correctly on AMD GPUs on Linux<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted grenade throw animations to reduce view obstruction<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where players would float a few inches off the ground after spawning<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to Mirage and Overpass<br/></li></ul><br/><br/>[ COSMETICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes and stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Updated Phoenix Soldier balaclava from green to original red color<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing pouches on certain SWAT agents<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where loadout shuffle would never happen<br/></li><li class="bbcodes_ListItem_1BF9I"> Increased clickable area of sellback buttons in buy menu<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the death panel would stay on-screen after respawning quickly<br/></li><li class="bbcodes_ListItem_1BF9I"> Disabled CSTV and demo recording temporarily to increase server availability so more people can play<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">c2993a6a7e3d0e67a3252e69af5af9c698784a321544fe218eac2f39f34fdd1b</guid>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 9/27/2023 Night</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">5dfc6551fd167407a77a37ed1a7056bac1f18c3f9fc60101818f18106ca8ac82</guid>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/15/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Competitive and Private Matchmaking are currently disabled in the Limited Test<br/></li><li class="bbcodes_ListItem_1BF9I"> Minor adjustments to smoke cloud shape<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Italy to Deathmatch and Casual game modes<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed Anubis and Ancient<br/></li></ul><br/>[ ECONOMY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Unified StatTrak position on both CS2 M4 models to not occlude stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted sticker sizes on CS2 M4A4 so they no longer overlap<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated hostage models<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Audio mix tweaks and adjustments<br/></li></ul><br/>[ WORKSHOP TOOLS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added support for multiple team introduction variants<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">04175bc0515cc9d80ab6af1ac746feefdd305893f2b4de20f9c766a1280da8bc</guid>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
