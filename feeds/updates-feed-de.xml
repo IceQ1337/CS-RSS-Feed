@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Oct 2023 20:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:37:09 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/2/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Removed movement penalty on mud surfaces<br/></li></ul><br/><br/>[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with shader compilation when connecting to a server that was causing hitches after connecting. Note that these hitches may still exist on AMD GPUs; we are working with AMD to address this<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where knife slashing couldn't be interrupted with an inspect<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes and gloves<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where molotov/incendiary grenades would create a fire ring in the air<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved performance of molotov/incendiary fire extinguishing<br/></li><li class="bbcodes_ListItem_1BF9I"> Various improvements to weapon dropping and throwing<br/></li><li class="bbcodes_ListItem_1BF9I"> Various crash fixes<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">01ee51de89724038fa71412ef9607614d6fcff6765418d7b414047fdaad6d0d1</guid>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 29.09.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">58d013c60daeb0ccee50152bdedd297dfd0ba6d565c498bf2bfa10a3ebc0d42b</guid>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 17.08.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Alle bereits in der limitierten Testphase veröffentlichten Karten stehen in den Spielmodi Gelegenheitsspiel und Deathmatch zur Verfügung.<br/></li><li class="bbcodes_ListItem_1BF9I"> Alle bereits in der limitierten Testphase veröffentlichten Karten und Spielmodi stehen im Offlinemodus gegen Bots zur Verfügung.<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fallen gelassene Bomben versinken nicht mehr im Wasser.<br/></li><li class="bbcodes_ListItem_1BF9I"> System des Kugeldurchschlags von Materialien überarbeitet.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler können die Kontrolle über Bots übernehmen (abhängig vom Spielmodus).<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">8308dc2bd954fdff8c54f07432ab94ab9ef052dfbd298537dffc64ab2269245f</guid>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
