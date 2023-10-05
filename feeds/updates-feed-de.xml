@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Oct 2023 00:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 00:36:52 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/4/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Removed Model / Texture Detail: Very High setting since it was identical to High. They used to differ by Texture Filtering Mode, but that's a separate setting now<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Repositioned finger on AWP so it doesn't look as long<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to Inferno, Anubis, Vertigo, Ancient, and Mirage<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted crosshair outline rendering for fractional values<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where disconnecting from and reconnecting to a match would result in less XP<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed the "buy &lt;item&gt;" command to work with the new flexible loadout system. The command will now find the named item in your loadout instead of assuming a default slot. If the named item isn't in your loadout, the command will fail. To buy by slot, use "buy secondary0", "buy midtier1", "buy rifle2", etc. instead<br/></li><li class="bbcodes_ListItem_1BF9I"> Various tweaks to automatic sniper rifle muzzle flashes<br/></li><li class="bbcodes_ListItem_1BF9I"> Various tweaks to glass impact effects<br/></li><li class="bbcodes_ListItem_1BF9I"> Added sort options to secondary inventory select panel for actions like applying stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where users in Germany were incorrectly identified as users in China<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">70b9917367d85aed7175e70fcda05307147d5cc718deece08200c228207906a0</guid>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 02.10.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">23827e76e6c81a92655d76ea731cbcbdcf967e5db0e5557eee1d7ad40ab4d8f4</guid>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 18.08.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Korrekturen am Kugeldurchschlag bei Spielern vorgenommen.<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Optimierungen und Verbesserungen am Audiomix vorgenommen.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">58d013c60daeb0ccee50152bdedd297dfd0ba6d565c498bf2bfa10a3ebc0d42b</guid>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
