@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 07 Oct 2023 00:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 04:09:37 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/9/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where feet would appear black when looking down at them through a scope<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a memory leak due to particles<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed several hitbox alignment bugs<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed knife spinning not feeling as fast as in CS:GO<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed the bolt not moving during the M4A4 and M4A1-S deployment animations<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where weapon inspect could interrupt the silencer toggle animation<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to Mirage, Vertigo, and Nuke<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed several bugs with "Looking to Play"<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes and stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where loadout changes weren't saved if the game was closed shortly after making changes<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where Steam Friends' match status was delayed or missing<br/></li><li class="bbcodes_ListItem_1BF9I"> CPU performance improvements for weapon tracers<br/></li><li class="bbcodes_ListItem_1BF9I"> Added an official matchmaking datacenter in Chengdu, China<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">149b0e63ed8441de36218f9ebd5742686e1e097aa90f7a0befb7a199847e1595</guid>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/6/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">a012def21be75e843dddc57d7b868ff521fec9398180d55d7e9e843212eef5df</guid>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 01.09.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen vorgenommen.<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Gegenstände von Spielern, die die letzte Runde vor der Verlängerung überlebt haben, werden nun nicht mehr in die Verlängerung übertragen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spielmodus Gelegenheitsspiel vorübergehend deaktiviert, um einen Fehler zu umgehen, durch den sich der Server am Ende eines Spiels aufhängen kann.<br/></li></ul><br/><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehlende Musik im Spielmodus Gelegenheitsspiel hinzugefügt.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen an Oberflächenelementen des Premium-Wettkampfs vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen an Waffenlackierungen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Absturz behoben, der bei einer Änderung des Audiogeräts auftrat.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Spieler mehrere Strafzeiten erhielten, wenn sie das Spiel während der Kartenabstimmung im Premium-Wettkampf abbrachen.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">e75013c0ffa4cc850060bc451c20861f636ad8af2121e53909ce8d3f4b3d49ca</guid>
-      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
