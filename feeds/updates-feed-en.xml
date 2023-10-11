@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Oct 2023 04:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 00:36:44 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/10/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MATCHMAKING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Matches will now be made with smaller rating differences between the teams at the expense of longer queue times.<br/></li></ul><br/><br/>[ Premier ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Relegation and Promotion matches will only occur at color boundaries, i.e. every 5000 CS Rating points.<br/></li><li class="bbcodes_ListItem_1BF9I"> Increased possible CS Rating win/loss amounts to move players faster after calibration.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">46bca5bca403aa70e985e2eb8100e4a44bd975cfb7bae47e3f1c8855a81f007b</guid>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/9/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">54bb13d5d4d43619826a66a60c7ecf8f5843d7af2f35c86f60cb8b9f4edbc80f</guid>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 9/5/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed CT spawn area shape in minimap<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted spawn locations to reduce the likelihood of players spawning stuck together<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Re-enabled Casual matchmaking<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped weapons were behaving like held weapons<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted interpolation parameters<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing bullet tracers on hits<br/></li><li class="bbcodes_ListItem_1BF9I"> Made it easier to pick up dropped weapons<br/></li></ul><br/><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where music wouldn't play at the end of deathmatch<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to Premier UI elements<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted freeze time post-processing effects<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing player models for the first few seconds after team introductions<br/></li><li class="bbcodes_ListItem_1BF9I"> Windows community servers can now appear in Steam Server Browser<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">a012def21be75e843dddc57d7b868ff521fec9398180d55d7e9e843212eef5df</guid>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
