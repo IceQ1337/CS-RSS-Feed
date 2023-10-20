@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Oct 2023 20:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 00:37:05 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/19/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added a startup check for incompatible AMD graphics drivers. We will now begin reversing VAC bans for affected players<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug in Windows 11 Auto HDR that led to smokes intermittently disappearing<br/></li><li class="bbcodes_ListItem_1BF9I"> Miscellaneous bug fixes<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">7b8ef4637707e7492c80e66e825eb07e7f4c5c4c1220f9fee5a5ad5c895b1261</guid>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 17.10.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">eb16d7cc04f3f6e83fed1a75c811dc49a7ebdea8654d2a64aba6e1af4d1deecc</guid>
       <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 13.09.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen bei allen veröffentlichten Karten vorgenommen.<br/></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen an Molotow-/Brandgranaten vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen an Rauchgranaten vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Probleme mit den Schadensindikatoren für Feuerschaden behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kondensstreifen von Scharfschützenschüssen aus der Ego-Perspektive angepasst, um die Schussgenauigkeit besser zu reflektieren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Anpassungen an der Verzögerungskompensation vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Im Radar wurde die Höhenanzeige von Spielern durch deren Blickrichtung ersetzt.<br/></li></ul><br/><br/>[ PREMIUM-SPIELSUCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen an Elementen der Benutzeroberfläche vorgenommen.<br/></li></ul><br/><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen und Optimierungen am Audiomix vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Okklusions- und Distanzeffekte für Schüsse, Schritte und Nachladen reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Stereobreite leicht erhöht.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den auf erhöhten Kanten falsche Schritt- und Sprunglandeklänge abgespielt wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Musik am Rundenende im Spielmodus Deathmatch gestoppt wurde.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Im Kaufmenü wird jetzt statt dem aktuellen Rüstungswert der Wert angezeigt, der gekauft werden kann, um die Kevlarweste vollständig zu reparieren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerkorrekturen an Waffenlackierungen, Handschuhen und Aufklebern vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Leistungsverbesserung beim Rendern von Wasser vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Positionen von Namensschildern an allen Messermodellen hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die Sprachlautstärke kann jetzt von jedem Spieler individuell eingestellt werden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen am HUD vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einstellung hinzugefügt, um animierte Avatare zu deaktivieren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse veraltete Netzwerk-Konfigurationsvariablen entfernt, die in CS:GO existierten, aber in CS2 keinen Effekt haben.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">c00b4ff5e673d99c6436af8f2aa0fab7eb0e93005abaccccb806f4b93c3c4c78</guid>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
