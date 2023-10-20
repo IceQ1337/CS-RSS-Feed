@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Oct 2023 00:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 20:08:22 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/20/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added more client information to the screen timestamp label to help investigate reported issues. <br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed rendering issue related to GPU UltraWide+ feature. <br/></li><li class="bbcodes_ListItem_1BF9I"> Stability improvements.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">2d3cfa2f7fa90bb86d9d4595d412f85420985e5fda6d2b76141fca2c3a8c6163</guid>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/19/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">9efcec8f935f4a579062675645b5df2fdccd8dcd074f34d38b514fc59165ba0a</guid>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 9/14/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various clipping adjustments<br/></li></ul></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rebalanced lag compensation to favor lower-latency players<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped grenades were invisible<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where dropped bombs and weapons would appear in the wrong location<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">eb16d7cc04f3f6e83fed1a75c811dc49a7ebdea8654d2a64aba6e1af4d1deecc</guid>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
