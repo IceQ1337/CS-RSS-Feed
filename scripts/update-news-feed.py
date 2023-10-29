@@ -28,7 +28,6 @@ try:
     options.add_argument('--headless')
     driver = webdriver.Chrome(options=options)
 except:
-    driver.quit()
     sys.exit(f'Failed to initialize the headless web browser.')
 
 # Loop over the languages and generate an RSS feed for each language
