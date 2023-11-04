@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Nov 2023 00:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Nov 2023 00:36:42 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 11/3/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated Redemption UI to show remaining time before weekly rollover<br/></li><li class="bbcodes_ListItem_1BF9I"> Competitive Rating will now be updated after returning to main menu from a win<br/></li><li class="bbcodes_ListItem_1BF9I"> Added notice to end of match for when CS Rating had been adjusted midmatch (e.g. due to the outcome of a match that the player was kicked from or abandoned, or recovering lost points from playing against a cheater)<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8bac4c38e5957c7813c7a4eb97bcd8337b9f0c8f67211a1bf696ab5fba406d01</guid>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 11/2/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">c2993a6a7e3d0e67a3252e69af5af9c698784a321544fe218eac2f39f34fdd1b</guid>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Weitere Patchnotizen vom 27.09.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Waffensounds klingen nicht mehr so, als kämen sie von der Stelle, auf die gezoomt wird.<br/></li></ul><br/><br/>[ WASSER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Wasser auf Nuke aktualisiert, um ein Problem mit Rauchgranaten zu beheben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Maximale Lichtablenkung des Wassers reduziert, weil diese zu sehr ins Auge stach und ablenkend wirkte.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Abschussanzeige nicht angezeigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Fadenkreuzvorschau in den Spieleinstellungen nicht angezeigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Debug-Text auf dem Fadenkreuz angezeigt wurde.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">7cb1c88954b34e9264783ee2a885d9d8361a702acefc4019b4d5025c2a67404a</guid>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
