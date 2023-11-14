@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Nov 2023 04:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 00:37:33 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 11/13/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a bug where collision between players was sometimes causing players to step up<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where players could slide up walls in Mirage mid<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a movement systems bug where players could get stuck on geometry<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug that prevented "Zoom Button Hold: Repeat Disabled" from working correctly<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where switching weapons immediately after shooting would result in the shot not registering on the server<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where players could shoot during freeze time at the ends of warmup, halves, and matches<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">288d3d8728b2f057d5bb4034ad1d61c540ab11dbf5f3aab310a0c7c00d74e9f0</guid>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 11/9/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">70b9917367d85aed7175e70fcda05307147d5cc718deece08200c228207906a0</guid>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 02.10.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Bewegungsverlangsamung durch verschlammte Oberflächen entfernt.<br/></li></ul><br/><br/>[ GRAFIK ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler bei der Shader-Kompilierung behoben, der beim Verbindungsaufbau mit einem Server auftrat und anschließend zu Rucklern führte. Hinweis: Diese Ruckler können weiterhin für AMD-Grafikkarten auftreten; wir arbeiten gemeinsam mit AMD an der Lösung dieses Problems.<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Messerstöße nicht durch Untersuchen unterbrochen werden konnten.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen für Waffenlackierungen und Handschuhe vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler korrigiert, durch den Molotows/Brandgranaten einen Feuerring in der Luft hervorriefen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Leistung bei der Löschung des von Molotows/Brandgranaten verursachten Feuers verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Das Fallenlassen und Aufheben von Waffen weiter verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Abstürze behoben.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">01ee51de89724038fa71412ef9607614d6fcff6765418d7b414047fdaad6d0d1</guid>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Nov 2023 04:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 00:37:32 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 11/13/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a bug where collision between players was sometimes causing players to step up<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where players could slide up walls in Mirage mid<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a movement systems bug where players could get stuck on geometry<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug that prevented "Zoom Button Hold: Repeat Disabled" from working correctly<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where switching weapons immediately after shooting would result in the shot not registering on the server<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where players could shoot during freeze time at the ends of warmup, halves, and matches<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">288d3d8728b2f057d5bb4034ad1d61c540ab11dbf5f3aab310a0c7c00d74e9f0</guid>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 11/9/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">70b9917367d85aed7175e70fcda05307147d5cc718deece08200c228207906a0</guid>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 10/2/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Removed movement penalty on mud surfaces<br/></li></ul><br/><br/>[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with shader compilation when connecting to a server that was causing hitches after connecting. Note that these hitches may still exist on AMD GPUs; we are working with AMD to address this<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where knife slashing couldn't be interrupted with an inspect<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes and gloves<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where molotov/incendiary grenades would create a fire ring in the air<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved performance of molotov/incendiary fire extinguishing<br/></li><li class="bbcodes_ListItem_1BF9I"> Various improvements to weapon dropping and throwing<br/></li><li class="bbcodes_ListItem_1BF9I"> Various crash fixes<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">01ee51de89724038fa71412ef9607614d6fcff6765418d7b414047fdaad6d0d1</guid>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
