@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Nov 2023 00:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 00:39:52 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 11/20/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed silencer attach and detach animations<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug that prevented refunding the Bizon<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where players could respawn into a bad state during reconnect<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where ramps were not correctly reducing fall damage<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where sub-tick movement timestamps were temporarily incorrect after changing host_timescale<br/></li><li class="bbcodes_ListItem_1BF9I">Various fixes and improvements to de_ancient<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">80af69dfc9f620664d3fd57c9d236061d3ba46d7f72aace89f2865ca87021b7d</guid>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 11/17/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">46bca5bca403aa70e985e2eb8100e4a44bd975cfb7bae47e3f1c8855a81f007b</guid>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 10/9/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where feet would appear black when looking down at them through a scope<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a memory leak due to particles<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed several hitbox alignment bugs<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed knife spinning not feeling as fast as in CS:GO<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed the bolt not moving during the M4A4 and M4A1-S deployment animations<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where weapon inspect could interrupt the silencer toggle animation<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to Mirage, Vertigo, and Nuke<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed several bugs with "Looking to Play"<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to weapon finishes and stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where loadout changes weren't saved if the game was closed shortly after making changes<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where Steam Friends' match status was delayed or missing<br/></li><li class="bbcodes_ListItem_1BF9I"> CPU performance improvements for weapon tracers<br/></li><li class="bbcodes_ListItem_1BF9I"> Added an official matchmaking datacenter in Chengdu, China<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">149b0e63ed8441de36218f9ebd5742686e1e097aa90f7a0befb7a199847e1595</guid>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
