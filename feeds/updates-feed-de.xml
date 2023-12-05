@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 01 Dec 2023 00:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 00:40:11 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 12/4/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a bug where grenade throw strength adjustments were sometimes delayed<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where attempting to switch to a grenade immediately after throwing it would cancel the throw<br/></li><li class="bbcodes_ListItem_1BF9I">You can now get an intermediate strength grenade throw without a delay by pressing primary and secondary attack simultaneously<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed several cases of players sticking while sliding against geometry<br/></li><li class="bbcodes_ListItem_1BF9I">Player pings will now be displayed in the player's color<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed "Ace Round MVP" calculation bug when teams had a different number of players<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed shorthanded bonus logic sometimes incorrectly accounting for kicked players<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">d2f19b25528503c2955b34a4c96532d5291eccd05b7d97100b6ab659b34ced00</guid>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 11/30/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">23004eb7e78bc284fb8de8548580a5b28d9eb150365ee4fbb2db176855a303fc</guid>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 12.10.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Bei einer Inkonsistenz zwischen einem Server und einem Client bezüglich der Ausrüstung des Spielers (z. B. wenn ein Spiel während eines Patches beginnt), zeigt das Kaufmenü nun die vom Server autorisierte Ausrüstung an.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Spieler Decken in der Spielwelt durchdringen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an Charakter-Shadern vorgenommen, um die Sichtbarkeit von Spielern zu verbessern.<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Füße eines Spielers am Boden zu haften schienen und es so aussah, als würde er sich wie Michael Jackson im Musikvideo zu „Smooth Criminal“ bewegen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Messeranimationen für die Teamauswahl und Teamvorstellung angepasst, sodass nun auch Schattendolche unterstützt werden.<br/></li></ul><br/><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen an Inferno, Mirage, Nuke, Overpass und Vertigo vorgenommen.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Option „Spielerfarbe“ zur Einstellung „HUD-Farbe“ hinzugefügt, sodass sich das HUD Ihrer Spielerfarbe bzw. der anderer Spieler beim Zuschauen in Wettkampfmodi anpasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Standardeinstellung für „Spielerfarben für Team-ID verwenden“ auf „Ja“ geändert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einstellung „Nur Spieleranzahl anzeigen“ hinzugefügt, die im HUD alle Avatare der Spieler durch die Anzahl aller lebenden Spieler ersetzt, solange der Spieler während einer Runde selbst noch lebt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den der Wechsel eines Graffitos während des Spiels verzögert vonstattenging.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen für Waffenlackierungen und Aufkleber vorgenommen.<br/></li></ul><br/><br/>[ WORKSHOP-WERKZEUGE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Neue Schaltfläche „Screenshot“ hinzugefügt, wodurch ein Screenshot des Spielfensters aufgenommen und als eine .png-Datei auf der Festplatte abgespeichert wird. Bei Verwendung von „Untersuchen“ mit grauem oder grünem Hintergrund wird die .png-Datei mit ausgeblendeten Elementen der Benutzeroberfläche und einem transparenten Hintergrund gespeichert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Vorschaukarten für Inferno (workshop_preview_inferno) und Ancient (workshop_preview_ancient) hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Gegenstands-Editor für den Workshop angepasst. Das integrierte Hilfesystem enthält ausführliche Anleitungen, wenn im Beschreibungstext (More Help: Shift+F1) angezeigt wird. Diese ausführlichen Anleitungen enthalten wichtige Informationen über PBR-Farbbereiche, Alphakanalwerte für Abnutzung/Haltbarkeit und Maskierung und vieles mehr.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">5f33b8b66e8af4f1fef4d5abd8a6c38d48d8e99c66cc72ac2f59a02f0a11952d</guid>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
