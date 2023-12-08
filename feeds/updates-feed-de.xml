@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 07 Dec 2023 04:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 00:39:39 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 12/7/2023</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where explicit weapon switches right after grenade throws were delayed slightly<br/></li></ul><br/>[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Inferno:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where you could plant C4 in planter<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">d187f9632344e67ba49d5d83ec54810bab7f8eddc32707f630811035ab5ea279</guid>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 12/6/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">7b8ef4637707e7492c80e66e825eb07e7f4c5c4c1220f9fee5a5ad5c895b1261</guid>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 17.10.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Befehlsaliasse sind jetzt auf die Genauigkeit des Subtick-Systems abgestimmt.<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Neues Piepsgeräusch für die Zehn-Sekunden-Warnung bis zur Bombenexplosion hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlende Sprachdialoge für den Agenten „3. Kommandokompanie | KSK“ hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Geräuschreduzierung für Messertreffer und -schwünge auf Distanz angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Optimierungen und Fehlerkorrekturen bei Verdeckungsfiltern und der Hörbarkeit von Schritten vorgenommen.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehlende Spielstatusintegrationsdaten für Blendgranaten und Schadensstatistiken hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den entschärfte Bomben Spieler daran hinderten, zu einer in der Nähe fallen gelassenen Waffe zu wechseln.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Fehler behoben, durch den Spieler Decken in der Spielwelt durchdringen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Konsolenbefehl „cl_draw_only_deathnotices“ blockiert jetzt Hinweise zum Spielstatus wie „LETZTE RUNDE DER ERSTEN HÄLFTE“.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spielserverbefehl „sv_load_forced_client_names_file“ hinzugefügt. Das Ausführen von Turnierservern mit „+sv_load_forced_client_names_file namesfile.txt“ erlaubt das Laden einer Schlüsseldatei, durch die erzwungen wird, dass die für das Turnier registrierten Spielernamen als Clientnamen verwendet werden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Zusätzlichen Ausweichpfad für Spielclients zum Herunterladen der Netzwerkkonfiguration hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieleinstellung „cq_netgraph_problem_show_auto“ hinzugefügt, um automatisch einen Indikator für Netzwerkverbindungsprobleme in der oberen rechten Ecke des HUDs anzuzeigen.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">36322ffe97ae20c8e4e81be022d16d719d53f0a6b0664323dd03bc105b61daeb</guid>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
