@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 11 Jan 2024 00:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 00:40:05 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 1/18/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><div class="bbcodes_Italic_zA7ad BB_Italic">Vertigo:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a gap in geometry<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4cb566296faee99dc624720e6b648aa21090c6927726e8746701f02b5d88d4a7</guid>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 04.01.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">9681ce741bde125ad3205ef494074bc574b9d017a33d18699bee59889124942a</guid>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 03.11.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Oberfläche für das wöchentliche Versorgungspaket aktualisiert, um die verbleibende Zeit anzuzeigen, bis das nächste Paket eingelöst werden kann.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die CS-Wertung/Skill-Gruppe wird jetzt aktualisiert, wenn Spieler nach einem Sieg ins Hauptmenü zurückkehren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Hinweis am Ende eines Spiels hinzugefügt, falls die CS-Wertung in dessen Verlauf angepasst wurde (z. B. wenn das Ergebnis des Spiels durch den Rauswurf oder den Abbruch eines Spielers beeinflusst wurde oder der Spieler verlorene Punkte aus einem Spiel gegen einen Cheater gutgeschrieben bekommt).<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen vorgenommen.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">8bac4c38e5957c7813c7a4eb97bcd8337b9f0c8f67211a1bf696ab5fba406d01</guid>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
