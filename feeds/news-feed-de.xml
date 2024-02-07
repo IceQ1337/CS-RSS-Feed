@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 19 Dec 2023 01:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 01:29:16 +0000</lastBuildDate>
+    <item>
+      <title>A Call to Arms</title>
+      <link>https://www.counter-strike.net/newsentry/4064004264605245458?l=german</link>
+      <description><![CDATA[<a class="Focusable" href="https://store.steampowered.com/sale/armsrace?snr=" tabindex="0"><span><img src="https://clan.akamai.steamstatic.com/images/3381077/aaae97dfe5530d92066a520ee5f83b233e926a0b.png"/></span></a><br/>Arms Race has returned! Grab your guns and brace yourself for a chaotic race to the top. Get two kills with each weapon to reach the final stage, or steal your opponents’ progress with your knife (or now with the Zeus)! Work your way up to the knife stage and earn the final kill to secure the win.<br/><br/>There's a lot more shipping today, from custom sticker placement to new content to gameplay updates. Click <a class="Focusable" href="https://store.steampowered.com/sale/armsrace?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">here</span></a> to learn more!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4064004264605245458</guid>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Verdienstmedaille 2024</title>
       <link>https://www.counter-strike.net/newsentry/6107508076983703492?l=german</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/6eba6fdad2eeb08061c08631ae1ebe7e14099427.png"/><br/><br/>Würdigen Sie Ihre Zeit in CS2 mit der brandneuen Verdienstmedaille 2024, die ab dem 1. Januar erhältlich ist!<br/><br/>Um Ihre Verdienstmedaille zu erhalten, müssen Sie Ihren CS2-Profilrang erhöhen, indem Sie in den offiziellen Spielmodi Erfahrungspunkte verdienen. Wenn Sie Profilrang 40 („Globaler General“) erreichen, haben Sie die Möglichkeit, Ihren Profilrang zurückzusetzen und eine Verdienstmedaille 2024 zu erhalten (oder aufzuwerten). Die Verdienstmedaille ist ein besonderes Abzeichen, das Sie überall dort zur Schau stellen können, wo Ihr Avatar angezeigt wird.]]></description>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/6eba6fdad2eeb08061c08631ae1ebe7e14099427.png"/><br/><br/>Würdigen Sie Ihre Zeit in CS2 mit der brandneuen Verdienstmedaille 2024, die ab dem 1. Januar erhältlich ist!<br/><br/>Um Ihre Verdienstmedaille zu erhalten, müssen Sie Ihren CS2-Profilrang erhöhen, indem Sie in den offiziellen Spielmodi Erfahrungspunkte verdienen. Wenn Sie Profilrang 40 („Globaler General“) erreichen, haben Sie die Möglichkeit, Ihren Profilrang zurückzusetzen und eine Verdienstmedaille 2024 zu erhalten (oder aufzuwerten). Die Verdienstmedaille ist ein besonderes Abzeichen, das Sie überall dort zur Schau stellen können, wo Ihr Avatar angezeigt wird.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6107508076983703492</guid>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3673284490064181315</guid>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anu Map Who Bis</title>
-      <link>https://www.counter-strike.net/newsentry/3469488996658509791?l=german</link>
-      <description><![CDATA[Das heutige Update enthält Anpassungen am aktiven Kartenpool sowie an einigen Waffen.<br/><br/><img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/00057c6cfafc95cb56238d670a4d2751969158d7. ng"/><br/><br/>Zunächst nehmen wir einige Änderungen am aktiven Kartenpool vor, um zu bestimmen, welche Karten bei der CS:GO-Meisterschaft Paris 2023 gespielt werden.<br/><br/>Anubis wird zum aktiven Dienst hinzugefügt und Dust2 daraus entfernt. Beide Karten bleiben jedoch weiterhin für Gelegenheitsspiel, Deathmatch und den Wettkampfmodus verfügbar.<br/><br/>Wir nehmen auch einige Anpassungen an den Waffen vor. Die Magazingröße der AWP wurde auf fünf Kugeln reduziert (stellen Sie also sicher, dass jede zählt!) und die M4A1-S fügt nun auf weite Entfernungen weniger Schaden zu. <br/><br/>Probieren Sie die Änderungen aus und teilen Sie uns Ihr Feedback mit!<br/><br/>Und danke für den Blogtitel auf Twitter, Ryan (@Schaffurr)!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3469488996658509791</guid>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
