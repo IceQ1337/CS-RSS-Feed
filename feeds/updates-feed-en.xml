@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Feb 2024 00:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 00:38:08 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 2/7/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ STICKERS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where AMD graphics users couldn't move stickers<br/></li><li class="bbcodes_ListItem_1BF9I"> Stickers with custom offsets will now render properly when inspecting other items in-game from Steam Community Market and Steam Inventory<br/></li></ul><br/>[ SMOKE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks<br/></li></ul><br/>[ SOUND ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a performance bug with certain microphone setups<br/></li></ul><br/>[ NETWORKING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> cl_interp can no longer be changed directly. Some players had scripts that were setting this to a large value, leading to very bad rubber-banding. The interpolation amount can be adjusted through the "Buffering to smooth over packet loss" setting instead<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with the Kukri knife inspect animation<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where a player holding an incendiary grenade would sometimes show fire effects at their feet<br/></li></ul><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Removed XP Overload icon from the kill feed<br/></li><li class="bbcodes_ListItem_1BF9I"> The swap weapon prompt will now show the weapon/finish name rather than the custom name<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with switching background maps while inspecting gloves<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Vertigo:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a gap in world geometry at Crane<br/></li></ul></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with keyboard input from non-English keyboard layouts<br/></li><li class="bbcodes_ListItem_1BF9I"> Various crash fixes<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">454bff22b6e9153fde9025b7c0ba3ead43f4976caaa79557d92e035dd9a5bfc6</guid>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 2/6/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">288d3d8728b2f057d5bb4034ad1d61c540ab11dbf5f3aab310a0c7c00d74e9f0</guid>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 11/9/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added support for accepting game invites and party invites from Steam Chat and Steam Overlay.<br/></li><li class="bbcodes_ListItem_1BF9I">Added an execution delay for certain commands that can be specified on command line to be deferred until main menu fully loads (e.g. econ action preview commands, match download commands, playdemo, and similar).<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug that caused game events to not appear in CSTV demos recorded in tv_record_immediate mode.<br/></li><li class="bbcodes_ListItem_1BF9I">CSTV auto record now requires either an active CSTV server or tv_record_immediate to be enabled.<br/></li><li class="bbcodes_ListItem_1BF9I">Performance optimizations in game server demo recording code.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">f895e4cb03a61031d7193ad4ba2d3033852baa378fe72b915377e27e544c7ba0</guid>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
