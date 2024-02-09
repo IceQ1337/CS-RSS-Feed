@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 00:37:08 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 2/8/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ ARMS RACE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where an extra kill with a shotgun before the knife level counted as the winning knife kill<br/></li></ul><br/>[ SMOKE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted visibility of player silhouettes in smoke<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where enemies were visible on the radar when viewed through a combination of smoke and translucent surfaces such as glass<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various bug fixes and tweaks to inspect animations<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where doors spun the wrong way on several maps<br/></li><li class="bbcodes_ListItem_1BF9I"> Nuke:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed vis regressions<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Ancient:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed pixel gap looking into bombsite B from T Side<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Anubis:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed potential spot where bomb could be thrown into an unreachable area at T Spawn<br/></li><li class="bbcodes_ListItem_1BF9I"> Enabled collision on ledge meshes at Sniper's Nest to prevent dropped weapons clipping through them<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Mirage:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed collision in Palace where bomb could be thrown into an unreachable area<br/></li></ul></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where certain keys not found on US keyboards (such as the backslash key on UK keyboards) couldn't be bound<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed an issue preventing some older demos from playing back<br/></li><li class="bbcodes_ListItem_1BF9I"> Various crash fixes<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">454bff22b6e9153fde9025b7c0ba3ead43f4976caaa79557d92e035dd9a5bfc6</guid>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 2/7/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">dd4e19e3a6f440de9d053a8f9e570b156c1cf6b142d0c4959726bc2a6b0a36c3</guid>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 11/13/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a bug where collision between players was sometimes causing players to step up<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where players could slide up walls in Mirage mid<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a movement systems bug where players could get stuck on geometry<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug that prevented "Zoom Button Hold: Repeat Disabled" from working correctly<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where switching weapons immediately after shooting would result in the shot not registering on the server<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where players could shoot during freeze time at the ends of warmup, halves, and matches<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">288d3d8728b2f057d5bb4034ad1d61c540ab11dbf5f3aab310a0c7c00d74e9f0</guid>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
