@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 10 Feb 2024 00:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 04:10:10 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 2/12/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reconnecting to the game server will no longer get a player into a bad state.<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved VOIP performance when running the game at very high framerates.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed timings for some events in demo files representing start of the round.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed ring artifacts that could appear on smoke particles.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some lobby teammates standing offscreen when the main menu scenery was set to Warehouse map.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed storage units sometimes having a very small icon in inventory view.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a regression in items shuffling when matchmaking for Premier, Competitive, or Wingman.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed spectator kill streak effects playing when switching to a player with 5 kills.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a regression with Butterfly Knife inspect sounds.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a catch sound for Kukri knife draw animation.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed Zeus tracer appearing to pass through players.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">2796c6cf9167eef7acc8d966ec16209fd2f4ebe28cae0e5c756fe248165388c4</guid>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Weitere Patchnotizen vom 8.02.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">80af69dfc9f620664d3fd57c9d236061d3ba46d7f72aace89f2865ca87021b7d</guid>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 17.11.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Einige wenige Fehler bei Aktionen zwischen Sub-Ticks behoben.<br/></li><li class="bbcodes_ListItem_1BF9I">Animationsfehler in der Ego-Perspektive behoben, der bei Steuerungsübernahme eines Bots auftrat.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den fallen gelassene bzw. geworfene Gegenstände eine zu hohe Geschwindigkeit erreichten.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den Spieler durch niedrige Decken blicken konnten.<br/></li><li class="bbcodes_ListItem_1BF9I">Exploit behoben, der es Spielern erlaubte, sich zu teleportieren.<br/></li><li class="bbcodes_ListItem_1BF9I">de_overpass: Verschiedene Optimierungen und Fehlerbehebungen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I">de_anubis: Potenziellen Pixellücken-Exploit am Bombenort A behoben und Löcher in der Nähe von T-Start ausgebessert, an denen die Bombe aus der Spielwelt geschmissen werden konnte.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">dd4e19e3a6f440de9d053a8f9e570b156c1cf6b142d0c4959726bc2a6b0a36c3</guid>
-      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
