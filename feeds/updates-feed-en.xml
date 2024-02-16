@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2024 04:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 04:09:40 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 2/15/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fix for animations when climbing ladders<br/></li><li class="bbcodes_ListItem_1BF9I">Fix for menu agents wielding tasers<br/></li><li class="bbcodes_ListItem_1BF9I">Fix for Kukri knife hold animation during team intro sequence<br/></li></ul><br/><br/>[ SPECTATING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">spec_lock_to_accountid and spec_lock_to_current_player commands are now available for casters/observers<br/></li><li class="bbcodes_ListItem_1BF9I">spec_player and spec_goto now works in CSTV and demo playback<br/></li><li class="bbcodes_ListItem_1BF9I">tv_secure_bypass server setting now allows connecting HLAE observers to VAC secure CSTV servers<br/></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> In Deathmatch, the Zeus can be bought each life and will rebuy if not in random weapon mode<br/></li><li class="bbcodes_ListItem_1BF9I"> In Deathmatch, getting a second Zeus kill in the same life will earn double points<br/></li><li class="bbcodes_ListItem_1BF9I"> mp_modify_timeouts server-side command allows adding/subtracting a tactical timeout from CT/T team if backup file is restored or a team incorrectly took a tactical timeout instead of a technical timeout<br/></li></ul><br/><br/><br/>[ LOGGING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Start of warmup and end of warmup will now produce a log message in the game server log<br/></li><li class="bbcodes_ListItem_1BF9I">Reported damage no longer has a rounding error when reported in the game server log<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Improved viewmodel animation smoothness when client framerates get low or unstable<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed issues with implementation of scancode-based key bindings. Bindings are now independent of input locales.<br/></li><li class="bbcodes_ListItem_1BF9I">Added performance diagnostic HUD element that can be configured in Game Settings menu ("Telemetry")<br/></li><li class="bbcodes_ListItem_1BF9I">Deleted cq_netgraph and cq_netgraph_problem_show_auto.  Instead, use cl_hud_telemetry_serverrecvmargin_graph_show.<br/></li><li class="bbcodes_ListItem_1BF9I">Fix for sometimes failing to connect to a local practice server without Steam connectivity<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug with Skill Group animation at the end of competitive matches<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed sniper scope performance hitch and adjusted visual treatment. <br/></li><li class="bbcodes_ListItem_1BF9I">Various performance improvements<br/></li></ul><br/><br/>[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Vertigo:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed grenade clipping around AC unit at B-site<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed clipping of pillar at T-Start that would potentially allow bomb to be thrown into unreachable area<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Nuke:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Adjusted clipping around Vents entrance to prevent players' feet clipping through the vent geo<br/></li><li class="bbcodes_ListItem_1BF9I">Improved collision of sliding door meshes at Ramp<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Anubis:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added and removed a ladder near boost spot by T spawn<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a couple of spots where bomb could be thrown out of the map<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Overpass:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Clipping improvements<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed some disappearing mesh<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">f2cf3e55e6b796699804bade2c8d7499fceccf16491c5929c2b3c11852327f8e</guid>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 2/12/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">cb695d522ba761c02d58e69ea4afec7aa25967bd3f95123c89fa639d35ee0f75</guid>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 11/20/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed silencer attach and detach animations<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug that prevented refunding the Bizon<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where players could respawn into a bad state during reconnect<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where ramps were not correctly reducing fall damage<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where sub-tick movement timestamps were temporarily incorrect after changing host_timescale<br/></li><li class="bbcodes_ListItem_1BF9I">Various fixes and improvements to de_ancient<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">80af69dfc9f620664d3fd57c9d236061d3ba46d7f72aace89f2865ca87021b7d</guid>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
