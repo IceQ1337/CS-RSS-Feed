@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 04:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 20:08:23 +0000</lastBuildDate>
+    <item>
+      <title>Release Note for 3/8/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a threading bug that could lead to a frame rate hitch, especially if all CPUs were busy.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4f5bdea9d23349753226618a79adf13a8cfdf72d6b5b775516a9bcc61bc3db18</guid>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 2/28/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -117,14 +125,6 @@
       <title>Release Notes for 12/7/2023</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
       <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where explicit weapon switches right after grenade throws were delayed slightly<br/></li></ul><br/>[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Inferno:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where you could plant C4 in planter<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">d187f9632344e67ba49d5d83ec54810bab7f8eddc32707f630811035ab5ea279</guid>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 12/6/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed an issue where the player's shadow would sometimes show the incorrect animation state<br/></li><li class="bbcodes_ListItem_1BF9I">Weapon switching after releasing the fire button(s) will no longer cancel grenade throws (but round restart will)<br/></li><li class="bbcodes_ListItem_1BF9I">Various animation system optimizations<br/></li><li class="bbcodes_ListItem_1BF9I">Various minor bug fixes to demo playback<br/></li></ul><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a bug where starting pistols weren't showing in the Pistols tab of the Equipment view<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed an issue where silencers would not be shown on weapons when held by characters in the UI<br/></li></ul><br/>[ MAPS ]<br/><div class="bbcodes_Italic_zA7ad BB_Italic">Mirage:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a gap under the door at Middle<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Anubis:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added a grenade clip to the wall at Bridge<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Vertigo:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Changed the collision properties on railings to emit the correct footstep sounds<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Nuke:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fix for the sun material not blooming and adjusted the size of the material<br/></li><li class="bbcodes_ListItem_1BF9I">Cleaned up redundant skins on metal_door models to prevent workshop mappers hitting fatal errors for missing assets<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a visibility bug at Garage when looking towards Hell<br/></li><li class="bbcodes_ListItem_1BF9I">Changed the collision properties on railings to emit the correct footstep sounds<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Inferno:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Changed the collision properties on railings to emit the correct footstep sounds<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed an issue where some chimney models would disappear in the skybox<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Dust2:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Changed the collision properties on railings to emit the correct footstep sounds<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">d187f9632344e67ba49d5d83ec54810bab7f8eddc32707f630811035ab5ea279</guid>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>

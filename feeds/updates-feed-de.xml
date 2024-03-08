@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 08 Mar 2024 04:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 20:08:25 +0000</lastBuildDate>
+    <item>
+      <title>Release Note for 3/8/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a threading bug that could lead to a frame rate hitch, especially if all CPUs were busy.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4f5bdea9d23349753226618a79adf13a8cfdf72d6b5b775516a9bcc61bc3db18</guid>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 28.02.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -117,14 +125,6 @@
       <title>Patchnotizen vom 07.12.2023</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
       <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein manueller Waffenwechsel unmittelbar nach einem Granatenwurf die gleiche Verzögerung aufwies wie ein automatischer Waffenwechsel.<br/></li></ul><br/>[ KARTEN ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Inferno:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Bombe versteckt in einem Blumentopf gelegt werden konnte.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">d187f9632344e67ba49d5d83ec54810bab7f8eddc32707f630811035ab5ea279</guid>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 06.12.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den der Schatten eines Spielers gelegentlich falsch animiert war.<br/></li><li class="bbcodes_ListItem_1BF9I">Granatenwürfe werden nicht mehr durch einen Waffenwechsel nach dem Loslassen der Maustaste(n) abgebrochen. (Rundenübergänge hingegen brechen diese ab.)<br/></li><li class="bbcodes_ListItem_1BF9I">Diverse Optimierungen am Animationssystem vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I">Diverse kleinere Fehlerbehebungen an der Demo-Wiedergabe vorgenommen.<br/></li></ul><br/>[ BENUTZEROBERFLÄCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den die Start-Pistolen nicht im jeweiligen Slot der Ausrüstung angezeigt wurden.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den Schalldämpfer nicht auf den jeweiligen Waffen angezeigt wurden, wenn diese vom Spieler in der Ausrüstungsoberfläche ausgerüstet wurden.<br/></li></ul><br/>[ KARTEN ]<br/><div class="bbcodes_Italic_zA7ad BB_Italic">Mirage:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Loch unter der Tür in der Mitte ausgebessert.<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Anubis:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Granaten-Clipping zur Wand bei der Brücke hinzugefügt.<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Vertigo:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Kollisionseigenschaften für Geländer geändert, damit diese die richtigen Schrittgeräusche abspielen.<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Nuke:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Problem mit dem Strahleneffekt des Sonnenmaterials behoben und die Materialgröße angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I">Überflüssige Skins für „metal_door“-Modelle entfernt, um zu verhindern, dass Workshop-Kartenersteller eine schwerwiegende Fehlermeldung für fehlende Elemente erhalten.<br/></li><li class="bbcodes_ListItem_1BF9I">Sichtbarkeitsproblem von Garage mit Blick in Richtung Hölle behoben.<br/></li><li class="bbcodes_ListItem_1BF9I">Kollisionseigenschaften für Geländer geändert, damit diese die richtigen Schrittgeräusche abspielen.<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Inferno:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Kollisionseigenschaften für Geländer geändert, damit diese die richtigen Schrittgeräusche abspielen.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den einige Schornsteinmodelle in der Skybox nicht mehr angezeigt wurden.<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Dust II:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Kollisionseigenschaften für Geländer geändert, damit diese die richtigen Schrittgeräusche abspielen.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">d187f9632344e67ba49d5d83ec54810bab7f8eddc32707f630811035ab5ea279</guid>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
