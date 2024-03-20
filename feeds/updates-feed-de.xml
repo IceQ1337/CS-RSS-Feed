@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 16 Mar 2024 00:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:37:02 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 3/19/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ COPENHAGEN 2024 MAJOR ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Elimination Stage Pick'Em Challenge is now active with 13 qualified teams (three more teams will qualify tomorrow). Elimination Stage picks can be updated and saved all the way until the first Elimination Stage matches begin<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a reminder for players who purchased their Copenhagen 2024 Viewer Pass that the pass must be activated in order to become eligible for the Copenhagen 2024 Coin Challenges<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a checkbox to show final Swiss standings in the Major Hub<br/></li><li class="bbcodes_ListItem_1BF9I"> Added ability to preview souvenir packages from the Major Hub<br/></li><li class="bbcodes_ListItem_1BF9I"> Various UI improvements in Copenhagen 2024 Major Hub<br/></li></ul><br/>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case when C4 could fall through the floor if dropped while planting<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a popup confirmation before launching Training Day from the Play menu<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">c3db24f2c5730bd06dc1c40afbe5ae619311e58793eec7b3a4b42c67213d1929</guid>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 13.03.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3b836de80d0446dd7675d80f4cd510fde88b84f9b47384f860f332765c40a966</guid>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 13.12.2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Effekte für das Auswerfen von Schrotpatronenhülsen hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Wenn ein Spieler mehrere Waffen über das Kaufmenü kauft, werden diese nun unter ihm fallen gelassen.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Brandneue Verdienstmedaille 2024 hinzugefügt, die ab dem 1. Januar erhältlich ist.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den einige ältere Demos nicht wiedergegeben werden konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Mehrere Exploits behoben, die das Hinzufügen von anderen Daten als Text zu Beschriftungen auf der Benutzeroberfläche ermöglichten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Freunde können ab sofort mithilfe eines Freundescodes hinzugefügt werden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Listenansicht bei mehreren Lobby-Einladungen hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Abnutzungsgrade einiger Community-Aufkleber angepasst, damit diese besser den Abnutzungsgraden von CS:GO entsprechen.<br/></li></ul><br/>[ KARTEN ]<br/><br/>Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Clipping angepasst, um ausnutzbare Kanten zu entfernen und die Spielerbewegung zu verbessern.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den metallene Geländer die falschen Schrittgeräusche abspielten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Positionen einiger Modelle und Vorsprünge angepasst, um dem Fallschaden in CS:GO besser zu entsprechen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Orte korrigiert, an denen Spieler stecken bleiben konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Modelle und Materialien angepasst, um die Sichtbarkeit von Charakteren zu verbessern.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den in einigen Fällen Waffen versehentlich außer Reichweite fallen gelassen werden konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen an Modellen vorgenommen, um unfaire Sichtlinien zu vermeiden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Anpassungen an der Beleuchtung und am Material vorgenommen.<br/></li></ul><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Granaten-Clipping am Eingang von Seitengang angepasst.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">1f34c7d543366d32ef8a179d6dc966d434da75a2d80f2af3d49fc31dd6a27f6d</guid>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

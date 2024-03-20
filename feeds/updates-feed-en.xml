@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Mar 2024 08:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:37:00 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 3/19/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ COPENHAGEN 2024 MAJOR ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Elimination Stage Pick'Em Challenge is now active with 13 qualified teams (three more teams will qualify tomorrow). Elimination Stage picks can be updated and saved all the way until the first Elimination Stage matches begin<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a reminder for players who purchased their Copenhagen 2024 Viewer Pass that the pass must be activated in order to become eligible for the Copenhagen 2024 Coin Challenges<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a checkbox to show final Swiss standings in the Major Hub<br/></li><li class="bbcodes_ListItem_1BF9I"> Added ability to preview souvenir packages from the Major Hub<br/></li><li class="bbcodes_ListItem_1BF9I"> Various UI improvements in Copenhagen 2024 Major Hub<br/></li></ul><br/>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case when C4 could fall through the floor if dropped while planting<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a popup confirmation before launching Training Day from the Play menu<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">c3db24f2c5730bd06dc1c40afbe5ae619311e58793eec7b3a4b42c67213d1929</guid>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 3/13/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3b836de80d0446dd7675d80f4cd510fde88b84f9b47384f860f332765c40a966</guid>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 12/13/23</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added shell eject effects for shotguns<br/></li><li class="bbcodes_ListItem_1BF9I"> Dropped weapons caused by buy menu purchasing are now dropped below the buyer<br/></li></ul><br/>[ MISC ]<br/><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added all-new 2024 Service Medal which will be available starting January 1st<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed an issue that prevented some older demos from playing back<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed multiple exploits that allowed adding non-text data into UI labels<br/></li><li class="bbcodes_ListItem_1BF9I"> Added the ability to add a Friend by using their friend code<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a lister for multiple lobby invites<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted wear values of some community stickers to better match CS:GO<br/></li></ul><br/>[ MAPS ]<br/><br/>Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted clipping to remove exploitable ledges and improve player movement<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed metal railing props that were generating incorrect footstep sounds<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted positions of props and ledges to more accurately match falling damage from CS:GO<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some places where players could get stuck<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted some props and materials to improve character readability<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where weapons could be accidently dropped out of reach<br/></li><li class="bbcodes_ListItem_1BF9I"> Made some adjustments to props that were creating exploitable lines of sight<br/></li><li class="bbcodes_ListItem_1BF9I"> Various lighting and material adjustments<br/></li></ul><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted grenade clipping volume at cave entrance<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">1f34c7d543366d32ef8a179d6dc966d434da75a2d80f2af3d49fc31dd6a27f6d</guid>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
