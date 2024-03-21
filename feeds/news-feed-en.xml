@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Mar 2024 08:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 04:34:21 +0000</lastBuildDate>
+    <item>
+      <title>PGL Copenhagen 2024: Stickers!</title>
+      <link>https://www.counter-strike.net/newsentry/4104540932612285123?l=english</link>
+      <description><![CDATA[The opening stage of the PGL Copenhagen Major has come to a close and storylines are rapidly developing. New rosters are rising to the occasion. Seasoned teams are reaching peak form at the perfect time. Asia and the Americas have come roaring back to life. Who will reach the playoffs? Tune in to the Elimination stage and find out!<br/><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/d58744721b2c90bc58597bd0aeee173411b2c185.png"/><br/>If you've been looking for a way to show your support for your favorite teams, now is your chance. Team and Player Autograph sticker capsules are now available for purchase in the Copenhagen Major hub. You'll find all of the players and teams at the Major, split into capsules featuring paper, glitter, holo, and gold stickers. 50% of the proceeds go to the players and organizations participating in the Major.<br/><br/>For those of you playing the Pick'Em Challenge, don't forget to set your picks before the first Elimination stage matches!<br/><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4104540932612285123</guid>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PGL Copenhagen 2024</title>
       <link>https://www.counter-strike.net/newsentry/6727887174668178386?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3729585915985023882</guid>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Next Era of Counter-Strike</title>
-      <link>https://www.counter-strike.net/newsentry/3716071937633222892?l=english</link>
-      <description><![CDATA[Counter-Strike 2 is the largest technical leap forward in Counter-Strike’s history, ensuring new features and updates for years to come.<br/><br/>All of the game’s new features will be revealed when it officially launches this summer, but the road to Counter-Strike 2 will begin later today with a Limited Test for select CS:GO players. During this testing period, we’ll be evaluating a subset of features to shake out any issues before the worldwide release.<br/><br/>Counter-Strike 2 arrives this summer as a free upgrade to CS:GO. So build your loadout, hone your skills, and prepare yourself for what’s next!<br/><br/>Learn more about some of the features of the CS2 Limited Test here <a class="Focusable" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcounter-strike.net%2Fcs2" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="counter-strike.net">https://counter-strike.net/cs2</span></a>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3716071937633222892</guid>
-      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
