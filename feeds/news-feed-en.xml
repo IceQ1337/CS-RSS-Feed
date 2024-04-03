@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2024 01:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 01:32:03 +0000</lastBuildDate>
+    <item>
+      <title>Copenhagen Major Champions</title>
+      <link>https://www.counter-strike.net/newsentry/4185606994270578198?l=english</link>
+      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/75c3204fcb2874385f7c3e1dafeb00003b76502e.png"/><br/>Congratulations to Natus Vincere, the first CS2 Major Champions!<br/><br/>Playing in front of a sold-out arena and with over 1.8 million viewers watching around the world, NAVI and FaZe met in the Grand Final of one of the most hotly-contested Counter-Strike Majors of all time. Trading map wins in Ancient and Mirage, the teams moved to Inferno for the decider. There, b1t, jL, Aleksib, iM, and w0nderful put on a dominating performance to earn the trophy and title of Major Champions.<br/><br/>To celebrate their achievement, the Copenhagen 2024 Major Champions Capsule is now available for purchase. The capsule features autographs for each member of the winning team in paper, glitter, holo, and gold. 50% of the proceeds go to the players and organizations.<br/><br/>And with that, the Copenhagen Major has come to a close. See you next time in Shanghai!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4185606994270578198</guid>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Championship Sunday in Copenhagen</title>
       <link>https://www.counter-strike.net/newsentry/4167591962341209737?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">5448836977171499668</guid>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enter The Legends</title>
-      <link>https://www.counter-strike.net/newsentry/5448836977153818924?l=english</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/01a596a210639b94aaf175af53b9c5b8db2ca38f.png"/><br/>The Challengers Stage of the BLAST.tv Paris Major has concluded and 8 teams have advanced to the Legends Stage.<br/><br/><span class="Bold">3-0:</span><br/>ENCE<br/>G2<br/><br/><span class="Bold">3-1:</span><br/>Apeks<br/>FaZe<br/>Ninjas in Pyjamas<br/><br/><span class="Bold">3-2:</span><br/>GamerLegion<br/>Monte<br/>Team Liquid<br/><br/>The Legends Stage begins May 13th and Pick'Ems are now open. <br/><br/>Team items are available <a class="Focusable" href="https://store.steampowered.com/sale/csgoparis2023?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">here</span></a> with 50% of the proceeds going to teams and organizations taking part in the Major.<br/><br/>Good luck to the 16 remaining teams!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">5448836977153818924</guid>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
