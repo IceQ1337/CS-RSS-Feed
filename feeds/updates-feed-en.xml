@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:37:27 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 4/2/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ COPENHAGEN 2024 MAJOR ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Congratulations to Natus Vincere for winning the PGL Copenhagen Major!<br/></li><li class="bbcodes_ListItem_1BF9I"> The Copenhagen 2024 Champions Autograph Capsule is now available for purchase in the Copenhagen 2024 Major Hub</li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed several cases of sticky collisions when jumping against surfaces<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed another threading bug that could lead to a frame rate hitch, especially if all CPUs were busy<br/></li><li class="bbcodes_ListItem_1BF9I"> Purchased and traded Counter-Strike items will not be visible to other users who view your Steam Inventory for 10 days</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">cb2b7dfda5fd59a3a4ecfa167f55d311d79444a38fd7181c95493ad3e81105aa</guid>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 3/19/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">d0d94a6a468df5055f5f423ff3f756d994c0f2a6c6659cd341c3ce7abdf13d3b</guid>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 12/18/23</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed cases where weapons and C4 could fall through the ground<br/></li><li class="bbcodes_ListItem_1BF9I"> Various bugfixes for stickers, weapon finishes, and gloves<br/></li></ul><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed inconsistent behavior with triggers when crouching in workshop maps<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> <div class="bbcodes_Italic_zA7ad BB_Italic">Italy, Nuke, Mirage, Inferno</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Changed some player collision surface types<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> <div class="bbcodes_Italic_zA7ad BB_Italic">Inferno</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed various gaps<br/></li></ul><br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3b836de80d0446dd7675d80f4cd510fde88b84f9b47384f860f332765c40a966</guid>
-      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
