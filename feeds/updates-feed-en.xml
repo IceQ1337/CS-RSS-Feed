@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 00:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 00:38:36 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 4/16/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where bomb can sometimes disappear from the radar<br/></li><li class="bbcodes_ListItem_1BF9I"> Allow scraping or removing stickers by selecting the sticker icons under the weapon<br/></li><li class="bbcodes_ListItem_1BF9I"> Allow deleting empty storage units that have an assigned label<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed Workshop tools from crashing when compiling maps that contain instances<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">2167658c7ed469cc3604d122f3ff91ec343932a7e04583d98b2465ee1b4a1a3e</guid>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 4/2/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">90e22735369f484702432e266ea62ede238b9c80c2c5ff18ba15314b74227070</guid>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Note for 12/21/2023</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a case where players could refund a grenade for a brief period after it was thrown<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">d0d94a6a468df5055f5f423ff3f756d994c0f2a6c6659cd341c3ce7abdf13d3b</guid>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
