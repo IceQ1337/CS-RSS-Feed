@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 17 Apr 2024 00:38:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 00:38:48 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 4/16/2024</title>
+      <title>Patchnotizen vom 16.04.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where bomb can sometimes disappear from the radar<br/></li><li class="bbcodes_ListItem_1BF9I"> Allow scraping or removing stickers by selecting the sticker icons under the weapon<br/></li><li class="bbcodes_ListItem_1BF9I"> Allow deleting empty storage units that have an assigned label<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed Workshop tools from crashing when compiling maps that contain instances<br/></li></ul>]]></description>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Bombe gelegentlich vom Radar verschwinden konnte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Aufkleber können jetzt abgekratzt oder entfernt werden, indem deren Symbol unter der Waffe in der entsprechenden Ansicht ausgewählt wird.<br/></li><li class="bbcodes_ListItem_1BF9I"> Leere Speichereinheiten mit Beschreibung können jetzt gelöscht werden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Absturz der Workshop-Werkzeuge behoben, der beim Kompilieren von Karten auftrat, die Instanzen (VMF-Dateien) enthielten.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">2167658c7ed469cc3604d122f3ff91ec343932a7e04583d98b2465ee1b4a1a3e</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
