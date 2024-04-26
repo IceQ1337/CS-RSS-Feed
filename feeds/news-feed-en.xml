@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 01:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 01:33:27 +0000</lastBuildDate>
+    <item>
+      <title>On The Other Hand...</title>
+      <link>https://www.counter-strike.net/newsentry/4202497395512481609?l=english</link>
+      <description><![CDATA[Today's update includes a bunch of quality-of-life improvements that touch upon every part of the game, from maps to UI to gameplay. A few highlights are below, but check out the <a class="Focusable" href="https://store.steampowered.com/news/app/730/view/4202497395513061959?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">release notes</span></a> to see what's new!<br/><br/><video autoplay="" height="auto" loop="" playsinline="" poster="https://clan.cloudflare.steamstatic.com/images/3381077/2723ea38b9ba52592038731f15e5e9ba512be979.png?origin=" width="100%"><source src="https://clan.cloudflare.steamstatic.com/images/3381077/1a9b430c3ae10f5ec94a27d24f87187618d1919a.mp4?origin=" type="video/mp4"/><source src="https://clan.cloudflare.steamstatic.com/images/3381077/758e01194008b2d20797a378de390cdc24305cf9.webm?origin=" type="video/webm"/></video><br/>Lefties rejoice! Players can now redeploy their weapons, swapping between the left and right hand. You can set your preferred handedness in the settings menu and then switch hands temporarily mid-round with a key press (H on US Keyboards by default).<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/897b47892c65929ccd471ccff7d5aa65696eeb6f.png"/><br/>The buy menu has a few new tricks. To help you decide whether to buy or save, the top right of the buy menu now features the minimum amount of money you're guaranteed to have next round (thanks Kadomos). And at the bottom you'll find the new 'Dropped Weapons' panel, where you can see (and directly pick up) any weapons that you or teammates have dropped in the buy zone.<br/><br/><video autoplay="" height="auto" loop="" playsinline="" poster="https://clan.cloudflare.steamstatic.com/images/3381077/f1462b7eefe16c70d61291b8676b1a404688da37.png?origin=" width="100%"><source src="https://clan.cloudflare.steamstatic.com/images/3381077/e14db7419e60d31e09ed7d199683561d061bbc17.mp4?origin=" type="video/mp4"/><source src="https://clan.cloudflare.steamstatic.com/images/3381077/ce366b2eaaf9211f367b50eec46533f8f99ba207.webm?origin=" type="video/webm"/></video><br/>There are several more HUD/UI changes in today's update. For those of you who have memorized a library of grenade line-ups, a line-up reticle will appear shortly after you pull the pin (you can even customize the delay for each grenade type). And if you've had trouble navigating through smoke, set a Radar Map Alternate Zoom and add a Toggle Radar Zoom key binding, which will let you switch between zoom levels during a round.<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/ac9e7e5f1f6386cfec4de86e771a6fdc7206471c.png"/><br/>We've updated the Active Duty map pool (for both Premier and competitions), removing Overpass and bringing back Dust II. And there are changes to many other maps, including significant changes to Inferno.<br/><br/>Jump right into a match and see what's new, or practice with your friends--practice matches and workshop maps can now be launched with members of your party.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4202497395512481609</guid>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Copenhagen Major Champions</title>
       <link>https://www.counter-strike.net/newsentry/4185606994270578198?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3686804163583320073</guid>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>On to the Finals</title>
-      <link>https://www.counter-strike.net/newsentry/5448836977171499668?l=english</link>
-      <description><![CDATA[<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3381077/14b184db38811db48b84d3fd439f8caf501aec41.png"/><br/><br/>The Legends Stage of the BLAST.tv Paris Major has concluded and the Champions Stage is set. The following teams will compete to become Major Champions of the final CS:GO Major:<br/><br/><span class="Bold">3-0:</span><br/>Heroic<br/>Vitality<br/><br/><span class="Bold">3-1:</span><br/>GamerLegion<br/>Monte<br/>Team Liquid<br/><br/><span class="Bold">3-2:</span><br/>Apeks<br/>FaZe<br/>Into the Breach<br/><br/>The Quarterfinals begin Thursday, May 18th, at 6:00pm Paris time GMT+2. The conclusion of the Legends Stage means Pick'Ems are now open for the Champions Stage.<br/><br/>Team items are available <a class="Focusable" href="https://store.steampowered.com/sale/csgoparis2023?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">here</span></a> with 50% of the proceeds going to teams and organizations taking part in the Major.<br/><br/>Good luck to the final 8 teams!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">5448836977171499668</guid>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
