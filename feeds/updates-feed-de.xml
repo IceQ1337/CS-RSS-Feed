@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 26 Apr 2024 20:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 00:38:13 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 4/26/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where grenade throw animations would get stuck when switching hands.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where the same grenade type couldn't be thrown multiple times without switching to another weapon first.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug that allowed picking up grenades beyond the normal maximum.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where smoke grenades would sometimes appear lit as if a flashbang detonated inside them.</li></ul><br/>[ MAPS ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a spot in Dust 2 above mid doors where grenades would fall through the world.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a spot in Inferno where weapons could fall through the world.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">f187b3d5169e70555e08e5b593a5d0d8187e5f3e7925e2e70d4333f8e4f278ff</guid>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 25.04.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">25506d0b36dab3b835888b5821d00f2849c380843fb6d6fb4dcb417d05f25f47</guid>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 18.01.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><div class="bbcodes_Italic_zA7ad BB_Italic">Vertigo:</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Lücke in der Kartengeometrie ausgebessert.<br/></li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4cb566296faee99dc624720e6b648aa21090c6927726e8746701f02b5d88d4a7</guid>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
