@@ -8,19 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 02 May 2024 00:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 20:10:06 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 5/1/2024</title>
+      <title>Release Notes for 5/2/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where the game would stop taking keyboard input during the end-of-match map vote.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where UI characters always had default gloves equipped.<br/></li><li class="bbcodes_ListItem_1BF9I"> Demo playback will pause at the end of a recording instead of returning to the main menu.<br/></li><li class="bbcodes_ListItem_1BF9I"> Minor demo playback optimizations.<br/></li></ul><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added arms race game mode for workshop map submissions<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a crash related to the scoreboard<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3d5d44f53e419afc648cc6213dc3c65fce8f837afa01ef017a01fb179183e2b9</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 4/30/2024</title>
+      <title>Patchnotizen vom 01.05.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Grenade kills no longer display the "in-air" killfeed icon.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed several cases where clicking on the buy menu or scoreboard would cause the game to stop taking keyboard input.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed too many usercommands being processed when skipping forward in demos. This reduces the skip time by as much as 80%.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added console output that may be helpful for advanced users to diagnose performance problems.  When a very long frame occurs, a brief profile of the frame is printed.  At the end of a match, a summary is printed.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den das Spiel während der Kartenabstimmung am Ende eines Spiels keine Tastatureingaben mehr akzeptierte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Charaktere in Menüs immer die Standardhandschuhe ausgerüstet hatten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die Demo-Wiedergabe wird am Ende einer Aufnahme pausiert, anstatt zum Hauptmenü zurückzukehren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kleinere Optimierungen an der Demo-Wiedergabe vorgenommen.<br/></li></ul><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karten für den Spielmodus Wettrüsten können jetzt im Workshop veröffentlicht werden.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3d5d44f53e419afc648cc6213dc3c65fce8f837afa01ef017a01fb179183e2b9</guid>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 30.04.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Tötungen mit Granaten zeigen nicht mehr das Flügel-Symbol (der Spieler muss sich dafür beim Abschuss in der Luft befinden) in der Abschussanzeige an.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den in mehreren Fällen beim Klicken auf das Kaufmenü oder den Punktestand das Spiel keine Tastatureingaben mehr akzeptierte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den beim Vorspulen einer Demo zu viele Benutzerbefehle verarbeitet wurden. Dadurch ist die Vorspulzeit jetzt bis zu 80 % schneller.<br/></li><li class="bbcodes_ListItem_1BF9I"> Konsolenausgabe hinzugefügt, die für fortgeschrittene Benutzer bei der Diagnose von Leistungsproblemen hilfreich sein kann.  Wenn ein sehr langer Frame auftritt, wird sofort ein kurzer Bericht dafür erstellt.  Am Ende des Spiels folgt eine Zusammenfassung aller Ereignisse.<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">e8ada201cd164e07d6ed3c300aa2d8621ab6968995a6b2dcba6d1d6e4e267b83</guid>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">fa1b1e4eeb58b8834d9b8ce8a4f085f05b1d2377bfc9ae272fcaf05de1b7b803</guid>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 08.02.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ WETTRÜSTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein zusätzlicher Abschuss mit einer Schrotflinte unmittelbar vor der Messerstufe als die gewinnbringende Messer-Tötung zählte.<br/></li></ul><br/>[ RAUCH ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Sichtbarkeit von Spielersilhouetten im Rauch angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Position von Gegnern auf dem Radar angezeigt wurde, wenn ein Spieler durch eine gewisse Anordnung von Rauch und durchsichtigen Oberflächen (z. B. Fensterglas) in deren Richtung blickte.<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Fehlerbehebungen und Optimierungen an Animationen beim Untersuchen von Gegenständen vorgenommen.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den sich Türen auf mehreren Karten um die eigene Achse drehten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Nuke:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rendering-Regression behoben.<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Ancient:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Pixelspalte ausgebessert, durch die Spieler von Untere T-Seite auf Bombenort B blicken konnten.<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Anubis:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Stelle im T-Start ausgebessert, um zu verhindern, dass die Bombe für Spieler möglicherweise außer Reichweite gelangen kann.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kollisionen an den Meshes der Vorsprünge in Himmel aktiviert, um zu verhindern, dass fallen gelassene Waffen aus der Spielwelt fallen.<br/></li></ul><br/></li><li class="bbcodes_ListItem_1BF9I"> Mirage:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Kollision in Innerer Palast hinzugefügt, um zu verhindern, dass die Bombe für Spieler außer Reichweite gelangt.<br/></li></ul></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den bestimmte Tasten, die kein Äquivalent zum amerikanischen Tastaturlayout aufweisen (z. B. die Taste rechts neben der linken Umschalttaste im deutschen Tastaturlayout), nicht belegt werden konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den einige ältere Demos nicht mehr wiedergegeben werden konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Abstürze behoben.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">454bff22b6e9153fde9025b7c0ba3ead43f4976caaa79557d92e035dd9a5bfc6</guid>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
