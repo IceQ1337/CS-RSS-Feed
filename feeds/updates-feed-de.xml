@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 02 May 2024 20:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 16:11:07 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 5/2/2024</title>
+      <title>Patchnotizen vom 02.05.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a crash related to the scoreboard<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Absturz im Zusammenhang mit der Punktetabelle behoben.<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3d5d44f53e419afc648cc6213dc3c65fce8f837afa01ef017a01fb179183e2b9</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
