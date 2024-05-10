@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 09 May 2024 16:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:39:30 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 5/9/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reduced the opacity of teammate names near the crosshair.<br/></li><li class="bbcodes_ListItem_1BF9I"> Made the death experience during bot takeover match the normal death experience.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed several bugs with looping through bot takeover spectator targets.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed several bugs with scoreboard buttons not working as designed.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where the in-air kill feed icon didn't work with certain weapons (thanks aquaismissing).<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where the HUD would be offset after watching a demo (thanks again aquaismissing).<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">0bb9accd01df3981d45771d1416e86b9283e709f68c31901507e5b3fd7aa1c62</guid>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 07.05.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">f2cf3e55e6b796699804bade2c8d7499fceccf16491c5929c2b3c11852327f8e</guid>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 12.02.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Spieler die Verbindung zum Spielserver nicht wiederherstellen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> VoIP-Leistung verbessert, wenn das Spiel mit sehr hohen Bildraten läuft.<br/></li><li class="bbcodes_ListItem_1BF9I"> Timing für einige Events zu Rundenbeginn in den Demodateien korrigiert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kreisförmige Artefakte entfernt, die auf Rauchpartikeln erscheinen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den einige Mitspieler in der Lobby nicht sichtbar waren, wenn für das Hauptmenü die Hintergrundkulisse „Lagerhaus“ ausgewählt war.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das die Symbole von Speichereinheiten im Inventar zu klein angezeigt wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Regression der Zufallsauswahl von Gegenständen in der Spielsuche für die Modi Premium, Wettkampf und Wingman behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Der visuelle Effekt einer Killserie für Zuschauer wird nicht mehr abgespielt, wenn der Zuschauer zu einem Spieler mit 5 Kills wechselt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Regression der Geräusche beim Untersuchen des Butterflymessers behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Der Animation beim Ziehen des Kukri-Messers wurde ein Ton beim Fangen hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Zeus-Leuchtspur Spieler zu durchdringen schien.<br/></li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">2796c6cf9167eef7acc8d966ec16209fd2f4ebe28cae0e5c756fe248165388c4</guid>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
