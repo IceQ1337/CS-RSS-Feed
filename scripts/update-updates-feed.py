@@ -1,7 +1,6 @@
 import os
 import sys
 import locale
-import json
 import feedparser
 import hashlib
 from selenium import webdriver

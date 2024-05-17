@@ -1,7 +1,6 @@
 import os
 import sys
 import locale
-import json
 import feedparser
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
