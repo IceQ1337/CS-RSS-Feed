@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jun 2024 00:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 00:42:11 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 6/11/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where weapon animations would play incorrectly when inspecting while reloading.<br/></li></ul><br/><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> In game voice chat - Eliminated most hitching caused by in-game voice chat. Some users may still experience a hitch the first time they push-to-talk.<br/></li><li class="bbcodes_ListItem_1BF9I"> Streamlined Push to Talk - When enabled, this setting will avoid the hitch incurred the first time a player uses push to talk.<br/></li></ul><br/><br/>[ NETWORK ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Improve connection quality in the presence of jitter or loss, by automatically adjusting user command pacing so that commands arrive at the server earlier.<br/></li></ul><br/><br/>[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Improved legibility of teammate health at lower resolutions<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">42485443023f545fb141e00a2abf148168a8b49cb0931fb891719bb58643daae</guid>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 6/10/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">2167658c7ed469cc3604d122f3ff91ec343932a7e04583d98b2465ee1b4a1a3e</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 4/2/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ COPENHAGEN 2024 MAJOR ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Congratulations to Natus Vincere for winning the PGL Copenhagen Major!<br/></li><li class="bbcodes_ListItem_1BF9I"> The Copenhagen 2024 Champions Autograph Capsule is now available for purchase in the Copenhagen 2024 Major Hub</li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed several cases of sticky collisions when jumping against surfaces<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed another threading bug that could lead to a frame rate hitch, especially if all CPUs were busy<br/></li><li class="bbcodes_ListItem_1BF9I"> Purchased and traded Counter-Strike items will not be visible to other users who view your Steam Inventory for 10 days</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">cb2b7dfda5fd59a3a4ecfa167f55d311d79444a38fd7181c95493ad3e81105aa</guid>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
