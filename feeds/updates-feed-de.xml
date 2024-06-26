@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:41:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 20:11:56 +0000</lastBuildDate>
+    <item>
+      <title>Steam Game Recording Beta Now Available</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[Sharing your favorite CS2 moments just got a whole lot easier. Introducing Game Recording, a new built-in Steam feature that lets you clip your clutch kills and ridiculous spray transfers with the click of a few buttons.<br/><br/>Game Recording saves your gameplay by recording in the background (or by pressing a hotkey), so you can play it back any time you want--even while you're still playing. CS2 recordings will feature a timeline auto-filled with game-defined markers (like kills and deaths), but you can add your own markers at any time.<br/><br/>Want to join the Game Recording beta? Click the link below for more details!<br/><br/><a class="Focusable" href="https://store.steampowered.com/sale/gamerecording?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">https://store.steampowered.com/sale/gamerecording</span></a>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">15f15ca647427026fc3c237396699386cd9374b8d3f0599d12f749a9bfd0c523</guid>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 6/25/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3d5d44f53e419afc648cc6213dc3c65fce8f837afa01ef017a01fb179183e2b9</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 30.04.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Tötungen mit Granaten zeigen nicht mehr das Flügel-Symbol (der Spieler muss sich dafür beim Abschuss in der Luft befinden) in der Abschussanzeige an.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den in mehreren Fällen beim Klicken auf das Kaufmenü oder den Punktestand das Spiel keine Tastatureingaben mehr akzeptierte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den beim Vorspulen einer Demo zu viele Benutzerbefehle verarbeitet wurden. Dadurch ist die Vorspulzeit jetzt bis zu 80 % schneller.<br/></li><li class="bbcodes_ListItem_1BF9I"> Konsolenausgabe hinzugefügt, die für fortgeschrittene Benutzer bei der Diagnose von Leistungsproblemen hilfreich sein kann.  Wenn ein sehr langer Frame auftritt, wird sofort ein kurzer Bericht dafür erstellt.  Am Ende des Spiels folgt eine Zusammenfassung aller Ereignisse.<br/></li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">e8ada201cd164e07d6ed3c300aa2d8621ab6968995a6b2dcba6d1d6e4e267b83</guid>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
