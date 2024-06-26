@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 May 2024 01:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 01:40:35 +0000</lastBuildDate>
+    <item>
+      <title>The Real MVP</title>
+      <link>https://www.counter-strike.net/newsentry/4194621169493598732?l=english</link>
+      <description><![CDATA[Since the launch of CS2, community map mappers have been hard at work creating new experiences and updating some classics. Today, we're excited to add the first community maps to CS2!<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/bbf2dd17698bcba8bae487ca7a0783a441581476.png"/><br/>For those of you who dream of Italian weddings, or airplane manufacture (or both!), we've got you covered. Memento and Assembly are now available in Wingman.<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/df15c710ff065c92619e712ecf6ee4492e93ac27.png"/><br/>And if you're in the mood for something a bit more... chaotic, take a dip in the classic Pool Day, which is now available in Arms Race.<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/d2ad077ed631514103c5eb83183790cd4829a5f6.png"/><br/>Finally, fight your way through the streets of Thera and Mills in Deathmatch and Casual, and put these maps through their paces in Competitive Matchmaking. <br/><br/>Speaking of Competitive Matchmaking, we've given map-based skill groups an overhaul. In addition to redistributing players across the Skill Groups, we've also made it easier to earn those badges in the first place.<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/dda0b5f6d6fa18ac9274627c2b8a5e393d645ad0.png"/><br/><br/>There are a bunch of other fixes and adjustments in today's update, including a brand new MVP panel (and animated MVPs in Premier!) and new ways to optimize your video settings. <br/><br/>Jump into a match and check it out!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4194621169493598732</guid>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fire Sale</title>
       <link>https://www.counter-strike.net/newsentry/4177730135016204539?l=english</link>
@@ -112,22 +120,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3677802763035982969</guid>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Goodbye Wheel</title>
-      <link>https://www.counter-strike.net/newsentry/3702568031467132888?l=english</link>
-      <description><![CDATA[<img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/bb624914b5d1b52fcb1c862dedb11d8d42bf7793.png"/>Today we're shipping the first major update to the CS2 Limited Test. You can check out the <a class="Focusable" href="https://store.steampowered.com/news/app/730/view/3702568031467145905?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">release notes</span></a> to see what's new, but here are some of the big changes in today's update:<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">New Loadout and Buy Menu</div><br/>Head to the loadout to customize the weapons you take into battle! Make your choices for the T and CT sides with four pistols, five mid-range weapons (SMGs and Heavy), and five rifles (yes, you can bring both M4's). Just drag and drop to adjust your buy menu however you see fit.<br/><br/>The buy menu has gotten a few extra upgrades, including a refund option for any weapons you purchased in the round and haven't used yet, and indicators to help you track what your teammates are carrying.<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Workshop Tools</div><br/>The Limited Test now also includes all-new Counter-Strike 2 Workshop Tools, which can be enabled and downloaded from the in-game settings menu. These tools will allow community contributors to create weapon finishes, stickers, and maps.<br/><br/>There's much more in today's update, from smoke grenade adjustments to input and animation. Jump into the Limited Test and send your feedback to cs2team [at] valvesoftware [dot] com (make sure to include CS2LT in your title).]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3702568031467132888</guid>
-      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Team Vitality - Major Champions!</title>
-      <link>https://www.counter-strike.net/newsentry/3702568031445748803?l=english</link>
-      <description><![CDATA[<a class="Focusable" href="https://store.steampowered.com/sale/csgoparis2023?snr=" tabindex="0"><span><img src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3381077/f172d2084850b4719a2332c9c98ce030f8ce88c7.png"/></span></a><br/><br/>Congratulations to Team Vitality, champions of the BLAST.TV Paris Major! They defeated GamerLegion and completed a dominating performance, sailing through the event without losing a single map. <br/><br/>Today we are releasing the Paris 2023 Champions Autograph Capsule, featuring autographs from apEX, dupreeh, Magisk, Spinx, and ZywOo. Celebrate the champions in style, with paper, glitter, holo, and gold player autograph stickers!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3702568031445748803</guid>
-      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
