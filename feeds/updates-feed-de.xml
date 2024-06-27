@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 26 Jun 2024 20:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 00:42:09 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 06/26/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Pool Day</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>)</li></ul><br/><br/>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added support to load the latest version of community maps from the Workshop when playing on community servers, even if different versions of the same maps are also available as part of official map groups<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed G-Sync detection to also work in non-windowed fullscreen mode<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where US English keyboard layout could remain loaded for users with non-English keyboards<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed an empty radio-command string which plays when planted C4 is within several seconds from detonation</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">15f15ca647427026fc3c237396699386cd9374b8d3f0599d12f749a9bfd0c523</guid>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steam Game Recording Beta Now Available</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -117,14 +125,6 @@
       <title>Patchnotizen vom 02.05.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
       <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Absturz im Zusammenhang mit der Punktetabelle behoben.<br/></li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3d5d44f53e419afc648cc6213dc3c65fce8f837afa01ef017a01fb179183e2b9</guid>
-      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 01.05.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den das Spiel während der Kartenabstimmung am Ende eines Spiels keine Tastatureingaben mehr akzeptierte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Charaktere in Menüs immer die Standardhandschuhe ausgerüstet hatten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die Demo-Wiedergabe wird am Ende einer Aufnahme pausiert, anstatt zum Hauptmenü zurückzukehren.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kleinere Optimierungen an der Demo-Wiedergabe vorgenommen.<br/></li></ul><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karten für den Spielmodus Wettrüsten können jetzt im Workshop veröffentlicht werden.<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3d5d44f53e419afc648cc6213dc3c65fce8f837afa01ef017a01fb179183e2b9</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
