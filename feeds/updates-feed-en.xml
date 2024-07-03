@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:42:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:42:20 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 7/2/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Pool Day</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Updated to the latest version from the Community Workshop <a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">found here</span></a><br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Dust 2</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed hole in brick stack on bombsite B<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed bug preventing custom sounds from being played in community maps<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8bc96916fe3529ab9d2b5103b13630876a409d2b24ff94759a1b899544c92cb9</guid>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 06/27/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">0bb9accd01df3981d45771d1416e86b9283e709f68c31901507e5b3fd7aa1c62</guid>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 5/7/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a visual bug where sniper rifle viewmodels could be visible at the edge of the scope screen overlay.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug that prevented HE grenade explosions from breaking the vents in de_nuke.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed an issue where viewmodels would sometimes emit double shell eject effects.<br/></li><li class="bbcodes_ListItem_1BF9I"> Minor performance improvements<br/></li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">bc9725917651e9af8cf7905e8a1bd30f1473d92b99525904d6f75eaad64fb290</guid>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
