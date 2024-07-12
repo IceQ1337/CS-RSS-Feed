@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2024 00:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 00:42:25 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 7/11/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Ancient</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed clipping on crates at bombsite A to allow players to jump on top again.<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Vertigo</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed clipping on ends of bombsite A catwalk to prevent players from walking off.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed occasional first-person camera jolt when throwing grenades.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">7d6947db3a22e8820538ee4946675b0183e777b01183a22c877043d50cbf4ee2</guid>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 7/2/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">36132604206f288fb7562c2951c6949f54fd345e1cd1181d6bbdb8b67e8855a1</guid>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 5/9/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reduced the opacity of teammate names near the crosshair.<br/></li><li class="bbcodes_ListItem_1BF9I"> Made the death experience during bot takeover match the normal death experience.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed several bugs with looping through bot takeover spectator targets.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed several bugs with scoreboard buttons not working as designed.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where the in-air kill feed icon didn't work with certain weapons (thanks aquaismissing).<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where the HUD would be offset after watching a demo (thanks again aquaismissing).<br/></li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">0bb9accd01df3981d45771d1416e86b9283e709f68c31901507e5b3fd7aa1c62</guid>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
