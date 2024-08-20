@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Aug 2024 00:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 00:44:04 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 8/19/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ INPUT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Certain types of movement/shooting input automation such as hardware-assisted counter strafing will now be detected on Valve official servers, resulting in a kick from the match<br/></li><li class="bbcodes_ListItem_1BF9I"> Input binds that include more than one of the following commands will now be ignored by default. Support can be re-enabled using the cheat-protected convar `cl_allow_multi_input_binds 1`<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> The jump-throw confirmation grunt sound can now be heard by other players nearby<br/></li></ul><br/><br/>[ VacNet ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Initial testing of VacNet 3.0 has begun on a limited set of matches. If you believe your match was incorrectly cancelled, email us the match details at csgoteamfeedback@valvesoftware.com <br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">bf928a748a5b5e42cf130aa42862451a449d206b34dc857c73b779bdb61778d6</guid>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 8/14/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">60cdf611cc199c137d1e7b35c54381382393411f8fedc8c61bceb20065e732d9</guid>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 5/29/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ INPUT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where the console toggle key would stop working after a Premier pick/ban phase<br/></li><li class="bbcodes_ListItem_1BF9I"> The game now continues accepting keyboard input while a scoreboard player card is open<br/></li><li class="bbcodes_ListItem_1BF9I"> Joystick input is now ignored by default. Joystick input is not an officially supported feature of CS2, but you can restore the old behavior with the -joy launch option<br/></li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed player and bot names on the Team Select screen during bot takeover<br/></li></ul><br/><br/>[ WEAPON FINISHES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where certain graphics configurations resulted in black weapon finishes<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed an issue where the game client would never reconnect to Counter-Strike Network if launched while there was no connection to Steam Network<br/></li><li class="bbcodes_ListItem_1BF9I"> Steam accounts that have an active account lock are no longer allowed to play on secure Counter-Strike game servers<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where viewmodels would bob excessively on Linux<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">5fd806dd0585f99c6bf3fc7028a5d83501f983bf7e091ecf31dc5e101187e03c</guid>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

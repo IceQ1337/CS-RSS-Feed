@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 19 Aug 2024 20:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 00:44:05 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 8/19/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ INPUT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Certain types of movement/shooting input automation such as hardware-assisted counter strafing will now be detected on Valve official servers, resulting in a kick from the match<br/></li><li class="bbcodes_ListItem_1BF9I"> Input binds that include more than one of the following commands will now be ignored by default. Support can be re-enabled using the cheat-protected convar `cl_allow_multi_input_binds 1`<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> The jump-throw confirmation grunt sound can now be heard by other players nearby<br/></li></ul><br/><br/>[ VacNet ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Initial testing of VacNet 3.0 has begun on a limited set of matches. If you believe your match was incorrectly cancelled, email us the match details at csgoteamfeedback@valvesoftware.com <br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">bf928a748a5b5e42cf130aa42862451a449d206b34dc857c73b779bdb61778d6</guid>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 14.08.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">60cdf611cc199c137d1e7b35c54381382393411f8fedc8c61bceb20065e732d9</guid>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 29.05.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ EINGABE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Taste zum Ein- und Ausblenden der Konsole nach der Auswahl-/Bannphase im Spielmodus „Premium“ nicht mehr funktionierte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Das Spiel akzeptiert jetzt weiterhin Tastatureingaben, während ein Spielerprofil über dem Punktestand geöffnet ist.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die Joystick-Eingabe wird jetzt standardmäßig ignoriert. Die Joystick-Eingabe ist keine offiziell unterstützte Funktion von CS2, aber Sie können das alte Verhalten mit der Startoption -joy wiederherstellen.<br/></li></ul><br/><br/>[ BENUTZEROBERFLÄCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anzeigeproblem von Spieler- und Bot-Namen in der Oberfläche der Teamauswahl behoben, wenn ein Spieler einen Bot übernommen hat.<br/></li></ul><br/><br/>[ WAFFENLACKIERUNGEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den bestimmte Grafikeinstellungen dazu führten, dass alle Waffenlackierungen schwarz erschienen.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das der Spiel-Client keine Verbindung mehr zum Counter-Strike-Netzwerk herstellen konnte, wenn beim Starten keine Verbindung zum Steam-Netzwerk bestand.<br/></li><li class="bbcodes_ListItem_1BF9I"> Steam-Accounts mit einer aktiven Sperre können nicht mehr auf VAC-gesicherten Counter-Strike-Servern spielen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Ansichtsmodelle auf Linux übermäßig hin und her schwankten.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">5fd806dd0585f99c6bf3fc7028a5d83501f983bf7e091ecf31dc5e101187e03c</guid>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
