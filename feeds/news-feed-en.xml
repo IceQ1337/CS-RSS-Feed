@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jul 2024 01:44:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 01:45:37 +0000</lastBuildDate>
+    <item>
+      <title>Side-stepping Skill</title>
+      <link>https://www.counter-strike.net/newsentry/6500469346429600836?l=english</link>
+      <description><![CDATA[Counter-Strike is constantly evolving. From art, to maps, to inventive plays, and even player input, the CS community shapes the game. <br/><br/>Scripting and automating player commands has always been contentious, but over the years some forms of scripting (e.g., jump-throws) have gained acceptance, as they enable plays that wouldn't otherwise be possible. In fact, jump-throws became such an important part of the game that we've done the work to make them reliable without any special scripting or binds (i.e., by jumping and quickly throwing a grenade).<br/><br/>Developing one's coordination and reaction time has always been key to mastering Counter-Strike.<br/><br/>Recently, some hardware features have blurred the line between manual input and automation, so we've decided to draw a clear line on what is or isn't acceptable in Counter-Strike.<br/><br/>We are no longer going to allow automation (via scripting or hardware) that circumvent these core skills and, moving forward, (and initially--exclusively on Valve Official Servers) players suspected of automating multiple player actions from a single game input may be kicked from their match.<br/><br/>To prevent accidental infractions, in-game binds that include more than one movement and/or attack actions will no longer work (e.g., null-binds and jump-throw binds).<br/><br/>If you have a keyboard that includes an input-automation feature (e.g., "Snap Tap Mode"), be sure to disable the feature before you join a match in order to avoid any interruption to your matches.<br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">6500469346429600836</guid>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Open Season</title>
       <link>https://www.counter-strike.net/newsentry/7090437900079084674?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3644028846252008595</guid>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Level Playing Field</title>
-      <link>https://www.counter-strike.net/newsentry/3677802763035982969?l=english</link>
-      <description><![CDATA[Counter-Strike is at its best when teams compete on a level playing field and when ability is the only limit to their success. <br/><br/>Over the past few years, we’ve seen professional Counter-Strike drift away from that ideal. The ecosystem has become gradually less open, with access to the highest levels of competition increasingly gated by business relationships. <br/><br/>We think that Counter-Strike should be an open sport. So we’re going to add new requirements to running large-scale competitive events. The finer details are still in progress, but here are the broad strokes:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Tournament organizers will no longer have unique business relationships or other conflicts of interest with teams that participate in their events. <br/><br/></li><li class="bbcodes_ListItem_1BF9I"> Invitations to all tournaments will use our ranking system (detailed <a class="Focusable" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.com%2FValveSoftware%2Fcounter-strike%2Ftree%2Fmain%2Fregional_standings" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="github.com">here</span></a>), or otherwise be determined by open qualifiers. <br/><br/></li><li class="bbcodes_ListItem_1BF9I"> Any compensation for participating teams—prize pool or otherwise—will be made public and will be driven by objective criteria that can be inspected by the community. <br/></li></ul>Since tournament organizers have existing long term commitments, these requirements will take effect as of 2025. There will be some rough edges to the transition, but we’re committed to the long-term health of Counter-Strike as a sport and are looking forward to its bright and open future.<br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3677802763035982969</guid>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
