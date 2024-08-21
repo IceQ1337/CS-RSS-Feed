@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Aug 2024 00:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:43:58 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 8/20/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MUSIC KITS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> The Masterminds 2 Music Kit Box is now available for purchase in standard and StatTrak versions<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where audio output was garbled due to running on efficiency CPU cores<br/></li></ul><br/>[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Minor style adjustments<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reduced the amount of performance stutter at end-of-round time<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">b41014e58dfd02eea561848afb777638fddb66d7fec3775bfe60da52d2e0413f</guid>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 8/19/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">0e51de70d02ea2d8e7960074ea379228ab4dbb63230d1648c394187b2d625fdc</guid>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 6/4/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where scores weren't incrementing correctly in Deathmatch and Arms Race<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where players were able to clip their first-person camera through ceilings<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the C4 could get stuck outside the playable area<br/></li><li class="bbcodes_ListItem_1BF9I"> Various stability improvements<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">60cdf611cc199c137d1e7b35c54381382393411f8fedc8c61bceb20065e732d9</guid>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

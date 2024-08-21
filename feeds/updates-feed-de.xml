@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 20 Aug 2024 00:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:43:59 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 8/19/2024</title>
+      <title>Release Notes for 8/20/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ INPUT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Certain types of movement/shooting input automation such as hardware-assisted counter strafing will now be detected on Valve official servers, resulting in a kick from the match<br/></li><li class="bbcodes_ListItem_1BF9I"> Input binds that include more than one of the following commands will now be ignored by default. Support can be re-enabled using the cheat-protected convar `cl_allow_multi_input_binds 1`<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> The jump-throw confirmation grunt sound can now be heard by other players nearby<br/></li></ul><br/><br/>[ VacNet ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Initial testing of VacNet 3.0 has begun on a limited set of matches. If you believe your match was incorrectly cancelled, email us the match details at csgoteamfeedback@valvesoftware.com <br/></li></ul>]]></description>
+      <description><![CDATA[[ MUSIC KITS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> The Masterminds 2 Music Kit Box is now available for purchase in standard and StatTrak versions<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where audio output was garbled due to running on efficiency CPU cores<br/></li></ul><br/>[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Minor style adjustments<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reduced the amount of performance stutter at end-of-round time<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">b41014e58dfd02eea561848afb777638fddb66d7fec3775bfe60da52d2e0413f</guid>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 19.08.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ EINGABE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Bestimmte Arten der Automatisierung der Bewegungs-/Feuereingabe, wie z. B. hardwareunterstützte Gegenbewegung („counter strafing“), werden jetzt auf offiziellen Valve-Servern erkannt und führen zu einem Rauswurf aus diesem Spiel.<br/></li><li class="bbcodes_ListItem_1BF9I"> Eingabebelegungen, die mehr als einen der folgenden Befehle enthalten, werden jetzt standardmäßig ignoriert (Verwenden Sie „sv_cheats 1“, um die Unterstützung mit der Konfigurationsvariable „cl_allow_multi_input_binds 1“ wieder zu aktivieren):<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> Der Sound bei erfolgreicher Durchführung eines Sprungs in Verbindung mit einem Granatenwurf („jump-throw“) kann jetzt von anderen Spielern in der Nähe gehört werden.<br/></li></ul><br/><br/>[ VACNET ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Erste Tests von VACNet 3.0 haben mit einer begrenzten Anzahl von Spielen begonnen. Wenn Sie überzeugt sind, dass Ihr Spiel fälschlicherweise abgebrochen wurde, senden Sie uns bitte die Spieldetails per E-Mail an: csgoteamfeedback@valvesoftware.com <br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">bf928a748a5b5e42cf130aa42862451a449d206b34dc857c73b779bdb61778d6</guid>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">0e51de70d02ea2d8e7960074ea379228ab4dbb63230d1648c394187b2d625fdc</guid>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 04.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das die Punkte in den Spielmodi Deathmatch und Wettrüsten nicht korrekt aufaddiert wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das Spieler in der Egoperspektive durch Decken blicken konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das die Bombe außerhalb des Spielbereichs stecken bleiben konnte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Stabilitätsverbesserungen vorgenommen.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">60cdf611cc199c137d1e7b35c54381382393411f8fedc8c61bceb20065e732d9</guid>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
