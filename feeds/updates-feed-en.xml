@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Aug 2024 00:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 00:45:18 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 8/21/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><br/>Office<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where a player could get stuck between a prop and the ceiling<br/></li></ul><br/>Nuke<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a pixel walk<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some C4 stuck spots<br/></li></ul><br/>Mirage<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted collision on van for smoother movement<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed wall penetration issues around some arches<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a view jittering issue when jumping on a crate near palace<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some collision that allowed smoke grenades to go inside a wall<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjustments to grenade clipping<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted collision on some props<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some C4 stuck spots<br/></li></ul><br/>Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed some C4 stuck spots<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed a boost spot in pit by A site<br/></li></ul><br/>Italy<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Perf improvements<br/></li><li class="bbcodes_ListItem_1BF9I"> Clipping adjustments<br/></li></ul><br/>Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjustments to grenade clipping<br/></li></ul><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bad clip edge that players were getting stuck on at T spawn<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a pixel peak<br/></li></ul><br/>Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjustments to grenade clipping<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a C4 stuck spot<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some prop collision that could hide C4<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some lighting issues<br/></li></ul><br/>Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed some minor visual bugs near canal<br/></li><li class="bbcodes_ListItem_1BF9I"> Some clipping adjustments near park for smoother movement<br/></li><li class="bbcodes_ListItem_1BF9I"> Added some missing handrail collision<br/></li></ul><br/><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">7d02e6637805328aa1a049b2ab61c69e2bd16b4368d7149761d68f11da7b6690</guid>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 8/20/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MUSIC KITS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> The Masterminds 2 Music Kit Box is now available for purchase in standard and StatTrak versions<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where audio output was garbled due to running on efficiency CPU cores<br/></li></ul><br/>[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Minor style adjustments<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reduced the amount of performance stutter at end-of-round time<br/></li></ul>]]></description>
+      <description><![CDATA[[ MUSIC KITS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> The MASTERMINDS 2 Music Kit Box is now available for purchase in standard and StatTrak versions<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where audio output was garbled due to running on efficiency CPU cores<br/></li></ul><br/>[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Minor style adjustments<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reduced the amount of performance stutter at end-of-round time<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">b41014e58dfd02eea561848afb777638fddb66d7fec3775bfe60da52d2e0413f</guid>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">42485443023f545fb141e00a2abf148168a8b49cb0931fb891719bb58643daae</guid>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 6/10/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed one-way visibility for players inside HE grenade explosions<br/></li></ul><br/><br/>[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> When equipment info is shown for players at the top of the HUD (e.g. when spectating), their health bars expand to show numeric health values<br/></li><li class="bbcodes_ListItem_1BF9I"> Reduced some hitches caused by HUD elements appearing<br/></li></ul><br/><br/>[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added a separate "Dynamic Shadows" Advanced Video setting with the options: "Sun Only" or "All"<br/></li></ul><br/><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added left hand to Bowie Knife view model<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">0e51de70d02ea2d8e7960074ea379228ab4dbb63230d1648c394187b2d625fdc</guid>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
