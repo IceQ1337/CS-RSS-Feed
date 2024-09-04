@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Aug 2024 20:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 00:46:49 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/3/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where some commands, including jump, might be ignored under poor network conditions.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug that could cause inconsistent jump heights.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where client player collision would remain disabled after ragdoll interaction occurred in the previous round. Thanks for the repro steps, @poggu__.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case for Linux users where the game would hang when opening the pause menu.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">d476a9de89f20dbbc53a420a2492092532b79f0a3fc17eb4811723ad22024f0d</guid>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 22.08.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3206cad00b19caadbf6379cdddbee14d902c4ff31cc445f46ef8cb04a3cef56c</guid>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 13.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Option „Nur Marker“ für die Einstellung „Team-ID durch Wände anzeigen“ hinzugefügt (<div class="bbcodes_Italic_zA7ad BB_Italic">cl_teamid_overhead_mode</div>).<br/></li><li class="bbcodes_ListItem_1BF9I"> Interaktion der Bombe mit Wasser auf Overpass verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Lücke am Bombenort B auf Nuke ausgebessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlerhafte Beleuchtung bei den Hintergrundkulissen „Lagerhaus“ und „Nuke“ im Hauptmenü behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Bots über längere Distanz teleportiert wurden, wenn sie sich einer Leiter näherten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Aktualisierungen an der Lokalisierung vorgenommen.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">2606d38acbf5d1ebe94a3f45162d720821ae83736566728af940e9ba9d6f1d65</guid>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
