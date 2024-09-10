@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Sep 2024 00:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:47:52 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 9/9/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added counter-strafe input automation detection options for non-Valve servers. See the sv_auto_cstrafe family of convar descriptions for details.<br/></li><li class="bbcodes_ListItem_1BF9I"> Enabled measurement of network jitter on direct UDP connections to community servers. Previously, jitter measurement was only available for connections relayed over SDR. Jitter data is included in the net_connections_status command output.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">ab003ea30b8ac6d6488c3cf6618a3b83d62f43a74462d4620675a7b033ff6531</guid>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 9/3/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">868fb36761a0240a33419f694757c69efad78be44268c0721487cee1a91814dc</guid>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 6/20/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the game would think a key was still pressed after it had been released<br/></li><li class="bbcodes_ListItem_1BF9I"> More improvements to networking to account for packet loss and jitter<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3206cad00b19caadbf6379cdddbee14d902c4ff31cc445f46ef8cb04a3cef56c</guid>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
