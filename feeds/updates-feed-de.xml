@@ -8,19 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 11 Sep 2024 00:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 00:46:44 +0000</lastBuildDate>
     <item>
-      <title>Release Notes for 9/10/2024</title>
+      <title>Patchnotizen vom 10.09.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/>[list][*] Practice matches and matches started with the "map" command will now run in engine loopback mode to match the CS:GO offline default. Engine loopback bypasses most networking code for the host, resulting in one less tick of latency for the local player. Engine loopback can be disabled by appending "loopback=0" to the map command-line (e.g. "map de_dust2 loopback=0").<br/>]]></description>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Trainingsspiele und Spiele, die mit dem Befehl „map“ gestartet werden, werden jetzt im Loopback-Modus der Engine ausgeführt, um dem Offline-Standard von CS:GO zu entsprechen. Der Loopback-Modus der Engine umgeht den Großteil des Netzwerkcodes für den Host, wodurch sich die Latenzzeit für den lokalen Spieler um einen Tick verringert. Diese Funktion kann deaktiviert werden, indem „loopback=0“ dem Befehl zum Laden der Karte angefügt wird (z. B. „map de_dust2 loopback=0“).<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">23a2a10e115d10d3cc4fab854ea9ca203e32b14afeefcb63d4fdf3cffff23ea7</guid>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 9/9/2024</title>
+      <title>Patchnotizen vom 09.09.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added counter-strafe input automation detection options for non-Valve servers. See the sv_auto_cstrafe family of convar descriptions for details.<br/></li><li class="bbcodes_ListItem_1BF9I"> Enabled measurement of network jitter on direct UDP connections to community servers. Previously, jitter measurement was only available for connections relayed over SDR. Jitter data is included in the net_connections_status command output.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Optionen zur automatischen Erkennung von Gegenbewegungseingaben („counter-strafing“) für Nicht-Valve-Server hinzugefügt. Weitere Informationen finden Sie in den Beschreibungen der einzelnen Konfigurationsvariablen beginnend mit „sv_auto_cstrafe“.<br/></li><li class="bbcodes_ListItem_1BF9I"> Messungen der Netzwerk-Latenzvarianz bei direkten Verbindungen zu Community-Servern über UDP aktiviert. Bisher waren Messungen der Latenzvarianz nur für Verbindungen verfügbar, die über das SDR weitergeleitet wurden. Die Daten zur Latenzvarianz werden in der Konsolenausgabe des Befehls „net_connections_status“ angezeigt.<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">ab003ea30b8ac6d6488c3cf6618a3b83d62f43a74462d4620675a7b033ff6531</guid>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
