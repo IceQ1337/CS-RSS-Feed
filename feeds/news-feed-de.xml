@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Aug 2024 01:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 01:57:41 +0000</lastBuildDate>
+    <item>
+      <title>The Armory</title>
+      <link>https://www.counter-strike.net/newsentry/4674264042200250912?l=german</link>
+      <description><![CDATA[Today's update introduces the Armory, all new Weapon Charms, and a whole lot more. Click the image below for more details!<br/><a class="Focusable" href="https://store.steampowered.com/sale/armory?snr=" tabindex="0"><span><img src="https://clan.akamai.steamstatic.com/images/3381077/4f30364bf12221dd5c8db6fa9f113fee1e8b0641.png"/></span></a>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4674264042200250912</guid>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nur Ihr Können zählt</title>
       <link>https://www.counter-strike.net/newsentry/6500469346429600836?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3747614808335282785</guid>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jetzt sind Sie dran</title>
-      <link>https://www.counter-strike.net/newsentry/3644028846252008595?l=german</link>
-      <description><![CDATA[Heute aktualisieren wir die limitierte Testphase von CS2 mit einer neuen Karte (Inferno!) und der brandneuen CS-Wertung. <br/><br/>Ihre CS-Wertung ist ein sichtbarer Maßstab Ihrer Leistungen in Counter-Strike und bestimmt, welchen Platz Sie auf den globalen und regionalen Bestenlisten einnehmen. Um Ihre CS-Wertung zu erhalten, müssen Sie einfach nur Partien im aktualisierten Premium-Modus (unserem Wettkampfmodus des aktiven Dienstes mit Auswahl-/Bannphase), wahlweise allein oder mit Freunden, spielen.<br/><br/><iframe allowfullscreen="" frameborder="0" height="748" src="https://www.youtube.com/embed/s6BNHro0vSg;full" style="width: 748px; height: 420px;" width="748"></iframe><br/><br/>Des Weiteren beginnen wir heute mit dem Prozess, so viele teilnahmeberechtigte Spieler wie möglich zur limitierten Testphase von CS2 einzuladen. Teilnahmeberechtigt sind Spieler, die den CS:GO-Prime-Status und eine offizielle Skill-Gruppe für die Wettkampf-Spielsuche besitzen sowie die meisten ihrer offiziellen Spielsuchpartien in einer der Regionen gespielt haben, in denen die limitierte Testphase läuft.<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Zeit sparen</div>Im Verlauf des letzten Jahrzehnts haben wir Aktualisierungen für eine ausgeglichenere Wirtschaft und Waffen vorgenommen, um unnötige Elemente zu entfernen und die Anzahl unangefochtener Runden in CS-Partien zu reduzieren.<br/><br/>Aufgrund dieser Änderungen können aufregende Wettkampfpartien in weniger Runden bestritten werden. Und kürzere Partien bedeuten, dass Spieler mehr und öfter spielen können. Deshalb reduzieren wir mit CS2 die maximale Anzahl von Runden auf 24 in der regulären Spielzeit (mit 6 Runden in der Verlängerungsphase im Fall eines Unentschiedens) für Premium- und Wettkampf-Spiele sowie die Majors.<br/><br/>Wir erwarten, dass sich Struktur und Ablauf von Partien mit der Zeit weiterentwickeln, während sich die Community darauf einstellt. Wir freuen uns darauf, zu sehen, was die Zukunft bringt.<br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3644028846252008595</guid>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

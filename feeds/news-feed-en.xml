@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Aug 2024 01:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 01:57:26 +0000</lastBuildDate>
+    <item>
+      <title>The Armory</title>
+      <link>https://www.counter-strike.net/newsentry/4674264042200250912?l=english</link>
+      <description><![CDATA[Today's update introduces the Armory, all new Weapon Charms, and a whole lot more. Click the image below for more details!<br/><a class="Focusable" href="https://store.steampowered.com/sale/armory?snr=" tabindex="0"><span><img src="https://clan.akamai.steamstatic.com/images/3381077/4f30364bf12221dd5c8db6fa9f113fee1e8b0641.png"/></span></a>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4674264042200250912</guid>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Side-stepping Skill</title>
       <link>https://www.counter-strike.net/newsentry/6500469346429600836?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3747614808335282785</guid>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your Time is Now</title>
-      <link>https://www.counter-strike.net/newsentry/3644028846252008595?l=english</link>
-      <description><![CDATA[Today we’re updating the CS2 Limited Test with a new map (Inferno!) and the all new CS Rating. <br/><br/>Your CS Rating is a visible measurement of your Counter-Strike performance, and it will determine where you stand on global and regional leaderboards. To get your CS Rating, play matches in the updated Premier mode (our Active Duty Pick-Ban competitive mode) either on your own or with your friends.<br/><br/><iframe allowfullscreen="" frameborder="0" height="748" src="https://www.youtube.com/embed/s6BNHro0vSg;full" style="width: 748px; height: 420px;" width="748"></iframe><br/><br/>Additionally, today we’re starting the process of inviting as many eligible players as possible to the Limited Test. To be eligible for a CS2 Limited Test invite players must have CS:GO Prime status, an active official competitive matchmaking Skill Group, and play majority of their official matchmaking games in one of the regions where the Limited Test is available.<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Saving Time</div>Over the past decade, we’ve shipped updates to the economy and weapon balance to trim the fat and reduce the number of uncontested rounds in a match of CS.<br/><br/>Because of these changes, exciting competitive matches can be resolved with fewer rounds. And shorter matches mean players can play more, and more often. So with CS2, we’re moving to a maximum of 24 rounds in regulation time (with a 6 round overtime in case of a tie) for Premier, Competitive, and the Majors.<br/><br/>We expect the structure and flow of matches to evolve over time as the community adapts. And we’re excited to see where they go next.<br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3644028846252008595</guid>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
