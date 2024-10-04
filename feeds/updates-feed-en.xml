@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Oct 2024 00:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 00:50:57 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/3/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted first-person sniper scope effect<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some dark spots in Inferno<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where breakable objects weren't behaving as expected<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">93d6d6859abe6cc08bc1ea916d14e76dc89a7f93093d7cd729f3efae1ce99b0d</guid>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/2/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">afe54e4b2a990bdf6eb5be51a90ae8b6a4d5c46cd3c9a5ba9298a4c08f811718</guid>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 06/26/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Pool Day</div><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>)</li></ul><br/><br/>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added support to load the latest version of community maps from the Workshop when playing on community servers, even if different versions of the same maps are also available as part of official map groups<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed G-Sync detection to also work in non-windowed fullscreen mode<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where US English keyboard layout could remain loaded for users with non-English keyboards<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed an empty radio-command string which plays when planted C4 is within several seconds from detonation</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">15f15ca647427026fc3c237396699386cd9374b8d3f0599d12f749a9bfd0c523</guid>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
