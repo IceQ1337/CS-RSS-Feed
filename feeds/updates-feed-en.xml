@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Oct 2024 00:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 00:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/8/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GRAPHICS ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed certain particle effects, like tracers, to fall back to mixed resolution for better performance when using low graphics settings with MSAA disabled.<br/></li><li class="bbcodes_ListItem_1BF9I"> Improved lighting artifacts in various interior places when compiling maps.<br/></li></ul><br/><br/>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Teammate colors will now be assigned on official servers as soon as all players press ACCEPT. This will ensure that colors are correct during Pick/Ban phase, and during Warmup.<br/></li><li class="bbcodes_ListItem_1BF9I"> Improvements in Charms reactivity physics system to better align with weapon animations.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">d0e79785ec2e86d61828bc617c71a5c2bbdb07749ad43a0283f460f3cdb7732b</guid>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/4/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted the score calculation in Casual, Competitive, and Wingman to exclude knife and utility damage<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed 3rd person weapon angles to fully incorporate recoil<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing cascade shadows on some community maps<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed the Armory weapon preview having extra models<br/></li><li class="bbcodes_ListItem_1BF9I"> Network jitter graphs now have a number in the upper right hand corner that gives the scale of the graph<br/></li><li class="bbcodes_ListItem_1BF9I"> Various stability fixes</li></ul>]]></description>
+      <description><![CDATA[[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted the score calculation in Casual, Competitive, and Wingman to exclude knife and utility damage<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed 3rd person weapon angles to fully incorporate recoil<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed missing cascade shadows on some community maps<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed the Armory weapon preview having extra models<br/></li><li class="bbcodes_ListItem_1BF9I"> Network jitter graphs now have a number in the upper right hand corner that gives the scale of the graph<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where shell casings could render as an error model<br/></li><li class="bbcodes_ListItem_1BF9I"> Various stability fixes</li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">e9282dc20d45b11d1179124efbcc1f9b2079c95cf59d38a25faf94e6aac99919</guid>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">7d6947db3a22e8820538ee4946675b0183e777b01183a22c877043d50cbf4ee2</guid>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 7/2/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Pool Day</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Updated to the latest version from the Community Workshop <a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">found here</span></a><br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Dust 2</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed hole in brick stack on bombsite B<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed bug preventing custom sounds from being played in community maps<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">8bc96916fe3529ab9d2b5103b13630876a409d2b24ff94759a1b899544c92cb9</guid>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
