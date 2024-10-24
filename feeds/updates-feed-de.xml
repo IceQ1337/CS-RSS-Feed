@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 22 Oct 2024 20:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:50:54 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/23/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/>Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bad collision interaction between grenades and a prop.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a wall bang exploit.<br/></li></ul><br/>Mills<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li><li class="bbcodes_ListItem_1BF9I"> Added localization strings for location callouts.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed mouselook inconsistencies when game render dimensions are different from game window dimensions.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed erroneous target aim punch animation during client-side shooting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed erroneous Zeus shock effect during client-side shooting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where Zeus headshots wouldn't emit the death yelp.<br/></li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Prior Major results are now available in the Majors tab in the Watch menu.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">aad3bdf5b22c1f342d66151dc13fa071c48da8918fc3b28106812b4d9e0e211e</guid>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 15.10.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">b6256cecfa2bc390f0fd7a3fc2b5fe224c1f2609314603faf6a2ec1313312f62</guid>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 08.08.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Im Spielmodus Gelegenheitsspiel erhalten Spieler einen zusätzlichen Erfahrungspunkt für jede Runde, in der sie Gegnern Schaden zufügen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Servereinstellung „sv_vote_to_changelevel_rndmin“ hinzugefügt, um die Runden bzw. Zeiten festzulegen, in denen Spieler für einen Kartenwechsel abstimmen können.<br/></li><li class="bbcodes_ListItem_1BF9I"> Auf offiziellen Spielservern im Spielmodus Gelegenheitsspiel können Spieler jetzt nur noch am Ende des Spiels oder während der ersten Runde des Spiels für einen Kartenwechsel abstimmen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Auf offiziellen Spielservern in den Spielmodi Deathmatch und Wettrüsten können Spieler jetzt nur noch am Ende des Spiels oder während der ersten Minute des Spiels für einen Kartenwechsel abstimmen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bewegung eines Spielers nach oben eingeschränkt, wenn ein Teammitglied auf dessen Kopf springt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler dürfen keine Waffen mehr vom Boden aufnehmen, nachdem sie gestorben sind.<br/></li><li class="bbcodes_ListItem_1BF9I"> Das Kaufmenü schließt sich automatisch, wenn das Teamwechselmenü geöffnet wird.<br/></li><li class="bbcodes_ListItem_1BF9I"> Geiselbefreiungen werden jetzt ordnungsgemäß als abgeschlossene Spielziele in den Spielstatistiken erfasst.<br/></li></ul><br/><br/>[ BENUTZEROBERFLÄCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Lesbarkeit des zugefügten und erlittenen Schadens im Schadensbericht unter der Spieleranzeige am Ende einer Runde verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Hervorhebung des aktuellen Spielers beim Zuschauen verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spielernamen werden jetzt ebenfalls mit der erweiterten Spieleranzeige eingeblendet.<br/></li></ul><br/><br/>[ KARTEN ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Mills</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Assembly</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3071005299?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)<br/></li></ul><br/><br/><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">dbefb9d7e3b02a05b5e5265b88e5680384b8982dd0ae17bdb6119ca152476833</guid>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

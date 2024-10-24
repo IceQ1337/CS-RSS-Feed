@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Oct 2024 00:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:50:53 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/23/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/>Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bad collision interaction between grenades and a prop.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a wall bang exploit.<br/></li></ul><br/>Mills<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li><li class="bbcodes_ListItem_1BF9I"> Added localization strings for location callouts.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed mouselook inconsistencies when game render dimensions are different from game window dimensions.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed erroneous target aim punch animation during client-side shooting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed erroneous Zeus shock effect during client-side shooting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where Zeus headshots wouldn't emit the death yelp.<br/></li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Prior Major results are now available in the Majors tab in the Watch menu.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">aad3bdf5b22c1f342d66151dc13fa071c48da8918fc3b28106812b4d9e0e211e</guid>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/15/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">b6256cecfa2bc390f0fd7a3fc2b5fe224c1f2609314603faf6a2ec1313312f62</guid>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/8/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> In Casual game mode players will earn an additional XP score point for every round in which they dealt damage to enemies.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added a server setting "sv_vote_to_changelevel_rndmin" to control rounds/time during which voting for a level change is allowed.<br/></li><li class="bbcodes_ListItem_1BF9I"> Official game servers in Casual game mode now allow voting for a level change only at the end of the match or during the first round of the match.<br/></li><li class="bbcodes_ListItem_1BF9I"> Official game servers in Deathmatch and Arms Race game modes now allow voting for a level change only at the end of the match or during the first minute of the match.<br/></li><li class="bbcodes_ListItem_1BF9I"> Restricted upward movement of a player when a teammate is boosted on their head.<br/></li><li class="bbcodes_ListItem_1BF9I"> Dead players are no longer allowed to pick up ground weapons.<br/></li><li class="bbcodes_ListItem_1BF9I"> Buy menu will automatically close if the switch team menu opens.<br/></li><li class="bbcodes_ListItem_1BF9I"> Rescuing a hostage now increments objectives counter in match stats.<br/></li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Improved legibility of damage given and taken in post-round damage report.<br/></li><li class="bbcodes_ListItem_1BF9I"> Made spec target highlighting more pronounced.<br/></li><li class="bbcodes_ListItem_1BF9I"> Player names are now visible on mini scoreboard whenever the mini scoreboard is expanded.<br/></li></ul><br/><br/>[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Mills</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>)<br/></li></ul><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Assembly</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3071005299?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>)<br/></li></ul><br/><br/><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">dbefb9d7e3b02a05b5e5265b88e5680384b8982dd0ae17bdb6119ca152476833</guid>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
