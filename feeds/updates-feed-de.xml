@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 25 Oct 2024 00:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 04:13:53 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/28/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ JUMPING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Improved jump height consistency to be within 0.015625 of a unit regardless of distance from the map origin at coordinate (0,0,0).<br/><ul class="bbcodes_List_20uQh"> <li class="bbcodes_ListItem_1BF9I"> Previously, in both CS:GO and CS2, jump height could vary by up to 0.03125 of a unit depending on the distance from the map origin.<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> Improved consistency of successfully landing on surfaces very close to the maximum height of a jump.<br/></li><li class="bbcodes_ListItem_1BF9I"> Jump height is still affected by stamina; when using cl_showpos 2, stamina at takeoff is reported and output is color coded based on possible jump height.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with cl_showpos display sometimes showing incorrect jump height when jumping from sloped surfaces.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where the client would be pulled back down during a jump because the server disagreed that the jump had taken place.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted weapon pickup logic while near the C4, prioritizing defusing over accidental weapon pick-up.<br/></li><li class="bbcodes_ListItem_1BF9I"> Enemies will now consistently play a flinch animation on the closest hit when the bullet goes through two hitboxes of equal priority (e.g. when both right and left legs get hit).<br/></li><li class="bbcodes_ListItem_1BF9I"> HE grenade explosions within smoke now clear the accumulated smoke screen effect on players inside that smoke within range of the HE grenade explosion.<br/></li><li class="bbcodes_ListItem_1BF9I"> Stability improvements.<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Dust II<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a gap in geometry.<br/></li></ul><br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8bb7dba00f294dafdc5aa849836cb5c7ac2e8aed258731dcd84bc3c9d0102d39</guid>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/24/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -18,9 +26,9 @@
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 10/23/2024</title>
+      <title>Patchnotizen vom 23.10.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]<br/>Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bad collision interaction between grenades and a prop.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a wall bang exploit.<br/></li></ul><br/>Mills<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li><li class="bbcodes_ListItem_1BF9I"> Added localization strings for location callouts.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed mouselook inconsistencies when game render dimensions are different from game window dimensions.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed erroneous target aim punch animation during client-side shooting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed erroneous Zeus shock effect during client-side shooting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where Zeus headshots wouldn't emit the death yelp.<br/></li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Prior Major results are now available in the Majors tab in the Watch menu.<br/></li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]<br/>Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehlerhafte Kollisionsinteraktion zwischen Granaten und Requisiten behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Wallbang-Exploit behoben.<br/></li></ul><br/>Mills<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>).<br/></li><li class="bbcodes_ListItem_1BF9I"> Lokalisierungs-Strings für Ortsbezeichnungen hinzugefügt.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Inkonsistenzen beim freien Umsehen mit der Maus behoben, wenn die Rendering-Dimensionen des Spiels nicht mit denen des Spielfensters übereinstimmten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlerhafte Aimpunch-Animation eines getroffenen Ziels behoben, die lokal auf dem Client angezeigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlerhafter Treffereffekt mit der Zeus behoben, der lokal auf dem Client angezeigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den bei einem Kopfschuss mit der Zeus kein Todesschrei abgespielt wurde.<br/></li></ul><br/><br/>[ BENUTZEROBERFLÄCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Frühere Major-Ergebnisse sind jetzt im Tab „Majors“ im Menü „Spiele und Turniere ansehen“ verfügbar.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">aad3bdf5b22c1f342d66151dc13fa071c48da8918fc3b28106812b4d9e0e211e</guid>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">b41014e58dfd02eea561848afb777638fddb66d7fec3775bfe60da52d2e0413f</guid>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 19.08.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ EINGABE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Bestimmte Arten der Automatisierung der Bewegungs-/Feuereingabe, wie z. B. hardwareunterstützte Gegenbewegung („counter strafing“), werden jetzt auf offiziellen Valve-Servern erkannt und führen zu einem Rauswurf aus diesem Spiel.<br/></li><li class="bbcodes_ListItem_1BF9I"> Eingabebelegungen, die mehr als einen der folgenden Befehle enthalten, werden jetzt standardmäßig ignoriert (Verwenden Sie „sv_cheats 1“, um die Unterstützung mit der Konfigurationsvariable „cl_allow_multi_input_binds 1“ wieder zu aktivieren):<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> Der Sound bei erfolgreicher Durchführung eines Sprungs in Verbindung mit einem Granatenwurf („jump-throw“) kann jetzt von anderen Spielern in der Nähe gehört werden.<br/></li></ul><br/><br/>[ VACNET ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Erste Tests von VACNet 3.0 haben mit einer begrenzten Anzahl von Spielen begonnen. Wenn Sie überzeugt sind, dass Ihr Spiel fälschlicherweise abgebrochen wurde, senden Sie uns bitte die Spieldetails per E-Mail an: csgoteamfeedback@valvesoftware.com <br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">bf928a748a5b5e42cf130aa42862451a449d206b34dc857c73b779bdb61778d6</guid>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

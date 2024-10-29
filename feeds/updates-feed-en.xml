@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Oct 2024 00:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 04:13:52 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/28/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ JUMPING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Improved jump height consistency to be within 0.015625 of a unit regardless of distance from the map origin at coordinate (0,0,0).<br/><ul class="bbcodes_List_20uQh"> <li class="bbcodes_ListItem_1BF9I"> Previously, in both CS:GO and CS2, jump height could vary by up to 0.03125 of a unit depending on the distance from the map origin.<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> Improved consistency of successfully landing on surfaces very close to the maximum height of a jump.<br/></li><li class="bbcodes_ListItem_1BF9I"> Jump height is still affected by stamina; when using cl_showpos 2, stamina at takeoff is reported and output is color coded based on possible jump height.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug with cl_showpos display sometimes showing incorrect jump height when jumping from sloped surfaces.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where the client would be pulled back down during a jump because the server disagreed that the jump had taken place.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted weapon pickup logic while near the C4, prioritizing defusing over accidental weapon pick-up.<br/></li><li class="bbcodes_ListItem_1BF9I"> Enemies will now consistently play a flinch animation on the closest hit when the bullet goes through two hitboxes of equal priority (e.g. when both right and left legs get hit).<br/></li><li class="bbcodes_ListItem_1BF9I"> HE grenade explosions within smoke now clear the accumulated smoke screen effect on players inside that smoke within range of the HE grenade explosion.<br/></li><li class="bbcodes_ListItem_1BF9I"> Stability improvements.<br/></li></ul><br/><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Dust II<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a gap in geometry.<br/></li></ul><br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8bb7dba00f294dafdc5aa849836cb5c7ac2e8aed258731dcd84bc3c9d0102d39</guid>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/24/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">b41014e58dfd02eea561848afb777638fddb66d7fec3775bfe60da52d2e0413f</guid>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/19/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ INPUT ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Certain types of movement/shooting input automation such as hardware-assisted counter strafing will now be detected on Valve official servers, resulting in a kick from the match<br/></li><li class="bbcodes_ListItem_1BF9I"> Input binds that include more than one of the following commands will now be ignored by default. Support can be re-enabled using the cheat-protected convar `cl_allow_multi_input_binds 1`<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft<br/></li></ul> </li><li class="bbcodes_ListItem_1BF9I"> The jump-throw confirmation grunt sound can now be heard by other players nearby<br/></li></ul><br/><br/>[ VacNet ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Initial testing of VacNet 3.0 has begun on a limited set of matches. If you believe your match was incorrectly cancelled, email us the match details at csgoteamfeedback@valvesoftware.com <br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">bf928a748a5b5e42cf130aa42862451a449d206b34dc857c73b779bdb61778d6</guid>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
