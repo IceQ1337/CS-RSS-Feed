@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Oct 2024 04:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 00:51:36 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/29/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> First-person inspect animation in Inventory and Loadout will now match in-game viewmodel settings and FOV.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a regression with smoke rendering from old demo files.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed damage report to show correctly in Casual and Deathmatch game modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added sv_jump_precision_enable so servers running certain custom game modes (e.g. surf) can opt out of jump precision improvements.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed "I have to go, my planet needs me."<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">f4c9b63c422ee5314891673c63a622e678911618f506ee77cc597b926d4575a9</guid>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/28/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -18,9 +26,9 @@
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Release Notes for 10/24/2024</title>
+      <title>Patchnotizen vom 24.10.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where grenades were generating headshot sounds.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where grenades were not bouncing off certain dynamic props.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where Copenhagen 2024 winners were not showing up in the Majors tab in the Watch menu.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den bei einem Granatentreffer ein Kopfschusssound abgespielt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Granaten nicht von bestimmten beweglichen Requisiten abprallten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Meister des Kopenhagen-Majors 2024 nicht im Tab „Majors“ im Menü „Spiele und Turniere ansehen“ angezeigt wurden.<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">21af7ae25ffbddbaf291dbd26020a6cf1319a58283766319fc24e5ca598766ef</guid>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">7d02e6637805328aa1a049b2ab61c69e2bd16b4368d7149761d68f11da7b6690</guid>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 20.08.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MUSIKKITS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die Musikkiste „Masterminds 2“ ist jetzt in der normalen und in der StatTrak™-Version erhältlich.<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Audioausgabe unverständlich bzw. verzerrt war, wenn die Effizienzkerne des Prozessors verwendet wurden.<br/></li></ul><br/>[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Kleinere Stilanpassungen vorgenommen.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Leistungseinbußen am Ende einer Runde reduziert.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">b41014e58dfd02eea561848afb777638fddb66d7fec3775bfe60da52d2e0413f</guid>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
