@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Oct 2024 00:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 00:51:59 +0000</lastBuildDate>
+    <item>
+      <title>Release Notes for 10/30/2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Increased jump tolerance for sliding along a surface to fix certain jumps like in the corner outside in cs_office.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a crash in page file usage when Vulkan initialization fails and the game falls back to DX11.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">f4c9b63c422ee5314891673c63a622e678911618f506ee77cc597b926d4575a9</guid>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Release Notes for 10/29/2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">a40b24c57dc094a0c52f8c90fdb8429145af8900c633182482f6bc286ad29821</guid>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 21.08.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><br/>Office<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Spieler zwischen einer Requisite und der Decke stecken bleiben konnten.<br/></li></ul><br/>Nuke<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Unsichtbare Kante entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.<br/></li></ul><br/>Mirage<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Kollision am Lieferwagen angepasst, um die Spielerbewegung flüssiger zu gestalten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Probleme mit der Kugeldurchdringung von Wänden um einige Bögen herum behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem behoben, durch das ein Kameraruckeln ausgelöst wurde, wenn Spieler auf eine Kiste in der Nähe des Palastes sprangen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Kollisionen ausgebessert, an denen Rauchgranaten ins Innere einer Wand gelangen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Granaten-Clipping vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kollision einiger Requisiten angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.<br/></li></ul><br/>Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Boost-Ort in der Grube am Bombenort A entfernt.<br/></li></ul><br/>Italy<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Leistungsverbesserungen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Clipping vorgenommen.<br/></li></ul><br/>Vertigo<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Granaten-Clipping vorgenommen.<br/></li></ul><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Problematische Clipping-Kante im T-Start ausgebessert, an der Spieler hängen bleiben konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Unsichtbare Kante entfernt, über die Spieler spähen konnten.<br/></li></ul><br/>Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Granaten-Clipping vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Eine Stelle ausgebessert, an der die Bombe stecken bleiben konnte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Requisiten-Kollisionen ausgebessert, die die Bombe verstecken konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Probleme mit der Beleuchtung behoben.<br/></li></ul><br/>Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Einige kleinere visuelle Fehler in der Nähe des Kanals behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Clipping-Anpassungen in der Nähe des Parks vorgenommen, um die Spielerbewegung flüssiger zu gestalten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige fehlende Kollisionen für Geländer hinzugefügt.<br/></li></ul><br/><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">7d02e6637805328aa1a049b2ab61c69e2bd16b4368d7149761d68f11da7b6690</guid>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
