@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 01 Nov 2024 00:55:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 00:50:35 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various adjustments to bullet hit feedback.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case mid-spray where lag compensation would rewind target hitboxes further into the past than what was on screen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Jumping in place on a sloped surface will no longer result in players sliding a short distance.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where C4 could be defused from any height.<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixes for IK logic to improve third-person feet posing, especially on slopes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the feet and legs of players could pop out of position when exiting the bomb-plant animation.<br/></li><li class="bbcodes_ListItem_1BF9I"> Reduced animation-related network bandwidth usage. <br/></li></ul><br/>[ MATCHMAKING ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added more detailed matchmaking stats for players who try to find a match at off-peak times of day.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Activating an Armory Pass no longer grants the first Armory Credit immediately. All 40 Armory Credits can be earned by playing and earning XP.<br/></li></ul><br/>[ MAPS ]<br/><br/>Office<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed geometry in the problematic jumping corner.<br/></li></ul><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reworked collision on the staircase to A-main for better player movement.<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed a tree that was creating a distracting shadow at A site.<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted collision to better match visible geometry so that players can hug the walls more closely.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a few lighting bugs.<br/></li><li class="bbcodes_ListItem_1BF9I"> Reduced shadows to increase perf in some areas.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some spots in house where you could get stuck.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed collision gap at the bottom of B ramp.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some disappearing mesh.<br/></li></ul><br/>Nuke<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed some lighting errors on lower graphics settings.<br/></li></ul><br/>Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a gap in geometry.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">ddf10bb9ec84e28dcac28f807119aee50cfb836f145a7cf1ad4bfda77583277b</guid>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patchnotizen vom 30.10.2024</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">d476a9de89f20dbbc53a420a2492092532b79f0a3fc17eb4811723ad22024f0d</guid>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 22.08.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ HUD ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den der Hintergrund und die Symbole des Radars falsch ausgerichtet waren.<br/></li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">a40b24c57dc094a0c52f8c90fdb8429145af8900c633182482f6bc286ad29821</guid>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
