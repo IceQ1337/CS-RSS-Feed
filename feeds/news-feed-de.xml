@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Oct 2024 20:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 01:57:27 +0000</lastBuildDate>
+    <item>
+      <title>All Aboard!</title>
+      <link>https://www.counter-strike.net/newsentry/4458095069430284354?l=german</link>
+      <description><![CDATA[We're happy to announce the return of the momentarily lost classic, Train.<br/><br/><video autoplay="" height="auto" loop="" playsinline="" poster="https://clan.akamai.steamstatic.com/images/3381077/2cc311b50abe04bf2c3700216fb80f9a9aa26c36.png?origin=" width="100%"><source src="https://clan.akamai.steamstatic.com/images/3381077/bb2e4dbe98255eb95e5aac9fa0728ff4310b07bb.mp4?origin=" type="video/mp4"/><source src="https://clan.akamai.steamstatic.com/images/3381077/d9eb0bc560630c27136b997f3f171de4b8176394.webm?origin=" type="video/webm"/></video><br/><br/>There's plenty of classic Counter-Strike in every inch of this map—but we also made sure to mix up the gameplay a bit to keep you Train veterans on your toes. We also gave it a full visual overhaul, which means your favorite bleak Eastern European train yard is now 60% cloudier. With a chance of rain? We guarantee it.<br/><br/>So queue up and get ready to master the newest version of one of Counter-Strike's most iconic maps. Train is now available in casual and competitive game modes.<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Overpass Updates and New Community Maps</div><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/9f20d9e437f8ae93c6f276546599860361b0a50b.png"/><br/>Overpass has received a number of updates based on community feedback, and we're adding four new community maps to the game. Basalt returns to Counter-Strike 2 alongside Edin in casual and competitive game modes, and Palais and Whistle have been added to Wingman.<br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4458095069430284354</guid>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Das Arsenal</title>
       <link>https://www.counter-strike.net/newsentry/4674264042200250912?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3787024475483064536</guid>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Der Beginn einer neuen Ära</title>
-      <link>https://www.counter-strike.net/newsentry/3747614808335282785?l=german</link>
-      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images/3381077/8d881c9e69922ab988c6304052979d16bc920346.png"/><br/>Counter-Strike 2 ist endlich da.<br/><br/>Schauen Sie sich doch mal um. Counter-Strike 2 repräsentiert die bisher größte technische Innovation in der Geschichte des Franchise. Entdecken Sie schon heute neue Funktionen und freuen Sie sich auf spannende Updates in den kommenden Jahren.<br/><br/>Wenn Sie gerade erst zum Spiel zurückkehren, finden Sie Ihre Lieblingskarten und Spielmodi genau dort, wo Sie sie zurückgelassen haben, zusammen mit einem überarbeiteten Premium-Modus, in dem Sie Ihre brandneue CS-Wertung erspielen können. Steigen Sie in den Rängen auf und finden Sie heraus, wo Sie in den globalen und regionalen Bestenlisten platziert sind.<br/><br/>Wenn Sie neu sind, können Sie die Grundlagen in einem Offline-Trainingslager erlernen und Ihre Fähigkeiten in den Spielmodi Gelegenheitsspiel und Deathmatch verbessern. Sobald Sie den Wettkampfmodus freigeschaltet haben, können Sie richtig loslegen.<br/><br/>Schnappen Sie sich Ihre Freunde und schließen Sie sich Millionen von Spielern auf der ganzen Welt an. Willkommen bei Counter-Strike 2.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3747614808335282785</guid>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
