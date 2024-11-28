@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2024 01:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 02:10:18 +0000</lastBuildDate>
+    <item>
+      <title>Shanghai 2024 Major</title>
+      <link>https://www.counter-strike.net/newsentry/4472732402493426409?l=english</link>
+      <description><![CDATA[The Counter-Strike Major has come to Shanghai.<br/><br/>Over the past month, teams from around the world challenged the best in their region for their spot in the Major. Now the dust has settled and 24 teams remain--perennial favorites, seasoned veterans, and more than a few newcomers.<br/><br/><img src="https://clan.fastly.steamstatic.com/images/3381077/f0f38a64ad92793e959eec2a45ff34098daf8f38.png"/><br/>The Shanghai Major Hub is now open for business, complete with the Pick'Em Challenge, the Shanghai 2024 Viewer Pass, Souvenirs, Graffiti, and Team and Player stickers. 50% of the proceeds from tournament items are shared with players and organizations.<br/><br/><img src="https://clan.fastly.steamstatic.com/images/3381077/56dc2ad026cabb70fc939f0dfa95c9bf4227dce4.png"/><br/>The Pick'Em Challenge is free to play, but if you want to upgrade your Shanghai 2024 Coin (and earn extra Souvenir Packages), make sure to activate your Viewer Pass before the event begins. You can also compare your Pick'Em performance to other friends with active passes on the Active Pass Leaderboard.<br/><br/><img src="https://clan.fastly.steamstatic.com/images/3381077/2a940af901af1afe7527f1fb2eb7c2e9e51d3e32.png"/><br/>It's time to support your favorite teams. Place your picks, set your graffiti, mark your calendar and get ready, because the Shanghai Major is about to begin. May the best team win!<br/><br/><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4472732402493426409</guid>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>All Aboard!</title>
       <link>https://www.counter-strike.net/newsentry/4458095069430284354?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6107508076983703492</guid>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Maps Workshop</title>
-      <link>https://www.counter-strike.net/newsentry/3787024475483064536?l=english</link>
-      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/9b5fa738bb8617b7799066bedc75c1ab47ce6b23.png"/><br/>The Maps workshop is now open for business.<br/><br/>Community map makers can start uploading their maps to the workshop, and community servers can host those maps. If you'd like to try some workshop maps offline, subscribe to them on the workshop and head to the Play menu.<br/><br/>There are a bunch of other workshop tool updates today, along with a host of other fixes and adjustments to CS2. Check out the notes, play some matches, and keep that feedback coming!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3787024475483064536</guid>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
