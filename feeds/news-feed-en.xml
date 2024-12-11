@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Nov 2024 02:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 02:12:32 +0000</lastBuildDate>
+    <item>
+      <title>The 2024 Perfect World Shanghai Major Playoffs</title>
+      <link>https://www.counter-strike.net/newsentry/528706478197966784?l=english</link>
+      <description><![CDATA[<img src="https://clan.fastly.steamstatic.com/images/3381077/e8cd3a6061a551832aedce4be89115144316051d.png"/><br/>The Elimination Stage of the 2024 Perfect World Shanghai Major delivered memorable plays, breathtaking clutches, and some of the best 1vX moments in recent memory. And now the final eight teams will battle in front of sold-out crowds at the Shanghai World Expo Exhibition &amp; Convention Center to become Major Champions.<br/><br/>The MongolZ and Team Vitality finished the Elimination Stage with perfect 3-0 records. G2 Esports, Team Spirit, and Team Liquid went 3-1, and HEROIC, FaZe Clan, and MOUZ advanced at 3-2.<br/><br/>The first Playoff match begins Wednesday, December 11th at 22:00 PST between The MongolZ and MOUZ, and all Playoff picks for the Pick'Em Challenge must be made before the match begins!<br/><br/>As the Major enters its final stage, team and player stickers are still available, with 50% of the proceeds going to the players, teams, and organizations participating in the Perfect World Shanghai Major.<br/><br/>Good luck to the final eight teams!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">528706478197966784</guid>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shanghai 2024 Major</title>
       <link>https://www.counter-strike.net/newsentry/4472732402493426409?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4064004264605245458</guid>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024 Service Medal</title>
-      <link>https://www.counter-strike.net/newsentry/6107508076983703492?l=english</link>
-      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/6eba6fdad2eeb08061c08631ae1ebe7e14099427.png"/><br/><br/>Celebrate your time in CS2 with the all-new 2024 Service Medal, available starting January 1st!<br/><br/>To get your service medal, earn XP by playing in official game modes and rank up your CS2 Profile. When you reach Global General (Rank 40), you'll have the option to reset your Profile Rank and earn (or upgrade) a 2024 Service Medal. The medal is an inspectable display item you can show off wherever your avatar is shown.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6107508076983703492</guid>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
