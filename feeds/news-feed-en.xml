@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 02:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 20:36:21 +0000</lastBuildDate>
+    <item>
+      <title>Crowning a Champion in Shanghai</title>
+      <link>https://www.counter-strike.net/newsentry/707725115500004414?l=english</link>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images/3381077/367dbffc57e14f6f9beda4743c8d6a4c349309de.png"/><br/>After an exciting Playoff Stage, FaZe Clan and Team Spirit are the last two standing and will meet in the Grand Finals of the Perfect World Shanghai Major.<br/><br/>On one side of the Playoff bracket, FaZe Clan defeated Team Vitality 2-1 and G2 Esports 2-0 to reach the Grand Finals for the second consecutive Major. <br/><br/>On the other side, Team Spirit overwhelmed Team Liquid 2-0, then outlasted MOUZ 2-1 on their way to the organization's first Major Grand Finals appearance.<br/><br/>The Grand Finals begin on December 15th at 01:00 PST and the Showmatch takes place two hours prior. Don't miss a moment!<br/><br/>And don't forget, team and player stickers are still available, with 50% of the proceeds going to the players, teams, and organizations participating in the Perfect World Shanghai Major.<br/><br/>Best of luck to both teams!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">707725115500004414</guid>
+      <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The 2024 Perfect World Shanghai Major Playoffs</title>
       <link>https://www.counter-strike.net/newsentry/528706478197966784?l=english</link>
-      <description><![CDATA[<img src="https://clan.fastly.steamstatic.com/images/3381077/e8cd3a6061a551832aedce4be89115144316051d.png"/><br/>The Elimination Stage of the 2024 Perfect World Shanghai Major delivered memorable plays, breathtaking clutches, and some of the best 1vX moments in recent memory. And now the final eight teams will battle in front of sold-out crowds at the Shanghai World Expo Exhibition &amp; Convention Center to become Major Champions.<br/><br/>The MongolZ and Team Vitality finished the Elimination Stage with perfect 3-0 records. G2 Esports, Team Spirit, and Team Liquid went 3-1, and HEROIC, FaZe Clan, and MOUZ advanced at 3-2.<br/><br/>The first Playoff match begins Wednesday, December 11th at 22:00 PST between The MongolZ and MOUZ, and all Playoff picks for the Pick'Em Challenge must be made before the match begins!<br/><br/>As the Major enters its final stage, team and player stickers are still available, with 50% of the proceeds going to the players, teams, and organizations participating in the Perfect World Shanghai Major.<br/><br/>Good luck to the final eight teams!]]></description>
+      <description><![CDATA[<img src="https://clan.fastly.steamstatic.com/images/3381077/e8cd3a6061a551832aedce4be89115144316051d.png"/><br/>The Elimination Stage of the 2024 Perfect World Shanghai Major delivered memorable plays, breathtaking clutches, and some of the best 1vX moments in recent memory. And now the final eight teams will battle in front of sold-out crowds at the SPD Bank Oriental Sports Center to become Major Champions.<br/><br/>The MongolZ and Team Vitality finished the Elimination Stage with perfect 3-0 records. G2 Esports, Team Spirit, and Team Liquid went 3-1, and HEROIC, FaZe Clan, and MOUZ advanced at 3-2.<br/><br/>The first Playoff match begins Wednesday, December 11th at 22:00 PST between The MongolZ and MOUZ, and all Playoff picks for the Pick'Em Challenge must be made before the match begins!<br/><br/>As the Major enters its final stage, team and player stickers are still available, with 50% of the proceeds going to the players, teams, and organizations participating in the Perfect World Shanghai Major.<br/><br/>Good luck to the final eight teams!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">528706478197966784</guid>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6727887174668178386</guid>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Call to Arms</title>
-      <link>https://www.counter-strike.net/newsentry/4064004264605245458?l=english</link>
-      <description><![CDATA[<a class="Focusable" href="https://store.steampowered.com/sale/armsrace?snr=" tabindex="0"><span><img src="https://clan.akamai.steamstatic.com/images/3381077/aaae97dfe5530d92066a520ee5f83b233e926a0b.png"/></span></a><br/>Arms Race has returned! Grab your guns and brace yourself for a chaotic race to the top. Get two kills with each weapon to reach the final stage, or steal your opponents’ progress with your knife (or now with the Zeus)! Work your way up to the knife stage and earn the final kill to secure the win.<br/><br/>There's a lot more shipping today, from custom sticker placement to new content to gameplay updates. Click <a class="Focusable" href="https://store.steampowered.com/sale/armsrace?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">here</span></a> to learn more!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4064004264605245458</guid>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
