@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Dec 2024 20:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 02:08:45 +0000</lastBuildDate>
+    <item>
+      <title>Champions of Shanghai</title>
+      <link>https://www.counter-strike.net/newsentry/529833471389991079?l=english</link>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images/3381077/c832bcc989b6e03012fde727c077c846d245cb22.jpg"/><br/>The Perfect World Shanghai Grand Final was one to remember. Team Spirit and FaZe Clan needed all three maps to determine a champion in front of an excited, sold-out crowd at the SPD Bank Oriental Sports Center.<br/><br/>Down 12:5 on map 3, FaZe Clan battled back with 6 consecutive round wins—and some incredible clutches along the way—to force round 24. With the bomb planted and down to a 1v1, sh1ro's final kill earned Team Spirit their first Major Championship.<br/><br/>Celebrate Team Spirit's win with the Major Champions Capsule, now available for purchase. The capsule features autographs from Team Spirit in paper, glitter, holo, and gold, and 50% of the proceeds go to the players and organizations.<br/><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/3ed2c31143f07013ef30373c1458adc84731c04d.png"/><br/>With Shanghai in the books we look forward to the BLAST.tv Major in Austin, Texas. See you in June 2025!<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">2025 Service Medal</div><img src="https://clan.cloudflare.steamstatic.com/images/3381077/7f0747f83da9da8ed752f3848e0ab17caf40de9d.png"/><br/>Beginning January 1st, 2025 players can receive the newest Service Medal in-game. <br/><br/>When you reach Global General (Rank 40) you'll have the option to reset your Profile Rank and earn (or upgrade) a 2025 Service Medal.<br/><br/>Good luck and have fun!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529833471389991079</guid>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Crowning a Champion in Shanghai</title>
       <link>https://www.counter-strike.net/newsentry/707725115500004414?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4104540932612285123</guid>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PGL Copenhagen 2024</title>
-      <link>https://www.counter-strike.net/newsentry/6727887174668178386?l=english</link>
-      <description><![CDATA[In December, hundreds of teams from around the world began their long journey to the first Counter-Strike 2 Major. Fighting through open, closed, and regional qualifiers--now only 24 remain. Tune in to the PGL Copenhagen Major on March 17th and watch the best Counter-Strike teams in the world battle for the title of Major Champion!<br/><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/928b9520fe984786a92fbffb671023a42770d990.png"/><br/>Today we're shipping the all-new Copenhagen Major Hub, where you can find the Pick'Em Challenge, the Copenhagen 2024 Viewer Pass, Souvenirs, and (coming soon) Team and Player stickers. 50% of the proceeds from tournament items are shared with players and organizations.<br/><br/>Playing the Pick'Em Challenge with an active pass will give you a chance to upgrade your Copenhagen 2024 Coin and earn extra Souvenir Packages. You'll also show up on the Active Pass Leaderboard, where you can compare your Pick'Em Challenge performance to your friends.<br/><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/e819d0a262182a891fcd7e8970f43e65b6072106.png"/><br/>In the past, you needed an active pass to play the Pick'Em game. No more! Now, everyone with Prime status can place their picks for free. However, to complete challenges and earn rewards from each event stage, you'll have to activate your pass before the stage begins.<br/><br/>So place your picks and get ready to cheer for your favorite teams. The PGL Copenhagen 2024 Major is almost here!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6727887174668178386</guid>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
