@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Jan 2025 04:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 20:11:15 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ SHANGHAI MAJOR ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Shanghai 2024 Major sticker capsules are now on sale for 75% off</li></ul><br/>[ ARMORY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"><div class="bbcodes_Italic_zA7ad BB_Italic">Desert Eagle | Heat Treated</div> is no longer available to claim from The Armory</li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed finger placement during Huntsman knife in-game inspect animation<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where grenade icons weren't disappearing on the spectator map<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case when spectator icon could show up at the wrong time on the radar<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug related to changing inspect scenery while inspecting knives</li></ul>]]></description>
+      <description><![CDATA[[ SHANGHAI-MAJOR ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Aufkleberkapseln des Shanghai-Majors 2024 können jetzt mit einem Rabatt von 75 % erworben werden.</li></ul><br/>[ ARSENAL ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"><div class="bbcodes_Italic_zA7ad BB_Italic">Desert Eagle | Wärmebehandlung</div> kann nicht länger im Arsenal eingelöst werden.</li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fingerposition der Animation beim Untersuchen des Jagdmessers im Spiel angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, der dazu führte, dass Granatensymbole auf der Zuschauerkarte nicht verschwanden.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, der dazu führte, dass Zuschauersymbole zur falschen Zeit auf dem Radar auftauchen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I">Problem mit der Hintergrundkulisse behoben, das bei der Untersuchung von Messern auftrat.</li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">f5db3a45552423249e72f0eac43a51d2bbb57f2af9825d5721c4859f6db13c49</guid>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
