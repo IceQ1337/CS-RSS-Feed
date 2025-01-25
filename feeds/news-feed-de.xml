@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 19 Dec 2024 20:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 01:49:54 +0000</lastBuildDate>
+    <item>
+      <title>Seasons Change</title>
+      <link>https://www.counter-strike.net/newsentry/520829437562848128?l=german</link>
+      <description><![CDATA[<img src="https://clan.fastly.steamstatic.com/images/3381077/752a115784870febdc4da7bf1b4bd2fdaea0d3d5.png"/><br/>Next week we will say "goodbye" to Premier Season One, and "hello" to Season Two. To celebrate, every player who earned a CS Rating during Season One will receive a commemorative Premier Season One Medal. Your medal includes detailed Season Statistics that you can view by clicking on the medal in your inventory. Review your Season One highs and lows with graphs of your CSR and playtime, or view your map-specific stats to find areas of improvement for Season Two.<br/><br/>As we transition to Season Two, there'll be one day of Premier downtime during which your CS Rating will be recalibrated for the new season based on your Season One performance. At the start of the new Season you will need to re-establish your CS Rating by winning 10 matches.<br/><br/><video autoplay="" crossorigin="anonymous" height="auto" loop="" playsinline="" poster="https://clan.fastly.steamstatic.com/images/3381077/d495453498221843cfda536124bcc4fcc900047b.png?origin=" width="100%"><source src="https://clan.fastly.steamstatic.com/images/3381077/6e803fe05de9235ccca66ba9fdcd8a083d4ff55a.mp4?origin=" type="video/mp4"/><source src="https://clan.fastly.steamstatic.com/images/3381077/fed939de66b4f14899ed743a4201d163b260341a.webm?origin=" type="video/webm"/></video><br/>Season Two comes with some changes. Train is in and Vertigo is out, the M4A4 is a bit less expensive, and the FAMAS has some improvements to its standing and crouching accuracy (along with a price cut).<br/><br/>And when Season Two comes to a close after the Austin Major, players who meet the requirements will be awarded a Premier Season Two Medal. The color will correspond to your highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25—up to five bars.<br/><br/>To earn your Premier Season Two Medal, you'll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.<br/><br/>So clear out your calendar, because Season Two is about to begin!<br/><br/><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520829437562848128</guid>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meister von Shanghai</title>
       <link>https://www.counter-strike.net/newsentry/529833471389991079?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4104540932633328367</guid>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PGL Kopenhagen-Major 2024: Aufkleber!</title>
-      <link>https://www.counter-strike.net/newsentry/4104540932612285123?l=german</link>
-      <description><![CDATA[Die Auftaktphase des von PGL organisierten Kopenhagen-Majors ist zu Ende und schon jetzt zeichnet sich eine spannende Geschichte ab. Neue Teams stellen sich der Herausforderung. Erfahrene Teams erreichen ihre Bestform zum perfekten Zeitpunkt. Besonders die Regionen Asien und Amerika zeigen, was sie können. Wer erreicht die Play-offs? Schalten Sie während der K.-o.-Phase ein, um es herauszufinden!<br/><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/d58744721b2c90bc58597bd0aeee173411b2c185.png"/><br/>Falls Sie nach einer Möglichkeit gesucht haben, Ihre Unterstützung für Ihre Lieblingsteams zum Ausdruck zu bringen, bietet sich Ihnen jetzt die Gelegenheit: Aufkleberkapseln mit Teamlogos und Spielerautogrammen können ab sofort im Major-Hub erworben werden. Die Kapseln enthalten alle Spieler- und Teamaufkleber des Majors in der Qualität Standard, Glitzer, Holo und Gold. 50 % des Erlöses aus dem Verkauf fließen an die am Major teilnehmenden Spieler und Organisationen.<br/><br/>Hier noch ein Hinweis für alle Spieler, die an der Pick’Em Challenge teilnehmen: Vergessen Sie nicht, Ihre Tipps vor den ersten Spielen der K.-o.-Phase abzugeben!<br/><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4104540932612285123</guid>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
