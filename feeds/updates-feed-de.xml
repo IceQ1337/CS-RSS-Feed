@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Jan 2025 16:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 04:13:16 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ PREMIER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Premier Season One is now over, and Premier matchmaking has been temporarily disabled.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4bba681297b3df386b4c1ac68381e2e2c70394e7c78899114cb3c7029dfb21c9</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 21.01.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">d039fa22c3674b6d3b4c904937ec1c5c5198406c2969e23d937f4d99c1faecdf</guid>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Anpassungen am Kugeltreffer-Feedback vorgenommen. <br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den während eines Dauerfeuers die Hitboxen des Ziels durch die Verzögerungskompensation weiter zurückversetzt wurden, als es auf dem Bildschirm den Anschein hatte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein Spieler beim Springen auf einer schrägen Fläche ein kleines Stück rutschte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Bombe aus beliebiger Höhe entschärft werden konnte.<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen an der Inverse-Kinematik-Logik vorgenommen, um die Positionierung der Füße in der Third-Person-Perspektive zu verbessern (insbesondere auf schrägen Flächen).<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Füße und Beine eines Spielers nach dem Ende der Animation beim Legen einer Bombe plötzlich eine andere Position annahmen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Nutzung der Netzwerkbandbreite von Animationen reduziert. <br/></li></ul><br/>[ SPIELSUCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Detailliertere Informationen für die Spielsuche von Spielern hinzugefügt, die außerhalb der Spitzenspielzeiten eines Tages nach einem Spiel suchen.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die Aktivierung eines Arsenalpasses gewährt keinen kostenlosen Arsenalpunkt mehr. Alle 40 Arsenalpunkte können durch das Sammeln von EP im Spiel verdient werden.<br/></li></ul><br/>[ KARTEN ]<br/><br/>Office<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Kartengeometrie in einer Ecke angepasst, die zu inkonsistenten Sprüngen führte.<br/></li></ul><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Kollision auf der Treppe zum Hauptzugang zu Bombenort A überarbeitet, um die Spielerbewegung flüssiger zu gestalten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Baum entfernt, der einen störenden Schatten auf den Bombenort A warf.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kollision angepasst, damit diese besser der sichtbaren Kartengeometrie entspricht und Spieler näher an den Wänden stehen können.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Fehler mit der Beleuchtung behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Schatten reduziert, um die Leistung in einigen Bereichen zu verbessern.<br/></li><li class="bbcodes_ListItem_1BF9I"> Einige Orte im Haus korrigiert, an denen Spieler stecken bleiben konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kollisionslücke am unteren Ende der Rampe zu Bombenort B ausgebessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem mit verschwindenden Polygonnetzen behoben.<br/></li></ul><br/>Nuke<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Einige Beleuchtungsfehler bei niedrigeren Grafikeinstellungen behoben.<br/></li></ul><br/>Anubis<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Lücke in der Kartengeometrie ausgebessert.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">ddf10bb9ec84e28dcac28f807119aee50cfb836f145a7cf1ad4bfda77583277b</guid>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
