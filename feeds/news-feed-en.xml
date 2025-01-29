@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2025 01:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 01:53:52 +0000</lastBuildDate>
+    <item>
+      <title>Season's Greetings</title>
+      <link>https://www.counter-strike.net/newsentry/520830071182721028?l=english</link>
+      <description><![CDATA[Welcome to Premier Season Two. <br/><br/>If you haven't heard the news, here's what's new in Season Two. Vertigo is out, Train is in, the M4A4 is more... A4-dable... and we've tweaked the FAMAS. <br/><br/>Season Two runs from now through the Austin Major, at which point players who meet the requirements will be awarded a Premier Season Two Medal. The color will correspond to your highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25—up to five bars.<br/><br/>To earn your Premier Season Two Medal, you'll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.<br/><br/>Premier matchmaking is now open for business, so hit the queue and start racking up those wins!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520830071182721028</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Seasons Change</title>
       <link>https://www.counter-strike.net/newsentry/520829437562848128?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4167591962341209737</guid>
       <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copenhagen Playoffs and Pick’Ems</title>
-      <link>https://www.counter-strike.net/newsentry/4104540932633328367?l=english</link>
-      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images/3381077/b80e4de648288b7a193fb2218f6c6c6b348fa18a.png"/><br/>The Elimination Stage of the PGL Copenhagen Major has concluded, leaving eight teams to compete for Counter-Strike 2’s first Major Championship.<br/><br/>Congratulations to Team Spirit and MOUZ who advanced unbeaten, finishing with a perfect 3-0 record. Eternal Fire, Cloud9, and Team Vitality each went 3-1, and Natus Vincere, G2 Esports, and FaZe Clan went the distance, needing all five matches to advance with 3-2 records.<br/><br/>Playoff matches begin Thursday, March 28th from Royal Arena in Copenhagen, Denmark. Predictions for the Pick’Em Challenge are due before the first Playoff match begins, so lock in your picks now!<br/><br/>And don’t forget, team and player stickers are available now, with 50% of the proceeds going to the players, teams, and organizations participating in the PGL Copenhagen Major.<br/><br/>Good luck and have fun!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4104540932633328367</guid>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
