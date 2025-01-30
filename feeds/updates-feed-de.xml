@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Jan 2025 04:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 20:11:28 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 29.01.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Basalt - updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).</li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Activated Premier Season Two progress indicator in the play menu.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed regressions with AUG/SG scope graphics.</li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Basalt: Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fortschrittsanzeige für das Abzeichen der zweiten Saison des Premium-Modus im Tab „Premium“ der Spielsuche hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Regressionen bei der Anzeige des Zoom-Modus für die AUG und SG 553 behoben.</li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3f9621b1119cce817676849eb488872d2d6d2c65aec0d66fd7c54c50ba3aaaef</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
