@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Jan 2025 20:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 04:12:56 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed AUG scope stencil filter bug near water surfaces.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed Premier progress bar not displaying properly in low resolutions.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed certain UI panels not rendering transparently when using CMAA2 and HDR performance settings simultaneously.<br/></li><li class="bbcodes_ListItem_1BF9I">Improved dynamic radar scale to snap size when a newly discovered enemy/C4 enters radar view, but still shrink gradually when enemy/C4 disappears and enough time passes.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed radar scale settings UI to support full range of radar scale from 0.25 to 1.0 values.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed sounds from Train inspect scenery not getting cleared when going back to the main menu.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed misprediction error smoothing near walls to avoid clipping through walls.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed cloth simulation bug on loopback=1 local servers.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">15f50288f95d3ec78631cb24ed50569f1c12b6b26ea0e8b5bf1b5524a96790ee</guid>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 29.01.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">0a12c85d6a7213a19d0185f2de117afbf9e16e50abf92ab9cddbfda17fba2033</guid>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN-GUIDES ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den nicht lokalisierter Text einer Sprache nicht automatisch auf Englisch angezeigt wurde.<br/></li></ul><br/>[ KARTEN ]<br/><br/>Train<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Probleme mit der Kollision (inklusive der Qualität des orangefarbenen Güterwagens am Bombenort B) behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kleinere Korrekturen im Zusammenhang mit gedehnten Texturen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Lücken in der Spielwelt ausgebessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spielerkollision mit dem Radio deaktiviert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Radiogeräusch aktualisiert.<br/></li><li class="bbcodes_ListItem_1BF9I"> VPhysics-Kollision (für ungeschickte Spieler) zur Lücke in der Plattform im T-Start hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler können jetzt außerhalb von „Long Dog“ auf den Kistenstapel springen.<br/></li></ul><br/>Overpass<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Beleuchtungsfehler am Bombenort B behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlerhafte Trittgeräusche auf schlammigen Oberflächen behoben.<br/></li></ul><br/>Basalt<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">c18e58abf261f3d1a76a722b67aff2e482d5ec3ab72b520a375b82a8339feb8e</guid>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
