@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Feb 2025 00:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 20:11:34 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 06.02.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ PREMIER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Adjusted the logic that determines when players are too far apart in CS Rating to participate in matchmaking together as a party. In most cases, players who used to play together as a party in Premier Season One will be able to party together in Premier Season Two.</li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added "Get Service Medal" UI element directly to the main menu profile card.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where main menu profiles were missing display medals.<br/></li><li class="bbcodes_ListItem_1BF9I">Updated Dust II radar image to be more accurate.</li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a case where inspect or reload button presses could cause prediction errors.</li></ul>]]></description>
+      <description><![CDATA[[ PREMIUM ]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">0487f89c2fe1e2f96c9d8d1899f7d16270881327bc5accf0b6d9df483d55a313</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
