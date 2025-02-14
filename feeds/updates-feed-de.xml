@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 14 Feb 2025 00:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 20:11:25 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 13.02.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed sizing and scaling of UI elements shared between buy menu and in-game HUD.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug with armor display for CSTV spectators.<br/></li><li class="bbcodes_ListItem_1BF9I">Updated alternate AK-47 inspect animation.</li></ul><br/><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Increased supported upload size for Counter-Strike 2 Steam Workshop Maps to 3 GB.</li></ul><br/>]]></description>
+      <description><![CDATA[[ BENUTZEROBERFLÄCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den beim Einblenden des Kaufmenüs die Größe und Skalierung von HUD-Elementen auf den Standardwert zurückgesetzt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler bei der Anzeige der Rüstung für CSTV-Zuschauer korrigiert.<br/></li><li class="bbcodes_ListItem_1BF9I">Alternative Animation beim Untersuchen der AK-47 aktualisiert.</li></ul><br/><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Unterstützte Upload-Größe von Steam-Workshop-Karten für Counter-Strike 2 auf 3 GB erhöht.</li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">7d5d0c07d418a15880691930fd2a47a64a8465773ce601de4bab59c98fdb6482</guid>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
