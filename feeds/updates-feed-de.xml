@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Feb 2025 20:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:51:03 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed sizing and scaling of UI elements shared between buy menu and in-game HUD.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug with armor display for CSTV spectators.<br/></li><li class="bbcodes_ListItem_1BF9I">Updated alternate AK-47 inspect animation.</li></ul><br/><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Increased supported upload size for Counter-Strike 2 Steam Workshop Maps to 3 GB.</li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">7d5d0c07d418a15880691930fd2a47a64a8465773ce601de4bab59c98fdb6482</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 06.02.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">a64a06f7edb4f28f2eb382426a602f0e45e559d7a7cc7a45d4e550a0567f7389</guid>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein Spieler, dessen Verbindung unterbrochen wurde, ein poltergeistartiges AT-Modell in der Kartenmitte erscheinen lassen konnte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Das Spielermodell eines Spielers, dessen Verbindung unterbrochen wurde, verschwindet jetzt bei Erkennung einer Verbindungsunterbrechung sofort (zählt als Freitod), anstatt unter bestimmten Umständen für weitere 10 Sekunden zu verweilen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Schadensvorhersage nicht ordnungsgemäß funktionierte, wenn sich der Blickwinkel auf ein Ziel während eines Dauerfeuers änderte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die Verzögerungskompensation berücksichtigt jetzt auch den Eigenbeschuss von Teammitgliedern. Darüber hinaus ist die Konfigurationsvariable „mp_teammates_are_enemies“ aktiviert, auch wenn „mp_friendlyfire“ deaktiviert ist.<br/></li></ul><br/>[ BENUTZEROBERFLÄCHE ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Inkonsistenzen des Layouts bei der Anzeige von Rängen und Spielerprofilen behoben.<br/></li></ul><br/>[ KARTEN ]<br/><br/>Train<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Geräusche der Hintergrundkulisse des Hauptmenüs aktualisiert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bewegung rund um die Leitern verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Lücken in der Spielwelt ausgebessert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Z-Fighting-Artefakte an verschiedenen Orten korrigiert.<br/></li></ul><br/>Inferno<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Lücken ausgebessert. <br/></li><li class="bbcodes_ListItem_1BF9I"> Clipping an mehreren Orten angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Texturfehler behoben.<br/></li></ul><br/>Nuke<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Ort korrigiert, an dem Spieler stecken bleiben konnten.<br/></li></ul><br/>Office<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein T-Spieler beim Einstieg in der Luft hing.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6d6748e46b20cba0714c3f6884bbdb0c80328d7a8663ce61a6bd1f0b7b02be67</guid>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
