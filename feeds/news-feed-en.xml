@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Apr 2025 02:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 02:18:54 +0000</lastBuildDate>
+    <item>
+      <title>Mission Possible</title>
+      <link>https://www.counter-strike.net/newsentry/529846144626327818?l=english</link>
+      <description><![CDATA[Today's update includes several community maps, a rearranging of casual and deathmatch map groups, and the introduction of weekly missions!<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Weekly Missions</div><br/><img src="https://clan.fastly.steamstatic.com/images/3381077/c33643703076e28d5979c51ed2bcef6c8c40b106.png"/><br/><br/>Your mission, should you choose to accept it, can be completed for bonus XP. Each week you'll get a new mission, and you can access your mission in the Main Menu and in the Play Menu.<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Community Maps</div><br/>Today we welcome a host of new community maps: Jura, Grail and Agency have been added to Competitive, Casual, and Deathmatch modes, and Dogtown and Brewery have been added to Wingman. And it's easier than ever to play community maps—Jura, Grail, and Agency can be found in the new Community Map Group.<br/><br/><div class="scrollsnapcarousel_ScrollSnapCarousel_3KQkn ScrollSnapCarousel SaleSectionCarousel eventbbcodeparser_ScreenshotCarousel_vjafh" style="gap: unset;"><img src="https://clan.fastly.steamstatic.com/images/3381077/533154f720195f2032a302a5fed0a785dafbfb21.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/0521b3dbaf187b3ff154d0efa5e23c3dd829943b.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/342e88dbbef797238e60a492e95eb47e82687e8f.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/afa0f29d86f969c4e8f7cf3ab3f00ebc5e84750e.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/7d152e290ec0d02e1d47167682bfb60132411e96.png"/></div> <br/><br/>All this and more (<a class="Focusable" href="https://store.steampowered.com/news/app/730/view/529846144626327635?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">particularly for fans of binding keys to "/"</span></a>) in today's update, so jump into some community maps and see what's new!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529846144626327818</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spring Forward</title>
       <link>https://www.counter-strike.net/newsentry/529842339955343453?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4202497395512481609</guid>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Copenhagen Major Champions</title>
-      <link>https://www.counter-strike.net/newsentry/4185606994270578198?l=english</link>
-      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/75c3204fcb2874385f7c3e1dafeb00003b76502e.png"/><br/>Congratulations to Natus Vincere, the first CS2 Major Champions!<br/><br/>Playing in front of a sold-out arena and with over 1.8 million viewers watching around the world, NAVI and FaZe met in the Grand Final of one of the most hotly-contested Counter-Strike Majors of all time. Trading map wins in Ancient and Mirage, the teams moved to Inferno for the decider. There, b1t, jL, Aleksib, iM, and w0nderful put on a dominating performance to earn the trophy and title of Major Champions.<br/><br/>To celebrate their achievement, the Copenhagen 2024 Major Champions Capsule is now available for purchase. The capsule features autographs for each member of the winning team in paper, glitter, holo, and gold. 50% of the proceeds go to the players and organizations.<br/><br/>And with that, the Copenhagen Major has come to a close. See you next time in Shanghai!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4185606994270578198</guid>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

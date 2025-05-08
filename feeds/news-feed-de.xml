@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 01 Apr 2025 20:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 02:19:07 +0000</lastBuildDate>
+    <item>
+      <title>Mission Possible</title>
+      <link>https://www.counter-strike.net/newsentry/529846144626327818?l=german</link>
+      <description><![CDATA[Today's update includes several community maps, a rearranging of casual and deathmatch map groups, and the introduction of weekly missions!<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Weekly Missions</div><br/><img src="https://clan.fastly.steamstatic.com/images/3381077/c33643703076e28d5979c51ed2bcef6c8c40b106.png"/><br/><br/>Your mission, should you choose to accept it, can be completed for bonus XP. Each week you'll get a new mission, and you can access your mission in the Main Menu and in the Play Menu.<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Community Maps</div><br/>Today we welcome a host of new community maps: Jura, Grail and Agency have been added to Competitive, Casual, and Deathmatch modes, and Dogtown and Brewery have been added to Wingman. And it's easier than ever to play community maps—Jura, Grail, and Agency can be found in the new Community Map Group.<br/><br/><div class="scrollsnapcarousel_ScrollSnapCarousel_3KQkn ScrollSnapCarousel SaleSectionCarousel eventbbcodeparser_ScreenshotCarousel_vjafh" style="gap: unset;"><img src="https://clan.fastly.steamstatic.com/images/3381077/533154f720195f2032a302a5fed0a785dafbfb21.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/0521b3dbaf187b3ff154d0efa5e23c3dd829943b.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/342e88dbbef797238e60a492e95eb47e82687e8f.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/afa0f29d86f969c4e8f7cf3ab3f00ebc5e84750e.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/7d152e290ec0d02e1d47167682bfb60132411e96.png"/></div> <br/><br/>All this and more (<a class="Focusable" href="https://store.steampowered.com/news/app/730/view/529846144626327635?snr=" tabindex="0"><span data-tooltip-text="store.steampowered.com">particularly for fans of binding keys to "/"</span></a>) in today's update, so jump into some community maps and see what's new!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529846144626327818</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Frühjahrsputz</title>
       <link>https://www.counter-strike.net/newsentry/529842339955343453?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4202497395512481609</guid>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Die Meister des Kopenhagen-Majors</title>
-      <link>https://www.counter-strike.net/newsentry/4185606994270578198?l=german</link>
-      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/75c3204fcb2874385f7c3e1dafeb00003b76502e.png"/><br/>Herzlichen Glückwunsch an Natus Vincere zum Sieg bei der ersten CS2-Meisterschaft!<br/><br/>Vor einer ausverkauften Arena und über 1,8 Millionen Zuschauern aus aller Welt trafen NAVI und FaZe im Finale einer der am härtesten umkämpften Counter-Strike-Meisterschaften aller Zeiten aufeinander. Die Teams gewannen auf Ancient und Mirage die Kartenwahl des jeweils anderen, sodass die Entscheidung auf Inferno fallen musste. Dort konnten b1t, jL, Aleksib, iM und w0nderful mit einer beeindruckenden Teamleistung die Trophäe und den Meistertitel für sich beanspruchen.<br/><br/>Um diesen Triumph gebührend zu feiern, ist die Aufkleberkapsel der Meister ab sofort zum Kauf erhältlich. Die Kapsel enthält die Autogramme aller Spieler des Meisterteams in der Qualität Standard, Glitzer, Holo und Gold. 50 % der Erlöse aus dem Verkauf fließen an die Spieler und die Organisatoren.<br/><br/>Und damit kommt das Kopenhagen-Major zum Ende. Bis zum nächsten Mal in Shanghai!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4185606994270578198</guid>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
