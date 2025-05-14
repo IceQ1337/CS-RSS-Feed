@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 13 May 2025 00:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 20:11:23 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 13.05.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein Teammitglied eine mit „Kaufen und verschenken“ erhaltene Waffe abfeuern und vor dem Verstreichen der Kaufzeit wieder an den ursprünglichen Besitzer zurückgeben konnte, um sich diese rückerstatten zu lassen.<br/></li></ul><br/>[ PREMIUM ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die regionalen sowie die weltweite Bestenliste der 2. Premium-Saison können jetzt abgerufen werden.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> HUD-Einstellung „Seltenheitsfarben von Waffen anzeigen“ hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Minimal abgekratzte Aufkleber überdecken jetzt die Lücken am vorderen Handgriff der AK-47.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">715d666f9d1b2f0c387ff4c0464ba1a4d44ac6313ca1f31ba1db79f0b6313109</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">af3ac640d9af193d1cf95028259ca0359fb6d06778db084046112d9d176c9c27</guid>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ SHANGHAI-MAJOR ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Aufkleberkapseln des Shanghai-Majors 2024 können jetzt mit einem Rabatt von 75 % erworben werden.</li></ul><br/>[ ARSENAL ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"><div class="bbcodes_Italic_zA7ad BB_Italic">Desert Eagle | Wärmebehandlung</div> kann nicht länger im Arsenal eingelöst werden.</li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fingerposition der Animation beim Untersuchen des Jagdmessers im Spiel angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, der dazu führte, dass Granatensymbole auf der Zuschauerkarte nicht verschwanden.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, der dazu führte, dass Zuschauersymbole zur falschen Zeit auf dem Radar auftauchen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I">Problem mit der Hintergrundkulisse behoben, das bei der Untersuchung von Messern auftrat.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">f5db3a45552423249e72f0eac43a51d2bbb57f2af9825d5721c4859f6db13c49</guid>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
