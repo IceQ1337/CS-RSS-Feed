@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 16 May 2025 00:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 00:59:56 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/>Jura:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">74830d37ee3bdface6e2bb09bafce2d86690214b4df38cf60951dcb721231277</guid>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 15.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4bba681297b3df386b4c1ac68381e2e2c70394e7c78899114cb3c7029dfb21c9</guid>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 21.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Kleinere Leistungsverbesserungen an einigen CPU-gebundenen Prozessen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I">Wenn der beobachtete Spieler die Einstellung „Rückstoß folgen“ aktiviert hat, wird diese bei angezeigtem Fadenkreuz auch für den Zuschauer übernommen.<br/></li><li class="bbcodes_ListItem_1BF9I">Unterstützung für die Aktualisierung bereits veröffentlichter Karten-Guides im Steam Workshop hinzugefügt. Sie können beispielsweise den Konsolenbefehl „workshop_annotation_submit 123456“ verwenden, um Ihre Workshop-Einsendung mit dem URL-Parameter „id=123456“ zu aktualisieren. Wenn Sie eine Identifikationsnummer angeben, die zu keiner Ihrer Einsendungen gehört, wird eine neue Einsendung erstellt. Nach der ersten Aktualisierung wird die Identifikationsnummer in die Karten-Guide-Datei eingebettet. Sie können künftig weitere Aktualisierungen veröffentlichen, ohne diese erneut angeben zu müssen.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">9439fe780e12bb2cabae2552747ab9ffc352a45ed33448185223750d0b982173</guid>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
