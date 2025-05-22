@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 21 May 2025 16:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 00:59:30 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rendered viewangle adjustments due to recoil are now calculated per frame.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8eaa61442d5f5e1d7b986552ebd201f109ca1c525503cbeb0c1fa779e20da014</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 20.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -117,14 +125,6 @@
       <title>Counter-Strike 2 – Update vom 28.01.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
       <description><![CDATA[[ PREMIUM ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Die zweite Saison des Premium-Modus feiert ihren Auftakt. Die Spielsuche für diesen Spielmodus ist ab sofort wieder verfügbar.<br/></li><li class="bbcodes_ListItem_1BF9I">Jeder Spieler, der sich während der ersten Saison eine CS-Wertung erspielt hat, erhält ein entsprechendes Abzeichen. Dieses gewährt Spielern einen Einblick in detaillierte Saisonstatistiken.<br/></li><li class="bbcodes_ListItem_1BF9I">Die CS-Wertung jedes Spielers wird auf der Grundlage seiner Leistungen in der ersten Saison neu kalibriert. Spieler müssen zehn Spiele gewinnen, um erneut eine CS-Wertung zu erhalten.<br/></li><li class="bbcodes_ListItem_1BF9I">Train zur Kartengruppe des aktiven Dienstes hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Vertigo aus der Kartengruppe des aktiven Dienstes entfernt.<br/></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Preis der M4A4 auf 2.900 Dollar reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I">Schussgenauigkeit der FAMAS verbessert und Preis auf 1.950 Dollar reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I">Schussgenauigkeit der MP9, MP5-SD und MP7 in geduckter Position reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I">Sichtbarkeit des Leuchtpunkts der AUG/SG 553 im Zoom-Modus verbessert.<br/></li></ul><br/><br/>[ BENUTZEROBERFLÄCHE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Neue Option für einen dynamischen Radar-Zoom hinzugefügt, die die Zoom-Stufe unter Berücksichtigung der Teammitglieder, der Bombe und anderer Elemente von Interesse automatisch anpasst.<br/></li><li class="bbcodes_ListItem_1BF9I">Anordnung der Granaten im HUD des Zuschauermodus angepasst, sodass diese mit der Anordnung der Auswahl des jeweiligen Spielers übereinstimmt.<br/></li><li class="bbcodes_ListItem_1BF9I">Helligkeit des Bombensymbols im HUD des Bombenträgers erhöht.<br/></li></ul><br/><br/>[ KARTEN ]<br/>Train<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Sichtlinie von einem Boost-Ort bei Long Dog auf Bombenort A blockiert.<br/></li><li class="bbcodes_ListItem_1BF9I">Beleuchtungsartefakte auf doppelseitigen Materialien behoben.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fallback-Logik hinzugefügt, um die Wiedergabe unvollständiger Demo-Dateien zu ermöglichen, die entweder aus einem laufenden Spiel kopiert oder nach einem Absturz des Spielservers wiederhergestellt wurden.<br/></li><li class="bbcodes_ListItem_1BF9I">Exploit behoben, durch den Spieler den R8-Revolver im Sekundärfeuermodus abfeuern und dann trotzdem rückerstatten konnten.<br/></li><li class="bbcodes_ListItem_1BF9I">In den Protokollierungsdateien des Spielservers sind jetzt neben der Konsolenprotokollierung auch über die Netzwerkadresse zur Protokollierung verteilte Auswertungen zu Gegenbewegungseingaben („Counter-strafing“) verfügbar.<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4bba681297b3df386b4c1ac68381e2e2c70394e7c78899114cb3c7029dfb21c9</guid>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 27.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ PREMIUM ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Die erste Saison des Premium-Modus ist nun vorbei. Die Spielsuche für diesen Spielmodus wurde vorübergehend deaktiviert.</li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4bba681297b3df386b4c1ac68381e2e2c70394e7c78899114cb3c7029dfb21c9</guid>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
