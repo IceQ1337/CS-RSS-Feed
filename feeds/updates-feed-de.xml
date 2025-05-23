@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 22 May 2025 00:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 00:59:02 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 21.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rendered viewangle adjustments due to recoil are now calculated per frame.<br/></li></ul>]]></description>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Ansichtsmodell aufgrund des Rückstoßes von Waffen werden jetzt pro Frame berechnet.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">8eaa61442d5f5e1d7b986552ebd201f109ca1c525503cbeb0c1fa779e20da014</guid>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
