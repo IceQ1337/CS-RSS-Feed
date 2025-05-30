@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 May 2025 02:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 02:18:59 +0000</lastBuildDate>
+    <item>
+      <title>Capture the Moment</title>
+      <link>https://www.counter-strike.net/newsentry/529848048073835651?l=english</link>
+      <description><![CDATA[The BLAST.tv Austin Major is fast approaching! <br/><br/>Activate your Austin 2025 Viewer Pass and set your Pick'Ems before the first matches start, and you'll be well on your way to upgrading your Challenge Coin and earning Souvenir Tokens. Speaking of which...<br/><br/><div class="bbcodes_Header3_2q6Vr BB_Header3">Souvenir Highlight Packages</div><br/>Just like previous Majors, you'll have the opportunity to claim a memento from the match of your choice. But this time, if you choose a <span class="Bold">playoff match</span>, you'll receive an <div class="bbcodes_Italic_zA7ad BB_Italic">all new</div> Souvenir Highlight Package.<br/><br/>Available exclusively for playoff stage matches, Souvenir Highlight Packages contain a souvenir weapon with an attached charm that features a video highlight from the playoff map you selected. Your weapon's description will include information about the highlight, and you can view the attached clip in your CS2 inventory, in Steam, or while spectating a teammate in-match.<br/><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/43fc8779bd35f9f8ef4244d4fa7581aea714a322.png"/><br/>We're excited for everyone to get their chance to pick up a playoffs-exclusive Souvenir Highlight Package, but they will take some time to put together. So stay tuned—Souvenir Highlight Packages will be redeemable shortly after the Major comes to a close!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529848048073835651</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>BLAST.TV Austin Major 2025</title>
       <link>https://www.counter-strike.net/newsentry/529847413482979949?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4194621169493598732</guid>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fire Sale</title>
-      <link>https://www.counter-strike.net/newsentry/4177730135016204539?l=english</link>
-      <description><![CDATA[Today's update includes some love for the CT economy, with price cuts to the M4A4 and Incendiary grenade, and a bit less cash going to the T's when the bomb gets defused.<br/><br/><video autoplay="" height="auto" loop="" playsinline="" poster="https://clan.akamai.steamstatic.com/images/3381077/07975a254ee44f0d2674f271a21204d0761ec85d.png?origin=" width="100%"><source src="https://clan.akamai.steamstatic.com/images/3381077/4b75b3b9464ad1389e13d65911781ada4dda3f47.mp4?origin=" type="video/mp4"/><source src="https://clan.akamai.steamstatic.com/images/3381077/e54cfc1edae4997920e5db8145edeb377af94fc1.webm?origin=" type="video/webm"/></video><br/><br/>In addition to the price cut, the incendiary grenade has gotten a bit of a makeover with a new visual treatment for its explosion and flames, and reduced spread and duration. <br/><br/>And in other gameplay news, Vertigo's A-site has gotten some significant changes--it's now the site featured in Wingman matches, so check it out.<br/><br/><img src="https://clan.cloudflare.steamstatic.com/images/3381077/955406bdcb60dba4a59ce0926fdd180946b7d9bb.png"/><br/><br/>Calling all Kilowatt Collection fans! Now, when you open a Kilowatt case with a key, you'll be given the option to rent the whole collection for a week (excluding the rare special item) instead of keeping a single item. You can play with the weapons as much as you like during that week, but they can't be modified by stickers or nametags.<br/><br/>Lots of other changes in today's update, including some quality of life improvements for demo playback, slightly smarter chickens, and a bit of spring cleaning--good news for fans of 'various bug fixes.'<br/><br/>Jump into a match and see what's new!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135016204539</guid>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
