@@ -8,6 +8,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jun 2025 20:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 00:08:49 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rendered viewangle adjustments due to recoil are now calculated per frame.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8eaa61442d5f5e1d7b986552ebd201f109ca1c525503cbeb0c1fa779e20da014</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/>Jura:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">74830d37ee3bdface6e2bb09bafce2d86690214b4df38cf60951dcb721231277</guid>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Deathmatch mode now allows unbalanced teams.<br/></li></ul><br/>[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where molotov and incendiary fire was visible through the AK-47 viewmodel.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where stickers covering the gap on the front grip of the AK-47 weren't lit correctly in left hand mode.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where inventory item icons rendered incorrectly while scoped in-game.<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Shortened front end of the AK-47 fire sound.<br/></li><li class="bbcodes_ListItem_1BF9I"> Reduced delay for body shot impact sounds from the attacker perspective.<br/></li><li class="bbcodes_ListItem_1BF9I"> Body shot impact sounds from the attacker perspective will momentarily reduce the volume of weapon fire and ambience to help ensure feedback remains audible.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4f07dee18ff65023b0c6e03e53ed962db56192b0e9ada6f5f5d47951f74606fe</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where weapons purchased with "Buy &amp; Throw" could be refunded after firing.<br/></li></ul><br/>[ PREMIER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Season Two world and regional leaderboards are now populated.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added HUD "Glow Weapon with Rarity Color" setting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Minimally scraped stickers now cover over the gap on the front grip of the AK-47.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">715d666f9d1b2f0c387ff4c0464ba1a4d44ac6313ca1f31ba1db79f0b6313109</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where searching for Defusal Group Alpha would lead to Anubis and Defusal Group Delta would lead to Vertigo.<br/></li></ul><br/>Jura:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li></ul><br/>Grail:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li></ul><br/>Brewery:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li></ul><br/>Dogtown:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Remastered various UI sounds.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various crash fixes and stability improvements.<br/></li><li class="bbcodes_ListItem_1BF9I"> Various fixes for running on Linux with SDL_VIDEODRIVER=wayland.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">5422cc39a9db7ab85bf666b2d71c29ad2104f58e17acb2bbebc4e8ad07902c8c</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISSIONS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where mission progress appeared to be reset when reconnecting to a match in-progress.<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Grail:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).<br/></li></ul></li></ul><br/>[ GRAPHICS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where fire was visible through smoke.<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various UI sound bug fixes and tweaks.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various crash fixes and stability improvements.<br/></li></ul><br/><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3c1efe6251c218c2bab9d9e826f557c9d9e3db971f3cb92110fc975a3a5b315e</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISSIONS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Weekly Missions, which can be entered though the main menu or play menu.<br/></li><li class="bbcodes_ListItem_1BF9I"> Players receive one mission each week.<br/></li><li class="bbcodes_ListItem_1BF9I"> The weekly mission expires after 7 days and rewards XP for completion.<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Removed community maps Basalt, Edin, Palais, and Whistle from all game modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added community maps Jura, Grail, and Agency to Competitive, Casual, and Deathmatch modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added community maps Dogtown and Brewery to Wingman mode.<br/></li><li class="bbcodes_ListItem_1BF9I"> Re-organized Casual and Deathmatch map groups.<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Defusal Group Alpha: Dust 2, Mirage, Inferno, Vertigo.<br/></li><li class="bbcodes_ListItem_1BF9I"> Defusal Group Delta: Train, Anubis, Ancient, Overpass, Nuke.<br/></li><li class="bbcodes_ListItem_1BF9I"> Community Map Group: Jura, Grail, Agency.<br/></li><li class="bbcodes_ListItem_1BF9I"> Hostage Group: Office, Italy.<br/></li></ul></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added "Main Menu Ambience Volume" setting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where shooting visible enemies over the top of smoke would not play an attacker feedback sound.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where gameplay sounds were inaudible or would skip.<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed snd_setmixer, snd_setmixlayer, snd_soundmixer_setmixlayer_amount, and snd_soundmixer_set_trigger_factor console commands.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where input bindings to scancode56 (US English key "/") wouldn't persist across app launches.<br/></li><li class="bbcodes_ListItem_1BF9I"> Lobby invites from players marked with "Block All Communication" in Steam will now be ignored in-game.<br/></li></ul><br/><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">1244b552138bc7c9f3f6eddf50d28f97d04d491d70657a66a8f6866d9f365735</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ WEEKLY CARE PACKAGE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added three all-new weapon collections to the Weekly Care Package drop list: Ascent, Boreal, and Radiant<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed four weapon collections from the Weekly Care Package drop list: Bank, Italy, Lake, and the original Train collection<br/></li></ul><br/><br/>[ ARMORY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added new Armory Content:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> The Train 2025 Collection<br/></li><li class="bbcodes_ListItem_1BF9I"> The Fever Case<br/></li><li class="bbcodes_ListItem_1BF9I"> A new Limited Edition Item: the XM1014 | Solitude<br/></li></ul></li></ul><br/><br/>[ MAPS ]<br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Inferno</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Adjusted Banana to more closely match the size of the CS:GO version<br/></li><li class="bbcodes_ListItem_1BF9I"> Simplified background behind T ramp<br/></li><li class="bbcodes_ListItem_1BF9I"> Simplified view into Pit<br/></li><li class="bbcodes_ListItem_1BF9I"> Simplified background of Bombsite B<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed step on sides of Arch hallway<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed pixel gap at Coffin<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted crates on steps up to balcony so players step up reliably<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted or removed props throughout map<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted Player and Grenade collision throughout map<br/></li></ul><br/><br/><div class="bbcodes_Italic_zA7ad BB_Italic">Train</div><br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where player shadows would render through windows above A main<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some holes in the world<br/></li><li class="bbcodes_ListItem_1BF9I"> Simplified back wall by door to Z<br/></li><li class="bbcodes_ListItem_1BF9I"> Simplified background by upper B entrance<br/></li><li class="bbcodes_ListItem_1BF9I"> Shortened overhead roof rail in A site, to make it easier to throw utility into site<br/></li><li class="bbcodes_ListItem_1BF9I"> Replaced see-through grating on catwalk outside of Z door<br/></li><li class="bbcodes_ListItem_1BF9I"> Replaced see-through fences at top if Ivy with solid version<br/></li><li class="bbcodes_ListItem_1BF9I"> Simplified brick wall by Ivy<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed grenade collision on upper B arch<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">2eb145e37bdd129929824892ade2dc885d6c37561d35b6f8ad6815c2c03151b5</guid>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Updated Basalt to the latest version from Steam Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>)</li></ul><br/><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added ability to author and submit patterns for the Missing Link Charm to Counter-Strike 2 Steam Workshop.</li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3e70f2fef3f0d3aa071d1c367c4ed4529871aba00f62a872a3f67b9a82398245</guid>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Inferno<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed roof geometry at church that was visible from boiler entrance.</li></ul></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a case where voice chat would break after unloading a Steam Workshop map.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where game client would crash if certain community server plugins were restricting networking of player entities.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed several bugs in applying patches UI.</li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">478ecb9d858e93d4fbdf53c2d425c070ddd1569b942687103cc87d78529add4f</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed sizing and scaling of UI elements shared between buy menu and in-game HUD.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a bug with armor display for CSTV spectators.<br/></li><li class="bbcodes_ListItem_1BF9I">Updated alternate AK-47 inspect animation.</li></ul><br/><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Increased supported upload size for Counter-Strike 2 Steam Workshop Maps to 3 GB.</li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">7d5d0c07d418a15880691930fd2a47a64a8465773ce601de4bab59c98fdb6482</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ PREMIER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Adjusted the logic that determines when players are too far apart in CS Rating to participate in matchmaking together as a party. In most cases, players who used to play together as a party in Premier Season One will be able to party together in Premier Season Two.</li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added "Get Service Medal" UI element directly to the main menu profile card.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed a case where main menu profiles were missing display medals.<br/></li><li class="bbcodes_ListItem_1BF9I">Updated Dust II radar image to be more accurate.</li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a case where inspect or reload button presses could cause prediction errors.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">0487f89c2fe1e2f96c9d8d1899f7d16270881327bc5accf0b6d9df483d55a313</guid>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed AUG scope stencil filter bug near water surfaces.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed Premier progress bar not displaying properly in low resolutions.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed certain UI panels not rendering transparently when using CMAA2 and HDR performance settings simultaneously.<br/></li><li class="bbcodes_ListItem_1BF9I">Improved dynamic radar scale to snap size when a newly discovered enemy/C4 enters radar view, but still shrink gradually when enemy/C4 disappears and enough time passes.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed radar scale settings UI to support full range of radar scale from 0.25 to 1.0 values.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed sounds from Train inspect scenery not getting cleared when going back to the main menu.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed misprediction error smoothing near walls to avoid clipping through walls.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed cloth simulation bug on loopback=1 local servers.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">15f50288f95d3ec78631cb24ed50569f1c12b6b26ea0e8b5bf1b5524a96790ee</guid>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Basalt - updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).</li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Activated Premier Season Two progress indicator in the play menu.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed regressions with AUG/SG scope graphics.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">3f9621b1119cce817676849eb488872d2d6d2c65aec0d66fd7c54c50ba3aaaef</guid>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ PREMIER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Premier Season Two is here, and Premier matchmaking has resumed<br/></li><li class="bbcodes_ListItem_1BF9I">Every player who earned a CS Rating during Season One will receive a commemorative Premier Season One Medal which includes detailed Season Statistics<br/></li><li class="bbcodes_ListItem_1BF9I">Every player will have their CS Rating recalibrated based on their Season One performance, and will need to re-establish their CS Rating by winning 10 matches<br/></li><li class="bbcodes_ListItem_1BF9I">Train has been added to the Active Duty map pool<br/></li><li class="bbcodes_ListItem_1BF9I">Vertigo has been removed from the Active Duty map pool<br/></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">M4A4 price reduced to $2,900<br/></li><li class="bbcodes_ListItem_1BF9I">FAMAS accuracy improved and price reduced to $1,950<br/></li><li class="bbcodes_ListItem_1BF9I">Reduced crouching accuracy for the MP9, MP5-SD, and MP7<br/></li><li class="bbcodes_ListItem_1BF9I">Adjusted scope dot on AUG/SG to be more useable at range<br/></li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added a new radar dynamic zoom option that will grow or shrink the radar to include your team mates, bomb and other detected elements<br/></li><li class="bbcodes_ListItem_1BF9I">Adjusted grenade order in spectator UI to match weapon selection order<br/></li><li class="bbcodes_ListItem_1BF9I">Increased brightness of carried C4 in UI<br/></li></ul><br/><br/>[ MAPS ]<br/>Train<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Removed a boost angle from Long Dog to Bombsite A<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed lighting artifacts on double-sided materials<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added fallback logic to allow playing incomplete demo files, either copied from an ongoing live match or recovered after a game server crash<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed an exploit where users could use secondary fire on R8 Revolver and then sell it back<br/></li><li class="bbcodes_ListItem_1BF9I">Counter-strafe summaries are now available in game server log data distributed via log address in addition to console logs<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4bba681297b3df386b4c1ac68381e2e2c70394e7c78899114cb3c7029dfb21c9</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
