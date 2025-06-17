@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 May 2025 02:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 20:35:37 +0000</lastBuildDate>
+    <item>
+      <title>Playoffs in Austin</title>
+      <link>https://www.counter-strike.net/newsentry/508457312081417562?l=english</link>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/8c224437991990bcb0a8d22f7215be00bc587fa6.png"/>After three Stages of the BLAST.tv Austin Major, eight teams have survived and advanced to the Playoffs. The Moody Center will host sold out crowds for four days to determine 2025’s first Major Champions.<br/><br/>Stage 3 saw fierce competition, with surprising upsets, come-from-behind victories and too many overtimes to count. There are stories abound in Austin, and every team has forged their own path to this moment. Who will come out on top?<br/><br/>Find out on Thursday, June 19th when the Playoff Stage kicks off between Team Spirit and MOUZ, and don’t forget to make picks for all Playoff Stage matches prior to the start of the first match!<br/><br/>As we reach the Major’s final stage, there's still time to support your favorite teams. Team and player stickers are available, with 50% of the proceeds going to the players, teams, and organizations participating in the BLAST.tv Austin Major.<br/><br/>See you in Austin!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508457312081417562</guid>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Capture the Moment</title>
       <link>https://www.counter-strike.net/newsentry/529848048073835651?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">7090437900079084674</guid>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Real MVP</title>
-      <link>https://www.counter-strike.net/newsentry/4194621169493598732?l=english</link>
-      <description><![CDATA[Since the launch of CS2, community map mappers have been hard at work creating new experiences and updating some classics. Today, we're excited to add the first community maps to CS2!<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/bbf2dd17698bcba8bae487ca7a0783a441581476.png"/><br/>For those of you who dream of Italian weddings, or airplane manufacture (or both!), we've got you covered. Memento and Assembly are now available in Wingman.<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/df15c710ff065c92619e712ecf6ee4492e93ac27.png"/><br/>And if you're in the mood for something a bit more... chaotic, take a dip in the classic Pool Day, which is now available in Arms Race.<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/d2ad077ed631514103c5eb83183790cd4829a5f6.png"/><br/>Finally, fight your way through the streets of Thera and Mills in Deathmatch and Casual, and put these maps through their paces in Competitive Matchmaking. <br/><br/>Speaking of Competitive Matchmaking, we've given map-based skill groups an overhaul. In addition to redistributing players across the Skill Groups, we've also made it easier to earn those badges in the first place.<br/><br/><img src="https://clan.akamai.steamstatic.com/images/3381077/dda0b5f6d6fa18ac9274627c2b8a5e393d645ad0.png"/><br/><br/>There are a bunch of other fixes and adjustments in today's update, including a brand new MVP panel (and animated MVPs in Premier!) and new ways to optimize your video settings. <br/><br/>Jump into a match and check it out!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4194621169493598732</guid>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
