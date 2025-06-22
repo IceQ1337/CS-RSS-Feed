@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 20 Jun 2025 00:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 04:40:34 +0000</lastBuildDate>
+    <item>
+      <title>The Final Showdown in Austin</title>
+      <link>https://www.counter-strike.net/newsentry/529849950216913271?l=german</link>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/0d296716c555ce97b01f27364226e4fc4756282a.png"/>After three Stages and six Playoff matchups, two teams have advanced to the Grand Finals of the BLAST.tv Austin Major.<br/><br/>Team Vitality, the #1 ranked team in the world, defeated Natus Vincere 2-0 in the Quarters and MOUZ 2-1 in the Semis to punch their ticket to the Grand Finals. This is the organization's second Grand Finals appearance and first since they won the Paris 2023 Major.<br/><br/>On the other side of the Playoff bracket, The MongolZ defeated both FaZe Clan and paiN Gaming 2-0, and now look to become the first Asian team to win a Major Championship.<br/><br/>The Grand Finals begin tomorrow, June 22nd at 12:30 CDT. Don't miss a second!<br/><br/>And as we enter the final day of the BLAST.tv Austin Major, team and player stickers are still available, with 50% of the proceeds going to the players, teams, and participating organizations.<br/><br/>Good luck to both teams!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529849950216913271</guid>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Play-offs in Austin</title>
       <link>https://www.counter-strike.net/newsentry/508457312081417562?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6500469346429600836</guid>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Regeln des offenen Wettkampfs</title>
-      <link>https://www.counter-strike.net/newsentry/7090437900079084674?l=german</link>
-      <description><![CDATA[<a class="Focusable" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.counter-strike.net%2Fnewsentry%2F3677802763035982969" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="counter-strike.net">Letztes Jahr</span></a> haben wir die Grundzüge der neuen Regeln für professionelle Counter-Strike-Events angekündigt, die ab 2025 in Kraft treten. Heute möchten wir dazu näher ins Detail gehen: Klicken Sie <a class="Focusable" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgithub.com%2FValveSoftware%2Fcounter-strike_rules_and_regs%2Fblob%2Fmain%2Ftournament-operation-requirements.md" rel="noopener nofollow" tabindex="0"><span data-tooltip-text="github.com">hier</span></a>, um die Bedingungen einzusehen, die wir in Zukunft zu den Lizenzvereinbarungen von Turnierorganisatoren hinzufügen.<br/><br/>Counter-Strike macht dann am meisten Spaß, wenn Teams auf Augenhöhe gegeneinander antreten. Diese neuen Regeln sind Teil unseres Engagements für die langfristige Nachhaltigkeit von Counter-Strike als E-Sport. Wir möchten sicherstellen, dass professionelles Counter-Strike ein offener E-Sport bleibt, bei dem der Erfolg von Teams allein durch ihr Können bestimmt wird.<br/><br/>Sicherlich bedarf es bei der Umstellung auf die neuen Regeln noch dem letzten Schliff, wir sind jedoch auf die Zukunft gespannt.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">7090437900079084674</guid>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
