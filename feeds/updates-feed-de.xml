@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Jul 2025 00:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 20:02:15 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 02.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ AUSTIN 2025 MAJOR ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality!<br/></li><li class="bbcodes_ListItem_1BF9I"> Highlight Souvenir Packages can now be acquired for the Playoff matches.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added in-game lobby voice chat and voice chat during Premier Pick/Ban phase.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed bad command flows in point_servercommand entities.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed community maps not reloading correctly with "restart" command.<br/></li><li class="bbcodes_ListItem_1BF9I"> Buy binds are now disabled during halftime freeze phase.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed scoreboard column text formatting in Japanese.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ AUSTIN-MAJOR 2025]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die Autogrammkapsel der Meister kann ab sofort erworben werden. Herzlichen Glückwunsch, Team Vitality!<br/></li><li class="bbcodes_ListItem_1BF9I"> Souvenirpakete mit Highlights sind jetzt für die Spiele der Play-offs erhältlich.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Sprachchat für die Lobby im Spiel und die Auswahl-/Bann-Phase im Premium-Modus hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlerhafte Befehlsabläufe in „point_servercommand“-Entitäten behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Community-Karten mit dem Befehl „mp_restartgame“ nicht ordnungsgemäß neu geladen wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Tastenbelegungen zum Kauf von Gegenständen sind jetzt während der Halbzeitpause deaktiviert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Textformatierung der Spalten des Punktstands für Japanisch korrigiert.<br/></li></ul><br/>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">5a5c0c5d9763e17ab5d00c3f8c195af829d7d25ccbc357a39617310ae5780aee</guid>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
