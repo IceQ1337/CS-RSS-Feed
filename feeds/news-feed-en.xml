@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Jun 2025 04:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 00:46:57 +0000</lastBuildDate>
+    <item>
+      <title>BLAST.tv Austin Major Champions</title>
+      <link>https://www.counter-strike.net/newsentry/529850584204838951?l=english</link>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/295fc91153ac46320f142edffbd45c4e5b31c394.png"/><br/>Over four days, the Moody Center in Austin, Texas hosted Team Vitality's coronation as the best Counter-Strike team on the planet.<br/><br/>Facing The MongolZ in the Grand Finals, Team Vitality lost the opening map 13:5, then stormed back on the next two, winning 13:4 on Dust II and 13:6 on Inferno to win the BLAST.tv Austin Major and the organization's second Major Championship.<br/><br/><img src="https://clan.fastly.steamstatic.com/images/3381077/13f607e38001ed765a63729028036855b884c715.png"/><br/>To celebrate, today we are releasing the Major Champions Capsule, featuring Paper, Foil, Holo, and Gold stickers autographed by one of the Champions from Team Vitality. <br/><br/>And for the first time, we are introducing Souvenir Charms. Each Playoff Stage Souvenir comes with a Souvenir Charm that contains a highlight from the match. <br/><br/>Finally, Season Two of Premier ends on July 14th. To receive your Premier Season Two Medal, you must have 25 Season Two Premier wins and a visible CSR when the Season concludes.<br/><br/>See you soon for Premier Season Three!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529850584204838951</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Final Showdown in Austin</title>
       <link>https://www.counter-strike.net/newsentry/529849950216913271?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4674264042200250912</guid>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Side-stepping Skill</title>
-      <link>https://www.counter-strike.net/newsentry/6500469346429600836?l=english</link>
-      <description><![CDATA[Counter-Strike is constantly evolving. From art, to maps, to inventive plays, and even player input, the CS community shapes the game. <br/><br/>Scripting and automating player commands has always been contentious, but over the years some forms of scripting (e.g., jump-throws) have gained acceptance, as they enable plays that wouldn't otherwise be possible. In fact, jump-throws became such an important part of the game that we've done the work to make them reliable without any special scripting or binds (i.e., by jumping and quickly throwing a grenade).<br/><br/>Developing one's coordination and reaction time has always been key to mastering Counter-Strike.<br/><br/>Recently, some hardware features have blurred the line between manual input and automation, so we've decided to draw a clear line on what is or isn't acceptable in Counter-Strike.<br/><br/>We are no longer going to allow automation (via scripting or hardware) that circumvent these core skills and, moving forward, (and initially--exclusively on Valve Official Servers) players suspected of automating multiple player actions from a single game input may be kicked from their match.<br/><br/>To prevent accidental infractions, in-game binds that include more than one movement and/or attack actions will no longer work (e.g., null-binds and jump-throw binds).<br/><br/>If you have a keyboard that includes an input-automation feature (e.g., "Snap Tap Mode"), be sure to disable the feature before you join a match in order to avoid any interruption to your matches.<br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6500469346429600836</guid>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
