@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Jul 2025 20:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 00:09:19 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added a description note to Souvenir Highlight Packages explaining that they will become tradable and marketable after 7 days.<br/></li><li class="bbcodes_ListItem_1BF9I">Various stability improvements.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">49ba4fb23c330720b3f7a8afd33c33278ef94555e5da3c53938db3411356cf72</guid>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 02.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">15f50288f95d3ec78631cb24ed50569f1c12b6b26ea0e8b5bf1b5524a96790ee</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 29.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Basalt: Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fortschrittsanzeige für das Abzeichen der zweiten Saison des Premium-Modus im Tab „Premium“ der Spielsuche hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Regressionen bei der Anzeige des Zoom-Modus für die AUG und SG 553 behoben.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3f9621b1119cce817676849eb488872d2d6d2c65aec0d66fd7c54c50ba3aaaef</guid>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
