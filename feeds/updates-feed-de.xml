@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Jul 2025 00:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 20:02:36 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 15.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[p]\[ Premier Season Three ][/p]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">[p]Premier Season Three is now open for business</li>[/p][/*]<li class="bbcodes_ListItem_1BF9I">[p]Added Overpass to the Active Duty Map Pool</li>[/p][/*]<li class="bbcodes_ListItem_1BF9I">[p]Removed Anubis from the Active Duty Map Pool</li>[/p][/*]</ul>[p][/p][p]\[ GAMEPLAY ][/p]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">[p]Incendiary Grenade - incendiary grenade fire spreads more rapidly</li>[/p][/*]<li class="bbcodes_ListItem_1BF9I">[p]MP9 - increased recoil magnitude and substantially reduced jumping accuracy</li>[/p][/*]<li class="bbcodes_ListItem_1BF9I">[p]In Competitive modes, Counter-Terrorists now receive a $50 team award for each Terrorist eliminated in a round</li>[/p][/*]</ul>]]></description>
+      <description><![CDATA[[ 3. Premium-Saison ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Die dritte Saison des Premium-Modus hat begonnen.<br/></li><li class="bbcodes_ListItem_1BF9I">Overpass wurde zur Kartengruppe des aktiven Dienstes hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Anubis wurde aus der Kartengruppe des aktiven Dienstes entfernt.<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Das Feuer der Brandgranate breitet sich jetzt schneller aus.<br/></li><li class="bbcodes_ListItem_1BF9I">Der Rückstoß der MP9 wurde erhöht und Präzision beim Springen erheblich reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I">Im Premium- und Wettkampfmodus erhalten AT-Einheiten jetzt eine Teamprämie in Höhe von 50 Dollar für jeden in einer Runde eliminierten Terroristen.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">b5533f4926976dc9d4b3a2cc870a194e9169c930f8ffb866ac16dab65b4d0d13</guid>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
