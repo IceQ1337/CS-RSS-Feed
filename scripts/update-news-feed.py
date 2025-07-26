@@ -80,7 +80,7 @@ for language_name, (language_code, language_locale) in LANGUAGE_MAP.items():
 
     rss_feed_file = get_feed_file_path(f"news-feed-{language_code}.xml")
 
-    if not is_feed_up_to_date(rss_feed_file, news_items[0]["guid"]):
+    if is_feed_up_to_date(rss_feed_file, news_items[0]["guid"]):
         continue
 
     try:
