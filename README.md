@@ -23,6 +23,40 @@ Updating the news feed requires 16 requests to the website.
 - Time information on the website is generally not localized.
   - When running the python scripts locally, you may have issues parsing dates.
 
+## Local Usage
+
+### Requirements
+- Python 3.12 or higher
+
+### Setup & Usage
+
+#### 1. Create venv (optional) and install dependencies:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `./venv/Scripts/activate`
+pip install -r scripts/requirements.txt
+```
+
+#### 2. If your locale is not set to English, you may need to adjust the following lines in both scripts:
+
+```python
+# Original
+#locale.setlocale(locale.LC_TIME, f'en_US.UTF-8')
+#date_format = '%B %d, %Y' # English
+
+# Example for German
+locale.setlocale(locale.LC_TIME, 'de_DE')
+date_format = '%d. %B %Y'
+```
+
+#### 3. Run the scripts to generate the feeds:
+
+```bash
+python scripts/update-news-feed.py
+python scripts/update-updates-feed.py
+```
+
 ## Contribution Guidelines
 There are currently no contributing guidelines, but I am open to any kind of improvements.  
 In order to contribute to the project, please follow the GitHub Standard Fork & Pull Request Workflow  
