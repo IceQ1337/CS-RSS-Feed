@@ -57,6 +57,21 @@ python scripts/update-news-feed.py
 python scripts/update-updates-feed.py
 ```
 
+### Linting & Formatting
+
+You can run the following commands to lint and format the code:
+
+```bash
+black --check -l 79 scripts/
+isort --check --profile black --line-length 79 scripts/
+flake8 --ignore=E501 scripts/
+```
+
+```bash
+black -l 79 scripts/
+isort --profile black --line-length 79 scripts/
+```
+
 ## Contribution Guidelines
 There are currently no contributing guidelines, but I am open to any kind of improvements.  
 In order to contribute to the project, please follow the GitHub Standard Fork & Pull Request Workflow  
