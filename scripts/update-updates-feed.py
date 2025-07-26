@@ -93,7 +93,8 @@ for language_name, (language_code, language_locale) in language_map.items():
     if github_workspace:
         rss_feed_file = os.path.join(os.environ['GITHUB_WORKSPACE'], 'feeds', f'updates-feed-{language_code}.xml')
     else:
-        rss_feed_file = os.path.join(os.pardir, 'feeds', f'updates-feed-{language_code}.xml')
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        rss_feed_file = os.path.join(script_dir, '..', 'feeds', f'updates-feed-{language_code}.xml')
 
     skip_file = False
 
