@@ -72,6 +72,13 @@ for language_name, (language_code, language_locale) in language_map.items():
     # For each news capsule, open the entry and find all div containers with relevant information
     for capsule in capsules:
         unique_relative_url = capsule.get('href')
+
+        if not unique_relative_url or type(unique_relative_url) is not str:
+            continue
+
+        if not unique_relative_url.startswith('/newsentry/'):
+            continue
+
         unique_url = f'{base_url}{unique_relative_url}?l={language_name}'
         unique_identifier = unique_relative_url.replace('/newsentry/', '')
 
@@ -97,9 +104,19 @@ for language_name, (language_code, language_locale) in language_map.items():
         news_soup = BeautifulSoup(news_html_content, 'html.parser')
         news_page = news_soup.select_one('div[class*="blogentrypage_BlogEntryPage"]')
 
-        title = news_page.select_one('div[class*="blogentrypage_Title_"]').text.strip()
-        date = datetime.strptime(news_page.select_one('div[class*="blogentrypage_Date"]').text.strip(), date_format)
-        body = news_page.select_one('div[class*="blogentrypage_Body"]').decode_contents().strip()
+        if not news_page:
+            continue
+
+        title_div = news_page.select_one('div[class*="blogentrypage_Title_"]')
+        date_div = news_page.select_one('div[class*="blogentrypage_Date"]')
+        body_div = news_page.select_one('div[class*="blogentrypage_Body"]')
+
+        if not title_div or not date_div or not body_div:
+            continue
+
+        title = title_div.getText().strip()
+        date = datetime.strptime(date_div.getText().strip(), date_format)
+        body = body_div.decode_contents().strip()
 
         # Remove trailing <br/> tags at the beginning of the news article
         while body.startswith('<br'):

@@ -71,9 +71,16 @@ for language_name, (language_code, language_locale) in language_map.items():
 
     # For each update capsule, find all div containers with relevant information
     for capsule in capsule_divs:
-        title = capsule.select_one('div[class*="updatecapsule_Title"]').text.strip()
-        date = datetime.strptime(capsule.select_one('div[class*="updatecapsule_Date"]').text.strip(), date_format)
-        desc = capsule.select_one('div[class*="updatecapsule_Desc"]').decode_contents().strip()
+        title_div = capsule.select_one('div[class*="updatecapsule_Title"]')
+        date_div = capsule.select_one('div[class*="updatecapsule_Date"]')
+        desc_div = capsule.select_one('div[class*="updatecapsule_Desc"]')
+
+        if not title_div or not date_div or not desc_div:
+            continue
+
+        title = title_div.getText().strip()
+        date = datetime.strptime(date_div.getText().strip(), date_format)
+        desc = desc_div.decode_contents().strip()
 
         # Remove trailing <br/> tags at the beginning of the update description (Thanks Valve)
         while desc.startswith('<br'):
