@@ -8,7 +8,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Jun 2025 00:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 11:43:21 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ Premier Season Three ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Premier Season Three is now open for business<br/></li><li class="bbcodes_ListItem_1BF9I">Added Overpass to the Active Duty Map Pool<br/></li><li class="bbcodes_ListItem_1BF9I">Removed Anubis from the Active Duty Map Pool<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Incendiary Grenade - incendiary grenade fire spreads more rapidly<br/></li><li class="bbcodes_ListItem_1BF9I">MP9 - increased recoil magnitude and substantially reduced jumping accuracy<br/></li><li class="bbcodes_ListItem_1BF9I">In Competitive modes, Counter-Terrorists now receive a $50 team award for each Terrorist eliminated in a round<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">b5533f4926976dc9d4b3a2cc870a194e9169c930f8ffb866ac16dab65b4d0d13</guid>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added a description note to Souvenir Highlight Packages explaining that they will become tradable and marketable after 7 days.<br/></li><li class="bbcodes_ListItem_1BF9I">Various stability improvements.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">49ba4fb23c330720b3f7a8afd33c33278ef94555e5da3c53938db3411356cf72</guid>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ AUSTIN 2025 MAJOR ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality!<br/></li><li class="bbcodes_ListItem_1BF9I"> Highlight Souvenir Packages can now be acquired for the Playoff matches.<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added in-game lobby voice chat and voice chat during Premier Pick/Ban phase.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed bad command flows in point_servercommand entities.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed community maps not reloading correctly with "restart" command.<br/></li><li class="bbcodes_ListItem_1BF9I"> Buy binds are now disabled during halftime freeze phase.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed scoreboard column text formatting in Japanese.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">5a5c0c5d9763e17ab5d00c3f8c195af829d7d25ccbc357a39617310ae5780aee</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -104,30 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">0487f89c2fe1e2f96c9d8d1899f7d16270881327bc5accf0b6d9df483d55a313</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed AUG scope stencil filter bug near water surfaces.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed Premier progress bar not displaying properly in low resolutions.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed certain UI panels not rendering transparently when using CMAA2 and HDR performance settings simultaneously.<br/></li><li class="bbcodes_ListItem_1BF9I">Improved dynamic radar scale to snap size when a newly discovered enemy/C4 enters radar view, but still shrink gradually when enemy/C4 disappears and enough time passes.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed radar scale settings UI to support full range of radar scale from 0.25 to 1.0 values.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed sounds from Train inspect scenery not getting cleared when going back to the main menu.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed misprediction error smoothing near walls to avoid clipping through walls.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed cloth simulation bug on loopback=1 local servers.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">15f50288f95d3ec78631cb24ed50569f1c12b6b26ea0e8b5bf1b5524a96790ee</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Basalt - updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).</li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Activated Premier Season Two progress indicator in the play menu.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed regressions with AUG/SG scope graphics.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3f9621b1119cce817676849eb488872d2d6d2c65aec0d66fd7c54c50ba3aaaef</guid>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ PREMIER ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Premier Season Two is here, and Premier matchmaking has resumed<br/></li><li class="bbcodes_ListItem_1BF9I">Every player who earned a CS Rating during Season One will receive a commemorative Premier Season One Medal which includes detailed Season Statistics<br/></li><li class="bbcodes_ListItem_1BF9I">Every player will have their CS Rating recalibrated based on their Season One performance, and will need to re-establish their CS Rating by winning 10 matches<br/></li><li class="bbcodes_ListItem_1BF9I">Train has been added to the Active Duty map pool<br/></li><li class="bbcodes_ListItem_1BF9I">Vertigo has been removed from the Active Duty map pool<br/></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">M4A4 price reduced to $2,900<br/></li><li class="bbcodes_ListItem_1BF9I">FAMAS accuracy improved and price reduced to $1,950<br/></li><li class="bbcodes_ListItem_1BF9I">Reduced crouching accuracy for the MP9, MP5-SD, and MP7<br/></li><li class="bbcodes_ListItem_1BF9I">Adjusted scope dot on AUG/SG to be more useable at range<br/></li></ul><br/><br/>[ UI ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added a new radar dynamic zoom option that will grow or shrink the radar to include your team mates, bomb and other detected elements<br/></li><li class="bbcodes_ListItem_1BF9I">Adjusted grenade order in spectator UI to match weapon selection order<br/></li><li class="bbcodes_ListItem_1BF9I">Increased brightness of carried C4 in UI<br/></li></ul><br/><br/>[ MAPS ]<br/>Train<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Removed a boost angle from Long Dog to Bombsite A<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed lighting artifacts on double-sided materials<br/></li></ul><br/><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added fallback logic to allow playing incomplete demo files, either copied from an ongoing live match or recovered after a game server crash<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed an exploit where users could use secondary fire on R8 Revolver and then sell it back<br/></li><li class="bbcodes_ListItem_1BF9I">Counter-strafe summaries are now available in game server log data distributed via log address in addition to console logs<br/></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4bba681297b3df386b4c1ac68381e2e2c70394e7c78899114cb3c7029dfb21c9</guid>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
