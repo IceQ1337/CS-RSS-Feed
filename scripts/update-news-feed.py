@@ -123,47 +123,47 @@ for language_name, (language_code, language_locale) in language_map.items():
         script_dir = os.path.dirname(os.path.abspath(__file__))
         rss_feed_file = os.path.join(script_dir, '..', 'feeds', f'news-feed-{language_code}.xml')
 
-    skip_file = False
+    if not news_items:
+        continue
 
     if os.path.exists(rss_feed_file):
         current_feed = feedparser.parse(rss_feed_file)
-        if current_feed.entries and news_items and current_feed.entries[0].title == news_items[0]['title']:
-            skip_file = True
+        if current_feed.entries and current_feed.entries[0].title == news_items[0]['title']:
+            continue
 
     # Generate the RSS feed with feedgen if the latest entry is different from the current RSS feed
-    if not skip_file:
-        feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-{language_code}.xml'
+    feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-{language_code}.xml'
 
-        fg = FeedGenerator()
-        fg.title(f'Counter-Strike 2 - News ({language_name.capitalize()})')
-        fg.description('Counter-Strike 2 News Feed')
-        fg.link(href=feed_link, rel='self')
-        fg.language(language_code)
+    fg = FeedGenerator()
+    fg.title(f'Counter-Strike 2 - News ({language_name.capitalize()})')
+    fg.description('Counter-Strike 2 News Feed')
+    fg.link(href=feed_link, rel='self')
+    fg.language(language_code)
 
-        # Add the extracted information as entries to the RSS feed
-        for news in reversed(news_items):
-            fe = fg.add_entry()
-            fe.source(url)
-            fe.id(news['url'])
-            fe.guid(news['guid'])
-            fe.title(news['title'])
-            fe.link({
-                'href': news['url'],
-                'rel': 'alternate',
-                'type': 'text/html',
-                'hreflang': language_code,
-                'title': news['title']
-            })
-            fe.pubDate(datetime.strftime(news['date'], '%Y-%m-%dT%H:%M:%SZ'))
-            fe.author({'name':'Valve Corporation', 'email':'support@steampowered.com'})
-            fe.content(news['content'], None, 'CDATA')
-            fe.rights('Valve Corporation')
+    # Add the extracted information as entries to the RSS feed
+    for news in reversed(news_items):
+        fe = fg.add_entry()
+        fe.source(url)
+        fe.id(news['url'])
+        fe.guid(news['guid'])
+        fe.title(news['title'])
+        fe.link({
+            'href': news['url'],
+            'rel': 'alternate',
+            'type': 'text/html',
+            'hreflang': language_code,
+            'title': news['title']
+        })
+        fe.pubDate(datetime.strftime(news['date'], '%Y-%m-%dT%H:%M:%SZ'))
+        fe.author({'name':'Valve Corporation', 'email':'support@steampowered.com'})
+        fe.content(news['content'], None, 'CDATA')
+        fe.rights('Valve Corporation')
 
-        rss_content = fg.rss_str(pretty=True)
+    rss_content = fg.rss_str(pretty=True)
 
-        # Create or update XML File
-        with open(rss_feed_file, "wb") as f:
-            f.write(rss_content)
+    # Create or update XML File
+    with open(rss_feed_file, "wb") as f:
+        f.write(rss_content)
 
 driver.quit()
 sys.exit(0)

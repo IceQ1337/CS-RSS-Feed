@@ -96,46 +96,46 @@ for language_name, (language_code, language_locale) in language_map.items():
         script_dir = os.path.dirname(os.path.abspath(__file__))
         rss_feed_file = os.path.join(script_dir, '..', 'feeds', f'updates-feed-{language_code}.xml')
 
-    skip_file = False
+    if not updates:
+        continue
 
     if os.path.exists(rss_feed_file):
         current_feed = feedparser.parse(rss_feed_file)
-        if current_feed.entries and updates and current_feed.entries[0].title == updates[0]['title']:
-            skip_file = True
+        if current_feed.entries and current_feed.entries[0].title == updates[0]['title']:
+            continue
 
     # Generate the RSS feed with feedgen if the latest entry is different from the current RSS feed
-    if not skip_file:
-        feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-{language_code}.xml'
+    feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-{language_code}.xml'
 
-        fg = FeedGenerator()
-        fg.title(f'Counter-Strike 2 - Updates ({language_name.capitalize()})')
-        fg.description('Counter-Strike 2 Updates Feed')
-        fg.link(href=feed_link, rel='self')
-        fg.language(language_code)
+    fg = FeedGenerator()
+    fg.title(f'Counter-Strike 2 - Updates ({language_name.capitalize()})')
+    fg.description('Counter-Strike 2 Updates Feed')
+    fg.link(href=feed_link, rel='self')
+    fg.language(language_code)
 
-        # Add the extracted information as entries to the RSS feed
-        for update in reversed(updates):
-            fe = fg.add_entry()
-            fe.source(url)
-            fe.guid(update['guid'])
-            fe.title(update['title'])
-            fe.link({
-                'href': url,
-                'rel': 'alternate',
-                'type': 'text/html',
-                'hreflang': language_code,
-                'title': update['title']
-            })
-            fe.pubDate(datetime.strftime(update['date'], '%Y-%m-%dT%H:%M:%SZ'))
-            fe.author({'name':'Valve Corporation', 'email':'support@steampowered.com'})
-            fe.content(update['content'], None, 'CDATA')
-            fe.rights('Valve Corporation')
+    # Add the extracted information as entries to the RSS feed
+    for update in reversed(updates):
+        fe = fg.add_entry()
+        fe.source(url)
+        fe.guid(update['guid'])
+        fe.title(update['title'])
+        fe.link({
+            'href': url,
+            'rel': 'alternate',
+            'type': 'text/html',
+            'hreflang': language_code,
+            'title': update['title']
+        })
+        fe.pubDate(datetime.strftime(update['date'], '%Y-%m-%dT%H:%M:%SZ'))
+        fe.author({'name':'Valve Corporation', 'email':'support@steampowered.com'})
+        fe.content(update['content'], None, 'CDATA')
+        fe.rights('Valve Corporation')
 
-        rss_content = fg.rss_str(pretty=True)
+    rss_content = fg.rss_str(pretty=True)
 
-        # Create or update XML File
-        with open(rss_feed_file, "wb") as f:
-            f.write(rss_content)
+    # Create or update XML File
+    with open(rss_feed_file, "wb") as f:
+        f.write(rss_content)
 
 driver.quit()
 sys.exit(0)
