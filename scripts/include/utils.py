@@ -57,12 +57,12 @@ def get_date_format(language_locale: str) -> str:
     # Switch to language_locale after it's fixed (if ever)
 
     # English
-    # locale.setlocale(locale.LC_TIME, f'en_US.UTF-8')
-    # date_format = '%B %d, %Y'
+    locale.setlocale(locale.LC_TIME, "en_US.UTF-8")
+    date_format = "%B %d, %Y"
 
     # German
-    locale.setlocale(locale.LC_TIME, "de_DE")
-    date_format = "%d. %B %Y"
+    # locale.setlocale(locale.LC_TIME, "de_DE")
+    # date_format = "%d. %B %Y"
 
     return date_format
 
