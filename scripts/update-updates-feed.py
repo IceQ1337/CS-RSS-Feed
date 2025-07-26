@@ -94,6 +94,9 @@ for language_name, (language_code, language_locale) in language_map.items():
             'content': desc
         })
 
+    if not updates:
+        continue
+
     # Parse an existing RSS feed file and compare the last entry
     github_workspace = os.getenv('GITHUB_WORKSPACE')
 
@@ -103,12 +106,14 @@ for language_name, (language_code, language_locale) in language_map.items():
         script_dir = os.path.dirname(os.path.abspath(__file__))
         rss_feed_file = os.path.join(script_dir, '..', 'feeds', f'updates-feed-{language_code}.xml')
 
-    if not updates:
-        continue
-
     if os.path.exists(rss_feed_file):
         current_feed = feedparser.parse(rss_feed_file)
-        if current_feed.entries and current_feed.entries[0].title == updates[0]['title']:
+        current_entries = current_feed.entries if current_feed.entries else []
+        
+        last_entry = current_entries[0] if current_entries else None
+        latest_update = updates[0]
+
+        if last_entry and last_entry.guid == latest_update['guid']:
             continue
 
     # Generate the RSS feed with feedgen if the latest entry is different from the current RSS feed
