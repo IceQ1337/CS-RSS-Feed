@@ -42,7 +42,7 @@ pip install -r scripts/requirements.txt
 
 ```python
 # Original
-#locale.setlocale(locale.LC_TIME, f'en_US.UTF-8')
+#locale.setlocale(locale.LC_TIME, 'en_US.UTF-8')
 #date_format = '%B %d, %Y' # English
 
 # Example for German
