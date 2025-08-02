@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Jul 2025 04:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 00:09:40 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug that would allow you to inspect a grenade after priming.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug that would prevent firstperson viewmodel lag.<br/></li><li class="bbcodes_ListItem_1BF9I"> Molotov again uses the correct fire particle.<br/></li><li class="bbcodes_ListItem_1BF9I"> Incendiary and smoke grenades now play the correct sounds.<br/></li><li class="bbcodes_ListItem_1BF9I"> Adjusted firstperson molotov audio and particle event timing.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a bug that would cause bhopping penalty to continue to accumulate even when jump had not been pressed.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bhopping jump spam clock now starts at the instant the input is registered, rather than then end of the subtick where that command was processed.<br/></li></ul><br/><br/>[ MAPS ]<br/>Jura<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop.<br/></li></ul><br/>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">ea08fe57bbb38ed8aec7e9ea8e77fd5792929ff4cc85cf90b1f14d7acfca26a5</guid>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">2eb145e37bdd129929824892ade2dc885d6c37561d35b6f8ad6815c2c03151b5</guid>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Updated Basalt to the latest version from Steam Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>)</li></ul><br/><br/>[ WORKSHOP ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added ability to author and submit patterns for the Missing Link Charm to Counter-Strike 2 Steam Workshop.</li></ul><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">3e70f2fef3f0d3aa071d1c367c4ed4529871aba00f62a872a3f67b9a82398245</guid>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
