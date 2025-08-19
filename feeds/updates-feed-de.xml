@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 15 Aug 2025 00:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 00:08:45 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MAPS ]<br/><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reverted "house" roof decorations near CT spawn.<br/></li><li class="bbcodes_ListItem_1BF9I"> Restored the ability to wallbang the plywood in "cave".<br/></li><li class="bbcodes_ListItem_1BF9I"> Various changes to the daytime soundscape.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed items getting stuck behind the rubble pile on T side of B.<br/></li><li class="bbcodes_ListItem_1BF9I"> Player clipping adjustments.<br/></li></ul><br/>Shoots<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Player clipping adjustments.<br/></li></ul><br/>Ancient and Shoots<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">More Ancient and Shoots source content is now available for community map makers in maps/editor/zoo/ancient_zoo.vmap.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed knife slashes applying a 'dry' attack decal on wet surfaces.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where clients would mispredict shots if the attack button was held across round respawn.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the viewmodel would stick to the camera when cl_lock_camera was set.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where fullscreen windowed mode wasn't offering resolutions with extreme aspect ratios.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where fullscreen windowed mode wasn't actually stretching to fill the screen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where relative mouse motion was incorrect on Linux.<br/></li><li class="bbcodes_ListItem_1BF9I"> Various stability improvements.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">96b04029a340385feb7fc2ece80f09f6b28832b3a263eb358e142ff10de6de40</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3c1efe6251c218c2bab9d9e826f557c9d9e3db971f3cb92110fc975a3a5b315e</guid>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 07.05.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISSIONEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Wöchentliche Missionen hinzugefügt, die über das Hauptmenü oder den Tab „Spielen“ gestartet werden können.<br/></li><li class="bbcodes_ListItem_1BF9I"> Spieler erhalten jede Woche eine Mission.<br/></li><li class="bbcodes_ListItem_1BF9I"> Die wöchentliche Mission läuft nach sieben Tagen ab und gewährt EP für den Abschluss.<br/></li></ul><br/>[ KARTEN ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Community-Karten Basalt, Edin, Palais und Whistle aus allen Spielmodi entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Community-Karten Jura, Grail und Agency zu den Spielmodi Wettkampf, Gelegenheitsspiel und Deathmatch hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Community-Karten Dogtown und Brewery zum Spielmodus Wingman hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kartengruppen Gelegenheitsspiel und Deathmatch überarbeitet:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Entschärfungsgruppe Alpha: Dust II, Mirage, Inferno und Vertigo.<br/></li><li class="bbcodes_ListItem_1BF9I"> Entschärfungsgruppe Delta: Train, Anubis, Ancient, Overpass und Nuke.<br/></li><li class="bbcodes_ListItem_1BF9I"> Community-Kartengruppe: Jura, Grail und Agency.<br/></li><li class="bbcodes_ListItem_1BF9I"> Geiselgruppe: Office und Italy.<br/></li></ul></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Einstellung „Lautstärke der Umgebungsgeräusche im Hauptmenü“ hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den in einigen Fällen bei sichtbaren Gegnern über dem oberen Rand einer Rauchgranate kein Feedback-Sound für den Angreifer abgespielt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den in einigen Fällen Gameplay-Sounds nicht hörbar waren oder übersprungen wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Konsolenbefehle „snd_setmixer“, „snd_setmixlayer“, „snd_soundmixer_setmixlayer_amount“ und „snd_soundmixer_set_trigger_factor“ entfernt.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Eingabebelegung für „scancode56“ (Taste „/“ in der amerikanisch-englischen Tastaturbelegung) nicht erhalten blieb, wenn die Anwendung erneut gestartet wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Lobby-Einladungen von Spielern, bei denen in Steam die Option „Kommunikation blockieren“ gewählt wurde, werden jetzt im Spiel ignoriert.<br/></li></ul><br/><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">1244b552138bc7c9f3f6eddf50d28f97d04d491d70657a66a8f6866d9f365735</guid>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Aug 2025 00:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 00:08:44 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAPS ]<br/><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Reverted "house" roof decorations near CT spawn.<br/></li><li class="bbcodes_ListItem_1BF9I"> Restored the ability to wallbang the plywood in "cave".<br/></li><li class="bbcodes_ListItem_1BF9I"> Various changes to the daytime soundscape.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed items getting stuck behind the rubble pile on T side of B.<br/></li><li class="bbcodes_ListItem_1BF9I"> Player clipping adjustments.<br/></li></ul><br/>Shoots<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Player clipping adjustments.<br/></li></ul><br/>Ancient and Shoots<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">More Ancient and Shoots source content is now available for community map makers in maps/editor/zoo/ancient_zoo.vmap.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed knife slashes applying a 'dry' attack decal on wet surfaces.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where clients would mispredict shots if the attack button was held across round respawn.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where the viewmodel would stick to the camera when cl_lock_camera was set.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where fullscreen windowed mode wasn't offering resolutions with extreme aspect ratios.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where fullscreen windowed mode wasn't actually stretching to fill the screen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where relative mouse motion was incorrect on Linux.<br/></li><li class="bbcodes_ListItem_1BF9I"> Various stability improvements.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">96b04029a340385feb7fc2ece80f09f6b28832b3a263eb358e142ff10de6de40</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">3c1efe6251c218c2bab9d9e826f557c9d9e3db971f3cb92110fc975a3a5b315e</guid>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISSIONS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added Weekly Missions, which can be entered though the main menu or play menu.<br/></li><li class="bbcodes_ListItem_1BF9I"> Players receive one mission each week.<br/></li><li class="bbcodes_ListItem_1BF9I"> The weekly mission expires after 7 days and rewards XP for completion.<br/></li></ul><br/>[ MAPS ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Removed community maps Basalt, Edin, Palais, and Whistle from all game modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added community maps Jura, Grail, and Agency to Competitive, Casual, and Deathmatch modes.<br/></li><li class="bbcodes_ListItem_1BF9I"> Added community maps Dogtown and Brewery to Wingman mode.<br/></li><li class="bbcodes_ListItem_1BF9I"> Re-organized Casual and Deathmatch map groups.<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Defusal Group Alpha: Dust 2, Mirage, Inferno, Vertigo.<br/></li><li class="bbcodes_ListItem_1BF9I"> Defusal Group Delta: Train, Anubis, Ancient, Overpass, Nuke.<br/></li><li class="bbcodes_ListItem_1BF9I"> Community Map Group: Jura, Grail, Agency.<br/></li><li class="bbcodes_ListItem_1BF9I"> Hostage Group: Office, Italy.<br/></li></ul></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added "Main Menu Ambience Volume" setting.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where shooting visible enemies over the top of smoke would not play an attacker feedback sound.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fixed some cases where gameplay sounds were inaudible or would skip.<br/></li><li class="bbcodes_ListItem_1BF9I"> Removed snd_setmixer, snd_setmixlayer, snd_soundmixer_setmixlayer_amount, and snd_soundmixer_set_trigger_factor console commands.<br/></li></ul><br/>[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where input bindings to scancode56 (US English key "/") wouldn't persist across app launches.<br/></li><li class="bbcodes_ListItem_1BF9I"> Lobby invites from players marked with "Block All Communication" in Steam will now be ignored in-game.<br/></li></ul><br/><br/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">1244b552138bc7c9f3f6eddf50d28f97d04d491d70657a66a8f6866d9f365735</guid>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
