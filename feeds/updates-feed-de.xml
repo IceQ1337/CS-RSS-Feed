@@ -8,126 +8,2143 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 28 Aug 2025 00:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 22:44:13 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 03.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Stability improvements when using multi-command input binds.<br/></li><li class="bbcodes_ListItem_1BF9I">Fixed issue where Jonathan Young music kit would loop incorrectly.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[p][ VERSCHIEDENES ][/p][list][*][p]Fehler behoben, durch den Spielergeräusche nicht korrekt auf der Minikarte dargestellt wurden.[/p][/*][*][p]Absturz behoben, der beim Wechsel des Audiogeräts auftrat.[/p][/*][*][p]Fehler behoben, durch den Soundeffekte falsch abgespielt wurden, wenn sich Spieler durch Wasser bewegten.[/p][/*][*][p]Fehler behoben, durch den sich das Ansichtsmodell aufgrund eines veränderten Blickwinkels bei bestimmten Bildraten sonderbar bewegte.[/p][/*][/list][p][ BENUTZEROBERFLÄCHE ][/p][list][*][p]Kleinere Fehlerbehebungen an der Benutzeroberfläche der Ausrüstung für bestimmte Auflösungen vorgenommen.[/p][/*][*][p]Für handelsgeschützte und gemietete Gegenstände kann jetzt die Option „Aus Favoriten für AT entfernen“ gewählt werden.[/p][/*][/list][p][/p][p][ KARTEN ][/p][p]Ancient[/p][list][*][p]Verschiedene Fehlerbehebungen am Granaten- und Spieler-Clipping vorgenommen.[/p][/*][/list][p]Shoots[/p][list][*][p]Verschiedene Fehlerbehebungen am Granaten- und Spieler-Clipping vorgenommen.[/p][/*][/list][p]Grail[/p][list][*][p]Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710"]Update-Notizen[/url])[/p][/*][/list][p]Agency[/p][list][*][p]Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232"]Update-Notizen[/url])[/p][/*][/list][p]Dogtown[/p][list][*][p]Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782"]Update-Notizen[/url])[/p][/*][/list][p]
+[/p]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">cb28918714caac26442c98d5ae2613ed7ce77b8c49d324a25524ba32599becfe</guid>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529856925490218408</guid>
+      <pubDate>Thu, 04 Sep 2025 17:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 27.08.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*]Stabilitätsverbesserungen bei der Verwendung von Tastenbelegungen mit mehreren Befehlen vorgenommen.
+[*]Fehler behoben, durch den das Musikkit „Jonathan Young, Starship Velociraptor“ nicht korrekt in Schleife wiedergegeben wurde.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529856292184916389</guid>
+      <pubDate>Wed, 27 Aug 2025 22:34:33 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 26.08.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Visuelle Fixpunkte für das Werfen von Granaten wiederhergestellt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Clipping-Fehler behoben.<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Animationsfehler beim Untersuchen des klassischen Messers behoben.<br/></li><li class="bbcodes_ListItem_1BF9I">Animationsfehler beim Ausrüsten des Stiletts behoben.<br/></li><li class="bbcodes_ListItem_1BF9I">Animationsfehler beim Ausrüsten des Butterflymessers behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Animation des Talon-Messers aktualisiert; diese ist jetzt responsiver, wenn das Messer während des Herumwirbelns untersucht wird.<br/></li><li class="bbcodes_ListItem_1BF9I">Animation des Klappmessers angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.<br/></li><li class="bbcodes_ListItem_1BF9I">Animation des Bajonetts angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Leistungsregression behoben, die beim Erstellen von Kugeleinschlagseffekten auftrat.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den das Sichtfeld des Ansichtsmodells eines Spielers beim Zuschauen nicht berücksichtigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den das wiederholte Untersuchen einer Waffe für Zuschauer nicht angezeigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den die Spielsuche Server mit der Nachtversion von Ancient nicht berücksichtigte.<br/></li><li class="bbcodes_ListItem_1BF9I">Veraltete Sprite-basierte Ausweichpartikeleffekte für Patronenhülsen entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den überlappende Rauchwolken von Rauchgranaten das Feuer eines Molotows bzw. einer Brandgranate in der Nähe frühzeitig löschten.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ KARTEN ]
+
+Ancient
+[list]
+[*] Visuelle Fixpunkte für das Werfen von Granaten wiederhergestellt.
+[*] Verschiedene Clipping-Fehler behoben.
+[/list]
+[ ANIMATION ]
+[list]
+[*]Animationsfehler beim Untersuchen des klassischen Messers behoben.
+[*]Animationsfehler beim Ausrüsten des Stiletts behoben.
+[*]Animationsfehler beim Ausrüsten des Butterflymessers behoben.
+[*] Animation des Talon-Messers aktualisiert; diese ist jetzt responsiver, wenn das Messer während des Herumwirbelns untersucht wird.
+[*]Animation des Klappmessers angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.
+[*]Animation des Bajonetts angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*]Leistungsregression behoben, die beim Erstellen von Kugeleinschlagseffekten auftrat.
+[*]Fehler behoben, durch den das Sichtfeld des Ansichtsmodells eines Spielers beim Zuschauen nicht berücksichtigt wurde.
+[*]Fehler behoben, durch den das wiederholte Untersuchen einer Waffe für Zuschauer nicht angezeigt wurde.
+[*]Fehler behoben, durch den die Spielsuche Server mit der Nachtversion von Ancient nicht berücksichtigte.
+[*]Veraltete Sprite-basierte Ausweichpartikeleffekte für Patronenhülsen entfernt.
+[*]Fehler behoben, durch den überlappende Rauchwolken von Rauchgranaten das Feuer eines Molotows bzw. einer Brandgranate in der Nähe frühzeitig löschten.
+[/list]
+]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">728615f745ff412ac2b7a3a6475da3ab43c512ed759bf07eeab024799530dd7b</guid>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529856292184915971</guid>
+      <pubDate>Tue, 26 Aug 2025 23:35:56 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 18.08.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><br/>Ancient<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Änderungen an den Ziegelsteinen des Tempeldaches aus Sicht der AT-Startzone rückgängig gemacht.<br/></li><li class="bbcodes_ListItem_1BF9I"> Kugeln können jetzt wieder die blaue Sperrholzplatte im Seiteneingang zu Bombenort B durchdringen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Änderungen an der Geräuschkulisse der Tagversion der Karte vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Gegenstände hinter dem Schutthaufen bei Ruine stecken bleiben konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Spieler-Clipping vorgenommen.<br/></li></ul><br/>Shoots<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Spieler-Clipping vorgenommen.<br/></li></ul><br/>Ancient und Shoots<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Weitere Quellinhalte für Ancient und Shoots sind jetzt für Community-Kartenersteller in der Kartendatei „maps/editor/zoo/ancient_zoo.vmap“ verfügbar.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Hiebe mit einem Messer auf nasse Oberflächen visuelle Spuren hinterließen, die trockenen Oberflächen vorbehalten sind.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den der Client Schüsse falsch vorhersagen konnte, wenn die Schießen-Taste während des Rundenübergangs gedrückt gehalten wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den sich das Ansichtsmodell strikt an der Kamera ausrichtete, wenn der Konsolenbefehl „cl_lock_camera“ aktiviert war.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den im Anzeigemodus „Vollbildfenster“ keine Auflösungen mit extremen Bildformaten vorgeschlagen wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den im Anzeigemodus „Vollbildfenster“ bei bestimmten Auflösungen nicht der gesamte Bildschirm ausgefüllt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die relative Mausgeschwindigkeit unter Linux falsch berechnet wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Diverse Stabilitätsverbesserungen vorgenommen.<br/></li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]
+
+Ancient
+[list]
+[*] Änderungen an den Ziegelsteinen des Tempeldaches aus Sicht der AT-Startzone rückgängig gemacht.
+[*] Kugeln können jetzt wieder die blaue Sperrholzplatte im Seiteneingang zu Bombenort B durchdringen.
+[*] Verschiedene Änderungen an der Geräuschkulisse der Tagversion der Karte vorgenommen.
+[*] Fehler behoben, durch den Gegenstände hinter dem Schutthaufen bei Ruine stecken bleiben konnten.
+[*] Anpassungen am Spieler-Clipping vorgenommen.
+[/list]
+Shoots
+[list]
+[*] Anpassungen am Spieler-Clipping vorgenommen.
+[/list]
+Ancient und Shoots
+[list]
+[*]Weitere Quellinhalte für Ancient und Shoots sind jetzt für Community-Kartenersteller in der Kartendatei „maps/editor/zoo/ancient_zoo.vmap“ verfügbar.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Fehler behoben, durch den Hiebe mit einem Messer auf nasse Oberflächen visuelle Spuren hinterließen, die trockenen Oberflächen vorbehalten sind.
+[*] Fehler behoben, durch den der Client Schüsse falsch vorhersagen konnte, wenn die Schießen-Taste während des Rundenübergangs gedrückt gehalten wurde.
+[*] Fehler behoben, durch den sich das Ansichtsmodell strikt an der Kamera ausrichtete, wenn der Konsolenbefehl „cl_lock_camera“ aktiviert war.
+[*] Fehler behoben, durch den im Anzeigemodus „Vollbildfenster“ keine Auflösungen mit extremen Bildformaten vorgeschlagen wurden.
+[*] Fehler behoben, durch den im Anzeigemodus „Vollbildfenster“ bei bestimmten Auflösungen nicht der gesamte Bildschirm ausgefüllt wurde.
+[*] Fehler behoben, durch den die relative Mausgeschwindigkeit unter Linux falsch berechnet wurde.
+[*] Diverse Stabilitätsverbesserungen vorgenommen.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">96b04029a340385feb7fc2ece80f09f6b28832b3a263eb358e142ff10de6de40</guid>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">657081807721726694</guid>
+      <pubDate>Mon, 18 Aug 2025 22:32:06 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 14.08.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/><br/>Ancient und Shoots<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Nachtversion für beide Karten hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Alle alten Materialien aktualisiert, um die neuesten CS2-Shader zu verwenden.<br/></li><li class="bbcodes_ListItem_1BF9I">Neue Überblendungsoptionen für Materialien im antiken Stil (einschließlich Nässe und Moos) hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Kartendatei „ancient_zoo.vmap“ mit allen Elementen und Überblendungsbeispielen für Community-Kartenersteller hinzugefügt.<br/></li></ul><br/>[ GEGENSTÄNDE ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Die Musikkiste „Deluge“ ist jetzt in der normalen und in der StatTrak™-Version erhältlich.<br/></li><li class="bbcodes_ListItem_1BF9I">Ein neuer Gegenstand in limitierter Edition ist jetzt im Arsenal verfügbar: M4A1-S | Einsamkeit<br/></li></ul><br/>[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Animationen der abgesägten Schrotflinte beim Ausrüsten und der Schrotpatronen beim Nachladen verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I">Animationen aller Messer verbessert, wenn diese nach dem Ausrüsten schnell untersucht werden.<br/></li><li class="bbcodes_ListItem_1BF9I">Animationen der AK-47, Galil AR, AUG und PP-Bizon verbessert, wenn diese nach dem Ausrüsten schnell untersucht werden.<br/></li><li class="bbcodes_ListItem_1BF9I">Animationen beim Ausrüsten der AWP, M4A4 und M4A1-S verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I">Animationen für klassische Modelle der SSG-08 verbessert.<br/></li><li class="bbcodes_ListItem_1BF9I">Verzögerung beim Ausrüsten der meisten Waffen entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I">Anzeigeproblem behoben, durch das die XM1014 das Fadenkreuz beim Nachladen verdeckte.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Rendering-Leistungsverbesserungen an den meisten Karten vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I">Die Rendering-Auflösung und das Bildformat können jetzt im Anzeigemodus „Vollbildfenster“ geändert werden.<br/></li><li class="bbcodes_ListItem_1BF9I">Die Konsolenvariable „fps_max“ kann nicht mehr geändert werden, während eine Verbindung zu einem Server besteht.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den bestimmte Waffen nach dem erneuten Ausrüsten schneller als vorgesehen abgefeuert werden konnten.<br/></li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]
+
+Ancient und Shoots
+[list]
+[*]Nachtversion für beide Karten hinzugefügt.
+[*]Alle alten Materialien aktualisiert, um die neuesten CS2-Shader zu verwenden.
+[*]Neue Überblendungsoptionen für Materialien im antiken Stil (einschließlich Nässe und Moos) hinzugefügt.
+[*]Kartendatei „ancient_zoo.vmap“ mit allen Elementen und Überblendungsbeispielen für Community-Kartenersteller hinzugefügt.
+[/list]
+[ GEGENSTÄNDE ]
+[list]
+[*]Die Musikkiste „Deluge“ ist jetzt in der normalen und in der StatTrak™-Version erhältlich.
+[*]Ein neuer Gegenstand in limitierter Edition ist jetzt im Arsenal verfügbar: M4A1-S | Einsamkeit
+[/list]
+[ ANIMATION ]
+[list]
+[*]Animationen der abgesägten Schrotflinte beim Ausrüsten und der Schrotpatronen beim Nachladen verbessert.
+[*]Animationen aller Messer verbessert, wenn diese nach dem Ausrüsten schnell untersucht werden.
+[*]Animationen der AK-47, Galil AR, AUG und PP-Bizon verbessert, wenn diese nach dem Ausrüsten schnell untersucht werden.
+[*]Animationen beim Ausrüsten der AWP, M4A4 und M4A1-S verbessert.
+[*]Animationen für klassische Modelle der SSG-08 verbessert.
+[*]Verzögerung beim Ausrüsten der meisten Waffen entfernt.
+[*]Anzeigeproblem behoben, durch das die XM1014 das Fadenkreuz beim Nachladen verdeckte.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*]Rendering-Leistungsverbesserungen an den meisten Karten vorgenommen.
+[*]Die Rendering-Auflösung und das Bildformat können jetzt im Anzeigemodus „Vollbildfenster“ geändert werden.
+[*]Die Konsolenvariable „fps_max“ kann nicht mehr geändert werden, während eine Verbindung zu einem Server besteht.
+[*]Fehler behoben, durch den bestimmte Waffen nach dem erneuten Ausrüsten schneller als vorgesehen abgefeuert werden konnten.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">a2ff975807ac525282a4fcc98720a9a64f1a47d0e4e502aaa29ba5669b8bdd74</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">657081807721726196</guid>
+      <pubDate>Thu, 14 Aug 2025 20:21:43 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 01.08.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Granaten nach dem Scharfmachen untersucht werden konnten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den das Ansichtsmodell nicht wie vorgesehen hin- und herschwankte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Molotows nicht den korrekten Partikeleffekt für das Feuer abspielten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Brandgranaten und Rauchgranaten nicht die korrekten Sounds abspielten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Timing für den Sound und den Effekteintritt der Molotows für die Egoperspektive angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den sich die Strafzeit nach verfehlten Bunnyhop-Sprüngen weiter aufsummierte, obwohl kein weiterer Sprung getätigt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Der Timer zur Erfassung aufeinanderfolgender Bunnyhop-Sprünge beginnt jetzt im Moment der Eingabe und nicht erst am Ende des Subticks, in dem der Befehl verarbeitet wurde.<br/></li></ul><br/><br/>[ KARTEN ]<br/>Jura<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ GAMEPLAY ] 
+[list]
+[*] Fehler behoben, durch den Granaten nach dem Scharfmachen untersucht werden konnten.
+[*] Fehler behoben, durch den das Ansichtsmodell nicht wie vorgesehen hin- und herschwankte.
+[*] Fehler behoben, durch den Molotows nicht den korrekten Partikeleffekt für das Feuer abspielten.
+[*] Fehler behoben, durch den Brandgranaten und Rauchgranaten nicht die korrekten Sounds abspielten.
+[*] Timing für den Sound und den Effekteintritt der Molotows für die Egoperspektive angepasst.
+[*] Fehler behoben, durch den sich die Strafzeit nach verfehlten Bunnyhop-Sprüngen weiter aufsummierte, obwohl kein weiterer Sprung getätigt wurde.
+[*] Der Timer zur Erfassung aufeinanderfolgender Bunnyhop-Sprünge beginnt jetzt im Moment der Eingabe und nicht erst am Ende des Subticks, in dem der Befehl verarbeitet wurde.
+[/list]
+
+[ KARTEN ]
+Jura
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert.
+[/list]
+]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">ea08fe57bbb38ed8aec7e9ea8e77fd5792929ff4cc85cf90b1f14d7acfca26a5</guid>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529853754800866483</guid>
+      <pubDate>Fri, 01 Aug 2025 22:34:13 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 30.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ] <br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den fallengelassene Waffen (inklusive der Bombe) am falschen Ort auf der Karte angezeigt wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Waffen können jetzt sofort beim erneuten Ausrüsten nach einem Waffenwechsel abgefeuert werden, wenn der Nachladevorgang vor dem eigentlichen Laden von Munition abgebrochen wurde.<br/></li></ul>]]></description>
+      <description><![CDATA[[ GAMEPLAY ] 
+[list]
+[*] Fehler behoben, durch den fallengelassene Waffen (inklusive der Bombe) am falschen Ort auf der Karte angezeigt wurden.
+[*] Waffen können jetzt sofort beim erneuten Ausrüsten nach einem Waffenwechsel abgefeuert werden, wenn der Nachladevorgang vor dem eigentlichen Laden von Munition abgebrochen wurde.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">50b9a11f1b0a02c1c30fc4506cfca1f9398010939dad4517fb26a2a642c08e50</guid>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529853754800865380</guid>
+      <pubDate>Thu, 31 Jul 2025 01:07:38 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 29.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Waffen frühzeitig abgefeuert werden konnten, wenn sie beim Nachladen durch einen Waffenwechsel erneut ausgerüstet wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Eingaben von Bewegungstasten bei hohen Bildraten ignoriert wurden, wenn der Blickwinkel währenddessen durch das Bewegen der Maus geändert wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Seitwärtsbewegungen in der Luft zu höheren Geschwindigkeiten als vorgesehen führten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler (möglicherweise) behoben, durch den in einem seltenen Fall die fallengelassene Bombe am falschen Ort auf der Karte angezeigt wurde.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Fehlerbehebungen und Änderungen an den Animationen und Sounds der Egoperspektive vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Korrekturen an verschiedenen Positionen für Namensschilder und StatTrak™-Zähler vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Korrekturen an verschiedenen AWP-Materialien vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler (möglicherweise) behoben, durch den in einem seltenen Fall Waffen im Holster an der ausgerüsteten Waffe zu hängen schienen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den das CS2-Musikkit durch das CS:GO-Musikkit ersetzt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den im Dialogfenster von Abstimmungen gelegentlich das Ergebnis der Abstimmung eines anderen Teams angezeigt wurde.<br/></li></ul><br/><br/>[ KARTEN ]<br/>Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Lücke in der ersten Box am Bombenort B ausgebessert.<br/></li></ul><br/>Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Clipping auf den Treppen in der Nähe des Brunnen in Richtung der T-Startzone angepasst.<br/></li></ul><br/><br/>]]></description>
+      <description><![CDATA[[ GAMEPLAY ]
+[list]
+[*] Fehler behoben, durch den Waffen frühzeitig abgefeuert werden konnten, wenn sie beim Nachladen durch einen Waffenwechsel erneut ausgerüstet wurden.
+[*] Fehler behoben, durch den die Eingaben von Bewegungstasten bei hohen Bildraten ignoriert wurden, wenn der Blickwinkel währenddessen durch das Bewegen der Maus geändert wurde.
+[*] Fehler behoben, durch den Seitwärtsbewegungen in der Luft zu höheren Geschwindigkeiten als vorgesehen führten.
+[*] Fehler (möglicherweise) behoben, durch den in einem seltenen Fall die fallengelassene Bombe am falschen Ort auf der Karte angezeigt wurde.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*] Verschiedene Fehlerbehebungen und Änderungen an den Animationen und Sounds der Egoperspektive vorgenommen.
+[*] Korrekturen an verschiedenen Positionen für Namensschilder und StatTrak™-Zähler vorgenommen.
+[*] Korrekturen an verschiedenen AWP-Materialien vorgenommen.
+[*] Fehler (möglicherweise) behoben, durch den in einem seltenen Fall Waffen im Holster an der ausgerüsteten Waffe zu hängen schienen.
+[*] Fehler behoben, durch den das CS2-Musikkit durch das CS:GO-Musikkit ersetzt wurde.
+[*] Fehler behoben, durch den im Dialogfenster von Abstimmungen gelegentlich das Ergebnis der Abstimmung eines anderen Teams angezeigt wurde.
+[/list]
+
+[ KARTEN ]
+Inferno
+[list]
+[*] Lücke in der ersten Box am Bombenort B ausgebessert.
+[/list]
+Overpass
+[list]
+[*] Clipping auf den Treppen in der Nähe des Brunnen in Richtung der T-Startzone angepasst.
+[/list]
+
+]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">c0e3a46afa0182b5c25a21b40a3aa93f1addf72d63f486caf1391641a35e3984</guid>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529853754800865283</guid>
+      <pubDate>Wed, 30 Jul 2025 00:29:41 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 28.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ ANIMATION ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Das Animationssystem in CS2 wird derzeit auf AnimGraph2 umgestellt, was eine Neuerstellung der vorhandenen Spielinhalte erfordert. Das heutige Update ersetzt alle Animationen der Egoperspektive, einschließlich der Animationen beim Ausrüsten, Abfeuern, Nachladen und Untersuchen von Waffen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Alle Animation der Hühner ersetzt/aktualisiert.<br/></li></ul><br/><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verbesserungen an der Schadensvorhersage vorgenommen, wenn Spieler sich beim Schießen bewegen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Falls das Nachladen von Schrotflinten unterbrochen wurde, wird dieses nicht mehr automatisch fortgesetzt. <br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch die Spieler in einigen Fällen beim Surfen an der Kartengeometrie hängen bleiben konnten (z. B. auf Surf-Karten).<br/></li></ul><br/><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den die Anpassung der individuellen Lautstärke nicht ordnungsgemäß funktionierte.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Verbesserungen an den Sounds beim Nachladen und Ausrüsten einer Waffe in Verbindung mit den AnimGraph2-Änderungen vorgenommen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Neue geschwindigkeitsabhängige Sounds hinzugefügt, die beim Surfen abgespielt werden (diese können mit den Konsolenbefehlen „sv_surf_sounds“ aktiviert und mit „snd_surf_volume_inair“, „snd_surf_volume_map“ sowie „snd_surf_volume_slide“ angepasst werden.)<br/></li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Verbesserungen an den Umgebungsgeräuschinhalten für Ersteller von Community-Karten vorgenommen.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Der Community-Serverbrowser wird jetzt im Steam-Overlay geöffnet, wenn die Anwendung im Anzeigemodus „Vollbild“ ausgeführt wird.<br/></li></ul><br/><br/>[ KARTEN ]<br/>Overpass<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die Glasfenster der Türen beim Zugang zu Bombenort B können wieder zerbrochen werden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Geländer bei Himmel angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> LKW am Bombenort A leicht verschoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Sicht von der Ecke neben dem LWK-Fahrgestell auf die Treppen versperrt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Wand hinter dem Müllcontainer neben den Treppen am Bombenort A hochgezogen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Visuelle Gestaltung des Metallzauns hinter dem Müllcontainer am Bombenort A angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Gras in der Nähe von Bombenort A geschnitten.<br/></li><li class="bbcodes_ListItem_1BF9I"> Oberseite der kaputten Wänden in der Nähe von Bombenort B ausgebessert und abgeflacht.<br/></li><li class="bbcodes_ListItem_1BF9I"> Stromkabel auf der gesamten Karte erneut hinzugefügt.<br/></li></ul><br/>Train<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Neue Deckung neben dem Wagon in der Nähe von Hölle am Bombenort A hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Metallplattform beim Durchgang zu Bombenort B angepasst und neue Deckung hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Neue Deckung bei der Hinterseite von Bombenort B hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Deckung bei Efeu angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Horizontale Streifen auf den großen Toren am Bombenort A entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Metallsteg am Bombenort B verlängert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Beleuchtung am Bombenort B angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Clipping auf der gesamten Karte angepasst.<br/></li></ul><br/>Inferno<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Kirchenfenster über dem Coffin-Graffito am Bombenort B geöffnet.<br/></li><li class="bbcodes_ListItem_1BF9I"> Weg von Bombenort B über den kleinen Garten beim Coffin-Graffito verbreitert und bei der Kirchentür verschmälert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Form der ersten Box am Bombenort B angepasst.<br/></li><li class="bbcodes_ListItem_1BF9I"> Reparaturen des Balkongeländers am Bombenort A abgeschlossen.<br/></li><li class="bbcodes_ListItem_1BF9I"> Bordsteine entlang der Mitte entfernt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Lampe im AT-Bogengang an der Decke angebracht.<br/></li><li class="bbcodes_ListItem_1BF9I"> Visuelle Gestaltung der Banane angepasst, um die Sichtbarkeit von Spielern zu verbessern.<br/></li><li class="bbcodes_ListItem_1BF9I"> Requisiten auf der gesamten Karte angepasst.<br/></li></ul><br/>Dogtown<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)<br/></li></ul>]]></description>
+      <description><![CDATA[[ ANIMATION ]
+[list]
+[*] Das Animationssystem in CS2 wird derzeit auf AnimGraph2 umgestellt, was eine Neuerstellung der vorhandenen Spielinhalte erfordert. Das heutige Update ersetzt alle Animationen der Egoperspektive, einschließlich der Animationen beim Ausrüsten, Abfeuern, Nachladen und Untersuchen von Waffen.
+[*] Alle Animation der Hühner ersetzt/aktualisiert.
+[/list]
+
+[ GAMEPLAY ]
+[list]
+[*] Verbesserungen an der Schadensvorhersage vorgenommen, wenn Spieler sich beim Schießen bewegen.
+[*] Falls das Nachladen von Schrotflinten unterbrochen wurde, wird dieses nicht mehr automatisch fortgesetzt. 
+[*] Fehler behoben, durch die Spieler in einigen Fällen beim Surfen an der Kartengeometrie hängen bleiben konnten (z. B. auf Surf-Karten).
+[/list]
+
+[ AUDIO ]
+[list]
+[*] Fehler behoben, durch den die Anpassung der individuellen Lautstärke nicht ordnungsgemäß funktionierte.
+[*] Verschiedene Verbesserungen an den Sounds beim Nachladen und Ausrüsten einer Waffe in Verbindung mit den AnimGraph2-Änderungen vorgenommen.
+[*] Neue geschwindigkeitsabhängige Sounds hinzugefügt, die beim Surfen abgespielt werden (diese können mit den Konsolenbefehlen „sv_surf_sounds“ aktiviert und mit „snd_surf_volume_inair“, „snd_surf_volume_map“ sowie „snd_surf_volume_slide“ angepasst werden.)
+[*] Verschiedene Verbesserungen an den Umgebungsgeräuschinhalten für Ersteller von Community-Karten vorgenommen.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*] Der Community-Serverbrowser wird jetzt im Steam-Overlay geöffnet, wenn die Anwendung im Anzeigemodus „Vollbild“ ausgeführt wird.
+[/list]
+
+[ KARTEN ]
+Overpass
+[list]
+[*] Die Glasfenster der Türen beim Zugang zu Bombenort B können wieder zerbrochen werden.
+[*] Geländer bei Himmel angepasst.
+[*] LKW am Bombenort A leicht verschoben.
+[*] Sicht von der Ecke neben dem LWK-Fahrgestell auf die Treppen versperrt.
+[*] Wand hinter dem Müllcontainer neben den Treppen am Bombenort A hochgezogen.
+[*] Visuelle Gestaltung des Metallzauns hinter dem Müllcontainer am Bombenort A angepasst.
+[*] Gras in der Nähe von Bombenort A geschnitten.
+[*] Oberseite der kaputten Wänden in der Nähe von Bombenort B ausgebessert und abgeflacht.
+[*] Stromkabel auf der gesamten Karte erneut hinzugefügt.
+[/list]
+Train
+[list]
+[*] Neue Deckung neben dem Wagon in der Nähe von Hölle am Bombenort A hinzugefügt.
+[*] Metallplattform beim Durchgang zu Bombenort B angepasst und neue Deckung hinzugefügt.
+[*] Neue Deckung bei der Hinterseite von Bombenort B hinzugefügt.
+[*] Deckung bei Efeu angepasst.
+[*] Horizontale Streifen auf den großen Toren am Bombenort A entfernt.
+[*] Metallsteg am Bombenort B verlängert.
+[*] Beleuchtung am Bombenort B angepasst.
+[*] Clipping auf der gesamten Karte angepasst.
+[/list]
+Inferno
+[list]
+[*] Kirchenfenster über dem Coffin-Graffito am Bombenort B geöffnet.
+[*] Weg von Bombenort B über den kleinen Garten beim Coffin-Graffito verbreitert und bei der Kirchentür verschmälert.
+[*] Form der ersten Box am Bombenort B angepasst.
+[*] Reparaturen des Balkongeländers am Bombenort A abgeschlossen.
+[*] Bordsteine entlang der Mitte entfernt.
+[*] Lampe im AT-Bogengang an der Decke angebracht.
+[*] Visuelle Gestaltung der Banane angepasst, um die Sichtbarkeit von Spielern zu verbessern.
+[*] Requisiten auf der gesamten Karte angepasst.
+[/list]
+Dogtown
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782]Update-Notizen[/url])
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">06e80818eac71c91a7f5de5b8268abb61c99caa04f294adb423298acf50fd4c3</guid>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529853121068793939</guid>
+      <pubDate>Mon, 28 Jul 2025 21:16:06 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 15.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ 3. Premium-Saison ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Die dritte Saison des Premium-Modus hat begonnen.<br/></li><li class="bbcodes_ListItem_1BF9I">Overpass wurde zur Kartengruppe des aktiven Dienstes hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Anubis wurde aus der Kartengruppe des aktiven Dienstes entfernt.<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Das Feuer der Brandgranate breitet sich jetzt schneller aus.<br/></li><li class="bbcodes_ListItem_1BF9I">Der Rückstoß der MP9 wurde erhöht und Präzision beim Springen erheblich reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I">Im Premium- und Wettkampfmodus erhalten AT-Einheiten jetzt eine Teamprämie in Höhe von 50 Dollar für jeden in einer Runde eliminierten Terroristen.<br/></li></ul>]]></description>
+      <description><![CDATA[[ 3. Premium-Saison ]
+[list]
+[*]Die dritte Saison des Premium-Modus hat begonnen.
+[*]Overpass wurde zur Kartengruppe des aktiven Dienstes hinzugefügt.
+[*]Anubis wurde aus der Kartengruppe des aktiven Dienstes entfernt.
+[/list]
+[ GAMEPLAY ]
+[list]
+[*]Das Feuer der Brandgranate breitet sich jetzt schneller aus.
+[*]Der Rückstoß der MP9 wurde erhöht und Präzision beim Springen erheblich reduziert.
+[*]Im Premium- und Wettkampfmodus erhalten AT-Einheiten jetzt eine Teamprämie in Höhe von 50 Dollar für jeden in einer Runde eliminierten Terroristen.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">b5533f4926976dc9d4b3a2cc870a194e9169c930f8ffb866ac16dab65b4d0d13</guid>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529852487375519749</guid>
+      <pubDate>Wed, 16 Jul 2025 00:19:30 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 03.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Hinweis zur Beschreibung von Souvenirpaketen mit Highlight hinzugefügt, dass diese nach 7 Tagen gehandelt und im Communitymarkt verkauft werden können.<br/></li><li class="bbcodes_ListItem_1BF9I">Diverse Stabilitätsverbesserungen vorgenommen.<br/></li></ul>]]></description>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*]Hinweis zur Beschreibung von Souvenirpaketen mit Highlight hinzugefügt, dass diese nach 7 Tagen gehandelt und im Communitymarkt verkauft werden können.
+[*]Diverse Stabilitätsverbesserungen vorgenommen.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">49ba4fb23c330720b3f7a8afd33c33278ef94555e5da3c53938db3411356cf72</guid>
-      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529850584204840488</guid>
+      <pubDate>Thu, 03 Jul 2025 22:49:26 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 02.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ AUSTIN-MAJOR 2025]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die Autogrammkapsel der Meister kann ab sofort erworben werden. Herzlichen Glückwunsch, Team Vitality!<br/></li><li class="bbcodes_ListItem_1BF9I"> Souvenirpakete mit Highlights sind jetzt für die Spiele der Play-offs erhältlich.<br/></li></ul><br/><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Sprachchat für die Lobby im Spiel und die Auswahl-/Bann-Phase im Premium-Modus hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehlerhafte Befehlsabläufe in „point_servercommand“-Entitäten behoben.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Community-Karten mit dem Befehl „mp_restartgame“ nicht ordnungsgemäß neu geladen wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Tastenbelegungen zum Kauf von Gegenständen sind jetzt während der Halbzeitpause deaktiviert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Textformatierung der Spalten des Punktstands für Japanisch korrigiert.<br/></li></ul><br/>]]></description>
+      <description><![CDATA[[ AUSTIN-MAJOR 2025]
+[list]
+[*] Die Autogrammkapsel der Meister kann ab sofort erworben werden. Herzlichen Glückwunsch, Team Vitality!
+[*] Souvenirpakete mit Highlights sind jetzt für die Spiele der Play-offs erhältlich.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*] Sprachchat für die Lobby im Spiel und die Auswahl-/Bann-Phase im Premium-Modus hinzugefügt.
+[*] Fehlerhafte Befehlsabläufe in „point_servercommand“-Entitäten behoben.
+[*] Fehler behoben, durch den Community-Karten mit dem Befehl „mp_restartgame“ nicht ordnungsgemäß neu geladen wurden.
+[*] Tastenbelegungen zum Kauf von Gegenständen sind jetzt während der Halbzeitpause deaktiviert.
+[*] Textformatierung der Spalten des Punktstands für Japanisch korrigiert.
+[/list]
+]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">5a5c0c5d9763e17ab5d00c3f8c195af829d7d25ccbc357a39617310ae5780aee</guid>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529850584204839876</guid>
+      <pubDate>Wed, 02 Jul 2025 22:11:54 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 21.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Anpassungen am Ansichtsmodell aufgrund des Rückstoßes von Waffen werden jetzt pro Frame berechnet.<br/></li></ul>]]></description>
+      <description><![CDATA[[ GAMEPLAY ]
+[list]
+[*] Anpassungen am Ansichtsmodell aufgrund des Rückstoßes von Waffen werden jetzt pro Frame berechnet.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">8eaa61442d5f5e1d7b986552ebd201f109ca1c525503cbeb0c1fa779e20da014</guid>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529847413482979455</guid>
+      <pubDate>Thu, 22 May 2025 20:24:39 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 20.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br/>Jura:<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)<br/></li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]
+Jura:
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969]Update-Notizen[/url])
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">74830d37ee3bdface6e2bb09bafce2d86690214b4df38cf60951dcb721231277</guid>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">820329049655084170</guid>
+      <pubDate>Tue, 20 May 2025 21:19:47 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 15.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Der Deathmatch-Modus erlaubt jetzt unausgeglichene Teams.<br/></li></ul><br/>[ GRAFIK ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den das Feuer von Molotows/Brandgranaten durch das Ansichtsmodell der AK-47 sichtbar war.<br/></li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Aufkleber, die die Lücke am vorderen Griff der AK-47 abdeckten, im Modus für Linkshänder falsch ausgeleuchtet wurden.<br/></li><li class="bbcodes_ListItem_1BF9I"> Problem im Spiel behoben, durch das Symbole für Gegenstände im Inventar im Zoommodus nicht korrekt angezeigt wurden.<br/></li></ul><br/>[ AUDIO ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Soundeffekt beim Abfeuern der AK-47 im Vordergrund gekürzt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Verzögerung des Soundeffekts für einschlagende Körpertreffer aus der Sicht des Schützen reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I"> Soundeffekte für einschlagende Körpertreffer aus der Sicht des Schützen verringern kurzzeitig die Umgebungslautstärke und die Lautstärke von anderem Waffenfeuer, damit das Feedback tatsächlich hörbar ist.<br/></li></ul>]]></description>
+      <description><![CDATA[[ GAMEPLAY ]
+[list]
+[*] Der Deathmatch-Modus erlaubt jetzt unausgeglichene Teams.
+[/list]
+[ GRAFIK ]
+[list]
+[*] Fehler behoben, durch den das Feuer von Molotows/Brandgranaten durch das Ansichtsmodell der AK-47 sichtbar war.
+[*] Fehler behoben, durch den Aufkleber, die die Lücke am vorderen Griff der AK-47 abdeckten, im Modus für Linkshänder falsch ausgeleuchtet wurden.
+[*] Problem im Spiel behoben, durch das Symbole für Gegenstände im Inventar im Zoommodus nicht korrekt angezeigt wurden.
+[/list]
+[ AUDIO ]
+[list]
+[*] Soundeffekt beim Abfeuern der AK-47 im Vordergrund gekürzt.
+[*] Verzögerung des Soundeffekts für einschlagende Körpertreffer aus der Sicht des Schützen reduziert.
+[*] Soundeffekte für einschlagende Körpertreffer aus der Sicht des Schützen verringern kurzzeitig die Umgebungslautstärke und die Lautstärke von anderem Waffenfeuer, damit das Feedback tatsächlich hörbar ist.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4f07dee18ff65023b0c6e03e53ed962db56192b0e9ada6f5f5d47951f74606fe</guid>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">820329049655083173</guid>
+      <pubDate>Thu, 15 May 2025 22:29:36 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 13.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein Teammitglied eine mit „Kaufen und verschenken“ erhaltene Waffe abfeuern und vor dem Verstreichen der Kaufzeit wieder an den ursprünglichen Besitzer zurückgeben konnte, um sich diese rückerstatten zu lassen.<br/></li></ul><br/>[ PREMIUM ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die regionale sowie die weltweite Bestenliste der 2. Premium-Saison können jetzt abgerufen werden.<br/></li></ul><br/>[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> HUD-Einstellung „Seltenheitsfarben von Waffen anzeigen“ hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I"> Minimal abgekratzte Aufkleber überdecken jetzt die Lücken am vorderen Handgriff der AK-47.<br/></li></ul>]]></description>
+      <description><![CDATA[[ GAMEPLAY ]
+[list]
+[*] Fehler behoben, durch den ein Teammitglied eine mit „Kaufen und verschenken“ erhaltene Waffe abfeuern und vor dem Verstreichen der Kaufzeit wieder an den ursprünglichen Besitzer zurückgeben konnte, um sich diese rückerstatten zu lassen.
+[/list]
+[ PREMIUM ]
+[list]
+[*] Die regionale sowie die weltweite Bestenliste der 2. Premium-Saison können jetzt abgerufen werden.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] HUD-Einstellung „Seltenheitsfarben von Waffen anzeigen“ hinzugefügt.
+[*] Minimal abgekratzte Aufkleber überdecken jetzt die Lücken am vorderen Handgriff der AK-47.
+[/list]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">715d666f9d1b2f0c387ff4c0464ba1a4d44ac6313ca1f31ba1db79f0b6313109</guid>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">529846144626330001</guid>
+      <pubDate>Tue, 13 May 2025 22:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 13.05.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+[list]
+[*] Fehler behoben, durch den eine Spielsuche über die Entschärfungsgruppe Alpha auf Anubis und eine Spielsuche über die Entschärfungsgruppe Delta auf Vertigo führte.
+[/list]
+Jura:
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969]Update-Notizen[/url])
+[/list]
+Grail:
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710]Update-Notizen[/url])
+[/list]
+Brewery:
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240]Update-Notizen[/url])
+[/list]
+Dogtown:
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782]Update-Notizen[/url])
+[/list]
+[ AUDIO ]
+[list]
+[*] Verschiedene Sounds der Benutzeroberfläche überarbeitet.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Diverse Absturzbehebungen und Stabilitätsverbesserungen vorgenommen.
+[*] Diverse Fehler behoben, wenn Linux mit „SDL_VIDEODRIVER=wayland“ ausgeführt wurde.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529846144626329750</guid>
+      <pubDate>Wed, 14 May 2025 14:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 08.05.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISSIONEN ]
+[list]
+[*] Fehler behoben, durch den der Missionsfortschritt augenscheinlich zurückgesetzt wurde, wenn Spieler einer laufenden Partie erneut beitraten.
+[/list]
+[ KARTEN ]
+[list]
+[*] Grail:
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710]Update-Notizen[/url]).
+[/list][/list]
+[ GRAFIK ]
+[list]
+[*] Fehler behoben, durch den ein Molotow bzw. eine Brandgranate hinter einer Rauchgranate sichtbar war.
+[/list]
+[ AUDIO ]
+[list]
+[*] Diverse Fehlerkorrekturen und Optimierungen am Sound der Benutzeroberfläche vorgenommen.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Diverse Absturzbehebungen und Stabilitätsverbesserungen vorgenommen.
+[/list]
+
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529846144626329208</guid>
+      <pubDate>Thu, 08 May 2025 22:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 07.05.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISSIONEN ]
+[list]
+[*] Wöchentliche Missionen hinzugefügt, die über das Hauptmenü oder den Tab „Spielen“ gestartet werden können.
+[*] Spieler erhalten jede Woche eine Mission.
+[*] Die wöchentliche Mission läuft nach sieben Tagen ab und gewährt EP für den Abschluss.
+[/list]
+[ KARTEN ]
+[list]
+[*] Community-Karten Basalt, Edin, Palais und Whistle aus allen Spielmodi entfernt.
+[*] Community-Karten Jura, Grail und Agency zu den Spielmodi Wettkampf, Gelegenheitsspiel und Deathmatch hinzugefügt.
+[*] Community-Karten Dogtown und Brewery zum Spielmodus Wingman hinzugefügt.
+[*] Kartengruppen Gelegenheitsspiel und Deathmatch überarbeitet:
+[list]
+[*] Entschärfungsgruppe Alpha: Dust II, Mirage, Inferno und Vertigo.
+[*] Entschärfungsgruppe Delta: Train, Anubis, Ancient, Overpass und Nuke.
+[*] Community-Kartengruppe: Jura, Grail und Agency.
+[*] Geiselgruppe: Office und Italy.
+[/list][/list]
+[ AUDIO ]
+[list]
+[*] Einstellung „Lautstärke der Umgebungsgeräusche im Hauptmenü“ hinzugefügt.
+[*] Fehler behoben, durch den in einigen Fällen bei sichtbaren Gegnern über dem oberen Rand einer Rauchgranate kein Feedback-Sound für den Angreifer abgespielt wurde.
+[*] Fehler behoben, durch den in einigen Fällen Gameplay-Sounds nicht hörbar waren oder übersprungen wurden.
+[*] Konsolenbefehle „snd_setmixer“, „snd_setmixlayer“, „snd_soundmixer_setmixlayer_amount“ und „snd_soundmixer_set_trigger_factor“ entfernt.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Fehler behoben, durch den die Eingabebelegung für „scancode56“ (Taste „/“ in der amerikanisch-englischen Tastaturbelegung) nicht erhalten blieb, wenn die Anwendung erneut gestartet wurde.
+[*] Lobby-Einladungen von Spielern, bei denen in Steam die Option „Kommunikation blockieren“ gewählt wurde, werden jetzt im Spiel ignoriert.
+[/list]
+
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529846144626327635</guid>
+      <pubDate>Wed, 07 May 2025 23:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 02.04.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ WÖCHENTLICHES VERSORGUNGSPAKET ]
+[list]
+[*] Gegenstände der brandneuen Waffenkollektionen „Aufstieg“, „Nordwald“ und „Glanz“ können jetzt als Zufallsfund im Wöchentlichen Versorgungspaket eingelöst werden.
+[*] Gegenstände der Waffenkollektionen „Bank“, „Italy“, „Lake“ und die ursprüngliche Waffenkollektion „Train“ können nicht mehr als Zufallsfund im Wöchentlichen Versorgungspaket eingelöst werden.
+[/list]
+
+[ ARSENAL ]
+[list]
+[*] Neue Inhalte für das Arsenal hinzugefügt:
+[list]
+[*] Kollektion „Train 2025“
+[*] Waffenkiste „Fieber“
+[*] Ein neuer Gegenstand in limitierter Edition: XM1014 | Einsamkeit
+[/list][/list]
+
+[ KARTEN ]
+
+[i]Inferno[/i]
+[list]
+[*] Banane angepasst, damit deren Breite wieder der CS:GO-Version entspricht.
+[*] Hintergrund bei T-Rampe angepasst, sodass Spieler besser sichtbar sind.
+[*] Hintergrund bei Grube angepasst, sodass Spieler besser sichtbar sind.
+[*] Hintergrund bei Bombenort B angepasst, sodass Spieler besser sichtbar sind.
+[*] Stufe entlang des AT-Bogengangs entfernt.
+[*] Pixellücke beim Sarg-Graffito entfernt.
+[*] Kisten auf der Treppe unterhalb des Balkons angepasst, sodass Spieler zuverlässiger auf die Mauer springen können.
+[*] Requisiten auf der gesamten Karte angepasst oder entfernt.
+[*] Spieler- und Granaten-Kollision auf der gesamten Karte angepasst.
+[/list]
+
+[i]Train[/i]
+[list]
+[*] Fehler behoben, durch den der Schatten eines Spielers durch die Fenster über dem Zugang zu Bombenort A gerendert wurde.
+[*] Einige Löcher in der Spielwelt ausgebessert.
+[*] Mauer und Hintergrund im Durchgang angepasst, sodass Spieler besser sichtbar sind.
+[*] Hintergrund bei Hinterseite von B angepasst, sodass Spieler besser sichtbar sind.
+[*] Dachträgerschiene über Bombenort A verkürzt, wodurch das Werfen von Granaten vereinfacht wurde.
+[*] Gitterrost des Stegs beim Durchgang auf Bombenort B durch Metallplatten ersetzt.
+[*] Absperrgitter im Tunnel in der Nähe von Efeu durch Holzplatten ersetzt.
+[*] Mauer und Hintergrund bei Efeu angepasst, sodass Spieler besser sichtbar sind.
+[*] Granaten-Kollision im Bogengang bei Hinterseite von B behoben.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529842339955345112</guid>
+      <pubDate>Fri, 04 Apr 2025 17:04:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 20.03.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+[list]
+[*]Basalt: Karte auf die neueste Version aus dem Steam-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update-Notizen[/url])[/list]
+
+[ WORKSHOP ]
+[list]
+[*]Im Steam-Workshop von Counter-Strike 2 können jetzt Vorlagen für Anhänger eingereicht werden, die im Rahmen der Würstchenbude-Kollektion veröffentlicht wurden.[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529841887223218177</guid>
+      <pubDate>Thu, 20 Mar 2025 23:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 27.02.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+[list]
+[*]Inferno[list]
+[*]Fehlerhafte Geometrie des Kirchendachs behoben, die vom Hauseingang (ehemals „Boiler“) aus sichtbar war.[/list][/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*]Fehler behoben, durch den der Sprachchat bei der Rückkehr ins Hauptmenü nach dem Spielen einer Karte aus dem Steam-Workshop nicht mehr funktionierte.
+[*]Fehler behoben, durch den der Spielclient abstürzte, wenn bestimmte Community-Server-Plugins die Netzwerkverbindung von Spielerentitäten beschränkten.
+[*]Verschiedene Probleme in der Benutzeroberfläche beim Anbringen von Aufnähern behoben.[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529839807839339585</guid>
+      <pubDate>Fri, 28 Feb 2025 00:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 13.02.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ BENUTZEROBERFLÄCHE ]
+[list]
+[*]Fehler behoben, durch den beim Einblenden des Kaufmenüs die Größe und Skalierung von HUD-Elementen auf den Standardwert zurückgesetzt wurde.
+[*]Fehler bei der Anzeige der Rüstung für CSTV-Zuschauer korrigiert.
+[*]Alternative Animation beim Untersuchen der AK-47 aktualisiert.[/list]
+
+[ WORKSHOP ]
+[list]
+[*]Unterstützte Upload-Größe von Steam-Workshop-Karten für Counter-Strike 2 auf 3 GB erhöht.[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">748263301754912773</guid>
+      <pubDate>Thu, 13 Feb 2025 23:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 06.02.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ PREMIUM ]
+[list]
+[*]Logik angepasst, die bestimmt, wann die Differenz der CS-Wertung zwischen Spielern in einer Gruppe zu groß ist, um gemeinsam an der Spielsuche teilzunehmen. In den meisten Fällen können Spieler, die in der ersten Saison des Premium-Modus zusammen als Gruppe gespielt haben, auch in der zweiten Saison zusammen spielen.[/list]
+
+[ BENUTZEROBERFLÄCHE ]
+[list]
+[*]Schaltfläche „Verdienstmedaille erhalten“ direkt zum kleinen Spielerprofil im Hauptmenü hinzugefügt.
+[*]Fehler behoben, durch den in Spielerprofilen im Hauptmenü keine Abzeichen ausgestellt wurden.
+[*]Radarkarte von Dust II aktualisiert, um die Gegebenheiten der Karte präziser widerzuspiegeln.[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*]Fehler behoben, durch den das Drücken der Tasten „Untersuchen“ und „Nachladen“ zu Vorhersagefehlern führen konnte.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520830705162257115</guid>
+      <pubDate>Sat, 15 Feb 2025 00:52:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 03.02.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*]Visueller Fehler beim Übergang in den Zoom-Modus der AUG bzw. SSG 553 behoben, der in der Nähe von Wasseroberflächen auftrat.
+[*]Fehler behoben, durch den die Fortschrittsanzeige für das Abzeichen des Premium-Modus bei niedrigen Auflösungen nicht ordnungsgemäß dargestellt wurde.
+[*]Fehler behoben, durch den einige Elemente der Benutzeroberfläche nicht transparent dargestellt wurden, wenn in den erweiterten Grafikeinstellungen für „Multisampling-Antialiasing-Modus“ die Option „CMAA2“ und für „Hoher Farbkontrast (HDR)“ die Option „Leistung“ gleichzeitig ausgewählt waren.
+[*]Verhalten des dynamischen Zooms der Radarkarte verbessert. Wenn ein Gegner bzw. die Bombe auf dem Radar auftaucht, zoomt das Radar sofort heraus, um dieses Ereignis einzufangen. Wenn diese hingegen wieder vom Radar verschwinden, zoomt das Radar jetzt erst nach einer gewissen Verzögerung auf die festgelegte Zoom-Stufe zurück.
+[*]Fehler behoben, durch den mit der Einstellung „Radarkartenzoom“ nicht der gesamte mögliche Skalierungsbereich von 0,25 bis 1,0 festgelegt werden konnte.
+[*]Fehler behoben, durch den die Sounds beim Untersuchen eines Gegenstands mit der Hintergrundkulisse „Train“ auch nach der Rückkehr ins Hauptmenü abgespielt wurden.
+[*]Problem mit Vorhersagefehlern behoben, durch das Spieler in der Nähe von Wänden durch diese spähen konnten.
+[*]Fehlerhafte Darstellung der Kleidung auf einem lokalen Server behoben, wenn beim Laden der Karte der Parameter „loopback=1“ verwendet wurde.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520830071182721726</guid>
+      <pubDate>Tue, 04 Feb 2025 00:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 29.01.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+[list]
+[*]Basalt: Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update-Notizen[/url])[/list]
+[ VERSCHIEDENES ]
+[list]
+[*]Fortschrittsanzeige für das Abzeichen der zweiten Saison des Premium-Modus im Tab „Premium“ der Spielsuche hinzugefügt.
+[*]Regressionen bei der Anzeige des Zoom-Modus für die AUG und SG 553 behoben.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520830071182721127</guid>
+      <pubDate>Thu, 30 Jan 2025 01:29:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 28.01.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ PREMIUM ]
+[list]
+[*]Die zweite Saison des Premium-Modus feiert ihren Auftakt. Die Spielsuche für diesen Spielmodus ist ab sofort wieder verfügbar.
+[*]Jeder Spieler, der sich während der ersten Saison eine CS-Wertung erspielt hat, erhält ein entsprechendes Abzeichen. Dieses gewährt Spielern einen Einblick in detaillierte Saisonstatistiken.
+[*]Die CS-Wertung jedes Spielers wird auf der Grundlage seiner Leistungen in der ersten Saison neu kalibriert. Spieler müssen zehn Spiele gewinnen, um erneut eine CS-Wertung zu erhalten.
+[*]Train zur Kartengruppe des aktiven Dienstes hinzugefügt.
+[*]Vertigo aus der Kartengruppe des aktiven Dienstes entfernt.
+[/list]
+
+[ GAMEPLAY ]
+[list]
+[*]Preis der M4A4 auf 2.900 Dollar reduziert.
+[*]Schussgenauigkeit der FAMAS verbessert und Preis auf 1.950 Dollar reduziert.
+[*]Schussgenauigkeit der MP9, MP5-SD und MP7 in geduckter Position reduziert.
+[*]Sichtbarkeit des Leuchtpunkts der AUG/SG 553 im Zoom-Modus verbessert.
+[/list]
+
+[ BENUTZEROBERFLÄCHE ]
+[list]
+[*]Neue Option für einen dynamischen Radar-Zoom hinzugefügt, die die Zoom-Stufe unter Berücksichtigung der Teammitglieder, der Bombe und anderer Elemente von Interesse automatisch anpasst.
+[*]Anordnung der Granaten im HUD des Zuschauermodus angepasst, sodass diese mit der Anordnung der Auswahl des jeweiligen Spielers übereinstimmt.
+[*]Helligkeit des Bombensymbols im HUD des Bombenträgers erhöht.
+[/list]
+
+[ KARTEN ]
+Train
+[list]
+[*]Sichtlinie von einem Boost-Ort bei Long Dog auf Bombenort A blockiert.
+[*]Beleuchtungsartefakte auf doppelseitigen Materialien behoben.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*]Fallback-Logik hinzugefügt, um die Wiedergabe unvollständiger Demo-Dateien zu ermöglichen, die entweder aus einem laufenden Spiel kopiert oder nach einem Absturz des Spielservers wiederhergestellt wurden.
+[*]Exploit behoben, durch den Spieler den R8-Revolver im Sekundärfeuermodus abfeuern und dann trotzdem rückerstatten konnten.
+[*]In den Protokollierungsdateien des Spielservers sind jetzt neben der Konsolenprotokollierung auch über die Netzwerkadresse zur Protokollierung verteilte Auswertungen zu Gegenbewegungseingaben („Counter-strafing“) verfügbar.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520830071182721026</guid>
+      <pubDate>Tue, 28 Jan 2025 23:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 27.01.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ PREMIUM ]
+[list]
+[*]Die erste Saison des Premium-Modus ist nun vorbei. Die Spielsuche für diesen Spielmodus wurde vorübergehend deaktiviert.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520829437562848528</guid>
+      <pubDate>Tue, 28 Jan 2025 00:56:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 21.01.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*]Kleinere Leistungsverbesserungen an einigen CPU-gebundenen Prozessen vorgenommen.
+[*]Wenn der beobachtete Spieler die Einstellung „Rückstoß folgen“ aktiviert hat, wird diese bei angezeigtem Fadenkreuz auch für den Zuschauer übernommen.
+[*]Unterstützung für die Aktualisierung bereits veröffentlichter Karten-Guides im Steam Workshop hinzugefügt. Sie können beispielsweise den Konsolenbefehl „workshop_annotation_submit 123456“ verwenden, um Ihre Workshop-Einsendung mit dem URL-Parameter „id=123456“ zu aktualisieren. Wenn Sie eine Identifikationsnummer angeben, die zu keiner Ihrer Einsendungen gehört, wird eine neue Einsendung erstellt. Nach der ersten Aktualisierung wird die Identifikationsnummer in die Karten-Guide-Datei eingebettet. Sie können künftig weitere Aktualisierungen veröffentlichen, ohne diese erneut angeben zu müssen.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520829437562847236</guid>
+      <pubDate>Wed, 22 Jan 2025 00:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 16.01.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*]Steam-Bibliotheken für Linux-Spielserver auf die neueste Beta-Version des Steam-Clients aktualisiert.
+[*]Fähigkeit von Linux-Spielservern, sich nach einem Verbindungsabbruch wieder mit Steam zu verbinden, verbessert.
+[*]Stabilitätsverbesserungen vorgenommen.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">523080783919841380</guid>
+      <pubDate>Fri, 17 Jan 2025 01:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ SHANGHAI-MAJOR ]
+[list][*]Aufkleberkapseln des Shanghai-Majors 2024 können jetzt mit einem Rabatt von 75 % erworben werden.[/list]
+[ ARSENAL ]
+[list][*][i]Desert Eagle | Wärmebehandlung[/i] kann nicht länger im Arsenal eingelöst werden.[/list]
+[ VERSCHIEDENES ]
+[list]
+[*]Fingerposition der Animation beim Untersuchen des Jagdmessers im Spiel angepasst.
+[*]Fehler behoben, der dazu führte, dass Granatensymbole auf der Zuschauerkarte nicht verschwanden.
+[*]Fehler behoben, der dazu führte, dass Zuschauersymbole zur falschen Zeit auf dem Radar auftauchen konnten.
+[*]Problem mit der Hintergrundkulisse behoben, das bei der Untersuchung von Messern auftrat.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">518577002799693838</guid>
+      <pubDate>Wed, 15 Jan 2025 16:17:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 09.01.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+[list]
+[*]
+Train
+[list]
+[*]Mehrere kleinere visuelle Fehler behoben und Löcher in der Spielwelt ausgebessert.
+[*]Bestimmte Kisten und Planen sind jetzt von Schmutz und Nässe überzogen.
+[*]Öffnung des Hallenausgangs von Tunnel zu Bombenort A (bei Efeu) verbreitert.
+[*]Containertür des dort befindlichen Waggons auf der Hallenseite geöffnet (Spieler können nicht mehr in der Ecke stehen).
+[*]Müllcontainer bei Efeu hinzugefügt.
+[*]Fässer in einer Ausbuchtung am Bombenort A hinzugefügt.
+[*]Einstiegspunkte der Terroristen etwas weiter nach hinten versetzt.
+[/list]
+[/list][ VERSCHIEDENES ]
+[list]
+[*]Fehler behoben, durch den Ragdolls getöteter Spieler mit extremem Tempo fortgeschleudert wurden.
+[*]Markierung zur Unterscheidung von Spielen in der Zeitleiste der Steam-Spielaufnahme hinzugefügt.
+[*]Regression behoben, durch die nach einem Waffenwechsel die neu ausgerüstete Waffe nicht unmittelbar untersucht werden konnte.
+[*]Animation beim Untersuchen eines Butterfly-Messers korrigiert, bei der sich die Finger des Spielermodells durch eine Griffhälfte des Messers bewegten.
+[*]Fehler behoben, durch den die Vorschau einer Waffenkiste aus dem Wöchentlichen Versorgungspaket über keine „Schließen“-Schaltfläche verfügte.
+[*]Wenn sich Spieler von einer Stelle mit Karten-Kommentar entfernen, werden die hierfür benötigten Granaten jetzt nicht mehr entfernt.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520828168477606335</guid>
+      <pubDate>Fri, 10 Jan 2025 21:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 07.01.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+[list]
+[*]
+Inferno
+[list]
+[*]Clipping auf der Treppe unter dem Balkon angepasst.[/list]
+[/list][ VERSCHIEDENES ]
+[list]
+[*]Versatzdiskrepanz im klassischen Modell der SSG08 behoben.
+[*]Aufklebermaske auf dem klassischen Modell des Magazins der Akimbo-Berettas korrigiert.
+[*]Fehler behoben, durch den das Pistolenhalfter der Akimbo-Berettas in der Ego-Perspektive zu weit weg vom Bein des Spielers schwebte.
+[*]Regression bei der Interaktion von Granaten mit Ragdolls behoben.
+[*]Fehler behoben, durch den eine kombinierte Tastenbelegung von +attack2 und +lookatweapon bei schallgedämpften Waffen zu einer inkonsistenten Schalldämpfung führte.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">520828168477605889</guid>
+      <pubDate>Tue, 07 Jan 2025 23:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 19.12.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+[list]
+[*]
+Inferno
+[list]
+[*]Clipping auf dem Gerüst am Bombenort B angepasst.[/list]
+[/list][ VERSCHIEDENES ]
+[list]
+[*]Problem mit der Oberfläche der Teamauswahl behoben, das bei Servern ohne Zeitlimit für die automatische Auswahl auftrat.
+[*]Regression behoben, die im Zusammenhang mit dem Befehl „annotation_load“ auftrat.
+[*]Absturz behoben, der im Zusammenhang mit dem Befehl „give item_assaultsuit“ auftrat.
+[*]Chance der seltenen Animation beim Untersuchen der AK-47 angepasst.
+[*]Regression behoben, die im Zusammenhang mit der seltenen Animation beim Untersuchen der Desert Eagle auftrat.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529833630239817740</guid>
+      <pubDate>Thu, 19 Dec 2024 23:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 18.12.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ SHANGHAI-MAJOR ]
+[list]
+[*]Die Aufkleberkapsel der Meister von Shanghai ist ab sofort zum Kauf erhältlich. Diese Kapsel enthält die Autogramme aller Spieler des Meisterteams in der Qualität Standard, Glitzer, Holo und Gold. 50 % der Erlöse aus dem Verkauf fließen an die Spieler und die Organisatoren.[/list]
+[ GAMEPLAY ]
+[list]
+[*]Schwellenwert angepasst, ab wann ein Spieler als „geblendet“ in der Abschussanzeige aufgeführt wird.
+[*]Waffen werden jetzt durch Explosionen zuverlässiger fortgeschleudert, auch wenn mehrere davon aufeinanderliegen.
+[*]Während der Aufwärmphase werden Waffen beim Teamwechsel nicht mehr fallen gelassen.
+[*]Während der Aufwärmphase hat der Teamwechsel jetzt eine Abklingzeit von zwei Sekunden.
+[*]Servereinstellungen hinzugefügt, die festlegen, welche Gegenstände während der Aufwärmphase fallen gelassen werden können: „mp_warmup_items_drop_policy“, „mp_warmup_items_nocost“ und „mp_warmup_items_nocount_policy“. Community-Server, die während der Aufwärmphase mit kostenlosen Waffen operieren, die nicht fallen gelassen werden können, können die folgenden Einstellungen festlegen: „mp_warmup_items_drop_policy 0“, „mp_warmup_items_nocost 1“ und „mp_warmup_items_nocount_policy 251“.
+[*]Der Befehl „give“ lässt jetzt die ausgerüstete Waffe immer fallen, wenn für die neue Waffe ein leerer Primär-/Sekundärwaffenslot benötigt wird. Das klassische Verhalten, bei dem neue Waffen fallen gelassen werden, kann in der Konsole mit der Zusatzoption „-keep_gear“ aktiviert werden, z. B. „give weapon_awp -keep_gear“.[/list]
+[ KARTEN ]
+[list]
+[*]
+Train
+[list]
+[*]Kollisionsqualität für verschiedene Objekte verbessert.
+[*]Oberflächentypen von mehreren Objekten aktualisiert und Fehler korrigiert.
+[*]Feuchtigkeitsgrad auf einigen Oberflächen angepasst.
+[*]Verschiedene Lücken in der Spielwelt ausgebessert.[/list]
+[/list][ KARTEN-GUIDES ]
+[list]
+[*]Unterstützung für das Einreichen und Abonnieren von Karten-Guides im Steam-Workshop hinzugefügt.
+[*]Auswahloption hinzugefügt, um festzulegen, welcher Karten-Guide im Trainingsmodus geladen wird.
+[*]Karten-Kommentare werden jetzt auf dem Radar angezeigt.
+[*]Werkzeug hinzugefügt (über den Konsolenbefehl „workshop_annotation_submit“), um einen Karten-Guide in den Steam-Workshop hochzuladen.[/list]
+[ VERSCHIEDENES ]
+[list]
+[*]Einstellung für die Nutzungspräferenz von Prozessorkernen hinzugefügt, um festzulegen, wie Spiele Hochleistungs- und Leistungseffizienz-Kerne von Prozessoren mit Hybridarchitektur verwenden.
+[*]Fehler behoben, durch den die Waffen in der Ausrüstungsoberfläche vom Grafiktreiber fehlerhaft dargestellt werden konnten.
+[*]Verbesserungen an den Animationen beim Untersuchen einer Waffe vorgenommen.
+[*]Verbesserungen in der Benutzeroberfläche bei der Anzeige besonders langer angepasster Waffennamen vorgenommen.
+[*]Stabilitätsverbesserungen vorgenommen.
+[*]Brandneue Verdienstmedaille 2025 hinzugefügt, die ab dem 1. Januar (GMT) erhältlich ist.
+[*]Workshop-Werkzeuge: Fehlerhafte Schatten bei spitzen Sonneneinstrahlungswinkeln behoben.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529833471389991082</guid>
+      <pubDate>Thu, 19 Dec 2024 01:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ SHANGHAI-MAJOR ]
+[list]
+[*] Von Lucaozy signierte MIBR-Spieleraufkleber mit den Autogrammen von brnz4n aktualisiert.
+[*] Fehler der Benutzeroberfläche behoben, durch den das Ablegen von Teamlogos der Pick’Em Challenge außerhalb des Pick’Em-Hubs des Majors möglich war, wenn beide Maustasten gleichzeitig gedrückt wurden.
+[*] Für die bevorstehende K.-o.-Phase des Shanghai-Major können jetzt Tipps für die Pick’Em Challenge abgegeben werden.
+[/list]
+
+[ SCHADENSVORHERSAGE ]
+[list]
+[*] Vorhergesagte Ragdolls, die innerhalb eines kleinen Zeitfensters keine Bestätigung oder Korrektur des Servers erhalten, werden jetzt zurückgesetzt.
+[/list]
+
+[ KARTEN ]
+[list]
+
+[*] Train
+[list]
+[*] Kollisionsqualität für zahlreiche Modelle verbessert.
+[/list]
+
+[*] Overpass
+[list]
+[*] Geländer innerhalb von Himmel durch eine Wand ersetzt.
+[*] Zusätzliche Verbesserungen an der Sichtbarkeit von Spielern in Himmel vorgenommen.
+[/list]
+
+[*] Edin
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3328169568]Update-Notizen[/url])
+[/list]
+
+[*] Palais
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3257582863]Update-Notizen[/url])
+[/list]
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Problem mit der Option „Spielerkontrast verstärken“ zum Rendern der Sichtbarkeit behoben, das dazu führen konnte, dass Teile von Spielern oder Waffen durch dünne Oberflächen sichtbar waren.
+[*] Einstellung „r_allow_low_gpu_memory_mode“ hinzugefügt, um die Ausführung von CS2-Workshop-Werkzeugen bei einem stark ausgelasteten Grafikartenspeicher zu ermöglichen.
+[*] Verschiedene Fehler in Hammer ausgebessert.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4472733036435211443</guid>
+      <pubDate>Fri, 06 Dec 2024 23:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ SHANGHAI-MAJOR 2024 ]
+[list]
+[*] Der Hub für den Shanghai-Major ist jetzt verfügbar. Dort können Sie Turniergegenstände kaufen, an der Pick’Em Challenge teilnehmen und vieles mehr rund um das Turnier entdecken.
+[*] Kaufen Sie einen Zuschauerpass, um eine aufwertbare Münze für den Shanghai-Major 2024 zu erhalten. Mit einem aktivierten Zuschauerpass können Sie Ihre Münze aufwerten und zusätzliche Souvenirpakete verdienen, indem Sie an der Pick’Em Challenge teilnehmen. Ebenso werden Sie in einer Rangliste für Spieler mit aktiviertem Zuschauerpass angezeigt, wo Sie Ihre Ergebnisse der Pick’Em Challenge mit denen Ihrer Freunde vergleichen können.
+[*] Alle Spieler mit Prime-Status können kostenlos Tipps für die Pick’Em Challenge abgeben. Um jedoch Herausforderungen abzuschließen und Belohnungen einer Eventphase zu erhalten, müssen Sie vor Beginn der jeweiligen Phase einen Zuschauerpass aktivieren.
+[/list]
+[ MUSIKKITS ]
+[list]
+[*] Ein neues Musikkit „Ay Hey“ von Perfect World ist jetzt in der normalen und in der StatTrak™-Version im Spiel erhältlich.
+[/list]
+[ GAMEPLAY ]
+[list]
+[*] Einstellung „sv_quantize_movement_input“ hinzugefügt (standardmäßig aktiviert), um zu verhindern, dass Spieler analoge Eingabemethoden verwenden, um sich mit geringerem als dem normalen Tempo fortzubewegen, da das Spiel nicht dafür ausgelegt ist.
+[*] Fallen gelassene Waffen verschwinden nicht mehr, wenn Server die Spielregeln von Wettkampf in Deathmatch und dann während eines laufenden Spiels wieder in den ursprünglichen Modus ändern. Das Umschalten der Spielregeln ohne das erneute Laden der Karte ist grundsätzlich jedoch keine empfohlene Praxis für Community-Server.
+[/list]
+[ KARTEN-GUIDES ]
+[list]
+[*] Unterstützung für das Ausblenden des Hintergrunds von Anmerkungen hinzugefügt.
+[*] Unterstützung für das Erstellen von Anmerkungen für andere Granatentypen als Rauchgranaten hinzugefügt.
+[*] Anzahl der speicherbaren Anmerkungen von 100 auf 300 erhöht.
+[*] Fehler behoben, durch den der Konsolenbefehl „annotation_delete_previous_node“ keine Partikeleffekte entfernte.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Möglichkeit zum Mieten von Waffen aus allen früheren CS:GO-Waffenkisten hinzugefügt.
+[*] Einstellungen „sv_deltaticks_enforce“ und „sv_deltaticks_log“ hinzugefügt, um für Delta-Ticks von Clients eine bestimmte Reihenfolge zu erzwingen. Hilft bei der Diagnose von Konfigurationen, in denen Delta-Ticks in der falschen Reihenfolge zu Verbindungsabbrüchen führen.
+[*] Fehler behoben, durch den ein nicht lokalisiertes „#SLOT“-Präfix im Chat erscheinen konnte.
+[*] Referenz einer Webserver-Implementierung für die Übertragung von Counter-Strike 2 hinzugefügt: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Broadcast#Reference_Playcast_Webserver_Implementation
+[/list]
+[ KARTEN ]
+
+Basalt
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert:[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update-Notizen[/url]
+[/list]
+Train
+[list]
+[*] Verschiedene Lücken in der Spielwelt ausgebessert.                                                                                                                                                                                                           
+[*] Kollisionsqualität verbessert.
+[*] Sichtlinien vom Zug am Bombenort B blockiert, um unfaire Winkel zu vermeiden.
+[*] Verschiedene visuelle Fehlerbehebungen vorgenommen.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4472733036435210471</guid>
+      <pubDate>Fri, 06 Dec 2024 21:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ][list]
+[*] Fehler behoben, durch den ein Spieler, dessen Verbindung unterbrochen wurde, ein poltergeistartiges AT-Modell in der Kartenmitte erscheinen lassen konnte.
+[*] Das Spielermodell eines Spielers, dessen Verbindung unterbrochen wurde, verschwindet jetzt bei Erkennung einer Verbindungsunterbrechung sofort (zählt als Freitod), anstatt unter bestimmten Umständen für weitere 10 Sekunden zu verweilen.
+[*] Fehler behoben, durch den die Schadensvorhersage nicht ordnungsgemäß funktionierte, wenn sich der Blickwinkel auf ein Ziel während eines Dauerfeuers änderte.
+[*] Die Verzögerungskompensation berücksichtigt jetzt auch den Eigenbeschuss von Teammitgliedern. Darüber hinaus ist die Konfigurationsvariable „mp_teammates_are_enemies“ aktiviert, auch wenn „mp_friendlyfire“ deaktiviert ist.
+[/list]
+[ BENUTZEROBERFLÄCHE ][list]
+[*] Inkonsistenzen des Layouts bei der Anzeige von Rängen und Spielerprofilen behoben.
+[/list]
+[ KARTEN ]
+
+Train[list]
+[*] Geräusche der Hintergrundkulisse des Hauptmenüs aktualisiert.
+[*] Bewegung rund um die Leitern verbessert.
+[*] Verschiedene Lücken in der Spielwelt ausgebessert.
+[*] Z-Fighting-Artefakte an verschiedenen Orten korrigiert.
+[/list]
+Inferno[list]
+[*] Verschiedene Lücken ausgebessert. 
+[*] Clipping an mehreren Orten angepasst.
+[*] Verschiedene Texturfehler behoben.
+[/list]
+Nuke[list]
+[*] Ort korrigiert, an dem Spieler stecken bleiben konnten.
+[/list]
+Office[list]
+[*] Fehler behoben, durch den ein T-Spieler beim Einstieg in der Luft hing.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4472732402493423622</guid>
+      <pubDate>Fri, 06 Dec 2024 23:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+Train[list]
+[*] Nicht vorgesehener Boost-Ort im Gang über Bombenort B entfernt.
+[*] Granatenkollision für Bereiche außerhalb der Kartengrenze hinzugefügt.
+[*] Lücke in der Spielwelt am Ausgang von „Long Dog“ ausgebessert.
+[*] Kollision zum kaputten Dach am Bombenort B hinzugefügt.
+[*] Kollisionsart des Ölwagens am Bombenort B geändert.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">6562402086097518696</guid>
+      <pubDate>Fri, 06 Dec 2024 23:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN-GUIDES ][list]
+[*] Fehler behoben, durch den nicht lokalisierter Text einer Sprache nicht automatisch auf Englisch angezeigt wurde.
+[/list]
+[ KARTEN ]
+
+Train[list]
+[*] Verschiedene Probleme mit der Kollision (inklusive der Qualität des orangefarbenen Güterwagens am Bombenort B) behoben.
+[*] Kleinere Korrekturen im Zusammenhang mit gedehnten Texturen vorgenommen.
+[*] Verschiedene Lücken in der Spielwelt ausgebessert.
+[*] Spielerkollision mit dem Radio deaktiviert.
+[*] Radiogeräusch aktualisiert.
+[*] VPhysics-Kollision (für ungeschickte Spieler) zur Lücke in der Plattform im T-Start hinzugefügt.
+[*] Spieler können jetzt außerhalb von „Long Dog“ auf den Kistenstapel springen.
+[/list]
+Overpass[list]
+[*] Beleuchtungsfehler am Bombenort B behoben.
+[*] Fehlerhafte Trittgeräusche auf schlammigen Oberflächen behoben.
+[/list]
+Basalt[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update-Notizen[/url])
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">6562402086097518652</guid>
+      <pubDate>Fri, 06 Dec 2024 23:59:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ SCHADENSVORHERSAGE ][list]
+[*] Einstellungen für die Schadensvorhersage hinzugefügt. Die Schadensvorhersage ermöglicht es Clients, die audiovisuellen Effekte des zugefügten Schadens sofort abzuspielen, ohne auf eine Bestätigung vom Server zu warten. Durch die Schadensvorhersage kann sich das Schießen deutlich responsiver anfühlen. Jedoch besteht das Risiko, dass gelegentlich falsche Informationen vermittelt werden (z. B. fehlerhafte Treffer- bzw. Aimpunch-Animationen oder der Tod eines Spielers, der noch nicht an den Client übermittelt wurde).
+[*] Die Vorhersagen für Effekte bei Körpertreffern bzw. bei Kopftreffern (beide standardmäßig deaktiviert) sowie für die Ragdoll-Animation bei einem Kill (standardmäßig aktiviert) können jeweils separat aktiviert bzw. deaktiviert werden.
+[*] Bei einem hohen Ping wird die Schadensvorhersage deaktiviert.
+[/list]
+[ ANIMATION ][list]
+[*] Third-Person-Animation aktualisiert, die bei Blendung durch eine Blendgranate abgespielt wird. Die Animation stellt jetzt besser dar, inwiefern die Sicht eines Spielers eingeschränkt ist. Die Pose, bei der ein Spieler seine Augen mit einem Arm bedeckt, wird nur abgespielt, wenn er vollständig geblendet wurde.
+[*] Fehler behoben, durch den die Beine eines Spielers nicht ordnungsgemäß animiert wurden, wenn er Schaden erlitt.
+[/list]
+[ GRAFIK ][list]
+[*] Umgebungsverdeckung für die Beine eines Spielers in der Egoperspektive hinzugefügt, um sie besser an die Umgebung anzupassen.
+[*] Leistungsoptimierungen für Molotow- und Brandgranateneffekte vorgenommen.
+[/list]
+[ GRANATEN ][list]
+[*] Achsenbeschriftungen zur Ausrichtungshilfe für Granaten hinzugefügt.
+[*] Die Vorschau der Granatenkamera zeigt jetzt das Ergebnis eines Sprungwurfs an, während die „Springen“-Taste gedrückt wird.
+[/list]
+[ KARTEN-GUIDES ][list]
+[*] Karten-Guide für Train hinzugefügt, der vier einfache Ausrichtungshilfen für T-Granaten zeigt. Um einen Karten-Guide zu laden, wählen Sie den Tab „Spielen“ aus und aktivieren Sie die Option „Karten-Guides laden“.
+[*]Konsolenbefehle beginnend mit „annotation_“ hinzugefügt, die die Erstellung, das Abspeichern und das Laden von Karten-Guide-Kommentaren und Dateien ermöglichen. (Dateipfad: …/annotations/)
+[/list]
+[ VERSCHIEDENES ][list]
+[*] Einstellungen hinzugefügt, um die Farben der Radarkarte sowie die Transparenz des Radarhintergrunds an die Hintergrundumgebung anzupassen.
+[*] Fehler behoben, durch den der Fortschritt eines bereits abgeschlossenen Arsenalpasses während der Aktivierung eines neuen Passes angezeigt wurde.
+[*] Regression behoben, die im Zusammenhang mit dem Microsoft-Eingabemethoden-Editor für Chinesisch auftrat.
+[*] Die CSTV-Einstellungen „tv_delay“ und „tv_delay1“ erlauben jetzt, einen Wert unter 6 Sekunden festzulegen.
+[*] Die Nummer der Anhängervorlage wird jetzt in der Anhängerbeschreibung angezeigt.
+[/list]
+[ KARTEN ]
+
+Train[list]
+[*] Train zu den Spielmodi Wettkampf, Gelegenheitsspiel und Deathmatch hinzugefügt.
+[/list]
+Community-Karten[list]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329258290]Basalt[/url] und [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328169568]Edin[/url] zu den Spielmodi Wettkampf, Gelegenheitsspiel und Deathmatch hinzugefügt.
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3257582863]Palais[/url] und [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3308613773]Whistle[/url] zum Spielmodus Wingman hinzugefügt.
+[*] Thera, Mills, Assembly und Memento aus allen Spielmodi entfernt.
+[/list]
+Ancient[list]
+[*] Einige Beleuchtungsfehler behoben.
+[*] Einige Kollisionslücken ausgebessert.
+[*] Stellen ausgebessert, an denen Schüsse durch die Wand nicht vorgesehen sind.
+[*] Stelle ausgebessert, an der Spieler stecken bleiben konnten.
+[/list]
+Italy[list]
+[*] Stellen ausgebessert, an denen Boosts nicht vorgesehen sind.
+[/list]
+Mirage[list]
+[*] Winzige Lücke entfernt, durch die Spieler spähen konnten. 
+[/list]
+Overpass[list]
+[*] Visuelle Verbesserungen im Kanalbereich und am Bombenort B vorgenommen.
+[*] Geländer des Scharfschützennests („Heaven“) entfernt, sodass Spieler ohne Schaden zu nehmen auf den Bombenort B hinunterspringen können.
+[*] Leistungsverbesserungen vorgenommen, insbesondere im Kanalbereich und am Bombenort B.
+[*] Schild hinzugefügt, das eine nicht vorgesehene Sichtlinie vom Boost-Ort beim Oberen Park („A Long“) zum AT-Start blockiert.
+[*] Kleiner Zaun an der Mauer bei den Picknick-Tischen („Party“) entfernt, der die Sicht in die Bahnstation erschwerte.
+[*] Kartengeometrie unter dem zerstörten LKW am Bombenort A entfernt, die man mit Spielerfüßen verwechseln konnte.
+[*] Einige durchsichtige Fensterscheiben durch Milchglas in der Bahnstation ersetzt, um nicht vorgesehene Sichtlinien zu blockieren.
+[*] Baum entfernt, der eine vorgesehene Sichtlinie einschränkte.
+[*] Kistentür am Bombenort A neu ausgerichtet, um eine nicht vorgesehene Sichtlinie zu blockieren.
+[*] Einige Lampen am Bombenort A entfernt, die man mit Spielerköpfen verwechseln konnte.
+[*] Einige Bäume und Requisiten rund um den Park und die Bahnstation entfernt, die Spieler davon abhielten, sich in vorteilhafte Ecken zu stellen.
+[*] Maschendrahtzaun in der Gasse entfernt, durch den Spieler schwer zu erkennen waren.
+[*] Anpassungen am Entfernungsnebel vorgenommen und Entfernung reduziert, bei der Charaktermodelle einen erhöhten Sichtbarkeitseffekt erhalten.
+[*] Aussehen des Regals im Scharfschützennest angepasst, damit es nicht mehr mit einem Spieler verwechselt werden kann.
+[*] Requisiten und Beleuchtung im Scharfschützennest angepasst, um den Bereich übersichtlicher zu gestalten und Spieler hervorzuheben.
+[*] Sackkarre hinter den Fässern am Bombenort B entfernt, sodass sich Spieler in die Ecke stellen können.
+[*] Kollision rund um die Fässer angepasst, um die Spielerbewegung flüssiger zu gestalten.
+[*] Beleuchtung hinter den Fässern hinzugefügt, um die Sichtbarkeit von Spielern zu verbessern.
+[*] Seltsame Kollision eines Fasses korrigiert, die zu inkonsistenten Granatenabprallern führte.
+[*] Fehlerhaftes Graffiti-Rendering am Bombenort B korrigiert.
+[*] Betonblock hinter den Zementsäcken am Bombenort B entfernt, um die Spielerbewegung flüssiger zu gestalten.
+[*] Mehrere kleinere Requisiten ignorieren jetzt die Spielerbewegung und Granatenabpraller.
+[*] Winzige Lücken entfernt, durch die Spieler spähen konnten.
+[*] Kleine visuelle Änderungen auf der gesamten Karte vorgenommen.
+[/list]
+Shoots[list]
+[*] Leistungsverbesserungen in einigen Bereichen vorgenommen.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4458095069430284352</guid>
+      <pubDate>Fri, 06 Dec 2024 23:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ NETZWERK ]
+[list]
+[*] Fehler behoben, durch den während eines Dauerfeuers die Verzögerungskompensation die Einstellung „Pufferung zur Kompensation von Paketverlusten/Latenzvarianz“ nicht berücksichtigte.
+[*] Synchronisierung der Zeit verbessert, um vorübergehende Spitzen der Latenzvarianz beim Download besser bewältigen zu können.
+[/list]
+
+[ TELEMETRIE-HUD ]
+[list]
+[*] Methode zur Messung der Netzwerkqualität geändert, um zu ermitteln, wie stark sich diese auf das Gameplay auswirkt. Bei der neuen Methode wird gemessen, wie oft ein Tick aufgrund von Paketverlusten oder Latenzvarianz verpasst wird.
+[*] Außerdem wurde eine Option für eine detaillierte Anzeige der Netzwerkqualität hinzugefügt, die zusätzlich die Rohwerte für den Paketverlust und die Latenzvarianz anzeigt.
+[*] Weitere Informationen hierzu finden Sie in diesem [url=https://help.steampowered.com/faqs/view/5E6F-5B36-5485-F6B9]Hilfeartikel[/url].
+[/list]
+
+[ ÜBER DIE ANZEIGE DER NETZWERKQUALITÄT ]
+Vor dem Arsenal-Update bewertete die Anzeige der Netzwerkqualität im Telemetrie-HUD Pakete in zwei Fällen als „schlecht“:  1. Ein Packet wurde verloren.  2. Ein Paket wurde nicht in der richtigen Reihenfolge zugestellt und in einer relativ niedrigen Schicht des Protokollstapels nicht korrigiert.  Dies lieferte aus zwei Gründen keine nützlichen Kennzahlen:  Erstens wurden einige Fehlzustellungen als „schlecht“ bewertet, obwohl sie keine negativen Auswirkungen auf das Gameplay hatten.  Dies war insbesondere für die Neuordnung von Paketen ein Problem.  Zweitens wurden Pakete, die aufgrund von Netzwerklatenzvarianz zu spät eintrafen und negative Auswirkungen auf das Gameplay hatten, [i]nicht[/i] als „schlecht“ bewertet.  Bei einer umfangreichen Analyse von Gameplay-Störungen stellten wir fest, dass die Latenzvarianz bei vielen Spielern Probleme verursachte. Währenddessen glaubten die Spieler (zu Recht), dass ihre Verbindung einwandfrei funktionierte, da es keine Paketverluste gab.
+
+Um betroffene Spieler darauf aufmerksam zu machen, dass die Latenzvarianz die Ursache für etwaige Störungen sein könnte, änderten wir mit dem Arsenal-Update am 2. Oktober 2024 die Messmethode.  Eine Übertragung wurde fortan als „schlecht“ bewertet, wenn Pakete verloren gingen bzw. in falscher Reihenfolge zugestellt wurden und nicht korrigiert werden konnten oder die Latenzvarianz einen bestimmten Schwellenwert überschritt.  Bei Verbindungen mit erheblicher Latenzvarianz zeigte der Indikator der Netzwerkqualität plötzlich deutlich schlechtere Werte an.  Aus diesem Grund nahmen viele Spieler an, dass eine grundlegende Änderung zu Paketverlusten führte.
+
+Leider war auch diese Messmethode der Netzwerkqualität fehlerhaft.  Die Source-2-Engine nutzt eine automatische Pufferung, um Latenzvarianz auszugleichen,  was für die meisten Spieler eine hinreichende Lösung darstellt. Jedoch bewertete der Indikator Pakete bei vorliegender Latenzvarianz auch dann als „schlecht“, wenn sie keine negativen Auswirkungen auf das Gameplay hatten.
+
+Das heutige Update bringt eine Änderung an der Anzeige der Netzwerkqualität mit sich. Es werden jetzt nur noch Netzwerkereignisse gemessen, die sich tatsächlich negativ auf das Gameplay auswirken.  Weitere Informationen hierzu finden Sie in unserem [url=https://help.steampowered.com/faqs/view/5E6F-5B36-5485-F6B9]Hilfeartikel[/url].]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4472731215261073715</guid>
+      <pubDate>Fri, 06 Dec 2024 23:59:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]
+[list]
+[*] Verschiedene Anpassungen am Kugeltreffer-Feedback vorgenommen. 
+[*] Fehler behoben, durch den während eines Dauerfeuers die Hitboxen des Ziels durch die Verzögerungskompensation weiter zurückversetzt wurden, als es auf dem Bildschirm den Anschein hatte.
+[*] Fehler behoben, durch den ein Spieler beim Springen auf einer schrägen Fläche ein kleines Stück rutschte.
+[*] Fehler behoben, durch den die Bombe aus beliebiger Höhe entschärft werden konnte.
+[/list]
+[ ANIMATION ]
+[list]
+[*] Anpassungen an der Inverse-Kinematik-Logik vorgenommen, um die Positionierung der Füße in der Third-Person-Perspektive zu verbessern (insbesondere auf schrägen Flächen).
+[*] Fehler behoben, durch den die Füße und Beine eines Spielers nach dem Ende der Animation beim Legen einer Bombe plötzlich eine andere Position annahmen.
+[*] Nutzung der Netzwerkbandbreite von Animationen reduziert. 
+[/list]
+[ SPIELSUCHE ]
+[list]
+[*] Detailliertere Informationen für die Spielsuche von Spielern hinzugefügt, die außerhalb der Spitzenspielzeiten eines Tages nach einem Spiel suchen.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Die Aktivierung eines Arsenalpasses gewährt keinen kostenlosen Arsenalpunkt mehr. Alle 40 Arsenalpunkte können durch das Sammeln von EP im Spiel verdient werden.
+[/list]
+[ KARTEN ]
+
+Office
+[list]
+[*] Kartengeometrie in einer Ecke angepasst, die zu inkonsistenten Sprüngen führte.
+[/list]
+Ancient
+[list]
+[*] Kollision auf der Treppe zum Hauptzugang zu Bombenort A überarbeitet, um die Spielerbewegung flüssiger zu gestalten.
+[*] Baum entfernt, der einen störenden Schatten auf den Bombenort A warf.
+[*] Kollision angepasst, damit diese besser der sichtbaren Kartengeometrie entspricht und Spieler näher an den Wänden stehen können.
+[*] Einige Fehler mit der Beleuchtung behoben.
+[*] Schatten reduziert, um die Leistung in einigen Bereichen zu verbessern.
+[*] Einige Orte im Haus korrigiert, an denen Spieler stecken bleiben konnten.
+[*] Kollisionslücke am unteren Ende der Rampe zu Bombenort B ausgebessert.
+[*] Problem mit verschwindenden Polygonnetzen behoben.
+[/list]
+Nuke
+[list]
+[*] Einige Beleuchtungsfehler bei niedrigeren Grafikeinstellungen behoben.
+[/list]
+Anubis
+[list]
+[*] Lücke in der Kartengeometrie ausgebessert.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4472731215261073417</guid>
+      <pubDate>Thu, 07 Nov 2024 19:37:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 30.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Sprungtoleranz beim Gleiten entlang einer Oberfläche erhöht, um bestimmte Sprünge zu ermöglichen (z. B. wie der Sprung in der Ecke des Außenbereichs auf Office).
+[*] Absturz bei der Verwendung der Auslagerungsdatei behoben, der auftrat, wenn die Vulkan-Initialisierung fehlschlug und das Spiel auf DX11 zurückgriff.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4461471496628338745</guid>
+      <pubDate>Tue, 05 Nov 2024 19:02:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 29.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Die Animation beim Untersuchen von Gegenständen im Inventar und der Ausrüstung in der Egoperspektive nutzt jetzt die Einstellungen für das Ansichtsmodell und Sichtfeld.
+[*] Regression behoben, die beim Rendern von Rauchgranaten in alten Demo-Dateien auftrat.
+[*] Fehler behoben, durch den der Schaden in den Spielmodi Gelegenheitsspiel und Deathmatch nicht ordnungsgemäß im Punktestand angezeigt wurde.
+[*] Konfigurationsvariable „sv_jump_precision_enable“ hinzugefügt, sodass Server mit angepassten Spielmodi (z. B. Surfen) die kürzlichen Verbesserungen der Sprungpräzision deaktivieren können.
+[*] Fehler behoben, durch den Spieler am Ende eines Spiels nach einem Sprung zu schweben begannen („Ich muss jetzt gehen, mein Planet braucht mich.“).
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4461471496628338696</guid>
+      <pubDate>Fri, 01 Nov 2024 22:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 28.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ SPRINGEN ]
+[list]
+[*] Konsistenz der Sprunghöhe verbessert, sodass diese max. 0,015625 Einheiten abweicht, unabhängig von der Entfernung zum Kartenursprung an der Koordinate (0,0,0).
+[list] [*] Früher konnte die Sprunghöhe sowohl in CS:GO als auch in CS2 um bis zu 0,03125 Einheiten in Abhängigkeit von der Entfernung zum Kartenursprung abweichen.
+[/list] [*] Konsistenz einer erfolgreichen Landung auf Oberflächen verbessert, deren Niveau knapp unter der max. Sprunghöhe liegt.
+[*] Die Sprunghöhe wird nach wie vor von der Ausdauer beeinflusst. Unter Verwendung von „cl_showpos 2“ wird die Ausdauer zum Zeitpunkt des Sprungs eingeblendet und die Anzeige entsprechend der möglichen Sprunghöhe farblich hervorgehoben.
+[*] Fehler behoben, durch den die Anzeige von „cl_showpos“ gelegentlich eine falsche Sprunghöhe anzeigte, wenn Spieler von schrägen Oberflächen sprangen.
+[*] Fehler behoben, durch den in einigen Fällen der Spieler auf seinem Client während eines Sprungs wieder nach unten gezogen wurde, weil der Server den Sprung nicht ordnungsgemäß registrierte.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*] Logik beim Aufheben von Waffen in der Nähe der Bombe angepasst, sodass das Entschärfen jetzt Vorrang vor dem versehentlichen Aufheben einer Waffe hat.
+[*] Bei Gegnern wird jetzt die Zuckanimation nur an dem Körperteil abgespielt, das zuerst getroffen wurde, auch wenn die Kugel zwei Hitboxen mit gleicher Priorität durchschlägt (z. B. wenn sowohl das rechte als auch das linke Bein getroffen wurde).
+[*] Die Explosion einer Splittergranate innerhalb einer Rauchgranate löst jetzt den Raucheffekt um Spieler auf, die sich in der Rauchwolke der Explosionsreichweite befinden.
+[*] Stabilitätsverbesserungen vorgenommen.
+[/list]
+
+[ KARTEN ]
+[list]
+[*] Dust II
+[list]
+[*] Lücke in der Kartengeometrie ausgebessert.
+[/list]
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4522269457743085932</guid>
+      <pubDate>Fri, 01 Nov 2024 22:29:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 24.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Fehler behoben, durch den bei einem Granatentreffer ein Kopfschusssound abgespielt wurde.
+[*] Fehler behoben, durch den Granaten nicht von bestimmten beweglichen Requisiten abprallten.
+[*] Fehler behoben, durch den die Meister des Kopenhagen-Majors 2024 nicht im Tab „Majors“ im Menü „Spiele und Turniere ansehen“ angezeigt wurden.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4522269457743085699</guid>
+      <pubDate>Thu, 31 Oct 2024 20:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 23.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+Vertigo
+[list]
+[*] Fehlerhafte Kollisionsinteraktion zwischen Granaten und Requisiten behoben.
+[*] Wallbang-Exploit behoben.
+[/list]
+Mills
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710]Update-Notizen[/url]).
+[*] Lokalisierungs-Strings für Ortsbezeichnungen hinzugefügt.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*] Inkonsistenzen beim freien Umsehen mit der Maus behoben, wenn die Rendering-Dimensionen des Spiels nicht mit denen des Spielfensters übereinstimmten.
+[*] Fehlerhafte Aimpunch-Animation eines getroffenen Ziels behoben, die lokal auf dem Client angezeigt wurde.
+[*] Fehlerhafter Treffereffekt mit der Zeus behoben, der lokal auf dem Client angezeigt wurde.
+[*] Fehler behoben, durch den bei einem Kopfschuss mit der Zeus kein Todesschrei abgespielt wurde.
+[/list]
+
+[ BENUTZEROBERFLÄCHE ]
+[list]
+[*] Frühere Major-Ergebnisse sind jetzt im Tab „Majors“ im Menü „Spiele und Turniere ansehen“ verfügbar.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4522269457743085634</guid>
+      <pubDate>Tue, 29 Oct 2024 18:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 15.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GRAFIK ][list]
+[*] Fehler behoben, durch den die Grafikeinstellungen zur Verwendung unterschiedlicher Auflösungen für verschiedene Teile des Spiels bei Kartenwechsel ungewollt zurückgesetzt wurden.
+[*] Bekannter Absturz beim Kompilieren der Beleuchtung in den Workshop-Werkzeugen für Counter-Strike 2 behoben.
+[*] Reguläre UV-Skalierung von Details korrigiert.
+[*] Mehrere Fehler beim biplanaren Mapping behoben sowie Unterstützung für ungleichmäßige Skalierung im biplanaren Mapping-Modus hinzugefügt.
+[*] Option zur Anwendung von Albedo-Farbkorrekturen auf reflektierende Laubtexturen hinzugefügt und den Laub-Shader angepasst, um eine präzisere Farbkorrektur zu erlauben.
+[*] Warnung beim Start hinzugefügt, wenn das Spiel mit geringem Speicherplatz oder mit einer Auslagerungsdatei von begrenzter Größe gestartet wird. Diese Bedingungen können zu Instabilität oder zum Absturz des Spiels führen.
+[*] Diverse Stabilitätsverbesserungen vorgenommen.
+[/list]
+
+[ BENUTZEROBERFLÄCHE ][list]
+[*] Inkonsistentes Verhalten von Kontrollkästchen beim Lagern oder Entnehmen einer großen Anzahl von Gegenständen in der Benutzeroberfläche der Speichereinheit behoben.
+[*] Regression beim Laden animierter Steam-Avatare behoben. Die Kühe bewegen sich wieder.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4522268822998171356</guid>
+      <pubDate>Tue, 22 Oct 2024 17:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 09.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ][list]
+[*] Leistungsoptimierungen in Hierarchien unveränderter Entitäten vorgenommen.
+[*] Diverse Stabilitätsverbesserungen vorgenommen.
+[/list]
+
+[ KARTEN ][list]
+[*] Mirage
+[list]
+[*] Problem mit verschwindender Kartengeometrie im Haus behoben.
+[/list]
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">7514910232813947874</guid>
+      <pubDate>Mon, 14 Oct 2024 21:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 08.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GRAFIK ][list]
+[*] Problem mit bestimmten Partikeleffekten (wie z. B. Leuchtspuren) behoben, sodass diese jetzt für eine bessere Leistung in niedrigerer Auflösung dargestellt werden, wenn in den Grafikeinstellungen MSAA deaktiviert wurde.
+[*] Beleuchtungsartefakte in verschiedenen Innenräumen beim Kompilieren von Karten verbessert.
+[/list]
+
+[ VERSCHIEDENES ][list]
+[*] Die Farben der Teammitglieder werden jetzt auf offiziellen Servern zugewiesen, sobald alle Spieler auf die Schaltfläche „ANNEHMEN“ drücken. Dadurch werden die Farben während der Auswahl-/Bannphase sowie der Aufwärmphase korrekt angezeigt.
+[*] Reaktive Physik der Anhänger verbessert, sodass diese jetzt besser mit den Waffenanimationen übereinstimmen.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4676516476953404525</guid>
+      <pubDate>Mon, 14 Oct 2024 21:21:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 04.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ][list]
+[*] Berechnung der Punkte in den Spielmodi Gelegenheitsspiel, Wettkampf und Wingman angepasst, sodass Messer- und Granatenschaden nicht mehr berücksichtigt wird.
+[*] Fehler behoben, durch den Waffen in der Third-Person-Ansicht den Rückstoß nicht berücksichtigten.
+[*] Fehlende kaskadierende Schattenkarten auf einigen Community-Karten hinzugefügt.
+[*] Fehler behoben, durch den in der Vorschau des Arsenals zusätzliche Waffen angezeigt wurden.
+[*] Skalenwert in der oberen rechten Ecke des Graphen zur Netzwerklatenzvarianz hinzugefügt.
+[*] Diverse Stabilitätsverbesserungen vorgenommen.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4674264042207544586</guid>
+      <pubDate>Mon, 14 Oct 2024 21:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 03.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Zoomeffekt von Scharfschützengewehren in der Egoperspektive angepasst.
+[*] Einige dunkle Bereiche auf Inferno aufgehellt.
+[*] Fehler behoben, durch den sich zerbrechliche Objekte nicht wie vorgesehen verhielten.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4674264042203900860</guid>
+      <pubDate>Mon, 14 Oct 2024 21:21:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 02.10.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ DAS ARSENAL ]
+[list]
+[*] Das Arsenal ist jetzt im Shop eröffnet: [url=https://store.steampowered.com/sale/armory]https://store.steampowered.com/sale/armory[/url]
+[*] Das Arsenal enthält drei neue Waffenkollektionen, zwei Anhängerkollektionen, zwei Aufkleberkollektionen, die Waffenkiste „Galerie“ und die Desert Eagle „Wärmebehandlung“.
+[*] Kaufen und aktivieren Sie einen Arsenalpass, um Arsenalpunkte verdienen zu können.
+[*] Fortschritt für den nächsten Arsenalpunkt erzielen Sie immer dann, wenn Sie EP mit einem aktiven Arsenalpass sammeln.
+[*] Arsenalpunkte können für Arsenalgegenstände eingelöst werden.
+[/list]
+[ ANHÄNGER ]
+[list]
+[*] Jetzt neu: Anhänger. Dabei handelt es sich um dynamische Gegenstände, die Sie an Ihren Lieblingswaffen anbringen können. Derzeit exklusiv im Arsenal erhältlich.
+[*] Sie können Anhänger durch Ziehen und Ablegen präzise an einer Waffe Ihrer Wahl anbringen. An einer Waffe kann jeweils nur ein Anhänger angebracht werden.
+[*] Sie können eine Anhängerablösung benutzen, um einen Anhänger wieder von einer Waffe abzulösen. Der Anhänger kehrt in Ihr Inventar zurück und kann erneut angebracht werden.
+[*] Wenn Sie einen Anhänger im Arsenal einlösen, erhalten Sie zusätzlich drei Anhängerablösungen. Weitere Anhängerablösungen können im Shop gekauft werden.
+[/list]
+[ INVENTAR UND GEGENSTÄNDE ]
+[list]
+[*] Alle Gegenstände, die über den Shop im Spiel erworben (einschließlich des Arsenals), durch Handelsangebote erhalten oder vom Steam-Communitymarkt gekauft wurden, unterliegen jetzt einer siebentägigen Handels- und Weiterverkaufsbeschränkung.
+[*] Für alle Aufkleber, Aufnäher und Anhänger, die auf dem Steam-Communitymarkt, im Arsenal oder im Steam-Inventar von Freunden verfügbar sind, ist jetzt eine Vorschau im eigenen Inventar auf all diese Gegenstände möglich.
+[*] Möglichkeit entfernt, Waffenkisten aus dem eigenen Inventar zu löschen.
+[*] Beim Anbringen neuer Aufkleber auf Waffen wurde eine Option zum Anpassen des Zerkratzungsgrades hinzugefügt.
+[*] Beim Abkratzen bereits angebrachter Aufkleber wird diese Option zum Anpassen des Zerkratzungsgrades ebenfalls angezeigt. Bei bereits angebrachten Aufklebern kann sich der Zerkratzungsgrad nur noch weiter erhöhen.
+[*] Möglichkeit hinzugefügt, um zusätzlich bereits angebrachte Aufkleber sofort von Waffen im Inventar zu entfernen.
+[*] Vorschau des Namenschilds beim Anbringen auf einem entsprechenden Gegenstand hinzugefügt.
+[*] Fehler behoben, durch den das Anbringen von Namensschildern oder Aufklebern die Waffe aus der Ausrüstung entfernte.
+[*] Beim Anpassen einer ausgerüsteten Standardwaffe wird die neu angepasste Version jetzt automatisch ausgerüstet.
+[/list]
+[ ANIMATION ]
+[list]
+[*] Animation des Spielermodells auf schrägen Flächen verbessert.
+[*] Die Füße werden nun für alle Anwendungsfälle unterschiedlich ausgerichtet, um ein übermäßiges Lehnen des Spielermodells in eine Richtung zu verhindern (auch bekannt als Michael-Jackson-Peek).
+[*] Die der Ausrichtung der Füße zugrundeliegende Inverse-Kinematik-Logik (IK) wird nicht mehr von schlechten Ping-Zeiten zum Server beeinflusst.
+[*] Füße werden jetzt in die Ruhehaltung versetzt, wenn sie eine vollkommen andere Ausrichtung angenommen haben als die autorisierte.
+[*] Die Aktionen Laufen, Gehen und Ducken wurden überarbeitet, um eine weit voneinander befindliche Positionierung der Füße bei der Fortbewegung zu vermeiden.
+[*] Die Animationen und das Verhalten auf Leitern wurden angepasst, sodass der Kopf eines Spielermodells besser mit der Position der Spielerkamera übereinstimmt und das Spielermodell nun auch korrekt in einer geduckten Haltung an einer Leiter angezeigt wird.
+[*] Zuckungen beim Ducken und beim Aufstehen während eines Sprungs entfernt und das Lehnen des Spielermodells bei Sprunganimationen reduziert.
+[*] Zuckungen des Spielermodells beim Fall von einer Kante behoben.
+[*] Fehler behoben, durch den es in einigen Fällen dazu kam, dass das Spielermodell leicht zuckte, wenn der Spieler Waffen mit niedrigem Bewegungstempo ausgerüstet hatte.
+[/list]
+[ GAMEPLAY ]
+[list]
+[*] Geworfene Granaten detonieren nicht mehr vorzeitig, wenn sie stecken bleiben und ihr Limit an Abprallern überschreiten.
+[/list]
+[ GRAFIK ]
+[list]
+[*] Menü zur Auswahl eines Monitors zum Tab „Grafik“ hinzugefügt, wenn der Vollbildmodus verwendet wird.
+[*] Visuelle Artefakte der Feuereffekte im Tab „Erweiterte Grafikeinstellungen“ behoben.
+[/list]
+[ AUDIO ]
+[list]
+[*] Fehler behoben, durch den die Position der Benutzeroberflächensoundeffekte im Spiel nicht ordnungsgemäß wiedergegeben wurde.
+[*] Fehler behoben, durch den Schrittgeräusche für den lokalen Spieler, aber nicht für andere Spieler wiedergegeben wurden bzw. dieses Problem auch in umgekehrter Weise auftrat.
+[*] Fehler behoben, durch den Wassergeräusche von Ragdolls fälschlicherweise für lebende Spieler abgespielt wurden.
+[*] Fehler behoben, durch den der Sprachchat auf Community-Servern nicht funktionierte.
+[*] Fehler behoben, durch den eingehende Sprachchats gelegentlich nicht mehr beendet wurden.
+[/list]
+[ NETZWERK ]
+[list]
+[*] Telemetrieoption zur Anzeige der Graphen für Netzwerklatenzvarianz und Fehlzustellungen hinzugefügt.
+[*] Messmethode von Paketzustellungsfehlern geändert. Bisher konnten Pakete, die nicht in der richtigen Reihenfolge ankamen, als Fehlzustellung gewertet werden, selbst wenn sie korrigiert wurden und dies keine Auswirkungen auf das Gameplay hatte. Darüber hinaus wurde die Netzwerklatenzvarianz nicht berücksichtigt, obwohl diese flüssiges Gameplay übermäßig stören konnte. Die neue Messmethode zählt neu geordnete Pakete nur dann als Fehlzustellung, wenn sie das Gameplay beeinträchtigen. Außerdem werden Pakete, bei denen die Netzwerklatenzvarianz einen Schwellenwert überschreitet, der das Gameplay beeinträchtigt, als Fehlzustellung gewertet, auch wenn sie nicht verworfen werden und in der richtigen Reihenfolge ankommen.
+[/list]
+[ KARTEN ]
+[list]
+[*] Ancient
+[list]
+[*] Problem mit verschwindender Kartengeometrie behoben.
+[*] Fehler behoben, durch den Spieler die Position von Gegnern aufgrund von Wassergeräuschen über die gesamte Karte hinweg ausmachen konnten.
+[*] Winzige Lücken entfernt, durch die Spieler spähen konnten.
+[*] Fehler behoben, durch den der Schatten eines Spielers durch die Kartengeometrie hindurch gesehen werden konnte.
+[*] Clipping angepasst, um die Spielerbewegung flüssiger zu gestalten.
+[/list]
+[*] Anubis
+[list]
+[*] Einige fehlende Kollisionen hinzugefügt.
+[*] Kartengeometrie und Clipping leicht angepasst, die Granatenwürfe blockierten.
+[*] Clipping auf einigen Böden verbessert, um berechenbare Granatenwürfe zu ermöglichen.
+[*] Winzige Lücke entfernt, durch die Spieler spähen konnten.
+[*] Clipping in einigen Bereichen angepasst, um die Spielerbewegung flüssiger zu gestalten.
+[/list]
+[*] Dust II
+[list]
+[*] Clipping am Bombenort B angepasst.
+[/list]
+[*] Italy
+[list]
+[*] Zum Spielmodus Wettkampf hinzugefügt.
+[*] Animationen der Vögel angepasst.
+[/list]
+[*] Mirage
+[list]
+[*] Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.
+[/list]
+[*] Nuke
+[list]
+[*] Unsichtbare Kante entfernt.
+[*] Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.
+[*] Einige Lücken in der Kartengeometrie ausgebessert, in denen Gegenstände verschwinden konnten.
+[*] Problem mit verschwindender Kartengeometrie behoben.
+[/list]
+[*] Overpass
+[list]
+[*] Granaten-Clipping angepasst, um unerwünschte Granatenabpraller zu vermeiden.
+[/list][/list]
+[ WORKSHOP ]
+[list]
+[*] Optionale dritte Ebene zum Blend-Shader für die Umgebung hinzugefügt.
+[*] Biplanares Mapping als Option für Umgebungs-Shader hinzugefügt.
+[*] Wiederbestreichbare, optionale Nässeschicht den Umgebungsmaterialien mit aktivierter Funktion in Hammer hinzugefügt.
+[*] Farbkorrektur, Rauheit und generelle Anpassungen für Laub-Shader und statische Overlays hinzugefügt.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Unterstützung für Befehlsoptionen entfernt, die nur für Entwicklungszwecke bestimmt sind.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4674264042199559950</guid>
+      <pubDate>Wed, 09 Oct 2024 15:06:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 10.09.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Trainingsspiele und Spiele, die mit dem Befehl „map“ gestartet werden, werden jetzt im Loopback-Modus der Engine ausgeführt, um dem Offline-Standard von CS:GO zu entsprechen. Der Loopback-Modus der Engine umgeht den Großteil des Netzwerkcodes für den Host, wodurch sich die Latenzzeit für den lokalen Spieler um einen Tick verringert. Diese Funktion kann deaktiviert werden, indem „loopback=0“ dem Befehl zum Laden der Karte angefügt wird (z. B. „map de_dust2 loopback=0“).
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4583064247485974477</guid>
+      <pubDate>Tue, 17 Sep 2024 17:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 09.09.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Optionen zur automatischen Erkennung von Gegenbewegungseingaben („counter-strafing“) für Nicht-Valve-Server hinzugefügt. Weitere Informationen finden Sie in den Beschreibungen der einzelnen Konfigurationsvariablen beginnend mit „sv_auto_cstrafe“.
+[*] Messungen der Netzwerk-Latenzvarianz bei direkten Verbindungen zu Community-Servern über UDP aktiviert. Bisher waren Messungen der Latenzvarianz nur für Verbindungen verfügbar, die über das SDR weitergeleitet wurden. Die Daten zur Latenzvarianz werden in der Konsolenausgabe des Befehls „net_connections_status“ angezeigt.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4572930514768908303</guid>
+      <pubDate>Tue, 17 Sep 2024 17:17:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 03.09.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Problem behoben, durch das einige Befehle (inklusive Springen) bei schlechten Netzwerkbedingungen ignoriert wurden.
+[*] Problem behoben, das zu inkonsistenten Sprunghöhen führen konnte.
+[*] Problem behoben, durch das die Spielerkollision für einen Client deaktiviert blieb, wenn es in der vorherigen Runde zu einer Interaktion mit einer Ragdoll kam. Vielen Dank für die Reproduktionsschritte, @poggu__.
+[*] Problem für Linux-Nutzer behoben, durch das sich das Spiel nach dem Öffnen des Pausenmenüs aufhängte.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4590944278954413249</guid>
+      <pubDate>Mon, 09 Sep 2024 22:03:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 22.08.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ HUD ]
+[list]
+[*] Fehler behoben, durch den der Hintergrund und die Symbole des Radars falsch ausgerichtet waren.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4273439871244044450</guid>
+      <pubDate>Mon, 26 Aug 2024 20:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 21.08.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+Office
+[list]
+[*] Fehler behoben, durch den Spieler zwischen einer Requisite und der Decke stecken bleiben konnten.
+[/list]
+Nuke
+[list]
+[*] Unsichtbare Kante entfernt.
+[*] Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.
+[/list]
+Mirage
+[list]
+[*] Kollision am Lieferwagen angepasst, um die Spielerbewegung flüssiger zu gestalten.
+[*] Probleme mit der Kugeldurchdringung von Wänden um einige Bögen herum behoben.
+[*] Problem behoben, durch das ein Kameraruckeln ausgelöst wurde, wenn Spieler auf eine Kiste in der Nähe des Palastes sprangen.
+[*] Einige Kollisionen ausgebessert, an denen Rauchgranaten ins Innere einer Wand gelangen konnten.
+[*] Anpassungen am Granaten-Clipping vorgenommen.
+[*] Kollision einiger Requisiten angepasst.
+[*] Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.
+[/list]
+Inferno
+[list]
+[*] Einige Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.
+[*] Boost-Ort in der Grube am Bombenort A entfernt.
+[/list]
+Italy
+[list]
+[*] Leistungsverbesserungen vorgenommen.
+[*] Anpassungen am Clipping vorgenommen.
+[/list]
+Vertigo
+[list]
+[*] Anpassungen am Granaten-Clipping vorgenommen.
+[/list]
+Ancient
+[list]
+[*] Problematische Clipping-Kante im T-Start ausgebessert, an der Spieler hängen bleiben konnten.
+[*] Unsichtbare Kante entfernt, über die Spieler spähen konnten.
+[/list]
+Anubis
+[list]
+[*] Anpassungen am Granaten-Clipping vorgenommen.
+[*] Eine Stelle ausgebessert, an der die Bombe stecken bleiben konnte.
+[*] Einige Requisiten-Kollisionen ausgebessert, die die Bombe verstecken konnten.
+[*] Einige Probleme mit der Beleuchtung behoben.
+[/list]
+Overpass
+[list]
+[*] Einige kleinere visuelle Fehler in der Nähe des Kanals behoben.
+[*] Einige Clipping-Anpassungen in der Nähe des Parks vorgenommen, um die Spielerbewegung flüssiger zu gestalten.
+[*] Einige fehlende Kollisionen für Geländer hinzugefügt.
+[/list]
+
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4273439871240583434</guid>
+      <pubDate>Tue, 24 Sep 2024 17:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 20.08.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MUSIKKITS ]
+[list]
+[*] Die Musikkiste „Masterminds 2“ ist jetzt in der normalen und in der StatTrak™-Version erhältlich.
+[/list]
+[ AUDIO ]
+[list]
+[*] Fehler behoben, durch den die Audioausgabe unverständlich bzw. verzerrt war, wenn die Effizienzkerne des Prozessors verwendet wurden.
+[/list]
+[ HUD ]
+[list]
+[*] Kleinere Stilanpassungen vorgenommen.
+[/list]
+[ VERSCHIEDENES ]
+[list]
+[*] Leistungseinbußen am Ende einer Runde reduziert.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4273439871236872890</guid>
+      <pubDate>Mon, 26 Aug 2024 20:31:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 19.08.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ EINGABE ]
+[list]
+[*] Bestimmte Arten der Automatisierung der Bewegungs-/Feuereingabe, wie z. B. hardwareunterstützte Gegenbewegung („counter strafing“), werden jetzt auf offiziellen Valve-Servern erkannt und führen zu einem Rauswurf aus diesem Spiel.
+[*] Eingabebelegungen, die mehr als einen der folgenden Befehle enthalten, werden jetzt standardmäßig ignoriert (Verwenden Sie „sv_cheats 1“, um die Unterstützung mit der Konfigurationsvariable „cl_allow_multi_input_binds 1“ wieder zu aktivieren):
+[list]
+[*] sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft
+[/list] [*] Der Sound bei erfolgreicher Durchführung eines Sprungs in Verbindung mit einem Granatenwurf („jump-throw“) kann jetzt von anderen Spielern in der Nähe gehört werden.
+[/list]
+
+[ VACNET ]
+[list]
+[*] Erste Tests von VACNet 3.0 haben mit einer begrenzten Anzahl von Spielen begonnen. Wenn Sie überzeugt sind, dass Ihr Spiel fälschlicherweise abgebrochen wurde, senden Sie uns bitte die Spieldetails per E-Mail an: csgoteamfeedback@valvesoftware.com 
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">6500469346429581891</guid>
+      <pubDate>Thu, 26 Sep 2024 22:38:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 14.08.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+[i]Mills[/i]
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710]Update-Notizen[/url])
+[/list]
+[i]Pool Day[/i]
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964]Update-Notizen[/url])
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*] Zeitpunkt des Verlangsamungseffekts nach erlittenem Schaden verzögert, sodass Spieler weniger oft den Eindruck erhalten, ein Stück zurückteleportiert zu werden. Indem der Verlangsamungseffekt erst verzögert auftritt, entsteht ein flüssigeres Spielerlebnis, allerdings können sich Spieler dadurch auch etwas länger mit maximalem Tempo bewegen, nachdem sie getroffen wurden. Die Verzögerung kann auf Servern mit der Konfigurationsvariable „sv_predictable_damage_tag_ticks“ angepasst werden (Standardwert: 2).
+[*] Fehler behoben, durch den Spieler die Animation zum Legen der Bombe außerhalb von Bombenorten auslösen konnten.
+[*] Fehler behoben, durch den sich die Trommel des R8-Revolvers irrtümlich drehen konnte.
+[*] Anfängliche Ladezeiten für die Menüs „Einstellungen“ und „Spielen“ verkürzt.
+[/list]
+
+
+
+
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4254298937819686068</guid>
+      <pubDate>Mon, 26 Aug 2024 23:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 08.08.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]
+[list]
+[*] Im Spielmodus Gelegenheitsspiel erhalten Spieler einen zusätzlichen Erfahrungspunkt für jede Runde, in der sie Gegnern Schaden zufügen.
+[*] Servereinstellung „sv_vote_to_changelevel_rndmin“ hinzugefügt, um die Runden bzw. Zeiten festzulegen, in denen Spieler für einen Kartenwechsel abstimmen können.
+[*] Auf offiziellen Spielservern im Spielmodus Gelegenheitsspiel können Spieler jetzt nur noch am Ende des Spiels oder während der ersten Runde des Spiels für einen Kartenwechsel abstimmen.
+[*] Auf offiziellen Spielservern in den Spielmodi Deathmatch und Wettrüsten können Spieler jetzt nur noch am Ende des Spiels oder während der ersten Minute des Spiels für einen Kartenwechsel abstimmen.
+[*] Bewegung eines Spielers nach oben eingeschränkt, wenn ein Teammitglied auf dessen Kopf springt.
+[*] Spieler dürfen keine Waffen mehr vom Boden aufnehmen, nachdem sie gestorben sind.
+[*] Das Kaufmenü schließt sich automatisch, wenn das Teamwechselmenü geöffnet wird.
+[*] Geiselbefreiungen werden jetzt ordnungsgemäß als abgeschlossene Spielziele in den Spielstatistiken erfasst.
+[/list]
+
+[ BENUTZEROBERFLÄCHE ]
+[list]
+[*] Lesbarkeit des zugefügten und erlittenen Schadens im Schadensbericht unter der Spieleranzeige am Ende einer Runde verbessert.
+[*] Hervorhebung des aktuellen Spielers beim Zuschauen verbessert.
+[*] Spielernamen werden jetzt ebenfalls mit der erweiterten Spieleranzeige eingeblendet.
+[/list]
+
+[ KARTEN ]
+
+[i]Mills[/i]
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710]Update-Notizen[/url])
+[/list]
+[i]Assembly[/i]
+[list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3071005299]Update-Notizen[/url])
+[/list]
+
+
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4361258795955674967</guid>
+      <pubDate>Mon, 26 Aug 2024 23:51:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 22.07.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+[i]Dust II[/i]
+[list]
+[*]Kistenstapel außerhalb des AT-Starts in Richtung Bombenort A geändert.
+[/list]
+[i]Nuke[/i]
+[list]
+[*]Anpassungen am Clipping vorgenommen.
+[/list]
+[i]Assembly[/i]
+[list]
+[*]Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3071005299]Update-Notizen[/url]).
+[/list]
+[i]Memento[/i]
+[list]
+[*]Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3165559377]Update-Notizen[/url]).
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*]Offizielle Spielserver in London hinzugefügt.
+[*]Durchdringung der Feuereffekte durch dünne Wände reduziert.
+[*]Trophäen für das Kopenhagen-Major 2024 zu den Profilen der Profispieler hinzugefügt.
+[*]Einstellung „cs_minimap_create_output_size“ für die Workshop-Werkzeuge für Counter-Strike 2 auf die Whitelist gesetzt.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4363508865823029428</guid>
+      <pubDate>Tue, 24 Sep 2024 22:24:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 11.07.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+[i]Ancient[/i]
+[list]
+[*]Clipping auf den Kisten am Bombenort A verbessert, sodass Spieler wieder oben draufspringen können.
+[/list]
+[i]Vertigo[/i]
+[list]
+[*]Clipping am Rand des Gerüststegs am Bombenort A verbessert, sodass Spieler nicht mehr versehentlich in die Tiefe stürzen.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*]Fehler behoben, durch den die Kamera der Egoperspektive gelegentlich beim Werfen von Granaten ruckelte.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4397285236932881679</guid>
+      <pubDate>Tue, 23 Jul 2024 18:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 02.07.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+[i]Pool Day[/i]
+[list]
+[*]Karte auf die [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964]neueste Version[/url] aus dem Community-Workshop aktualisiert.
+[/list]
+[i]Dust II[/i]
+[list]
+[*]Lücke in einem Ziegelstapel am Bombenort B ausgebessert.
+[*]Fehler behoben, durch den keine angepassten Sounds auf Community-Karten abgespielt werden konnten.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4257672198498686343</guid>
+      <pubDate>Tue, 23 Jul 2024 18:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 27.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ NETZWERK ]
+[list]
+[*] Fehler behoben, der bei einigen Spielern zu übermäßigem Stottern im Spiel führte.
+[/list]
+
+[ HUD ]
+[list]
+[*] Fehler behoben, durch den der Hintergrund des Radars die falsche Farbe hatte.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4257672198480471603</guid>
+      <pubDate>Tue, 09 Jul 2024 22:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 26.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+[i]Pool Day[/i][list]
+[*] Karte auf die neueste Version aus dem Community-Workshop aktualisiert. ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964]Update-Notizen[/url])[/list]
+
+[ VERSCHIEDENES ][list]
+[*] Unterstützung für das Laden der neuesten Version von Community-Karten aus dem Workshop beim Spielen auf Community-Servern hinzugefügt. Dies gilt auch für Community-Karten der offiziellen Kartengruppen, die eine ältere Version aufweisen.
+[*] Problem behoben, durch das die Erkennung von G-Sync im Vollbildmodus nicht funktionierte.
+[*] Fehler behoben, durch den das QWERTY-Tastaturlayout für Nutzer einer von diesem Layout abweichenden Tastatur beibehalten wurde.
+[*] Problem mit einer leeren Funkmeldung behoben, die abgespielt wurde, wenn die gelegte Bombe wenige Sekunden vor der Detonation stand.[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4257672198476956313</guid>
+      <pubDate>Tue, 23 Jul 2024 18:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steam-Spielaufnahme (Beta) jetzt verfügbar</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[Das Teilen Ihrer besten CS2-Momente ist jetzt viel einfacher geworden: Mit der neuen integrierten Funktion Steam-Spielaufnahme können Sie Ihre Clutch-Abschüsse und spektakulären Spraytransfers mit nur wenigen Mausklicks aufzeichnen.
+
+Die Steam-Spielaufnahme speichert Ihr Gameplay automatisch im Hintergrund nach dem Start eines Spiels (oder auch manuell über eine Tastenkombination). Sie können sich die Aufnahme jederzeit anschauen – sogar während Sie noch spielen. Aufnahmen in CS2 enthalten eine Zeitleiste mit Markierungen für wichtige Events im Spiel (wie Abschüsse oder Tode). Es steht Ihnen aber auch frei, an jeder beliebigen Stelle eigene Markierungen zu setzen.
+
+Möchten Sie an der Beta der Steam-Spielaufnahme teilnehmen? Klicken Sie auf den folgenden Link für weitere Informationen.
+
+[url=https://store.steampowered.com/sale/gamerecording]https://store.steampowered.com/sale/gamerecording[/url]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4257672198476571195</guid>
+      <pubDate>Tue, 24 Sep 2024 20:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 25.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]
+
+[i]Community-Karten[/i]
+[list][*] Community-Karten [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3121217565]Thera[/url] und [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3152430710]Mills[/url] zu den Spielmodi Wettkampf, Gelegenheitsspiel und Deathmatch hinzugefügt.
+[*] Community-Karten [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3165559377]Memento[/url] und [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3071005299]Assembly[/url] zum Spielmodus Wingman hinzugefügt.
+[*] Community-Karte [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3263935964]Pool Day[/url] zum Spielmodus Wettrüsten hinzugefügt.[/list][i]Nuke[/i]
+[list][*] Stellen ausgebessert, an denen die Bombe stecken bleiben konnte.
+[/list][i]Ancient[/i]
+[list][*] Stellen, an denen die Bombe stecken bleiben konnte, und Löcher in der Kartengeometrie ausgebessert sowie Probleme mit Objekten ohne Kollision behoben.
+[/list] [i]Vertigo[/i]
+[list][*] Stellen, an denen die Bombe stecken bleiben konnte, und Clipping verbessert.
+[/list][i]Anubis[/i]
+[list][*] Granatenkollision und Clipping verbessert.[/list]
+
+[ BENUTZEROBERFLÄCHE ][list]
+[*] Anzeige für den besten Spieler in allen Spielmodi aktualisiert.
+[*] Brandneue animierte Anzeige für den besten Spieler im Spielmodus Premium hinzugefügt.
+[*] Einige neue Bedingungen für die Wahl zum besten Spieler hinzugefügt und bereits vorhandene angepasst.[/list]
+
+[ GAMEPLAY ][list]
+[*] Im Wettkampfmodus werden jetzt die kartenspezifischen Skill-Gruppen nach zwei Siegen auf einer Karte angezeigt.[/list]
+
+[ GRAFIKEINSTELLUNGEN ]
+[list][*]Einstellungsempfehlungen[list]
+[*] Beim Start des Spiels wird jetzt eine Einstellungsempfehlung angezeigt, falls die Bildwiederholrate Ihres Monitors unter der max. unterstützten Bildwiederholrate liegt. Generell wird empfohlen, die höchste Bildwiederholrate Ihres Monitors zu verwenden.
+[*] Beim Start des Spiels wird jetzt eine Einstellungsempfehlung angezeigt, falls NVIDIA G-Sync unterstützt wird, aber nicht aktiviert ist. Generell wird empfohlen, G-Sync zu verwenden, wenn Ihr System diese Funktion unterstützt.
+[*] Beim Start des Spiels wird jetzt eine Einstellungsempfehlung angezeigt, falls NVIDIA G-Sync aktiviert ist, aber nicht V-Sync und/oder NVIDIA Reflex. Generell wird empfohlen, alle drei Einstellungen zusammen zu aktivieren, wenn sie verfügbar sind. Bitte beachten Sie, dass die Übernahme dieser Einstellungen die Bildrate auf die Bildwiederholrate Ihres Monitors oder knapp darunter begrenzt, was normalerweise die beste Kombination aus flüssigster Darstellung und niedrigster Eingabelatenz ist. Die technischen Details finden Sie hier: [url=https://help.steampowered.com/faqs/view/418E-7A04-B0DA-9032]https://help.steampowered.com/faqs/view/418E-7A04-B0DA-9032[/url].[/list][*] Einstellungen „Hintergrundkulisse des Hauptmenüs“ und „Hintergrundkulisse beim Untersuchen von Gegenständen“ aus den Einstellungen im Tab „Grafik“ entfernt. Diese Einstellungen sind weiterhin im Hauptmenü bzw. beim Untersuchen von Gegenständen verfügbar.
+[*] Die Einstellung „Bildwiederholrate“ zeigt jetzt die aktuelle Bildwiederholrate Ihres Monitors im Fenster- und Vollbildfenstermodus an.
+[*] Einstellung „Stromsparmodus (Laptop)“ entfernt, die in CS2 nie konfiguriert werden konnte.
+[*] Abschnitt „Bildtaktung“ zu den erweiterten Grafikeinstellungen hinzugefügt.
+[*] Einstellung „NVIDIA G-Sync“ zum Abschnitt „Bildtaktung“ hinzugefügt, die anzeigt, ob G-Sync mit den aktuellen Anzeigeeinstellungen ausgeführt wird oder nicht. Diese Einstellung ist möglicherweise ausgeblendet, wenn Sie den Vulkan-Renderer verwenden oder keine NVIDIA-Grafikkarte besitzen.
+[*] Schieberegler für die Einstellungen „Maximale FPS im Spiel“ und „Maximale FPS in Menüs“ zum Abschnitt „Bildtaktung“ hinzugefügt. Mit diesen können die Konfigurationsvariablen „fps_max“ und „fps_max_ui“ eingestellt werden.
+[*] Standardeinstellung für „Maximale FPS in Menüs“ von 120 FPS auf 200 FPS erhöht.
+[*] Die Vorschau in den erweiterten Grafikeinstellungen verwendet jetzt die max. FPS des Spiels statt der Menüs.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4257672198473442891</guid>
+      <pubDate>Fri, 05 Jul 2024 16:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 20.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[list]
+[*] Fehler behoben, durch den das Spiel weiterhin einen Tastendruck registrierte, obwohl die entsprechende Taste bereits losgelassen wurde.
+[*] Weitere Netzwerkverbesserungen vorgenommen, um Paketverlust und Latenzvarianz entgegenzuwirken.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4194621169475871328</guid>
+      <pubDate>Mon, 01 Jul 2024 22:49:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 13.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[list]
+[*] Option „Nur Marker“ für die Einstellung „Team-ID durch Wände anzeigen“ hinzugefügt ([i]cl_teamid_overhead_mode[/i]).
+[*] Interaktion der Bombe mit Wasser auf Overpass verbessert.
+[*] Lücke am Bombenort B auf Nuke ausgebessert.
+[*] Fehlerhafte Beleuchtung bei den Hintergrundkulissen „Lagerhaus“ und „Nuke“ im Hauptmenü behoben.
+[*] Fehler behoben, durch den Bots über längere Distanz teleportiert wurden, wenn sie sich einer Leiter näherten.
+[*] Einige Aktualisierungen an der Lokalisierung vorgenommen.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">6851744408515587491</guid>
+      <pubDate>Mon, 24 Jun 2024 22:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 11.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ ANIMATION ]
+[list]
+[*] Fehler behoben, durch den Waffenanimationen falsch abgespielt wurden, wenn Waffen beim Nachladen untersucht wurden.
+[/list]
+
+[ AUDIO ]
+[list]
+[*] Sprachchat: Die meisten Ruckler, die durch den Sprachchat im Spiel verursacht wurden, sind nun behoben. Bei einigen Nutzern kann bei der ersten Aktivierung von Push-to-Talk noch ein Ruckler auftreten.
+[*] Vereinfachtes Push-to-Talk: Wenn diese Einstellung aktiviert ist, wird der Ruckler verhindert, der sonst ggf. bei der ersten Aktivierung von Push-to-Talk auftritt.
+[/list]
+
+[ NETZWERK ]
+[list]
+[*] Verbindungsqualität bei Latenzvarianz und Paketverlust verbessert, indem die Übertragungsrate der Nutzerbefehle automatisch angepasst wird, sodass Befehle früher beim Server eintreffen.
+[/list]
+
+[ HUD ]
+[list]
+[*] Die Lesbarkeit des Gesundheitswerts von Teammitgliedern oben im HUD wurde bei niedrigeren Auflösungen verbessert.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4191242835348964244</guid>
+      <pubDate>Mon, 24 Jun 2024 22:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 10.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]
+[list] 
+[*] Sichtbarkeitsproblem behoben, durch das Spieler im Explosionseffekt von Splittergranaten nicht von anderen Spielern erkannt werden konnten.
+[/list]
+
+[ HUD ]
+[list] 
+[*] Wenn Informationen zur Ausrüstung von Spielern oben im HUD angezeigt werden (z. B. beim Zuschauen), wird ein vergrößerter Gesundheitsbalken mit dem aktuellen Gesundheitswert angezeigt.
+[*] Einige Ruckler reduziert, die durch die Einblendung von HUD-Elementen auftraten.
+[/list]
+
+[ GRAFIK ]
+[list] 
+[*] Separate Einstellung „Dynamische Schatten“ in den erweiterten Grafikeinstellungen mit den Optionen „Sonnenschatten“ und „Alle Schatten“ hinzugefügt.
+[/list]
+
+[ ANIMATION ]
+[list] 
+[*] Im Ansichtsmodell bei ausgerüstetem Bowiemessers werden jetzt beide Hände angezeigt.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4182235001971902353</guid>
+      <pubDate>Fri, 21 Jun 2024 19:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 04.06.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]
+[list]
+[*] Problem behoben, durch das die Punkte in den Spielmodi Deathmatch und Wettrüsten nicht korrekt aufaddiert wurden.
+[*] Problem behoben, durch das Spieler in der Egoperspektive durch Decken blicken konnten.
+[*] Problem behoben, durch das die Bombe außerhalb des Spielbereichs stecken bleiben konnte.
+[*] Diverse Stabilitätsverbesserungen vorgenommen.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4176604868935400021</guid>
+      <pubDate>Wed, 12 Jun 2024 21:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 29.05.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ EINGABE ]
+[list]
+[*] Fehler behoben, durch den die Taste zum Ein- und Ausblenden der Konsole nach der Auswahl-/Bannphase im Spielmodus „Premium“ nicht mehr funktionierte.
+[*] Das Spiel akzeptiert jetzt weiterhin Tastatureingaben, während ein Spielerprofil über dem Punktestand geöffnet ist.
+[*] Die Joystick-Eingabe wird jetzt standardmäßig ignoriert. Die Joystick-Eingabe ist keine offiziell unterstützte Funktion von CS2, aber Sie können das alte Verhalten mit der Startoption -joy wiederherstellen.
+[/list]
+
+[ BENUTZEROBERFLÄCHE ]
+[list]
+[*] Anzeigeproblem von Spieler- und Bot-Namen in der Oberfläche der Teamauswahl behoben, wenn ein Spieler einen Bot übernommen hat.
+[/list]
+
+[ WAFFENLACKIERUNGEN ]
+[list]
+[*] Fehler behoben, durch den bestimmte Grafikeinstellungen dazu führten, dass alle Waffenlackierungen schwarz erschienen.
+[/list]
+
+[ VERSCHIEDENES ]
+[list]
+[*] Problem behoben, durch das der Spiel-Client keine Verbindung mehr zum Counter-Strike-Netzwerk herstellen konnte, wenn beim Starten keine Verbindung zum Steam-Netzwerk bestand.
+[*] Steam-Accounts mit einer aktiven Sperre können nicht mehr auf VAC-gesicherten Counter-Strike-Servern spielen.
+[*] Fehler behoben, durch den Ansichtsmodelle auf Linux übermäßig hin und her schwankten.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4176604868913554020</guid>
+      <pubDate>Tue, 04 Jun 2024 16:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 24.05.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ WAFFENLACKIERUNGEN ]
+[list]
+[*] Erscheinungsbild der Lackierungen Doppler, Gamma Doppler und Marmorfärbung angepasst.
+[/list]
+
+[ DEMOS ]
+[list]
+[*] Kleinere Änderungen an der Benutzeroberfläche vorgenommen.
+[/list]
+
+[ KARTEN ]
+
+[i]Vertigo:[/i]
+[list]
+[*] Das Runboosten auf Bombenort B ist im Spielmodus „Wingman“ nicht mehr möglich.
+[*] Granaten können am Bombenort A nicht mehr durch das Kranfundament geworfen werden.
+[/list]
+
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4177730135020162650</guid>
+      <pubDate>Wed, 29 May 2024 23:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 23.05.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]
+[list]
+[*]Die Höhe der Flammensäule nimmt jetzt sowohl beim Molotow-Cocktail als auch bei der Brandgranate mit der Zeit ab.
+[*]Um die Auswirkungen eines Sieges in der ersten Runde auf die Folgerunden abzumindern, wurde das Teameinkommen für Terroristen von 800 auf 600 Dollar reduziert, wenn die Bombe zwar gelegt, aber entschärft wurde.
+[*]Preis der M4A4 von 3100 auf 3000 Dollar reduziert.
+[*]Kleinere Anpassungen an der Kamerabewegung in der Egoperspektive vorgenommen.
+[*]Explizite Konsolenbefehle „switchhandsleft“ und „switchhandsright“ hinzugefügt.
+[*]Die Bonuswaffe im Deathmatch-Modus ist jetzt für alle Spieler dieselbe, unabhängig von der eigenen Ausrüstung.
+[/list]
+[i]Brandgranate[/i][list]
+[*]Visuelle Effekte der Explosion und Flammen angepasst.
+[*]Branddauer reduziert.
+[*]Ausbreitungsbereich des Feuers reduziert.
+[*]Preis der Brandgranate von 600 auf 500 Dollar reduziert.
+[/list]
+
+[ WAFFENVERMIETUNG ]
+[list]
+[*]Wenn Spieler eine Kiste der Kollektion „Kilowatt“ mit einem Schlüssel öffnen, haben sie jetzt die Möglichkeit, die gesamte Kollektion (mit Ausnahme der seltenen Bonusgegenstände) eine Woche lang zu mieten, anstatt nur einen Gegenstand daraus zu erhalten.
+[*]Ausgerüstete gemietete Waffen werden in der Ausrüstung mit der Standardvariante der Waffe ersetzt, wenn die Mietdauer abgelaufen ist.
+[*]Gemietete Waffen können nicht angepasst (z. B. durch Aufkleber oder Namensschilder), gehandelt oder auf dem Steam-Communitymarkt verkauft werden.
+[/list]
+
+[ HUD ]
+[list]
+[*]Fehler behoben, durch den der Name des besten Spielers der Runde bei der Übernahme eines Bots falsch angezeigt wurde.
+[*]Fehler behoben, durch den die Schaltfläche „Alles rückerstatten“ im Kaufmenü nur eine Blendgranate rückerstattete.
+[*]Fehler behoben, durch den der mit der Escape-Taste eingeblendete Punktestand am Spielende nicht mit dem eingeblendeten Punktestand bei gedrückter TAB-Taste übereinstimmte.
+[*]Fehler behoben, durch den der Verliererbonus nach dem Schließen des Punktestands dauerhaft auf dem Bildschirm angezeigt wurde.
+[*]Das Ausblenden der Steam-Avatare von Unbekannten bewirkt jetzt auch, dass benutzerdefinierte Inhalte (soll heißen: frei platzierte Aufkleber und Namensschilder auf Waffen) nicht mehr angezeigt werden.
+[/list]
+
+[ HÜHNER ]
+[list]
+[*]Hühner haben einige neue Animationen erhalten.
+[*]Hühner können sich jetzt auf Anhöhen bewegen.
+[*]Hühner können sich beim Vorwärtsbewegen nach rechts drehen.
+[/list]
+
+[ BENUTZEROBERFLÄCHE ]
+[list]
+[*]Diverse Leistungsverbesserungen an der Hintergrundkulisse „Lagerhaus“ im Hauptmenü und beim Untersuchen von Waffen vorgenommen.
+[/list]
+
+[ DEMOS ]
+[list]
+[*]Die Zeitleiste bei der Demo-Wiedergabe zeigt jetzt Indikatoren für Abschüsse und Tode an.
+[*]Die Demo-Wiedergabe kann in einen „Highlight-Modus“ umgeschaltet werden, der nur Abschüsse und Tode des ausgewählten Spielers anzeigt.
+[*]Diverse kleinere Änderungen an der Benutzeroberfläche der Demo-Wiedergabe vorgenommen.
+[*]Absturz behoben, der bei der Demo-Wiedergabe auftrat.
+[/list]
+
+[ KARTEN ]
+
+[i]Vertigo:[/i][list]
+[*]Gerüststeg hinzugefügt, der die Vorder- und Hinterseite von Bombenort A miteinander verbindet.
+[*]Durchgang zwischen der Hinterseite von Bombenort A und den Aufzügen entfernt.
+[*]Durchgang zwischen den Aufzügen und dem Gerüst geöffnet.
+[*]Größe des Bombenorts A leicht angepasst.
+[*]Einstiegspunkte versetzt, um die Zeit bzw. den Ort des Aufeinandertreffens der Teams anzupassen.
+[*]Karten-Layout für den Wingman-Modus angepasst, um die Änderungen am Bombenort A zu berücksichtigen.
+[/list]
+[i]Baggage:[/i][list]
+[*]Problem bei der Bewegung auf dem unteren Förderband behoben.
+[*]Höhe der zentralen Förderbandanlage angesenkt, um Scharfschützen eine bessere Sicht zu verschaffen.
+[/list]
+[i]Office:[/i][list]
+[*]Fehler behoben, durch den Spieler durch mehrere Wände hindurchschießen konnten.
+[/list]
+[i]Mirage:[/i][list]
+[*]Fehlerhafte Kollision mit bestimmten Requisiten korrigiert.
+[*]Kollisionen an Fenstern im Palast korrigiert, an denen Spieler hängenbleiben konnten.
+[/list]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4177730135016140040</guid>
+      <pubDate>Thu, 30 May 2024 23:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patchnotizen vom 22.05.2024</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GRAFIK ]
+[list]
+[*] Unterstützung für AMD Anti-Lag 2 hinzugefügt.
+[/list]
+]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4177730135013203179</guid>
+      <pubDate>Wed, 29 May 2024 23:24:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
