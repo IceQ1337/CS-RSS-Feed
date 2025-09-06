@@ -5,14 +5,19 @@ from email.utils import format_datetime
 import feedparser
 from feedgen.feed import FeedGenerator
 
+from .bbcode_parser import BBCodeParser
 from .types import EventType, FeedItem, LanguageItem
 
+bbcode_parser = BBCodeParser()
 
-# TODO: Figure out what we need to clean up here with the new data source.
-# We basically need to conver the entire "markdown"-ish body with all the tags
-def cleanup_text_description(desc: str) -> str:
+
+def cleanup_text_description(content: str) -> str:
     """Cleanup the description text by removing specific markup."""
-    return desc.strip()
+
+    html = content.strip()
+    html = bbcode_parser.format(html)
+
+    return html
 
 
 def get_feed_file_path(feed_name: str) -> str:
@@ -105,7 +110,7 @@ def update_rss_feed(
         fe.author(
             {"name": "Valve Corporation", "email": "support@steampowered.com"}
         )
-        
+
         fe.content(item["body"], None, "CDATA")
         fe.rights("Valve Corporation")
 

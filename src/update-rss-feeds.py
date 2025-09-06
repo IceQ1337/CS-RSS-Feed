@@ -74,7 +74,7 @@ def parse_event(event: dict) -> FeedItem | None:
             "updatetime": updatetime,
             "headline": headline,
             "language": language,
-            "body": body,
+            "body": cleanup_text_description(body),
             "url": (
                 f"https://www.counter-strike.net/newsentry/{guid}"
                 if event_type == EventType.NEWS.value

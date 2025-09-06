@@ -8,25 +8,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Sep 2025 08:34:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 09:39:49 +0000</lastBuildDate>
     <item>
       <title>Tonight's Forecast: Rain-cient</title>
       <link>https://www.counter-strike.net/newsentry/657081807721726187</link>
-      <description><![CDATA[[video webm="https://clan.fastly.steamstatic.com/images/3381077/2c16675dfd832ded0baf8f60ce9a97e5e984661e.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/cde1a6abee69ded5d36a86cfde56d34c40a236b8.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/733ba62744ceed1830313e5f1e76202a3a438d89.png" autoplay="true" controls="false"][/video]
-It's a brand new day (and night) in CS2's tropical maps. Ancient and Shoots have gotten visual upgrades, and now have nighttime versions. The nighttime version of Ancient is only available in Casual and Deathmatch.
-
-[video webm="https://clan.fastly.steamstatic.com/images/3381077/7de0428872115c68522389cd94c79e4d829996ad.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/d19e820cd2e82c01022e1caa608a9ce9fd804d80.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/ea656d70b40c673bfbdd62fc7ba8ef2b08753b0a.png" autoplay="true" controls="false"][/video]
-
-[hr][/hr]
-Today we are releasing the Deluge Music Kit Box, featuring music kits from Adam Beyer, Ghost, HEALTH, James and the Cold Gun, Jonathan Young, Juelz, Killer Mike, PVRIS, Selective Response, and Tigercub.
-
-[img]https://clan.fastly.steamstatic.com/images/3381077/1813e20b58e7ddf9d97065e14fcb2bbaa5158c5f.png[/img]
-We're also refreshing the Limited Time item in the Armory--the M4A1-S | Solitude is now available.
-
-[video webm="https://clan.fastly.steamstatic.com/images/3381077/1ae824f1d3f2ba28ce1a473a43bd13d3e5ee266a.webm" mp4="https://clan.fastly.steamstatic.com/images/3381077/3d9a3b13b8c757555eef6f4dbd9f6f1c60c9d626.mp4" poster="https://clan.fastly.steamstatic.com/images/3381077/d951a0609cf9a5cabe13211646f2e452bae1d751.png" autoplay="true" controls="false"][/video]
-Ready to check out some night maps? Grab a cup of coffee and go go go! 
-
-Release Notes for today can be found [url="https://store.steampowered.com/news/app/730/view/657081807721726196"]here[/url].]]></description>
+      <description><![CDATA[
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/733ba62744ceed1830313e5f1e76202a3a438d89.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/cde1a6abee69ded5d36a86cfde56d34c40a236b8.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/2c16675dfd832ded0baf8f60ce9a97e5e984661e.webm" type="video/webm">
+            </video>
+            <br />It&#39;s a brand new day (and night) in CS2&#39;s tropical maps. Ancient and Shoots have gotten visual upgrades, and now have nighttime versions. The nighttime version of Ancient is only available in Casual and Deathmatch.<br /><br />
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/ea656d70b40c673bfbdd62fc7ba8ef2b08753b0a.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/d19e820cd2e82c01022e1caa608a9ce9fd804d80.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/7de0428872115c68522389cd94c79e4d829996ad.webm" type="video/webm">
+            </video>
+            <br /><br /><hr /><br />Today we are releasing the Deluge Music Kit Box, featuring music kits from Adam Beyer, Ghost, HEALTH, James and the Cold Gun, Jonathan Young, Juelz, Killer Mike, PVRIS, Selective Response, and Tigercub.<br /><br />[img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/1813e20b58e7ddf9d97065e14fcb2bbaa5158c5f.png">https://clan.fastly.steamstatic.com/images/3381077/1813e20b58e7ddf9d97065e14fcb2bbaa5158c5f.png</a>[/img]<br />We&#39;re also refreshing the Limited Time item in the Armory&ndash;the M4A1-S | Solitude is now available.<br /><br />
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/d951a0609cf9a5cabe13211646f2e452bae1d751.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/3d9a3b13b8c757555eef6f4dbd9f6f1c60c9d626.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/1ae824f1d3f2ba28ce1a473a43bd13d3e5ee266a.webm" type="video/webm">
+            </video>
+            <br />Ready to check out some night maps? Grab a cup of coffee and go go go! <br /><br />Release Notes for today can be found <a rel="nofollow" href="https://store.steampowered.com/news/app/730/view/657081807721726196">here</a>.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">657081807721726187</guid>
       <pubDate>Fri, 15 Aug 2025 19:56:20 +0000</pubDate>
@@ -34,20 +35,7 @@ Release Notes for today can be found [url="https://store.steampowered.com/news/a
     <item>
       <title>Season Two: Episode One</title>
       <link>https://www.counter-strike.net/newsentry/529852487375519751</link>
-      <description><![CDATA[[img]https://clan.akamai.steamstatic.com/images//3381077/f780ca0f8f1f5561b4f72030672ed657382ecd9a.png[/img]
-Premier Season Three begins today!
-
-It's time to start working toward your Season Three Medal. As before, the color of your medal will correspond to the highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25 (up to five bars). To be eligible for a medal, you'll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.
-
-[h3]New for Season 3 [/h3]
-With the new season comes an update to the Active Duty Map Pool: Overpass is back in, and Anubis is out.
-
-There are a few gameplay changes with Season Three. Fire from the incendiary grenade now spreads faster, occupying space rapidly to counter rushing Ts. The MP9 has gotten a bit of a nerf, with a harder to control spray and substantially less jumping accuracy. There's also a change to the CT economy: win or lose, CTs now receive a shared team award for each T eliminated in the round, so the more you win and the closer you keep your losses, the more you'll have to spend.
-
-[h3]Trade Protected Items[/h3]
-Today we are introducing a new feature to help keep your Counter-Strike items secure. In the unlikely event that you lose control of your account or were the target of a scam by a bad actor, you may reverse all Counter-Strike item trades from the last 7 days. 
-
-Obviously we hope you'll never need it, but you can review your recent trades and find the trade reversal feature on the Trade History page on your Steam Account. For more information about what happens when trades are reversed, visit the [url="https://help.steampowered.com/en/faqs/view/365F-4BEE-2AE2-7BDD"]FAQ[/url]]]></description>
+      <description><![CDATA[[img]<a rel="nofollow" href="https://clan.akamai.steamstatic.com/images//3381077/f780ca0f8f1f5561b4f72030672ed657382ecd9a.png">https://clan.akamai.steamstatic.com/images//3381077/f780ca0f8f1f5561b4f72030672ed657382ecd9a.png</a>[/img]<br />Premier Season Three begins today!<br /><br />It&#39;s time to start working toward your Season Three Medal. As before, the color of your medal will correspond to the highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25 (up to five bars). To be eligible for a medal, you&#39;ll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.<br /><br />[h3]New for Season 3 [/h3]<br />With the new season comes an update to the Active Duty Map Pool: Overpass is back in, and Anubis is out.<br /><br />There are a few gameplay changes with Season Three. Fire from the incendiary grenade now spreads faster, occupying space rapidly to counter rushing Ts. The MP9 has gotten a bit of a nerf, with a harder to control spray and substantially less jumping accuracy. There&#39;s also a change to the CT economy: win or lose, CTs now receive a shared team award for each T eliminated in the round, so the more you win and the closer you keep your losses, the more you&#39;ll have to spend.<br /><br />[h3]Trade Protected Items[/h3]<br />Today we are introducing a new feature to help keep your Counter-Strike items secure. In the unlikely event that you lose control of your account or were the target of a scam by a bad actor, you may reverse all Counter-Strike item trades from the last 7 days. <br /><br />Obviously we hope you&#39;ll never need it, but you can review your recent trades and find the trade reversal feature on the Trade History page on your Steam Account. For more information about what happens when trades are reversed, visit the <a rel="nofollow" href="https://help.steampowered.com/en/faqs/view/365F-4BEE-2AE2-7BDD">FAQ</a>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529852487375519751</guid>
       <pubDate>Wed, 16 Jul 2025 00:13:57 +0000</pubDate>
@@ -55,19 +43,7 @@ Obviously we hope you'll never need it, but you can review your recent trades an
     <item>
       <title>BLAST.tv Austin Major Champions</title>
       <link>https://www.counter-strike.net/newsentry/529850584204838951</link>
-      <description><![CDATA[[img]https://clan.cloudflare.steamstatic.com/images//3381077/295fc91153ac46320f142edffbd45c4e5b31c394.png[/img]
-Over four days, the Moody Center in Austin, Texas hosted Team Vitality's coronation as the best Counter-Strike team on the planet.
-
-Facing The MongolZ in the Grand Finals, Team Vitality lost the opening map 13:5, then stormed back on the next two, winning 13:4 on Dust II and 13:6 on Inferno to win the BLAST.tv Austin Major and the organization's second Major Championship.
-
-[img]https://clan.fastly.steamstatic.com/images/3381077/13f607e38001ed765a63729028036855b884c715.png[/img]
-To celebrate, today we are releasing the Major Champions Capsule, featuring Paper, Foil, Holo, and Gold stickers autographed by one of the Champions from Team Vitality. 
-
-And for the first time, we are introducing Souvenir Charms. Each Playoff Stage Souvenir comes with a Souvenir Charm that contains a highlight from the match. 
-
-Finally, Season Two of Premier ends on July 14th. To receive your Premier Season Two Medal, you must have 25 Season Two Premier wins and a visible CSR when the Season concludes.
-
-See you soon for Premier Season Three!]]></description>
+      <description><![CDATA[[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images//3381077/295fc91153ac46320f142edffbd45c4e5b31c394.png">https://clan.cloudflare.steamstatic.com/images//3381077/295fc91153ac46320f142edffbd45c4e5b31c394.png</a>[/img]<br />Over four days, the Moody Center in Austin, Texas hosted Team Vitality&#39;s coronation as the best Counter-Strike team on the planet.<br /><br />Facing The MongolZ in the Grand Finals, Team Vitality lost the opening map 13:5, then stormed back on the next two, winning 13:4 on Dust II and 13:6 on Inferno to win the BLAST.tv Austin Major and the organization&#39;s second Major Championship.<br /><br />[img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/13f607e38001ed765a63729028036855b884c715.png">https://clan.fastly.steamstatic.com/images/3381077/13f607e38001ed765a63729028036855b884c715.png</a>[/img]<br />To celebrate, today we are releasing the Major Champions Capsule, featuring Paper, Foil, Holo, and Gold stickers autographed by one of the Champions from Team Vitality. <br /><br />And for the first time, we are introducing Souvenir Charms. Each Playoff Stage Souvenir comes with a Souvenir Charm that contains a highlight from the match. <br /><br />Finally, Season Two of Premier ends on July 14th. To receive your Premier Season Two Medal, you must have 25 Season Two Premier wins and a visible CSR when the Season concludes.<br /><br />See you soon for Premier Season Three!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529850584204838951</guid>
       <pubDate>Wed, 02 Jul 2025 22:11:50 +0000</pubDate>
@@ -75,18 +51,7 @@ See you soon for Premier Season Three!]]></description>
     <item>
       <title>Capture the Moment</title>
       <link>https://www.counter-strike.net/newsentry/529848048073835651</link>
-      <description><![CDATA[The BLAST.tv Austin Major is fast approaching! 
-
-Activate your Austin 2025 Viewer Pass and set your Pick'Ems before the first matches start, and you'll be well on your way to upgrading your Challenge Coin and earning Souvenir Tokens. Speaking of which...
-
-[h3]Souvenir Highlight Packages[/h3]
-
-Just like previous Majors, you'll have the opportunity to claim a memento from the match of your choice. But this time, if you choose a [b]playoff match[/b], you'll receive an [i]all new[/i] Souvenir Highlight Package.
-
-Available exclusively for playoff stage matches, Souvenir Highlight Packages contain a souvenir weapon with an attached charm that features a video highlight from the playoff map you selected. Your weapon's description will include information about the highlight, and you can view the attached clip in your CS2 inventory, in Steam, or while spectating a teammate in-match.
-
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/43fc8779bd35f9f8ef4244d4fa7581aea714a322.png[/img]
-We're excited for everyone to get their chance to pick up a playoffs-exclusive Souvenir Highlight Package, but they will take some time to put together. So stay tuned—Souvenir Highlight Packages will be redeemable shortly after the Major comes to a close!]]></description>
+      <description><![CDATA[The BLAST.tv Austin Major is fast approaching! <br /><br />Activate your Austin 2025 Viewer Pass and set your Pick&#39;Ems before the first matches start, and you&#39;ll be well on your way to upgrading your Challenge Coin and earning Souvenir Tokens. Speaking of which&#8230;<br /><br />[h3]Souvenir Highlight Packages[/h3]<br /><br />Just like previous Majors, you&#39;ll have the opportunity to claim a memento from the match of your choice. But this time, if you choose a <strong>playoff match</strong>, you&#39;ll receive an <em>all new</em> Souvenir Highlight Package.<br /><br />Available exclusively for playoff stage matches, Souvenir Highlight Packages contain a souvenir weapon with an attached charm that features a video highlight from the playoff map you selected. Your weapon&#39;s description will include information about the highlight, and you can view the attached clip in your CS2 inventory, in Steam, or while spectating a teammate in-match.<br /><br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/43fc8779bd35f9f8ef4244d4fa7581aea714a322.png">https://clan.cloudflare.steamstatic.com/images/3381077/43fc8779bd35f9f8ef4244d4fa7581aea714a322.png</a>[/img]<br />We&#39;re excited for everyone to get their chance to pick up a playoffs-exclusive Souvenir Highlight Package, but they will take some time to put together. So stay tuned—Souvenir Highlight Packages will be redeemable shortly after the Major comes to a close!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529848048073835651</guid>
       <pubDate>Thu, 29 May 2025 23:09:46 +0000</pubDate>
@@ -94,29 +59,7 @@ We're excited for everyone to get their chance to pick up a playoffs-exclusive S
     <item>
       <title>BLAST.TV Austin Major 2025</title>
       <link>https://www.counter-strike.net/newsentry/529847413482979949</link>
-      <description><![CDATA[Like a dust storm on the horizon, the [url=https://blast.tv/cs/austin-major-2025]BLAST.TV Austin Major[/url] is fast approaching. Join us June 3rd as the first stage of the major gets underway!
-
-[h2]Pick'Em and Stick'Em[/h2]
-Featuring more teams than ever before, this Major promises to be the most competitive yet. And you can start supporting your favorite teams today with the Austin 2025 Viewer Pass!
-
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/35cdb694da776a40377c9c4a2fa29ebf07d38f5d.png[/img]
-Your activated Austin 2025 Viewer Pass includes a coin that you can upgrade by playing the Pick'Em challenge, along with unlimited team graffiti for the duration of the event so you can show your support everywhere you play. You'll also have the opportunity to earn (and purchase) Souvenir Tokens, redeemable for a memento from the match of your choice. 
-
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/b9ccae936af6a1bf8ef076140595e8cec37c7a81.png[/img]
-Along with the Viewer Pass and Pick'Em Challenge, today we're releasing tournament stickers featuring the logos of every participating team and the autograph of every participating player. With a bit of Texas flair, Austin Major stickers can be found in a variety of finishes so you can find the perfect look for your collection. 
-
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/85a9d07d5ef8006de47176a7be56cafc64ac14e3.png[/img]
-So mark your calendar, dust off your boots, and join us in Austin for Counter-Strike's biggest Major yet!
-
-[h2]Stick to Your Guns[/h2]
-
-But that's not all!
-
-We've partnered with Games Workshop to celebrate the Warhammer Skulls 2025 event by releasing four Warhammer 40,000-themed sticker capsules.
-
-Themed after Warhammer 40,000 decal sheets, you'll find the Warhammer 40,000 Adeptus Astartes, Traitor Astartes, Imperium, and Xenos Sticker Capsules in-game now!
-
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/edb17546cd7f439b4baab2a311a94c5557c9eafc.png[/img]]]></description>
+      <description><![CDATA[Like a dust storm on the horizon, the <a rel="nofollow" href="https://blast.tv/cs/austin-major-2025">BLAST.TV Austin Major</a> is fast approaching. Join us June 3rd as the first stage of the major gets underway!<br /><br />[h2]Pick&#39;Em and Stick&#39;Em[/h2]<br />Featuring more teams than ever before, this Major promises to be the most competitive yet. And you can start supporting your favorite teams today with the Austin 2025 Viewer Pass!<br /><br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/35cdb694da776a40377c9c4a2fa29ebf07d38f5d.png">https://clan.cloudflare.steamstatic.com/images/3381077/35cdb694da776a40377c9c4a2fa29ebf07d38f5d.png</a>[/img]<br />Your activated Austin 2025 Viewer Pass includes a coin that you can upgrade by playing the Pick&#39;Em challenge, along with unlimited team graffiti for the duration of the event so you can show your support everywhere you play. You&#39;ll also have the opportunity to earn (and purchase) Souvenir Tokens, redeemable for a memento from the match of your choice. <br /><br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/b9ccae936af6a1bf8ef076140595e8cec37c7a81.png">https://clan.cloudflare.steamstatic.com/images/3381077/b9ccae936af6a1bf8ef076140595e8cec37c7a81.png</a>[/img]<br />Along with the Viewer Pass and Pick&#39;Em Challenge, today we&#39;re releasing tournament stickers featuring the logos of every participating team and the autograph of every participating player. With a bit of Texas flair, Austin Major stickers can be found in a variety of finishes so you can find the perfect look for your collection. <br /><br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/85a9d07d5ef8006de47176a7be56cafc64ac14e3.png">https://clan.cloudflare.steamstatic.com/images/3381077/85a9d07d5ef8006de47176a7be56cafc64ac14e3.png</a>[/img]<br />So mark your calendar, dust off your boots, and join us in Austin for Counter-Strike&#39;s biggest Major yet!<br /><br />[h2]Stick to Your Guns[/h2]<br /><br />But that&#39;s not all!<br /><br />We&#39;ve partnered with Games Workshop to celebrate the Warhammer Skulls 2025 event by releasing four Warhammer 40,000-themed sticker capsules.<br /><br />Themed after Warhammer 40,000 decal sheets, you&#39;ll find the Warhammer 40,000 Adeptus Astartes, Traitor Astartes, Imperium, and Xenos Sticker Capsules in-game now!<br /><br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/edb17546cd7f439b4baab2a311a94c5557c9eafc.png">https://clan.cloudflare.steamstatic.com/images/3381077/edb17546cd7f439b4baab2a311a94c5557c9eafc.png</a>[/img]]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529847413482979949</guid>
       <pubDate>Fri, 23 May 2025 00:12:34 +0000</pubDate>
@@ -124,21 +67,7 @@ Themed after Warhammer 40,000 decal sheets, you'll find the Warhammer 40,000 Ade
     <item>
       <title>Mission Possible</title>
       <link>https://www.counter-strike.net/newsentry/529846144626327818</link>
-      <description><![CDATA[Today's update includes several community maps, a rearranging of casual and deathmatch map groups, and the introduction of weekly missions!
-
-[h3]Weekly Missions[/h3]
-
-[img]https://clan.fastly.steamstatic.com/images/3381077/c33643703076e28d5979c51ed2bcef6c8c40b106.png[/img]
-
-Your mission, should you choose to accept it, can be completed for bonus XP. Each week you'll get a new mission, and you can access your mission in the Main Menu and in the Play Menu.
-
-[h3]Community Maps[/h3]
-
-Today we welcome a host of new community maps: Jura, Grail and Agency have been added to Competitive, Casual, and Deathmatch modes, and Dogtown and Brewery have been added to Wingman. And it's easier than ever to play community maps—Jura, Grail, and Agency can be found in the new Community Map Group.
-
-[carousel][img]https://clan.fastly.steamstatic.com/images/3381077/533154f720195f2032a302a5fed0a785dafbfb21.png[/img][img]https://clan.fastly.steamstatic.com/images/3381077/0521b3dbaf187b3ff154d0efa5e23c3dd829943b.png[/img][img]https://clan.fastly.steamstatic.com/images/3381077/342e88dbbef797238e60a492e95eb47e82687e8f.png[/img][img]https://clan.fastly.steamstatic.com/images/3381077/afa0f29d86f969c4e8f7cf3ab3f00ebc5e84750e.png[/img][img]https://clan.fastly.steamstatic.com/images/3381077/7d152e290ec0d02e1d47167682bfb60132411e96.png[/img][/carousel] 
-
-All this and more ([url=https://store.steampowered.com/news/app/730/view/529846144626327635]particularly for fans of binding keys to "/"[/url]) in today's update, so jump into some community maps and see what's new!]]></description>
+      <description><![CDATA[Today&#39;s update includes several community maps, a rearranging of casual and deathmatch map groups, and the introduction of weekly missions!<br /><br />[h3]Weekly Missions[/h3]<br /><br />[img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/c33643703076e28d5979c51ed2bcef6c8c40b106.png">https://clan.fastly.steamstatic.com/images/3381077/c33643703076e28d5979c51ed2bcef6c8c40b106.png</a>[/img]<br /><br />Your mission, should you choose to accept it, can be completed for bonus XP. Each week you&#39;ll get a new mission, and you can access your mission in the Main Menu and in the Play Menu.<br /><br />[h3]Community Maps[/h3]<br /><br />Today we welcome a host of new community maps: Jura, Grail and Agency have been added to Competitive, Casual, and Deathmatch modes, and Dogtown and Brewery have been added to Wingman. And it&#39;s easier than ever to play community maps—Jura, Grail, and Agency can be found in the new Community Map Group.<br /><br />[img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/533154f720195f2032a302a5fed0a785dafbfb21.png">https://clan.fastly.steamstatic.com/images/3381077/533154f720195f2032a302a5fed0a785dafbfb21.png</a>[/img][img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/0521b3dbaf187b3ff154d0efa5e23c3dd829943b.png">https://clan.fastly.steamstatic.com/images/3381077/0521b3dbaf187b3ff154d0efa5e23c3dd829943b.png</a>[/img][img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/342e88dbbef797238e60a492e95eb47e82687e8f.png">https://clan.fastly.steamstatic.com/images/3381077/342e88dbbef797238e60a492e95eb47e82687e8f.png</a>[/img][img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/afa0f29d86f969c4e8f7cf3ab3f00ebc5e84750e.png">https://clan.fastly.steamstatic.com/images/3381077/afa0f29d86f969c4e8f7cf3ab3f00ebc5e84750e.png</a>[/img][img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/7d152e290ec0d02e1d47167682bfb60132411e96.png">https://clan.fastly.steamstatic.com/images/3381077/7d152e290ec0d02e1d47167682bfb60132411e96.png</a>[/img] <br /><br />All this and more (<a rel="nofollow" href="https://store.steampowered.com/news/app/730/view/529846144626327635">particularly for fans of binding keys to &quot;/&quot;</a>) in today&#39;s update, so jump into some community maps and see what&#39;s new!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529846144626327818</guid>
       <pubDate>Wed, 16 Jul 2025 22:43:09 +0000</pubDate>
@@ -146,15 +75,7 @@ All this and more ([url=https://store.steampowered.com/news/app/730/view/5298461
     <item>
       <title>Season's Greetings</title>
       <link>https://www.counter-strike.net/newsentry/520830071182721028</link>
-      <description><![CDATA[Welcome to Premier Season Two. 
-
-If you haven't heard the news, here's what's new in Season Two. Vertigo is out, Train is in, the M4A4 is more... A4-dable... and we've tweaked the FAMAS. 
-
-Season Two runs from now through the Austin Major, at which point players who meet the requirements will be awarded a Premier Season Two Medal. The color will correspond to your highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25—up to five bars.
-
-To earn your Premier Season Two Medal, you'll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.
-
-Premier matchmaking is now open for business, so hit the queue and start racking up those wins!]]></description>
+      <description><![CDATA[Welcome to Premier Season Two. <br /><br />If you haven&#39;t heard the news, here&#39;s what&#39;s new in Season Two. Vertigo is out, Train is in, the M4A4 is more&#8230; A4-dable&#8230; and we&#39;ve tweaked the FAMAS. <br /><br />Season Two runs from now through the Austin Major, at which point players who meet the requirements will be awarded a Premier Season Two Medal. The color will correspond to your highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25—up to five bars.<br /><br />To earn your Premier Season Two Medal, you&#39;ll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.<br /><br />Premier matchmaking is now open for business, so hit the queue and start racking up those wins!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721028</guid>
       <pubDate>Tue, 28 Jan 2025 23:42:04 +0000</pubDate>
@@ -162,23 +83,7 @@ Premier matchmaking is now open for business, so hit the queue and start racking
     <item>
       <title>Champions of Shanghai</title>
       <link>https://www.counter-strike.net/newsentry/529833471389991079</link>
-      <description><![CDATA[[img]https://clan.cloudflare.steamstatic.com/images/3381077/c832bcc989b6e03012fde727c077c846d245cb22.jpg[/img]
-The Perfect World Shanghai Grand Final was one to remember. Team Spirit and FaZe Clan needed all three maps to determine a champion in front of an excited, sold-out crowd at the SPD Bank Oriental Sports Center.
-
-Down 12:5 on map 3, FaZe Clan battled back with 6 consecutive round wins—and some incredible clutches along the way—to force round 24. With the bomb planted and down to a 1v1, sh1ro's final kill earned Team Spirit their first Major Championship.
-
-Celebrate Team Spirit's win with the Major Champions Capsule, now available for purchase. The capsule features autographs from Team Spirit in paper, glitter, holo, and gold, and 50% of the proceeds go to the players and organizations.
-
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/3ed2c31143f07013ef30373c1458adc84731c04d.png[/img]
-With Shanghai in the books we look forward to the BLAST.tv Major in Austin, Texas. See you in June 2025!
-
-[h3]2025 Service Medal[/h3]
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/7f0747f83da9da8ed752f3848e0ab17caf40de9d.png[/img]
-Beginning January 1st, 2025 players can receive the newest Service Medal in-game. 
-
-When you reach Global General (Rank 40) you'll have the option to reset your Profile Rank and earn (or upgrade) a 2025 Service Medal.
-
-Good luck and have fun!]]></description>
+      <description><![CDATA[[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/c832bcc989b6e03012fde727c077c846d245cb22.jpg">https://clan.cloudflare.steamstatic.com/images/3381077/c832bcc989b6e03012fde727c077c846d245cb22.jpg</a>[/img]<br />The Perfect World Shanghai Grand Final was one to remember. Team Spirit and FaZe Clan needed all three maps to determine a champion in front of an excited, sold-out crowd at the SPD Bank Oriental Sports Center.<br /><br />Down 12:5 on map 3, FaZe Clan battled back with 6 consecutive round wins—and some incredible clutches along the way—to force round 24. With the bomb planted and down to a 1v1, sh1ro&#39;s final kill earned Team Spirit their first Major Championship.<br /><br />Celebrate Team Spirit&#39;s win with the Major Champions Capsule, now available for purchase. The capsule features autographs from Team Spirit in paper, glitter, holo, and gold, and 50% of the proceeds go to the players and organizations.<br /><br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/3ed2c31143f07013ef30373c1458adc84731c04d.png">https://clan.cloudflare.steamstatic.com/images/3381077/3ed2c31143f07013ef30373c1458adc84731c04d.png</a>[/img]<br />With Shanghai in the books we look forward to the BLAST.tv Major in Austin, Texas. See you in June 2025!<br /><br />[h3]2025 Service Medal[/h3]<br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/7f0747f83da9da8ed752f3848e0ab17caf40de9d.png">https://clan.cloudflare.steamstatic.com/images/3381077/7f0747f83da9da8ed752f3848e0ab17caf40de9d.png</a>[/img]<br />Beginning January 1st, 2025 players can receive the newest Service Medal in-game. <br /><br />When you reach Global General (Rank 40) you&#39;ll have the option to reset your Profile Rank and earn (or upgrade) a 2025 Service Medal.<br /><br />Good luck and have fun!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529833471389991079</guid>
       <pubDate>Thu, 19 Dec 2024 01:24:35 +0000</pubDate>
@@ -186,21 +91,7 @@ Good luck and have fun!]]></description>
     <item>
       <title>Shanghai 2024 Major</title>
       <link>https://www.counter-strike.net/newsentry/4472732402493426409</link>
-      <description><![CDATA[The Counter-Strike Major has come to Shanghai.
-
-Over the past month, teams from around the world challenged the best in their region for their spot in the Major. Now the dust has settled and 24 teams remain--perennial favorites, seasoned veterans, and more than a few newcomers.
-
-[img]https://clan.fastly.steamstatic.com/images/3381077/f0f38a64ad92793e959eec2a45ff34098daf8f38.png[/img]
-The Shanghai Major Hub is now open for business, complete with the Pick'Em Challenge, the Shanghai 2024 Viewer Pass, Souvenirs, Graffiti, and Team and Player stickers. 50% of the proceeds from tournament items are shared with players and organizations.
-
-[img]https://clan.fastly.steamstatic.com/images/3381077/56dc2ad026cabb70fc939f0dfa95c9bf4227dce4.png[/img]
-The Pick'Em Challenge is free to play, but if you want to upgrade your Shanghai 2024 Coin (and earn extra Souvenir Packages), make sure to activate your Viewer Pass before the event begins. You can also compare your Pick'Em performance to other friends with active passes on the Active Pass Leaderboard.
-
-[img]https://clan.fastly.steamstatic.com/images/3381077/2a940af901af1afe7527f1fb2eb7c2e9e51d3e32.png[/img]
-It's time to support your favorite teams. Place your picks, set your graffiti, mark your calendar and get ready, because the Shanghai Major is about to begin. May the best team win!
-
-
-]]></description>
+      <description><![CDATA[The Counter-Strike Major has come to Shanghai.<br /><br />Over the past month, teams from around the world challenged the best in their region for their spot in the Major. Now the dust has settled and 24 teams remain&ndash;perennial favorites, seasoned veterans, and more than a few newcomers.<br /><br />[img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/f0f38a64ad92793e959eec2a45ff34098daf8f38.png">https://clan.fastly.steamstatic.com/images/3381077/f0f38a64ad92793e959eec2a45ff34098daf8f38.png</a>[/img]<br />The Shanghai Major Hub is now open for business, complete with the Pick&#39;Em Challenge, the Shanghai 2024 Viewer Pass, Souvenirs, Graffiti, and Team and Player stickers. 50% of the proceeds from tournament items are shared with players and organizations.<br /><br />[img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/56dc2ad026cabb70fc939f0dfa95c9bf4227dce4.png">https://clan.fastly.steamstatic.com/images/3381077/56dc2ad026cabb70fc939f0dfa95c9bf4227dce4.png</a>[/img]<br />The Pick&#39;Em Challenge is free to play, but if you want to upgrade your Shanghai 2024 Coin (and earn extra Souvenir Packages), make sure to activate your Viewer Pass before the event begins. You can also compare your Pick&#39;Em performance to other friends with active passes on the Active Pass Leaderboard.<br /><br />[img]<a rel="nofollow" href="https://clan.fastly.steamstatic.com/images/3381077/2a940af901af1afe7527f1fb2eb7c2e9e51d3e32.png">https://clan.fastly.steamstatic.com/images/3381077/2a940af901af1afe7527f1fb2eb7c2e9e51d3e32.png</a>[/img]<br />It&#39;s time to support your favorite teams. Place your picks, set your graffiti, mark your calendar and get ready, because the Shanghai Major is about to begin. May the best team win!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472732402493426409</guid>
       <pubDate>Tue, 03 Dec 2024 22:39:29 +0000</pubDate>
@@ -208,8 +99,7 @@ It's time to support your favorite teams. Place your picks, set your graffiti, m
     <item>
       <title>The Armory</title>
       <link>https://www.counter-strike.net/newsentry/4674264042200250912</link>
-      <description><![CDATA[Today's update introduces the Armory, all new Weapon Charms, and a whole lot more. Click the image below for more details!
-[url=https://store.steampowered.com/sale/armory][img]https://clan.akamai.steamstatic.com/images/3381077/4f30364bf12221dd5c8db6fa9f113fee1e8b0641.png[/img][/url]]]></description>
+      <description><![CDATA[Today&#39;s update introduces the Armory, all new Weapon Charms, and a whole lot more. Click the image below for more details!<br /><a rel="nofollow" href="https://store.steampowered.com/sale/armory">[img]https://clan.akamai.steamstatic.com/images/3381077/4f30364bf12221dd5c8db6fa9f113fee1e8b0641.png[/img]</a>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4674264042200250912</guid>
       <pubDate>Mon, 07 Oct 2024 23:36:29 +0000</pubDate>
@@ -217,20 +107,7 @@ It's time to support your favorite teams. Place your picks, set your graffiti, m
     <item>
       <title>Side-stepping Skill</title>
       <link>https://www.counter-strike.net/newsentry/6500469346429600836</link>
-      <description><![CDATA[Counter-Strike is constantly evolving. From art, to maps, to inventive plays, and even player input, the CS community shapes the game. 
-
-Scripting and automating player commands has always been contentious, but over the years some forms of scripting (e.g., jump-throws) have gained acceptance, as they enable plays that wouldn't otherwise be possible. In fact, jump-throws became such an important part of the game that we've done the work to make them reliable without any special scripting or binds (i.e., by jumping and quickly throwing a grenade).
-
-Developing one's coordination and reaction time has always been key to mastering Counter-Strike.
-
-Recently, some hardware features have blurred the line between manual input and automation, so we've decided to draw a clear line on what is or isn't acceptable in Counter-Strike.
-
-We are no longer going to allow automation (via scripting or hardware) that circumvent these core skills and, moving forward, (and initially--exclusively on Valve Official Servers) players suspected of automating multiple player actions from a single game input may be kicked from their match.
-
-To prevent accidental infractions, in-game binds that include more than one movement and/or attack actions will no longer work (e.g., null-binds and jump-throw binds).
-
-If you have a keyboard that includes an input-automation feature (e.g., "Snap Tap Mode"), be sure to disable the feature before you join a match in order to avoid any interruption to your matches.
-]]></description>
+      <description><![CDATA[Counter-Strike is constantly evolving. From art, to maps, to inventive plays, and even player input, the CS community shapes the game. <br /><br />Scripting and automating player commands has always been contentious, but over the years some forms of scripting (e.g., jump-throws) have gained acceptance, as they enable plays that wouldn&#39;t otherwise be possible. In fact, jump-throws became such an important part of the game that we&#39;ve done the work to make them reliable without any special scripting or binds (i.e., by jumping and quickly throwing a grenade).<br /><br />Developing one&#39;s coordination and reaction time has always been key to mastering Counter-Strike.<br /><br />Recently, some hardware features have blurred the line between manual input and automation, so we&#39;ve decided to draw a clear line on what is or isn&#39;t acceptable in Counter-Strike.<br /><br />We are no longer going to allow automation (via scripting or hardware) that circumvent these core skills and, moving forward, (and initially&ndash;exclusively on Valve Official Servers) players suspected of automating multiple player actions from a single game input may be kicked from their match.<br /><br />To prevent accidental infractions, in-game binds that include more than one movement and/or attack actions will no longer work (e.g., null-binds and jump-throw binds).<br /><br />If you have a keyboard that includes an input-automation feature (e.g., &quot;Snap Tap Mode&quot;), be sure to disable the feature before you join a match in order to avoid any interruption to your matches.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6500469346429600836</guid>
       <pubDate>Thu, 26 Sep 2024 22:37:56 +0000</pubDate>
@@ -238,11 +115,7 @@ If you have a keyboard that includes an input-automation feature (e.g., "Snap Ta
     <item>
       <title>Open Season</title>
       <link>https://www.counter-strike.net/newsentry/7090437900079084674</link>
-      <description><![CDATA[[url=https://www.counter-strike.net/newsentry/3677802763035982969]Last year[/url] we announced the broad strokes of new rules for professional Counter-Strike events, to take effect in 2025. Today, we're filling in the details--click [url=https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md]here[/url] to see the terms that will be added to Tournament Organizers' license agreements moving forward.
-
-Counter-Strike is at its best when teams compete on a level playing field, and these new rules are part of our commitment to the long-term health of Counter-Strike as a sport. Our goal is to ensure that professional Counter-Strike remains an open sport, where teams are only limited by their ability.
-
-Although we expect that there will be some rough edges as we transition to the new requirements, we're excited to see what the future will bring.]]></description>
+      <description><![CDATA[<a rel="nofollow" href="https://www.counter-strike.net/newsentry/3677802763035982969">Last year</a> we announced the broad strokes of new rules for professional Counter-Strike events, to take effect in 2025. Today, we&#39;re filling in the details&ndash;click <a rel="nofollow" href="https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md">here</a> to see the terms that will be added to Tournament Organizers&#39; license agreements moving forward.<br /><br />Counter-Strike is at its best when teams compete on a level playing field, and these new rules are part of our commitment to the long-term health of Counter-Strike as a sport. Our goal is to ensure that professional Counter-Strike remains an open sport, where teams are only limited by their ability.<br /><br />Although we expect that there will be some rough edges as we transition to the new requirements, we&#39;re excited to see what the future will bring.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">7090437900079084674</guid>
       <pubDate>Tue, 23 Jul 2024 18:15:38 +0000</pubDate>
@@ -250,24 +123,7 @@ Although we expect that there will be some rough edges as we transition to the n
     <item>
       <title>The Real MVP</title>
       <link>https://www.counter-strike.net/newsentry/4194621169493598732</link>
-      <description><![CDATA[Since the launch of CS2, community map mappers have been hard at work creating new experiences and updating some classics. Today, we're excited to add the first community maps to CS2!
-
-[img]https://clan.akamai.steamstatic.com/images/3381077/bbf2dd17698bcba8bae487ca7a0783a441581476.png[/img]
-For those of you who dream of Italian weddings, or airplane manufacture (or both!), we've got you covered. Memento and Assembly are now available in Wingman.
-
-[img]https://clan.akamai.steamstatic.com/images/3381077/df15c710ff065c92619e712ecf6ee4492e93ac27.png[/img]
-And if you're in the mood for something a bit more... chaotic, take a dip in the classic Pool Day, which is now available in Arms Race.
-
-[img]https://clan.akamai.steamstatic.com/images/3381077/d2ad077ed631514103c5eb83183790cd4829a5f6.png[/img]
-Finally, fight your way through the streets of Thera and Mills in Deathmatch and Casual, and put these maps through their paces in Competitive Matchmaking. 
-
-Speaking of Competitive Matchmaking, we've given map-based skill groups an overhaul. In addition to redistributing players across the Skill Groups, we've also made it easier to earn those badges in the first place.
-
-[img]https://clan.akamai.steamstatic.com/images/3381077/dda0b5f6d6fa18ac9274627c2b8a5e393d645ad0.png[/img]
-
-There are a bunch of other fixes and adjustments in today's update, including a brand new MVP panel (and animated MVPs in Premier!) and new ways to optimize your video settings. 
-
-Jump into a match and check it out!]]></description>
+      <description><![CDATA[Since the launch of CS2, community map mappers have been hard at work creating new experiences and updating some classics. Today, we&#39;re excited to add the first community maps to CS2!<br /><br />[img]<a rel="nofollow" href="https://clan.akamai.steamstatic.com/images/3381077/bbf2dd17698bcba8bae487ca7a0783a441581476.png">https://clan.akamai.steamstatic.com/images/3381077/bbf2dd17698bcba8bae487ca7a0783a441581476.png</a>[/img]<br />For those of you who dream of Italian weddings, or airplane manufacture (or both!), we&#39;ve got you covered. Memento and Assembly are now available in Wingman.<br /><br />[img]<a rel="nofollow" href="https://clan.akamai.steamstatic.com/images/3381077/df15c710ff065c92619e712ecf6ee4492e93ac27.png">https://clan.akamai.steamstatic.com/images/3381077/df15c710ff065c92619e712ecf6ee4492e93ac27.png</a>[/img]<br />And if you&#39;re in the mood for something a bit more&#8230; chaotic, take a dip in the classic Pool Day, which is now available in Arms Race.<br /><br />[img]<a rel="nofollow" href="https://clan.akamai.steamstatic.com/images/3381077/d2ad077ed631514103c5eb83183790cd4829a5f6.png">https://clan.akamai.steamstatic.com/images/3381077/d2ad077ed631514103c5eb83183790cd4829a5f6.png</a>[/img]<br />Finally, fight your way through the streets of Thera and Mills in Deathmatch and Casual, and put these maps through their paces in Competitive Matchmaking. <br /><br />Speaking of Competitive Matchmaking, we&#39;ve given map-based skill groups an overhaul. In addition to redistributing players across the Skill Groups, we&#39;ve also made it easier to earn those badges in the first place.<br /><br />[img]<a rel="nofollow" href="https://clan.akamai.steamstatic.com/images/3381077/dda0b5f6d6fa18ac9274627c2b8a5e393d645ad0.png">https://clan.akamai.steamstatic.com/images/3381077/dda0b5f6d6fa18ac9274627c2b8a5e393d645ad0.png</a>[/img]<br /><br />There are a bunch of other fixes and adjustments in today&#39;s update, including a brand new MVP panel (and animated MVPs in Premier!) and new ways to optimize your video settings. <br /><br />Jump into a match and check it out!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4194621169493598732</guid>
       <pubDate>Tue, 24 Sep 2024 22:24:15 +0000</pubDate>
@@ -275,21 +131,12 @@ Jump into a match and check it out!]]></description>
     <item>
       <title>Fire Sale</title>
       <link>https://www.counter-strike.net/newsentry/4177730135016204539</link>
-      <description><![CDATA[Today's update includes some love for the CT economy, with price cuts to the M4A4 and Incendiary grenade, and a bit less cash going to the T's when the bomb gets defused.
-
-[video webm=https://clan.cloudflare.steamstatic.com/images/3381077/e54cfc1edae4997920e5db8145edeb377af94fc1.webm mp4=https://clan.cloudflare.steamstatic.com/images/3381077/4b75b3b9464ad1389e13d65911781ada4dda3f47.mp4 poster=https://clan.cloudflare.steamstatic.com/images/3381077/07975a254ee44f0d2674f271a21204d0761ec85d.png autoplay=true controls=false][/video]
-
-In addition to the price cut, the incendiary grenade has gotten a bit of a makeover with a new visual treatment for its explosion and flames, and reduced spread and duration. 
-
-And in other gameplay news, Vertigo's A-site has gotten some significant changes--it's now the site featured in Wingman matches, so check it out.
-
-[img]https://clan.cloudflare.steamstatic.com/images/3381077/955406bdcb60dba4a59ce0926fdd180946b7d9bb.png[/img]
-
-Calling all Kilowatt Collection fans! Now, when you open a Kilowatt case with a key, you'll be given the option to rent the whole collection for a week (excluding the rare special item) instead of keeping a single item. You can play with the weapons as much as you like during that week, but they can't be modified by stickers or nametags.
-
-Lots of other changes in today's update, including some quality of life improvements for demo playback, slightly smarter chickens, and a bit of spring cleaning--good news for fans of 'various bug fixes.'
-
-Jump into a match and see what's new!]]></description>
+      <description><![CDATA[Today&#39;s update includes some love for the CT economy, with price cuts to the M4A4 and Incendiary grenade, and a bit less cash going to the T&#39;s when the bomb gets defused.<br /><br />
+            <video controls poster="https://clan.cloudflare.steamstatic.com/images/3381077/07975a254ee44f0d2674f271a21204d0761ec85d.png">
+                <source src="https://clan.cloudflare.steamstatic.com/images/3381077/4b75b3b9464ad1389e13d65911781ada4dda3f47.mp4" type="video/mp4">
+<source src="https://clan.cloudflare.steamstatic.com/images/3381077/e54cfc1edae4997920e5db8145edeb377af94fc1.webm" type="video/webm">
+            </video>
+            <br /><br />In addition to the price cut, the incendiary grenade has gotten a bit of a makeover with a new visual treatment for its explosion and flames, and reduced spread and duration. <br /><br />And in other gameplay news, Vertigo&#39;s A-site has gotten some significant changes&ndash;it&#39;s now the site featured in Wingman matches, so check it out.<br /><br />[img]<a rel="nofollow" href="https://clan.cloudflare.steamstatic.com/images/3381077/955406bdcb60dba4a59ce0926fdd180946b7d9bb.png">https://clan.cloudflare.steamstatic.com/images/3381077/955406bdcb60dba4a59ce0926fdd180946b7d9bb.png</a>[/img]<br /><br />Calling all Kilowatt Collection fans! Now, when you open a Kilowatt case with a key, you&#39;ll be given the option to rent the whole collection for a week (excluding the rare special item) instead of keeping a single item. You can play with the weapons as much as you like during that week, but they can&#39;t be modified by stickers or nametags.<br /><br />Lots of other changes in today&#39;s update, including some quality of life improvements for demo playback, slightly smarter chickens, and a bit of spring cleaning&ndash;good news for fans of &#39;various bug fixes.&#39;<br /><br />Jump into a match and see what&#39;s new!]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4177730135016204539</guid>
       <pubDate>Thu, 30 May 2024 23:10:34 +0000</pubDate>
