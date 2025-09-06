@@ -8,7 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 05 Sep 2025 22:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:46:50 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[[p]\[ AUDIO ][/p][list][*][p]Fixed an issue that caused sound dropouts while playing Agency.[/p][/*][/list][p]
+[/p]]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529856925490218818</guid>
+      <pubDate>Sat, 06 Sep 2025 00:37:36 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -2133,18 +2142,6 @@ Vous souhaitez participer à la version bêta de l'enregistrement de parties ? 
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4177730135016140040</guid>
       <pubDate>Thu, 30 May 2024 23:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 22/05/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GRAPHISMES]
-[list]
-[*] Ajout de la prise en charge d'AMD Radeon Anti-Lag 2.
-[/list]
-]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135013203179</guid>
-      <pubDate>Wed, 29 May 2024 23:24:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
