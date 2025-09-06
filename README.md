@@ -65,6 +65,7 @@ In order to contribute to the project, please follow the GitHub Standard Fork & 
 **Note:** Do not make direct changes to *.xml files in the feeds directory.
 
 ## Acknowledgements
-- [Feedgen](https://feedgen.kiesow.be/)
-- [Feedparser](https://github.com/kurtmckee/feedparser)
+- [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen)
+- [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser)
+- [dcwatson/bbcode](https://github.com/dcwatson/bbcode)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
