@@ -1,10 +1,10 @@
 import os
 from datetime import datetime, timezone
+from email.utils import format_datetime
 
 import feedparser
 from feedgen.feed import FeedGenerator
 
-from .constants import PUB_DATE_FORMAT
 from .types import EventType, FeedItem, LanguageItem
 
 
@@ -49,8 +49,9 @@ def is_feed_up_to_date(feed_file_path: str, feed_item: FeedItem) -> bool:
     if not oldPubDate:
         return False
 
-    date = datetime.fromtimestamp(feed_item["updatetime"])
-    newPubdate = datetime.strftime(date, PUB_DATE_FORMAT)
+    newPubdate = format_datetime(
+        datetime.fromtimestamp(feed_item["updatetime"], tz=timezone.utc)
+    )
 
     return oldPubDate == newPubdate
 
@@ -95,11 +96,16 @@ def update_rss_feed(
             }
         )
 
-        date = datetime.fromtimestamp(item["updatetime"], tz=timezone.utc)
-        fe.pubDate(datetime.strftime(date, PUB_DATE_FORMAT))
+        fe.pubDate(
+            format_datetime(
+                datetime.fromtimestamp(item["updatetime"], tz=timezone.utc)
+            )
+        )
+
         fe.author(
             {"name": "Valve Corporation", "email": "support@steampowered.com"}
         )
+        
         fe.content(item["body"], None, "CDATA")
         fe.rights("Valve Corporation")
 
