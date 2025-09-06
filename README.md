@@ -21,8 +21,6 @@ Updating each feed requires one API request per language to the website. This me
 **Notes:**
 - Valve does not localize all of their blog/update posts immediately.
   - Translations are partly driven by the community and may be available at a later date.
-- Time information on the website is generally not localized.
-  - When running the python scripts locally, you may have issues parsing dates.
 
 ## Local Usage
 
