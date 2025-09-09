@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Sep 2025 00:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 17:12:34 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 08.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<p>\[ MAPS ]</p><p>Agency</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232">Update Notes</a>)</p></li></ul><p>Grail</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update Notes</a>)</p></li></ul><p>\[ ANIMATION ]</p><ul><li><p>Viewmodel animation fixes for the Bowie, Bayonet, Kukri, Nomad, Paracord, and Skeleton knives.</p></li></ul><p>\[ MISC ]</p><ul><li><p>Improved performance when firing weapons.</p></li><li><p>Fixed a case where viewmodel motion due to view angle changes depended on the direction you were facing.</p></li></ul>]]></description>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Agency</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232">Update-Notizen</a>)</p></li></ul><p>Grail</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update-Notizen</a>)</p></li></ul><p>[ ANIMATION ]</p><ul><li><p>Animationsprobleme im Ansichtsmodell für das Bajonett sowie Bowie-, Kukri-, Nomanden-, Fallschirm- und Skelettmesser behoben.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Leistung beim Abfeuern von Waffen verbessert.</p></li><li><p>Fehler behoben, durch den die Bewegung des Ansichtsmodell bei Änderung des Blickwinkels davon abhing, in welche Richtung der Spieler zielte.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490219040</guid>
       <pubDate>Tue, 09 Sep 2025 00:17:14 +0000</pubDate>

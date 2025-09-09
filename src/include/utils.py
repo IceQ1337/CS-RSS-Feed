@@ -15,6 +15,7 @@ def cleanup_text_description(content: str) -> str:
     """Cleanup the description text by removing specific markup."""
 
     html = content.strip()
+    html = html.replace("\\[", "[")
     html = bbcode_parser.format(html)
 
     return html
