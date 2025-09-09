@@ -19,8 +19,7 @@ Updating each feed requires one API request per language to the website. This me
 -  [French](https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml)
 
 **Notes:**
-- Valve does not localize all of their blog/update posts immediately.
-  - Translations are partly driven by the community and may be available at a later date.
+Valve does not localize all of their posts before they are published. Translations are partly driven by the community and may be available at a later date. We are currently filtering out untranslated posts from the non-English feeds, so they may contain less entries than the English feed.
 
 ## Local Usage
 

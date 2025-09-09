@@ -30,22 +30,21 @@ def fetch_events(language: str) -> dict:
     return response.json()
 
 
-def extract_feed_items(events_data: dict) -> list:
+def extract_feed_items(events_data: dict, language: LanguageItem) -> list:
     print("Extracting feed items from events data...")
 
     items = []
     events = events_data.get("events", [])
 
     for event in events:
-        feed_item = parse_event(event)
+        feed_item = parse_event(event, language)
         if feed_item:
             items.append(feed_item)
 
     return items
 
 
-# entries may be missing data, so we're wrapping this in a custom parser...
-def parse_event(event: dict) -> FeedItem | None:
+def parse_event(event: dict, language: LanguageItem) -> FeedItem | None:
     try:
         announcement_body: dict = event.get("announcement_body")  # type: ignore
 
@@ -57,15 +56,17 @@ def parse_event(event: dict) -> FeedItem | None:
         updatetime: int = announcement_body.get("updatetime")  # type: ignore
         headline: str = announcement_body.get("headline")  # type: ignore
         body: str = announcement_body.get("body")  # type: ignore
-
-        # TODO: "language" may indicate if a post was translated or not. I wasn't able to
-        # verify this yet, but if it does, we could filter out untranslated posts.
-        language: int = announcement_body.get("language")  # type: ignore
+        language_indicator: int = announcement_body.get("language")  # type: ignore
 
         if (
             not all([guid, event_type, updatetime, headline, body])
-            or language is None
+            or language_indicator is None
         ):
+            return None
+
+        # TODO: Verify that "language" indicates that a post was translated or not.
+        # For "english", this is always 0, for other languages it seems to be 1 if translated.
+        if language["lang"] != "english" and language_indicator == 0:
             return None
 
         item: FeedItem = {
@@ -73,7 +74,7 @@ def parse_event(event: dict) -> FeedItem | None:
             "event_type": event_type,
             "updatetime": updatetime,
             "headline": headline,
-            "language": language,
+            "language": language_indicator,
             "body": cleanup_text_description(body),
             "url": (
                 f"https://www.counter-strike.net/newsentry/{guid}"
@@ -162,7 +163,7 @@ def main():
             print(f"Failed to fetch events for language {lang}: {e}")
             continue
 
-        feed_items = extract_feed_items(events_data)
+        feed_items = extract_feed_items(events_data, language)
 
         if not feed_items:
             print(f"No feed items found for language {lang}. Skipping.")
