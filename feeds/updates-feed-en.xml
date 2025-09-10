@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Sep 2025 17:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 22:33:54 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed an issue that would allow exec_async to continue executing in cheat protected servers resulting in random user input dropout.</p></li><li><p>Last chance to pick up the Gallery Case, Graphic Collection, and Character Craft stickers from The Armory.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">545620158577639655</guid>
+      <pubDate>Wed, 10 Sep 2025 21:49:34 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -20,10 +28,10 @@
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ AUDIO ]</p><ul><li><p>Fixed an issue that caused sound dropouts while playing Agency.</p></li></ul><p><br /></p>]]></description>
+      <description><![CDATA[<p>[ AUDIO ]</p><ul><li><p>Fixed an issue that caused sound dropouts while playing Agency.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490218818</guid>
-      <pubDate>Sat, 06 Sep 2025 00:37:36 +0000</pubDate>
+      <pubDate>Wed, 10 Sep 2025 21:48:44 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 Update</title>
@@ -647,14 +655,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4177730135020162650</guid>
       <pubDate>Wed, 29 May 2024 23:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 5/23/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Height of the &#39;pillar&#39; of flame for both Molotov and Incendiary grenade now decreases over time</li><li>Reduced the terrorist team award when bomb was planted but defused from $800 to $600, to decrease the impact of the first-round on subsequent rounds</li><li>Reduced the price of the M4A4 from $3100 to $3000</li><li>Minor adjustments to first-person camera movement</li><li>Added explicit &quot;switchhandsleft&quot; and &quot;switchhandsright&quot; console commands</li><li>Deathmatch bonus weapons are now the same for all players regardless of loadout</li></ul><em>Incendiary Grenade</em><ul><li>Adjusted the explosion and flame visual treatment</li><li>Reduced duration</li><li>Reduced area covered by spreading flames</li><li>Reduced price from $600 to $500</li></ul><br />[ RENTALS ]<br /><ul><li>When players open a Kilowatt case with a key, they will have the option to rent the entire Kilowatt collection (i.e., every weapon in the case, excluding the rare special item) for a week instead of receiving an item from the collection</li><li>Equipped rented weapons will be replaced with the stock version of the weapon when the rental period expires</li><li>Rented weapons cannot be modified (e.g., via stickers or name tags), traded, or sold on the Steam Community Market</li></ul><br />[ HUD ]<br /><ul><li>Fixed a bug where the MVP player name displayed incorrectly during bot takeover</li><li>Fixed a bug where the Refund All button in the Buy Menu would only refund a single flashbang grenade</li><li>Fixed a bug where the ESC menu scoreboard during end-of-match didn&#39;t match the TAB scoreboard</li><li>Fixed a bug where the Loss Bonus scoreboard tooltip would get stuck on-screen after closing the scoreboard</li><li>Blocking stranger Steam avatars will now block other user-generated content such name tags and sticker placements</li></ul><br />[ CHICKENS ]<br /><ul><li>Chickens have a few new animations</li><li>Chickens can now walk up hills</li><li>Chickens can now turn right while walking</li></ul><br />[ UI ]<br /><ul><li>Various performance improvements to the Warehouse main menu and item inspect background scenery</li></ul><br />[ DEMOS ]<br /><ul><li>The demo playback timeline now show indicators for kill and death events</li><li>Demo playback can be toggled into &quot;highlight mode&quot; which will show only kills and deaths for the active player</li><li>Various minor demo playback UI changes</li><li>Fixed a demo playback crash</li></ul><br />[ MAPS ]<br /><br /><em>Vertigo:</em><ul><li>Added catwalk by bombsite A, connecting to back of A</li><li>Removed connector between back of A and elevators</li><li>Opened up passage between elevators and scaffolding</li><li>Slightly tweaked size of bombsite A</li><li>Tweaked spawn timings slightly</li><li>Changed Wingman layout to feature bombsite A changes</li></ul><em>Baggage:</em><ul><li>Fixed movement hitch on lower conveyor</li><li>Lowered height of central conveyor tray to help open sniper view</li></ul><em>Office:</em><ul><li>Fixed a case where a player could shoot through multiple walls</li></ul><em>Mirage:</em><ul><li>Fixed bad collision on certain props</li><li>Fixed some sticky collision around windows in palace</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135016140040</guid>
-      <pubDate>Thu, 30 May 2024 23:10:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
