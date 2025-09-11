@@ -8,7 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 09 Sep 2025 17:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 16:36:04 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[CARTES]</p><p>Agency</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p>Grail</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p>[ANIMATIONS]</p><ul><li><p>Corrections apportées à l&#39;animation du modèle en vue subjective pour les couteaux Bowie, Kukri, de nomade, avec manche en paracorde, squelettiques et les baïonnettes.</p></li></ul><p>[DIVERS]</p><ul><li><p>Amélioration des performances lors des tirs d&#39;armes.</p></li><li><p>Correction du problème suivant : le mouvement du modèle en vue subjective était anormal en fonction de son orientation en raison de changements d&#39;angle de vue.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529856925490219040</guid>
+      <pubDate>Tue, 09 Sep 2025 00:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[AUDIO]</p><ul><li><p>Correction du problème suivant : le volume du son pouvait soudainement descendre quand on jouait sur Agency.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">529856925490218818</guid>
+      <pubDate>Wed, 10 Sep 2025 21:48:44 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -631,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4177730135020162650</guid>
       <pubDate>Wed, 29 May 2024 23:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 23/05/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GAMEPLAY]<br /><ul><li>La hauteur de la colonne de flammes des cocktails Molotov et des grenades incendiaires diminue désormais au fil du temps.</li><li>La récompense décernée aux terroristes après que la bombe ait été posée puis désamorcée a été revue à la baisse (600 $ au lieu de 800 $) afin de réduire l&#39;impact de la première manche sur les manches suivantes.</li><li>Le prix de la M4A4 a été revu à la baisse (3 000 $ au lieu de 3 100 $).</li><li>Ajustements mineurs apportés aux mouvements de la caméra en vue subjective.</li><li>Ajout des commandes de console explicites « switchhandsleft » et « switchhandsright ».</li><li>Les armes bonus proposées lors des matchs à mort sont désormais les mêmes pour tout le monde, peu importe celles définies dans le menu d&#39;équipement.</li></ul><em>Grenade incendiaire</em><ul><li>L&#39;aspect visuel de l&#39;explosion et des flammes a été ajusté.</li><li>La durée a été réduite.</li><li>La zone de propagation des flammes a été réduite.</li><li>Le prix a été revu à la baisse (500 $ au lieu de 600 $).</li></ul><br />[LOCATIONS D&#39;ARMES]<br /><ul><li>Lors de l&#39;ouverture d&#39;une caisse Kilowatt avec une clé, il est désormais possible de louer l&#39;intégralité de la collection Kilowatt (c&#39;est-à-dire toutes les armes de la caisse, à l&#39;exception de l&#39;item spécial rare) pendant une semaine au lieu de recevoir un item de la collection.</li><li>Les armes louées équipées seront remplacées par la version d&#39;origine de l&#39;arme une fois la période de location terminée.</li><li>Les armes louées ne peuvent être ni modifiées (il n&#39;est pas possible d&#39;y appliquer des étiquettes ou des stickers), ni échangées, ni vendues sur le marché de la communauté Steam.</li></ul><br />[HUD]<br /><ul><li>Correction du problème suivant : le nom du ou de la MJ ne s&#39;affichait pas correctement après avoir pris le contrôle d&#39;un bot.</li><li>Correction du problème suivant : le bouton « Tout rembourser » du menu d&#39;achat ne faisait que rembourser une grenade GSS.</li><li>Correction du problème suivant : le tableau des scores affiché avec la touche ÉCHAP en fin de partie était différent de celui affiché avec la touche TAB.</li><li>Correction du problème suivant : l&#39;infobulle « Bonus de consolation » du tableau des scores restait à l&#39;écran même après la fermeture de ce dernier.</li><li>L&#39;option « Bloquer les noms et avatars des personnes inconnues » masque désormais le contenu généré par la communauté, tel que les étiquettes et les stickers.</li></ul><br />[POULETS]<br /><ul><li>Les poulets disposent de quelques nouvelles animations.</li><li>Les poulets peuvent maintenant gravir les pentes.</li><li>Les poulets peuvent maintenant tourner à droite tout en marchant.</li></ul><br />[INTERFACE]<br /><ul><li>Diverses améliorations des performances de l&#39;arrière-plan du menu principal et d&#39;examen d&#39;items « Entrepôt ».</li></ul><br />[REDIFFUSIONS]<br /><ul><li>Les victimes et les morts sont désormais indiquées sur la chronologie des rediffusions.</li><li>Les rediffusions disposent désormais d&#39;un mode « Moments forts » qui ne montre que les victimes et les morts de la personne observée.</li><li>Ajustements mineurs apportés à l&#39;interface du système de rediffusions.</li><li>Correction d&#39;un problème de plantage avec les rediffusions.</li></ul><br />[CARTES]<br /><br /><em>Vertigo</em><ul><li>Ajout d&#39;un passage près du site de bombe A, relié à l&#39;arrière du site A.</li><li>Le couloir entre l&#39;arrière du site A et les ascenseurs a été supprimé.</li><li>Un passage entre les ascenseurs et les échafaudages a été ouvert.</li><li>Ajustement mineur de la taille du site de bombe A.</li><li>Les temps nécessaires pour aller d&#39;un point à un autre depuis la zone d&#39;apparition ont été légèrement ajustés.</li><li>L&#39;agencement de la carte en mode Wingman a été modifié pour prendre en compte les changements apportés au site de bombe A.</li></ul><em>Baggage</em><ul><li>Correction de saccades sur le tapis roulant du bas.</li><li>La hauteur du tapis roulant central a été réduite pour offrir une meilleure ligne de mire avec les fusils de précision.</li></ul><em>Office</em><ul><li>Correction du problème suivant : il était possible de tirer à travers plusieurs murs.</li></ul><em>Mirage</em><ul><li>Correction de problèmes de collisions avec certains objets.</li><li>Correction de problèmes de collisions autour des fenêtres à l&#39;intérieur du palais.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135016140040</guid>
-      <pubDate>Thu, 30 May 2024 23:10:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
