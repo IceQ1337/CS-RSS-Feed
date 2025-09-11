@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 09 Sep 2025 17:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 18:36:50 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 – Update vom 08.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<p>[ KARTEN ]</p><p>Agency</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232">Update-Notizen</a>)</p></li></ul><p>Grail</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update-Notizen</a>)</p></li></ul><p>[ ANIMATION ]</p><ul><li><p>Animationsprobleme im Ansichtsmodell für das Bajonett sowie Bowie-, Kukri-, Nomanden-, Fallschirm- und Skelettmesser behoben.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Leistung beim Abfeuern von Waffen verbessert.</p></li><li><p>Fehler behoben, durch den die Bewegung des Ansichtsmodell bei Änderung des Blickwinkels davon abhing, in welche Richtung der Spieler zielte.</p></li></ul>]]></description>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, durch den exec_async auf cheatgeschützten Servern weiterhin ausgeführt werden konnte und zu einem zufälligen Ausfall der Benutzereingabe führte.</p></li><li><p>Letzte Gelegenheit: Holen Sie sich die Waffenkiste „Galerie“, die Kollektion „Grafikdesign“ und die Aufkleberkollektion „Charakterliche Kunst“ aus dem Arsenal, bevor es zu spät ist.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">545620158577639655</guid>
+      <pubDate>Wed, 10 Sep 2025 21:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 08.09.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Agency</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232">Update-Notizen</a>)</p></li></ul><p>Grail</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update-Notizen</a>)</p></li></ul><p>[ ANIMATION ]</p><ul><li><p>Animationsprobleme im Ansichtsmodell für das Bajonett sowie Bowie-, Kukri-, Nomanden-, Fallschirm- und Skelettmesser behoben.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Leistung beim Abfeuern von Waffen verbessert.</p></li><li><p>Fehler behoben, durch den die Bewegung des Ansichtsmodells bei Änderung des Blickwinkels davon abhing, in welche Richtung der Spieler zielte.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490219040</guid>
       <pubDate>Tue, 09 Sep 2025 00:17:14 +0000</pubDate>
@@ -23,7 +31,7 @@
       <description><![CDATA[<p>[ AUDIO ]</p><ul><li><p>Problem behoben, das zu Sound-Aussetzern auf der Karte Agency führte.</p></li></ul><p><br /></p>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490218818</guid>
-      <pubDate>Sat, 06 Sep 2025 00:37:36 +0000</pubDate>
+      <pubDate>Wed, 10 Sep 2025 21:48:44 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 03.09.2025</title>
@@ -647,14 +655,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4177730135020162650</guid>
       <pubDate>Wed, 29 May 2024 23:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 23.05.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Die Höhe der Flammensäule nimmt jetzt sowohl beim Molotow-Cocktail als auch bei der Brandgranate mit der Zeit ab.</li><li>Um die Auswirkungen eines Sieges in der ersten Runde auf die Folgerunden abzumindern, wurde das Teameinkommen für Terroristen von 800 auf 600 Dollar reduziert, wenn die Bombe zwar gelegt, aber entschärft wurde.</li><li>Preis der M4A4 von 3100 auf 3000 Dollar reduziert.</li><li>Kleinere Anpassungen an der Kamerabewegung in der Egoperspektive vorgenommen.</li><li>Explizite Konsolenbefehle „switchhandsleft“ und „switchhandsright“ hinzugefügt.</li><li>Die Bonuswaffe im Deathmatch-Modus ist jetzt für alle Spieler dieselbe, unabhängig von der eigenen Ausrüstung.</li></ul><em>Brandgranate</em><ul><li>Visuelle Effekte der Explosion und Flammen angepasst.</li><li>Branddauer reduziert.</li><li>Ausbreitungsbereich des Feuers reduziert.</li><li>Preis der Brandgranate von 600 auf 500 Dollar reduziert.</li></ul><br />[ WAFFENVERMIETUNG ]<br /><ul><li>Wenn Spieler eine Kiste der Kollektion „Kilowatt“ mit einem Schlüssel öffnen, haben sie jetzt die Möglichkeit, die gesamte Kollektion (mit Ausnahme der seltenen Bonusgegenstände) eine Woche lang zu mieten, anstatt nur einen Gegenstand daraus zu erhalten.</li><li>Ausgerüstete gemietete Waffen werden in der Ausrüstung mit der Standardvariante der Waffe ersetzt, wenn die Mietdauer abgelaufen ist.</li><li>Gemietete Waffen können nicht angepasst (z. B. durch Aufkleber oder Namensschilder), gehandelt oder auf dem Steam-Communitymarkt verkauft werden.</li></ul><br />[ HUD ]<br /><ul><li>Fehler behoben, durch den der Name des besten Spielers der Runde bei der Übernahme eines Bots falsch angezeigt wurde.</li><li>Fehler behoben, durch den die Schaltfläche „Alles rückerstatten“ im Kaufmenü nur eine Blendgranate rückerstattete.</li><li>Fehler behoben, durch den der mit der Escape-Taste eingeblendete Punktestand am Spielende nicht mit dem eingeblendeten Punktestand bei gedrückter TAB-Taste übereinstimmte.</li><li>Fehler behoben, durch den der Verliererbonus nach dem Schließen des Punktestands dauerhaft auf dem Bildschirm angezeigt wurde.</li><li>Das Ausblenden der Steam-Avatare von Unbekannten bewirkt jetzt auch, dass benutzerdefinierte Inhalte (soll heißen: frei platzierte Aufkleber und Namensschilder auf Waffen) nicht mehr angezeigt werden.</li></ul><br />[ HÜHNER ]<br /><ul><li>Hühner haben einige neue Animationen erhalten.</li><li>Hühner können sich jetzt auf Anhöhen bewegen.</li><li>Hühner können sich beim Vorwärtsbewegen nach rechts drehen.</li></ul><br />[ BENUTZEROBERFLÄCHE ]<br /><ul><li>Diverse Leistungsverbesserungen an der Hintergrundkulisse „Lagerhaus“ im Hauptmenü und beim Untersuchen von Waffen vorgenommen.</li></ul><br />[ DEMOS ]<br /><ul><li>Die Zeitleiste bei der Demo-Wiedergabe zeigt jetzt Indikatoren für Abschüsse und Tode an.</li><li>Die Demo-Wiedergabe kann in einen „Highlight-Modus“ umgeschaltet werden, der nur Abschüsse und Tode des ausgewählten Spielers anzeigt.</li><li>Diverse kleinere Änderungen an der Benutzeroberfläche der Demo-Wiedergabe vorgenommen.</li><li>Absturz behoben, der bei der Demo-Wiedergabe auftrat.</li></ul><br />[ KARTEN ]<br /><br /><em>Vertigo:</em><ul><li>Gerüststeg hinzugefügt, der die Vorder- und Hinterseite von Bombenort A miteinander verbindet.</li><li>Durchgang zwischen der Hinterseite von Bombenort A und den Aufzügen entfernt.</li><li>Durchgang zwischen den Aufzügen und dem Gerüst geöffnet.</li><li>Größe des Bombenorts A leicht angepasst.</li><li>Einstiegspunkte versetzt, um die Zeit bzw. den Ort des Aufeinandertreffens der Teams anzupassen.</li><li>Karten-Layout für den Wingman-Modus angepasst, um die Änderungen am Bombenort A zu berücksichtigen.</li></ul><em>Baggage:</em><ul><li>Problem bei der Bewegung auf dem unteren Förderband behoben.</li><li>Höhe der zentralen Förderbandanlage angesenkt, um Scharfschützen eine bessere Sicht zu verschaffen.</li></ul><em>Office:</em><ul><li>Fehler behoben, durch den Spieler durch mehrere Wände hindurchschießen konnten.</li></ul><em>Mirage:</em><ul><li>Fehlerhafte Kollision mit bestimmten Requisiten korrigiert.</li><li>Kollisionen an Fenstern im Palast korrigiert, an denen Spieler hängenbleiben konnten.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135016140040</guid>
-      <pubDate>Thu, 30 May 2024 23:10:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
