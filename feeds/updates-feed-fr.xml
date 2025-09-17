@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 12 Sep 2025 00:46:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 16:37:21 +0000</lastBuildDate>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
       <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction du problème suivant : exec_async pouvait continuer à s&#39;exécuter dans des serveurs protégés contre la triche, ce qui entrainait une perte aléatoire des entrées utilisateur.</p></li><li><p>Dernier appel : récupérez la caisse Galerie, la collection Graphic et les stickers de création de personnages dans l&#39;arsenal avant qu&#39;il ne soit trop tard.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">545620158577639655</guid>
-      <pubDate>Wed, 10 Sep 2025 21:49:34 +0000</pubDate>
+      <pubDate>Wed, 17 Sep 2025 16:19:24 +0000</pubDate>
     </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
@@ -639,22 +639,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4176604868935400021</guid>
       <pubDate>Wed, 12 Jun 2024 21:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 29/05/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[ENTRÉES]<br /><ul><li>Correction du problème suivant : la touche d&#39;activation de la console ne répondait plus après la phase de sélection et de bannissement en mode Premier.</li><li>Désormais, le jeu continue de prendre en compte les entrées au clavier quand le tableau des scores est au premier plan.</li><li>L&#39;entrée du joystick est maintenant désactivée par défaut. L&#39;utilisation d&#39;un joystick n&#39;est pas officiellement prise en charge par CS2, mais vous pouvez restaurer l&#39;ancien comportement avec l&#39;option de lancement « -joy ».</li></ul><br />[INTERFACE]<br /><ul><li>Correction d&#39;un problème avec les noms des joueurs et des joueuses et des bots sur l&#39;écran de sélection d&#39;équipe après la prise de contrôle d&#39;un bot.</li></ul><br />[FINITIONS D&#39;ARMES]<br /><ul><li>Correction du problème suivant : avec certaines configurations graphiques, les couleurs des finitions d&#39;armes étaient remplacées par du noir.</li></ul><br />[DIVERS]<br /><ul><li>Correction du problème suivant : le client de jeu ne se reconnectait pas au réseau Counter-Strike automatiquement s&#39;il était lancé sans connexion au réseau Steam.</li><li>Les comptes Steam avec un blocage en cours ne peuvent plus se connecter aux serveurs Counter-Strike sécurisés.</li><li>Correction du problème suivant : la caméra en vue subjective tanguait de manière excessive sous Linux.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4176604868913554020</guid>
-      <pubDate>Tue, 04 Jun 2024 16:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 24/05/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[FINITIONS D&#39;ARMES]<br /><ul><li>Correction d&#39;un problème avec l&#39;apparence des finitions de couteaux « Doppler », « Doppler Gamma » et « Marbre fondu ».</li></ul><br />[REDIFFUSIONS]<br /><ul><li>Modifications mineures apportées à l&#39;interface.</li></ul><br />[CARTES]<br /><br /><em>Vertigo</em><br /><ul><li>Correction du problème suivant : en mode Wingman, il était possible de détruire la barrière en haut du point d&#39;apparition T, de faire la courte échelle et de sauter depuis le bord de la plateforme jusqu&#39;au site de bombe B.</li><li>Correction du problème suivant : il était possible de lancer des grenades à travers la base de la grue sur le site de bombe A.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135020162650</guid>
-      <pubDate>Wed, 29 May 2024 23:24:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

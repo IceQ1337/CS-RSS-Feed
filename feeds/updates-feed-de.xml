@@ -8,14 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 11 Sep 2025 18:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 16:37:21 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 – Update vom 08.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
       <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, durch den exec_async auf cheatgeschützten Servern weiterhin ausgeführt werden konnte und zu einem zufälligen Ausfall der Benutzereingabe führte.</p></li><li><p>Letzte Gelegenheit: Holen Sie sich die Waffenkiste „Galerie“, die Kollektion „Grafikdesign“ und die Aufkleberkollektion „Charakterliche Kunst“ aus dem Arsenal, bevor es zu spät ist.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">545620158577639655</guid>
-      <pubDate>Wed, 10 Sep 2025 21:49:34 +0000</pubDate>
+      <pubDate>Wed, 17 Sep 2025 16:19:24 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 – Update vom 08.09.2025</title>
@@ -28,7 +28,7 @@
     <item>
       <title>Counter-Strike 2 – Update vom 05.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<p>[ AUDIO ]</p><ul><li><p>Problem behoben, das zu Sound-Aussetzern auf der Karte Agency führte.</p></li></ul><p><br /></p>]]></description>
+      <description><![CDATA[<p>[ AUDIO ]</p><ul><li><p>Problem behoben, das zu Sound-Aussetzern auf der Karte Agency führte.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490218818</guid>
       <pubDate>Wed, 10 Sep 2025 21:48:44 +0000</pubDate>
@@ -639,22 +639,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4176604868935400021</guid>
       <pubDate>Wed, 12 Jun 2024 21:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 29.05.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ EINGABE ]<br /><ul><li>Fehler behoben, durch den die Taste zum Ein- und Ausblenden der Konsole nach der Auswahl-/Bannphase im Spielmodus „Premium“ nicht mehr funktionierte.</li><li>Das Spiel akzeptiert jetzt weiterhin Tastatureingaben, während ein Spielerprofil über dem Punktestand geöffnet ist.</li><li>Die Joystick-Eingabe wird jetzt standardmäßig ignoriert. Die Joystick-Eingabe ist keine offiziell unterstützte Funktion von CS2, aber Sie können das alte Verhalten mit der Startoption -joy wiederherstellen.</li></ul><br />[ BENUTZEROBERFLÄCHE ]<br /><ul><li>Anzeigeproblem von Spieler- und Bot-Namen in der Oberfläche der Teamauswahl behoben, wenn ein Spieler einen Bot übernommen hat.</li></ul><br />[ WAFFENLACKIERUNGEN ]<br /><ul><li>Fehler behoben, durch den bestimmte Grafikeinstellungen dazu führten, dass alle Waffenlackierungen schwarz erschienen.</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Problem behoben, durch das der Spiel-Client keine Verbindung mehr zum Counter-Strike-Netzwerk herstellen konnte, wenn beim Starten keine Verbindung zum Steam-Netzwerk bestand.</li><li>Steam-Accounts mit einer aktiven Sperre können nicht mehr auf VAC-gesicherten Counter-Strike-Servern spielen.</li><li>Fehler behoben, durch den Ansichtsmodelle auf Linux übermäßig hin und her schwankten.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4176604868913554020</guid>
-      <pubDate>Tue, 04 Jun 2024 16:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 24.05.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ WAFFENLACKIERUNGEN ]<br /><ul><li>Erscheinungsbild der Lackierungen Doppler, Gamma Doppler und Marmorfärbung angepasst.</li></ul><br />[ DEMOS ]<br /><ul><li>Kleinere Änderungen an der Benutzeroberfläche vorgenommen.</li></ul><br />[ KARTEN ]<br /><br /><em>Vertigo:</em><br /><ul><li>Das Runboosten auf Bombenort B ist im Spielmodus „Wingman“ nicht mehr möglich.</li><li>Granaten können am Bombenort A nicht mehr durch das Kranfundament geworfen werden.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135020162650</guid>
-      <pubDate>Wed, 29 May 2024 23:24:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
