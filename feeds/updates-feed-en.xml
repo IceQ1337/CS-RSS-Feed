@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Sep 2025 22:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 00:46:54 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GENESIS COLLECTION ]</p><ul><li><p>The Genesis Collection is now available, featuring 17 finishes from community contributors.</p></li><li><p>Access items in the Genesis Collection via the Genesis Uplink Terminal, available as a weekly drop.</p></li></ul><p>[ MAP SCRIPTING ]</p><ul><li><p>Added cs_script, a JavaScript based scripting system for Counter-Strike maps.</p></li><li><p>Added script_zoo.vmap to demonstrate cs_script usage and functionality.</p></li></ul><p>[ UI ]</p><ul><li><p>Added ability to inspect another player&#39;s loadout when spectating.</p></li><li><p>Added zoom (mousewheel) and pan (shift+drag) to all inspect panels.</p></li></ul><p>[ SOUND ]</p><ul><li><p>Each grenade now has unique higher-fidelity sounds for draw, inspect, pin-pull, and throw.</p></li></ul><p>[ MISC ]</p><ul><li><p>Various improvements to subtick shooting consistency.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498332997840273409</guid>
+      <pubDate>Tue, 16 Sep 2025 23:24:32 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -639,22 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4176604868935400021</guid>
       <pubDate>Wed, 12 Jun 2024 21:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 5/29/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ INPUT ]<br /><ul><li>Fixed a bug where the console toggle key would stop working after a Premier pick/ban phase</li><li>The game now continues accepting keyboard input while a scoreboard player card is open</li><li>Joystick input is now ignored by default. Joystick input is not an officially supported feature of CS2, but you can restore the old behavior with the -joy launch option</li></ul><br />[ UI ]<br /><ul><li>Fixed player and bot names on the Team Select screen during bot takeover</li></ul><br />[ WEAPON FINISHES ]<br /><ul><li>Fixed a bug where certain graphics configurations resulted in black weapon finishes</li></ul><br />[ MISC ]<br /><ul><li>Fixed an issue where the game client would never reconnect to Counter-Strike Network if launched while there was no connection to Steam Network</li><li>Steam accounts that have an active account lock are no longer allowed to play on secure Counter-Strike game servers</li><li>Fixed a bug where viewmodels would bob excessively on Linux</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4176604868913554020</guid>
-      <pubDate>Tue, 04 Jun 2024 16:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 5/24/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ WEAPON FINISHES ]<br /><ul><li>Fixed the appearance of Doppler, Gamma Doppler, and Marble Fade finishes</li></ul><br />[ DEMOS ]<br /><ul><li>Minor UI changes</li></ul><br />[ MAPS ]<br /><br /><em>Vertigo:</em><br /><ul><li>Clipped the wings of runboosters to B site in Wingman</li><li>Blocked grenades through crane base at A site</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4177730135020162650</guid>
-      <pubDate>Wed, 29 May 2024 23:24:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
