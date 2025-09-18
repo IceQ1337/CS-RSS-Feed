@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Sep 2025 00:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 00:46:55 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GENESIS COLLECTION ]</p><ul><li><p>Customers in Belgium, Netherlands, and France can now unseal their Sealed Genesis Terminal items.</p></li><li><p>Fixed purchasing errors for users with Steam Wallet funds in Chilean Peso, Colombian Peso, Costa Rican Colón, Indonesian Rupiah, Indian Rupee, Japanese Yen, South Korean Won, Kazakhstani Tenge, New Taiwan Dollar, Ukrainian Hryvnia, Uruguayan Peso, and Vietnamese Dong.</p></li></ul><p>[ ITEMS ]</p><ul><li><p>Fixed position of the nametag and StatTrak module on Shadow Daggers.</p></li></ul><p>[ MAP SCRIPTING ]</p><ul><li><p>Added javascript to the list of asset types.</p></li><li><p>Fixed type declaration for the newAngles parameter of Entity.Teleport.</p></li><li><p>Fixed a bug where GetTraceHit would crash when the config parameter was not specified.</p></li></ul><p>[ MISC ]</p><ul><li><p>Improved timestep-independence of subtick movement acceleration.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498332997840273547</guid>
+      <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -23,7 +31,7 @@
       <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed an issue that would allow exec_async to continue executing in cheat protected servers resulting in random user input dropout.</p></li><li><p>Last chance to pick up the Gallery Case, Graphic Collection, and Character Craft stickers from The Armory.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">545620158577639655</guid>
-      <pubDate>Wed, 10 Sep 2025 21:49:34 +0000</pubDate>
+      <pubDate>Wed, 17 Sep 2025 16:19:24 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 Update</title>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4182235001971902353</guid>
       <pubDate>Fri, 21 Jun 2024 19:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 6/4/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br /><ul><li>Fixed a case where scores weren&#39;t incrementing correctly in Deathmatch and Arms Race</li><li>Fixed a case where players were able to clip their first-person camera through ceilings</li><li>Fixed a case where the C4 could get stuck outside the playable area</li><li>Various stability improvements</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4176604868935400021</guid>
-      <pubDate>Wed, 12 Jun 2024 21:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
