@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 17 Sep 2025 20:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 18:39:18 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 17.09.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ GENESIS-KOLLEKTION ]</p><ul><li><p>Spieler in Belgien, den Niederlanden und Frankreich können jetzt erhaltene Genesis-Uplink-Terminals entsiegeln.</p></li><li><p>Fehler bei Käufen mit Steam-Guthaben in den folgenden Währungen behoben: Chilenischer Peso, Kolumbianischer Peso, Costa-Rica-Colón, Indonesische Rupiah, Indische Rupie, Japanischer Yen, Südkoreanischer Won, Kasachischer Tenge, Neuer Taiwan-Dollar, Ukrainische Hrywnja, Uruguayischer Peso und Vietnamesischer Dong.</p></li></ul><p>[ GEGENSTÄNDE ]</p><ul><li><p>Fehlerhafte Position des Namensschilds und des StatTrak™-Zählers auf Schattendolchen behoben.</p></li></ul><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>JavaScript zur Liste der Elementtypen hinzugefügt.</p></li><li><p>Fehlerhafte Typdeklaration des Parameters „newAngles“ für „Entity.Teleport“ korrigiert.</p></li><li><p>Absturz behoben, der auftrat, wenn die Funktion „GetTraceHit“ ohne Konfigurationsparameter verwendet wurde.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Zeitliche Unabhängigkeit der Subtick-Bewegungsbeschleunigung verbessert.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498332997840273547</guid>
+      <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 16.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -18,7 +26,7 @@
       <pubDate>Tue, 16 Sep 2025 23:24:32 +0000</pubDate>
     </item>
     <item>
-      <title>Counter-Strike 2 – Update vom 08.09.2025</title>
+      <title>Counter-Strike 2 – Update vom 10.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
       <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, durch den exec_async auf cheatgeschützten Servern weiterhin ausgeführt werden konnte und zu einem zufälligen Ausfall der Benutzereingabe führte.</p></li><li><p>Letzte Gelegenheit: Holen Sie sich die Waffenkiste „Galerie“, die Kollektion „Grafikdesign“ und die Aufkleberkollektion „Charakterliche Kunst“ aus dem Arsenal, bevor es zu spät ist.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4182235001971902353</guid>
       <pubDate>Fri, 21 Jun 2024 19:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 04.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Problem behoben, durch das die Punkte in den Spielmodi Deathmatch und Wettrüsten nicht korrekt aufaddiert wurden.</li><li>Problem behoben, durch das Spieler in der Egoperspektive durch Decken blicken konnten.</li><li>Problem behoben, durch das die Bombe außerhalb des Spielbereichs stecken bleiben konnte.</li><li>Diverse Stabilitätsverbesserungen vorgenommen.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4176604868935400021</guid>
-      <pubDate>Wed, 12 Jun 2024 21:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
