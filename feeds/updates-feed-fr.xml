@@ -8,7 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 17 Sep 2025 16:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 16:36:51 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[COLLECTION GENÈSE]</p><ul><li><p>Les joueurs et joueuses en Belgique, aux Pays-Bas et en France peuvent maintenant desceller leurs items du terminal Genèse.</p></li><li><p>Correction d&#39;erreurs d&#39;achat pour les comptes disposant de fonds sur leur portemonnaie Steam en pesos chiliens, pesos colombiens, colones costariciens, roupies indonésiennes, yens japonais, wons sud-coréens, tenges kazakhs, nouveaux dollars de Taïwan, hryvnias ukrainiennes, pesos uruguayens et dongs vietnamiens.</p></li></ul><p>[ITEMS]</p><ul><li><p>La position de l&#39;étiquette et du module StatTrak sur les dagues sombres a été corrigée.</p></li></ul><p>[CRÉATION DE SCRIPTS DE CARTE]</p><ul><li><p>Ajout de Javascript à la liste des types de ressources.</p></li><li><p>Correction du type de déclaration pour le paramètre « newAngles » de l&#39;entité « Entity.Teleport. ».</p></li><li><p>Correction du problème suivant : GetTraceHit plantait quand le paramètre de configuration n&#39;était pas indiqué.</p></li></ul><p>[DIVERS]</p><ul><li><p>Amélioration de l&#39;indépendance de l&#39;accélération du mouvement entre les ticks par rapport au pas de temps.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498332997840273547</guid>
+      <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[COLLECTION GENÈSE]</p><ul><li><p>La collection Genèse est disponible avec 17 finitions provenant de contributions de la communauté.</p></li><li><p>Les items de la collection Genèse sont accessibles dans le terminal de contact Genèse, disponible dans les récompenses hebdomadaires.</p></li></ul><p>[CRÉATION DE SCRIPTS DE CARTE]</p><ul><li><p>Ajout de cs_script, un système de scripts basé sur JavaScript pour les cartes Counter-Strike.</p></li><li><p>Ajout de script_zoo.vmap pour la démonstration de l&#39;utilisation et des fonctionnalités de cs_script.</p></li></ul><p>[INTERFACE]</p><ul><li><p>Ajout de la possibilité d&#39;examiner l&#39;équipement de ses partenaires en vue spectatrice.</p></li><li><p>Ajout des fonctions de zoom (avec la molette de la souris) et de déplacement sur l&#39;écran (MAJ + déplacement avec la souris) pour l&#39;examen des armes.</p></li></ul><p>[AUDIO]</p><ul><li><p>Chaque grenade émet désormais des sons uniques de haute fidélité quand elles sont sorties, examinées, dégoupillées et jetées.</p></li></ul><p>[DIVERS]</p><ul><li><p>Diverses améliorations apportées aux tirs entre les ticks pour plus de cohérence.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498332997840273409</guid>
+      <pubDate>Tue, 16 Sep 2025 23:24:32 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -623,22 +639,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4191242835348964244</guid>
       <pubDate>Mon, 24 Jun 2024 22:22:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 10/06/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GAMEPLAY]<br /><ul><li>Correction du problème suivant : les personnages à l&#39;intérieur des explosions de grenade explosive pouvaient voir à travers sans être vus.</li></ul><br />[HUD]<br /><ul><li>Quand l&#39;équipement de chaque personnage est détaillé en haut du HUD (par exemple, en mode spectateur), les barres de santé indiquent maintenant le nombre de points de santé restants.</li><li>Réduction de certaines saccades provoquées par l&#39;apparition d&#39;éléments du HUD.</li></ul><br />[GRAPHISMES]<br /><ul><li>Ajout d&#39;un paramètre vidéo avancé séparé pour les « ombres dynamiques » avec les options : « Soleil uniquement » ou « Toutes ».</li></ul><br />[ANIMATIONS]<br /><ul><li>En vue à la première personne, il est désormais possible de tenir le couteau Bowie de la main gauche.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4182235001971902353</guid>
-      <pubDate>Fri, 21 Jun 2024 19:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 04/06/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[DIVERS]<br /><ul><li>Correction du problème suivant : les scores n&#39;étaient pas correctement augmentés en modes match à mort et course à l&#39;armement.</li><li>Correction du problème suivant : il était possible de voir à travers les plafonds.</li><li>Correction du problème suivant : la bombe pouvait rester coincée en dehors de la zone de jeu.</li><li>Diverses améliorations au niveau de la stabilité.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4176604868935400021</guid>
-      <pubDate>Wed, 12 Jun 2024 21:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
