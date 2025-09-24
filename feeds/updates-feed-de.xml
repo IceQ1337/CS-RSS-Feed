@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 19 Sep 2025 22:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 18:37:37 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 23.09.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN ]<br /><ul><li>Ancient<ul></ul></li><li>Verschiedene Fehlerbehebungen am Spieler-Clipping vorgenommen.</li><li>Train<ul></ul></li><li>Verschiedene Fehlerbehebungen am Spieler-Clipping vorgenommen.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den sich Spieler nicht mehr von der Stelle bewegen konnten, während sie ihre Maus umherbewegten.</li><li>Fehler behoben, durch den die Bewegungsgeschwindigkeit beim Hochlaufen von Rampen ungewöhnlich niedrig war.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498333631688736878</guid>
+      <pubDate>Wed, 24 Sep 2025 00:54:55 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 18.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6851744408515587491</guid>
       <pubDate>Mon, 24 Jun 2024 22:22:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 11.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ ANIMATION ]<br /><ul><li>Fehler behoben, durch den Waffenanimationen falsch abgespielt wurden, wenn Waffen beim Nachladen untersucht wurden.</li></ul><br />[ AUDIO ]<br /><ul><li>Sprachchat: Die meisten Ruckler, die durch den Sprachchat im Spiel verursacht wurden, sind nun behoben. Bei einigen Nutzern kann bei der ersten Aktivierung von Push-to-Talk noch ein Ruckler auftreten.</li><li>Vereinfachtes Push-to-Talk: Wenn diese Einstellung aktiviert ist, wird der Ruckler verhindert, der sonst ggf. bei der ersten Aktivierung von Push-to-Talk auftritt.</li></ul><br />[ NETZWERK ]<br /><ul><li>Verbindungsqualität bei Latenzvarianz und Paketverlust verbessert, indem die Übertragungsrate der Nutzerbefehle automatisch angepasst wird, sodass Befehle früher beim Server eintreffen.</li></ul><br />[ HUD ]<br /><ul><li>Die Lesbarkeit des Gesundheitswerts von Teammitgliedern oben im HUD wurde bei niedrigeren Auflösungen verbessert.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4191242835348964244</guid>
-      <pubDate>Mon, 24 Jun 2024 22:22:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
