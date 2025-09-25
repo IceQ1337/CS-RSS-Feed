@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 02:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 00:47:05 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ MAP SCRIPTING ]<br /><ul><li>Updated tsconfig.json in the script_zoo, setting the target to &quot;es2022&quot; for more accurate type analysis.</li><li>Changed point_script entity to no longer remove itself on a failed script load during spawn. Instead it will remain in an inactive state and listen for script changes if the game is running in tools mode.</li><li>Fixed point_script entity to no longer potentially crash after an unsuccessful reload from an invalid script while running the game in tools mode.</li><li>Changed point_script entity to hold onto the memory value returned by an Instance.OnBeforeReload callback until the next successful reload instead of forgetting it if the reload is unsuccessful.</li><li>Changed methods expecting arguments of string type to now error instead of calling toString for arguments of the wrong type.</li><li>Changed Instance.Msg and Instance.DebugScreenText to accept any type for the text value.</li><li>Fixed a bug where RunScriptInput would crash the game when triggered with a null caller or activator.</li><li>Removed Instance.OnGameEvent in favor of per-event registration methods. This gives us tools for stronger API stability and creates a consistent API for events that are not gameevents.</li><li>Added Instance.DebugLine</li><li>Added Instance.DebugBox</li><li>Added Instance.OnPlayerConnect</li><li>Added Instance.OnPlayerActivate</li><li>Added Instance.OnPlayerDisconnect</li><li>Added Instance.OnRoundStart</li><li>Added Instance.OnRoundEnd</li><li>Added Instance.OnBombPlant</li><li>Added Instance.OnBombDefuse</li><li>Added Instance.OnPlayerKill</li><li>Added Instance.OnPlayerChat</li><li>Added Instance.OnGunFire</li><li>Added Instance.OnGrenadeThrow</li><li>Added an overload to Instance.EntFireAtName that allows setting caller and activator</li><li>Added an overload to Instance.EntFireAtTarget that allows setting caller and activator</li><li>Added normal vector to the result of Instance.GetTraceHit</li><li>Added Entity.GetGroundEntity</li><li>Added CSWeaponBase.GetOwner</li><li>Added CSPlayerController.GetName</li><li>Added CSObserverPawn.GetOriginalPlayerController</li><li>Added CSPlayerPawn.GetOriginalPlayerController</li><li>Added CSPlayerPawn.IsCrouching</li><li>Added CSPlayerPawn.IsCrouched</li><li>Added CSPlayerPawn.IsNoclipping</li><li>See maps/editor/zoo/scripts/point_script.d.ts for comprehensive details on the API</li><li>Added &quot;train_zoo.vmap&quot; with all de_train assets and examples for mapmakers.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498333631688737092</guid>
+      <pubDate>Thu, 25 Sep 2025 00:17:51 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4194621169475871328</guid>
       <pubDate>Mon, 01 Jul 2024 22:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 6/13/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<ul><li>Added a &quot;pips only&quot; option to the &quot;Show Team ID Through Walls&quot; settings (<em>cl_teamid_overhead_mode</em>)</li><li>Improved bomb interaction with water in Overpass</li><li>Fixed a gap in Nuke on bombsite B</li><li>Fixed lighting bugs in Main Menu Scenery maps Warehouse and Nuke</li><li>Fixed a case where bots would teleport long distances when approaching ladders</li><li>Various localization updates</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6851744408515587491</guid>
-      <pubDate>Mon, 24 Jun 2024 22:22:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
