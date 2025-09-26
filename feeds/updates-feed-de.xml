@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Sep 2025 18:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 00:46:55 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 24.09.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ KARTEN-SCRIPTING ]<br /><ul><li>Quelldatei „tsconfig.json“ im Verzeichnis „script_zoo“ aktualisiert und das Datenziel zu „es2022“ geändert, um eine genauere Typanalyse zu ermöglichen.</li><li>Änderung an der Entität „point_script“ vorgenommen, sodass diese sich bei einem fehlgeschlagenen Ladeversuch von Skripten während des Einstiegs von Spielern nicht mehr selbst entfernt. Stattdessen bleibt die Entität in einem inaktiven Zustand und wartet auf Skriptänderungen, wenn das Spiel im Werkzeugmodus ausgeführt wird.</li><li>Problem behoben, durch das die Entität „point_script“ nach einem fehlgeschlagenen Neuladeversuch durch ein ungültiges Skript abstürzte, wenn das Spiel im Werkzeugmodus ausgeführt wurde.</li><li>Änderung an der Entität „point_script“ vorgenommen, sodass diese den zurückgegebenen Speicherwert der Rückruffunktion „Instance.OnBeforeReload“ bis zum nächsten erfolgreichen Neuladeversuch beibehält und nicht löscht, wenn der Neuladeversuch fehlschlägt.</li><li>Änderungen an Methoden vorgenommen, die Argumente vom Datentyp „String“ erwarten; diese geben nun einen Fehler aus, anstatt die Methode „toString“ für Argumente vom falschen Datentyp aufzurufen.</li><li>Änderungen an den Funktionen „Instance.Msg“ und „Instance.DebugScreenText“ vorgenommen, sodass diese jetzt jeden Datentyp als Textwert akzeptieren.</li><li>Fehler behoben, durch den „RunScriptInput“ das Spiel zum Absturz brachte, wenn ein Aufrufversuch mit einem ungültigen oder fehlenden Wert ausgelöst oder eine Entität aktiviert wurde.</li><li>Rückruffunktion „Instance.OnGameEvent“ zugunsten von Methoden zur Registrierung einzelner Ereignisse ersetzt. Diese Werkzeuge tragen zur Verbesserung der API-Stabilität bei und ermöglichen eine konsistentere Funktionsweise für Ereignisse, die nicht als „GameEvent“ zählen.</li><li>Funktion „Instance.DebugLine“ hinzugefügt.</li><li>Funktion „Instance.DebugBox“ hinzugefügt.</li><li>Methode „Instance.OnPlayerConnect“ hinzugefügt.</li><li>Methode „Instance.OnPlayerActivate“ hinzugefügt.</li><li>Methode „Instance.OnPlayerDisconnect“ hinzugefügt.</li><li>Methode „Instance.OnRoundStart“ hinzugefügt.</li><li>Methode „Instance.OnRoundEnd“ hinzugefügt.</li><li>Methode „Instance.OnBombPlant“ hinzugefügt.</li><li>Methode „Instance.OnBombDefuse“ hinzugefügt.</li><li>Methode „Instance.OnPlayerKill“ hinzugefügt.</li><li>Methode „Instance.OnPlayerChat“ hinzugefügt.</li><li>Methode „Instance.OnGunFire“ hinzugefügt.</li><li>Methode „Instance.OnGrenadeThrow“ hinzugefügt.</li><li>Methodenüberladung für „Instance.EntFireAtName“ definiert, um verschiedene Aufruf- und Aktivierungsmöglichkeiten festzulegen.</li><li>Methodenüberladung für „Instance.EntFireAtTarget“ definiert, um verschiedene Aufruf- und Aktivierungsmöglichkeiten festzulegen.</li><li>Normalenvektor zum Ergebnis der Methode „Instance.GetTraceHit“ hinzugefügt.</li><li>Methode „Entity.GetGroundEntity“ hinzugefügt.</li><li>Methode „CSWeaponBase.GetOwner“ hinzugefügt.</li><li>Methode „CSPlayerController.GetName“ hinzugefügt.</li><li>Methode „CSObserverPawn.GetOriginalPlayerController“ hinzugefügt.</li><li>Methode „CSPlayerPawn.GetOriginalPlayerController“ hinzugefügt.</li><li>Methode „CSPlayerPawn.IsCrouching“ hinzugefügt.</li><li>Methode „CSPlayerPawn.IsCrouched“ hinzugefügt.</li><li>Methode „CSPlayerPawn.IsNoclipping“ hinzugefügt.</li><li>Ausführliche Informationen zur API finden Sie unter „maps/editor/zoo/scripts/point_script.d.ts“.</li><li>Kartendatei „train_zoo.vmap“ mit allen Elementen und einigen Beispielen aus der Karte Train für Community-Kartenersteller hinzugefügt.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498333631688737092</guid>
+      <pubDate>Thu, 25 Sep 2025 00:17:51 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 23.09.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -631,22 +639,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4257672198473442891</guid>
       <pubDate>Fri, 05 Jul 2024 16:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 20.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<ul><li>Fehler behoben, durch den das Spiel weiterhin einen Tastendruck registrierte, obwohl die entsprechende Taste bereits losgelassen wurde.</li><li>Weitere Netzwerkverbesserungen vorgenommen, um Paketverlust und Latenzvarianz entgegenzuwirken.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4194621169475871328</guid>
-      <pubDate>Mon, 01 Jul 2024 22:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 13.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<ul><li>Option „Nur Marker“ für die Einstellung „Team-ID durch Wände anzeigen“ hinzugefügt (<em>cl_teamid_overhead_mode</em>).</li><li>Interaktion der Bombe mit Wasser auf Overpass verbessert.</li><li>Lücke am Bombenort B auf Nuke ausgebessert.</li><li>Fehlerhafte Beleuchtung bei den Hintergrundkulissen „Lagerhaus“ und „Nuke“ im Hauptmenü behoben.</li><li>Fehler behoben, durch den Bots über längere Distanz teleportiert wurden, wenn sie sich einer Leiter näherten.</li><li>Einige Aktualisierungen an der Lokalisierung vorgenommen.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6851744408515587491</guid>
-      <pubDate>Mon, 24 Jun 2024 22:22:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
