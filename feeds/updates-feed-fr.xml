@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Sep 2025 18:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 14:35:27 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[[SCRIPTS DE CARTE]<br /><ul><li>Mise à jour du fichier tsconfig.json dans le script_zoo, en définissant la cible sur « es2022 » pour une analyse de type plus précise.</li><li>Modification de l&#39;entité point_script pour qu&#39;elle ne se supprime plus elle-même en cas d&#39;échec du chargement d&#39;un script lors de la réapparition. Au lieu de cela, elle restera inactive et attendra les modifications de script (si le jeu est exécuté depuis les outils du Workshop).</li><li>Correction du problème suivant : il y avait un risque de plantage de l&#39;entité point_script après l&#39;échec d&#39;un rechargement depuis un script non valide lors de l&#39;exécution du jeu depuis les outils du Workshop.</li><li>Modification de l&#39;entité point_script pour qu&#39;elle conserve la valeur mémoire renvoyée par un rappel Instance.onBeforeReload jusqu&#39;au rechargement réussi suivant au lieu de l&#39;oublier si le rechargement échoue.</li><li>Correction du problème suivant : si une méthode s&#39;attendait à recevoir des arguments de type string, elle appelait toString pour des arguments du mauvais type au lieu de renvoyer une erreur.</li><li>Modification de Instance.Msg et Instance.DebugScreenText pour qu&#39;ils acceptent n&#39;importe quel type pour la valeur de texte.</li><li>Correction du problème suivant : RunScriptInput provoquait un plantage du jeu lorsqu&#39;il était déclenché avec un appelant ou un activateur nul.</li><li>Suppression de Instance.OnGameEvent en faveur des méthodes d&#39;inscription par évènement. Cela nous aidera à renforcer la stabilité de l&#39;API, et fournit une API uniforme pour les évènements autres que gameevents.</li><li>Ajout de Instance.DebugLine.</li><li>Ajout de Instance.DebugBox.</li><li>Ajout de Instance.OnPlayerConnect.</li><li>Ajout de Instance.OnPlayerActivate.</li><li>Ajout de Instance.OnPlayerDisconnect.</li><li>Ajout de Instance.OnRoundStart.</li><li>Ajout de Instance.OnRoundEnd</li><li>Ajout de Instance.OnBombPlant.</li><li>Ajout de Instance.OnBombDefuse.</li><li>Ajout de Instance.OnPlayerKill.</li><li>Ajout de Instance.OnPlayerChat.</li><li>Ajout de Instance.OnGunFire.</li><li>Ajout de Instance.OnGrenadeThrow.</li><li>Ajout d&#39;une surcharge de fonction à Instance.entFireAtName qui permet de définir l&#39;appelant et l&#39;activateur.</li><li>Ajout d&#39;une surcharge de fonction à Instance.entFireAtTarget qui permet de définir l&#39;appelant et l&#39;activateur.</li><li>Ajout d&#39;un vecteur normal au résultat de Instance.GetTraceHit.</li><li>Ajout de Entity.getGroundEntity.</li><li>Ajout de CSWeaponBase.GetOwner.</li><li>Ajout de CSPlayerController.GetName.</li><li>Ajout de CSObserverPawn.GetOriginalPlayerController.</li><li>Ajout de CSPlayerPawn.GetOriginalPlayerController.</li><li>Ajout de CSPlayerPawn.IsCrouching.</li><li>Ajout de CSPlayerPawn.IsCrouched.</li><li>Ajout de CSPlayerPawn.IsNoclipping.</li><li>Consultez maps/editor/zoo/scripts/point_script.d.ts pour une description détaillée de l&#39;API.</li><li>Ajout de « train_zoo.vmap », avec toutes les ressources de de_train et des exemples pour les cartographes.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498333631688737092</guid>
+      <pubDate>Thu, 25 Sep 2025 00:17:51 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -631,22 +639,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4257672198473442891</guid>
       <pubDate>Fri, 05 Jul 2024 16:37:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 20/06/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<ul><li>Correction du problème suivant : le jeu considérait parfois qu&#39;une touche était maintenue enfoncée alors que ce n&#39;était plus le cas.</li><li>Le réseau a été amélioré pour atténuer les problèmes d&#39;instabilité ou de pertes de paquets.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4194621169475871328</guid>
-      <pubDate>Mon, 01 Jul 2024 22:49:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 13/06/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<ul><li>Ajout d&#39;une option « icône uniquement » aux paramètres « Afficher les ID de l&#39;équipe à travers les murs » (<em>cl_teamid_overhead_mode</em>).</li><li>L&#39;interaction entre la bombe et l&#39;eau a été améliorée sur Overpass.</li><li>Correction d&#39;un interstice sur le site de Bombe B de Nuke.</li><li>Correction des problèmes d&#39;éclairage de l&#39;arrière-plan du menu principal avec Warehouse et Nuke.</li><li>Correction du problème suivant : les bots pouvaient se téléporter sur de longues distances quand ils s&#39;approchaient des échelles.</li><li>Diverses mises à jour des traductions.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6851744408515587491</guid>
-      <pubDate>Mon, 24 Jun 2024 22:22:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
