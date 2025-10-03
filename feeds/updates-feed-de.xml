@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Oct 2025 18:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 16:36:28 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 02.10.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><ul><li><p>Karten Palacio, Rooftop und Golden auf die jeweils neueste Version aus dem Community-Workshop aktualisiert.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Leuchtpunktgröße für das Zielfernrohr der AUG und SG 553 angepasst.</p></li><li><p>Einstellungsoptionen für die Leuchtpunktgröße sowie die Fadenkreuzdicke von Scharfschützengewehren hinzugefügt.</p></li><li><p>Letterbox für die Kamerapfadübergänge hinzugefügt.</p></li><li><p>Regression in bestimmten Szenarien mit der Kugeldurchdringung behoben.</p></li><li><p>Stabilitätsverbesserungen vorgenommen.</p></li></ul><p></p><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>Fehler behoben, durch den die alten Rückruffunktionen nach dem Neuladen eines Skripts aufgerufen werden konnten.</p></li><li><p>Fehler behoben, durch den die neuen Rückruffunktionen nach dem Neuladen eines Skripts mehrfach aufgerufen werden konnten.</p></li><li><p>Fehlende Methode „Instance.IsFreezePeriod“ hinzugefügt.</p></li><li><p>Fehler behoben, durch den die Methoden „Instance.OnGunReload“ und „Instance.OnGunFire“ nicht für die XM1014, Nova und abgesägte Schrotflinte funktionierten.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498333631688738238</guid>
+      <pubDate>Thu, 02 Oct 2025 23:35:45 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 01.10.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4257672198476956313</guid>
       <pubDate>Tue, 23 Jul 2024 18:18:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steam-Spielaufnahme (Beta) jetzt verfügbar</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[Das Teilen Ihrer besten CS2-Momente ist jetzt viel einfacher geworden: Mit der neuen integrierten Funktion Steam-Spielaufnahme können Sie Ihre Clutch-Abschüsse und spektakulären Spraytransfers mit nur wenigen Mausklicks aufzeichnen.<br /><br />Die Steam-Spielaufnahme speichert Ihr Gameplay automatisch im Hintergrund nach dem Start eines Spiels (oder auch manuell über eine Tastenkombination). Sie können sich die Aufnahme jederzeit anschauen – sogar während Sie noch spielen. Aufnahmen in CS2 enthalten eine Zeitleiste mit Markierungen für wichtige Events im Spiel (wie Abschüsse oder Tode). Es steht Ihnen aber auch frei, an jeder beliebigen Stelle eigene Markierungen zu setzen.<br /><br />Möchten Sie an der Beta der Steam-Spielaufnahme teilnehmen? Klicken Sie auf den folgenden Link für weitere Informationen.<br /><br /><a rel="nofollow" href="https://store.steampowered.com/sale/gamerecording">https://store.steampowered.com/sale/gamerecording</a>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4257672198476571195</guid>
-      <pubDate>Tue, 24 Sep 2024 20:04:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
