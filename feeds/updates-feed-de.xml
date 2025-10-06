@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Oct 2025 16:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 20:34:24 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 03.10.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><ul><li><p>Karte Palacio auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3249860053">Update-Notizen</a>)</p></li><li><p>Karte Transit aus der offiziellen Spielsuche entfernt.</p></li></ul><p></p><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>Fehler behoben, durch den die Methode „Instance.OnPlayerPing“ keine Positionsdaten übermittelte.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498333631688738354</guid>
+      <pubDate>Fri, 03 Oct 2025 23:18:32 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 02.10.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4257672198480471603</guid>
       <pubDate>Tue, 09 Jul 2024 22:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 26.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br /><em>Pool Day</em><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964">Update-Notizen</a>)</li></ul><br />[ VERSCHIEDENES ]<ul><li>Unterstützung für das Laden der neuesten Version von Community-Karten aus dem Workshop beim Spielen auf Community-Servern hinzugefügt. Dies gilt auch für Community-Karten der offiziellen Kartengruppen, die eine ältere Version aufweisen.</li><li>Problem behoben, durch das die Erkennung von G-Sync im Vollbildmodus nicht funktionierte.</li><li>Fehler behoben, durch den das QWERTY-Tastaturlayout für Nutzer einer von diesem Layout abweichenden Tastatur beibehalten wurde.</li><li>Problem mit einer leeren Funkmeldung behoben, die abgespielt wurde, wenn die gelegte Bombe wenige Sekunden vor der Detonation stand.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4257672198476956313</guid>
-      <pubDate>Tue, 23 Jul 2024 18:18:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
