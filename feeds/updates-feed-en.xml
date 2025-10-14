@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Oct 2025 00:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 00:46:59 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Pre-Release Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>A new pre-release build (“1.41.1.3-rc1”) is now available in the CS2 beta depot. This build is not compatible with public matchmaking.</p><p>For instructions on how to opt into a CS2 beta depot build, visit the following page: </p><p><a rel="nofollow" href="https://support.steampowered.com/kb_article.php?ref=9847-WHXC-7326">https://support.steampowered.com/kb_article.php?ref=9847-WHXC-7326</a></p><p></p><p>[ ENGINE ]</p><ul><li><p>Updated engine code to the latest version of Source 2.</p></li><li><p>Reworked bullet penetration simulation to reduce CPU usage.</p></li><li><p>Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage when players are shooting.</p></li></ul><p>[ GAMEPLAY ]</p><ul><li><p>Defusing C4 will now lower the viewmodel weapon, prevent scoping, and delay firing the weapon by 150ms after exiting the defuse.</p></li><li><p>Fixed a case where 1 tick was incorrectly subtracted from sv_predictable_damage_tag_ticks.</p></li></ul><p>[ UI ]</p><ul><li><p>Major Highlight clips are now viewable from the Spectator Loadout.</p></li><li><p>Selected player is now more visible in the Team Counter.</p></li><li><p>Context menu in the Inventory now opens in a position relative to the cursor.</p></li><li><p>HUD weapon mode indicator has been moved to the ammo count.</p></li></ul><p>[ MAP SCRIPTING ]</p><ul><li><p>cs_script enums can now be imported and behave the same as TypeScript enums.</p><ul></ul></li><li><p>CSWeaponType.PISTOL == 1</p></li><li><p>CSWeaponType[1] == &quot;PISTOL&quot;</p></li><li><p>Added enums CSRoundEndReason, CSHitGroup, CSLoadoutSlot, CSDamageTypes, CSDamageFlags and CSWeaponAttackType</p></li><li><p>Added BOOSTS value to CSGearSlot. This is the gear slot for healthshots.</p></li><li><p>Updated Instance.OnRoundEnd to now receive the reason</p></li><li><p>Updated Instance.OnBeforePlayerDamage to now receive damageType and damageFlags and the result can now modify damageType and damageFlags</p></li><li><p>Updated Instance.OnPlayerDamage to now receive damageType and damageFlags</p></li><li><p>Updated Instance.OnKnifeAttack to now receive attackType</p></li><li><p>Updated Instance.TraceLine, Instance.TraceSphere and Instance.TraceBox</p><ul></ul></li><li><p>The trace config now accepts an array of ignore entities or just one</p></li><li><p>The trace config can specify to trace against hitboxes</p></li><li><p>The trace result will include hitGroup if tracing against hitboxes</p></li><li><p>Updated Instance.BulletTrace result to include hitGroup</p></li><li><p>Updated Entity.TakeDamage to accept damageType and damageFlags</p></li><li><p>Added CSWeaponData.GetGearSlot()</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">498334899948749338</guid>
+      <pubDate>Mon, 13 Oct 2025 23:29:16 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4257672198498686343</guid>
       <pubDate>Tue, 23 Jul 2024 18:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 06/27/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ NETWORK ]<br /><ul><li>Fixed a bug leading to excessive stuttering for some players</li></ul><br />[ HUD ]<br /><ul><li>Fixed case of radar background being incorrectly colored.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4257672198480471603</guid>
-      <pubDate>Tue, 09 Jul 2024 22:16:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
