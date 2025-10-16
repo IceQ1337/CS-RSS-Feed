@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Oct 2025 22:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 00:47:00 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed a case of incorrect damage report data at the end of the rounds.</p></li><li><p>Updated King Crasswater and Queen Ava stickers for clarity.</p></li><li><p>Skinning fixes on Driver Gloves and Sport Gloves.</p></li><li><p>Fixed a crash when playing back some demo files.</p></li><li><p>Stability improvements.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">527609017446432771</guid>
+      <pubDate>Thu, 16 Oct 2025 00:06:22 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4363508865823029428</guid>
       <pubDate>Tue, 24 Sep 2024 22:24:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 7/11/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br /><em>Ancient</em><br /><ul><li>Fixed clipping on crates at bombsite A to allow players to jump on top again.</li></ul><em>Vertigo</em><br /><ul><li>Fixed clipping on ends of bombsite A catwalk to prevent players from walking off.</li></ul><br />[ MISC ]<br /><ul><li>Fixed occasional first-person camera jolt when throwing grenades.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4397285236932881679</guid>
-      <pubDate>Tue, 23 Jul 2024 18:16:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
