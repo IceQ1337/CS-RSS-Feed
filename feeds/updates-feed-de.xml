@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Oct 2025 20:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 18:38:21 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 15.10.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, durch den nicht alle Daten im Schadensbericht am Ende einer Runde angezeigt wurden.</p></li><li><p>Aufkleber „König Krasswasser“ und „Königin Ava“ zur besseren Erkennbarkeit aktualisiert.</p></li><li><p>Anpassungen am Skinning der Chauffeurshandschuhe und Sporthandschuhe vorgenommen.</p></li><li><p>Absturz behoben, der bei der Wiedergabe von Demodateien auftrat.</p></li><li><p>Stabilitätsverbesserungen vorgenommen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">527609017446432771</guid>
+      <pubDate>Thu, 16 Oct 2025 00:06:22 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 03.10.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -623,30 +631,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4363508865823029428</guid>
       <pubDate>Tue, 24 Sep 2024 22:24:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 11.07.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br /><em>Ancient</em><br /><ul><li>Clipping auf den Kisten am Bombenort A verbessert, sodass Spieler wieder oben draufspringen können.</li></ul><em>Vertigo</em><br /><ul><li>Clipping am Rand des Gerüststegs am Bombenort A verbessert, sodass Spieler nicht mehr versehentlich in die Tiefe stürzen.</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den die Kamera der Egoperspektive gelegentlich beim Werfen von Granaten ruckelte.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4397285236932881679</guid>
-      <pubDate>Tue, 23 Jul 2024 18:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 02.07.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br /><em>Pool Day</em><br /><ul><li>Karte auf die <a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964">neueste Version</a> aus dem Community-Workshop aktualisiert.</li></ul><em>Dust II</em><br /><ul><li>Lücke in einem Ziegelstapel am Bombenort B ausgebessert.</li><li>Fehler behoben, durch den keine angepassten Sounds auf Community-Karten abgespielt werden konnten.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4257672198498686343</guid>
-      <pubDate>Tue, 23 Jul 2024 18:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 27.06.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ NETZWERK ]<br /><ul><li>Fehler behoben, der bei einigen Spielern zu übermäßigem Stottern im Spiel führte.</li></ul><br />[ HUD ]<br /><ul><li>Fehler behoben, durch den der Hintergrund des Radars die falsche Farbe hatte.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4257672198480471603</guid>
-      <pubDate>Tue, 09 Jul 2024 22:16:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
