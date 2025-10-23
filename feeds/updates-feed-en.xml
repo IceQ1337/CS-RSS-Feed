@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Oct 2025 00:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 00:47:08 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.</p></li><li><p>Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.</p></li></ul><p>[ MAPS ]</p><ul><li><p>Updated Golden to the latest version from Steam Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3286163323">Update Notes</a>)</p></li><li><p>Updated Palacio to the latest version from Steam Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3249860053">Update Notes</a>)</p></li><li><p>Updated Rooftop to the latest version from Steam Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3536622725">Update Notes</a>)</p></li></ul><p>Inferno</p><ul><li><p>Adjustments to top of Quad and under Balcony to improve visibility.</p></li><li><p>Various optimizations.</p></li></ul><p>[ CONTRACTS ]</p><ul><li><p>Extended functionality of the &quot;Trade Up Contract&quot; to allow exchanging 5 items of Covert quality as follows:</p><ul></ul></li><li><p>5 StatTrak™ Covert items can be exchanged for one StatTrak™ Knife from a collection of one of the items provided</p></li><li><p>5 regular Covert items can be exchanged for one regular Knife item or one regular Gloves item from a collection of one of the items provided</p></li></ul><p>[ MISC ]</p><ul><li><p>Performance optimizations when the game is in the main menu and item inspect UI</p></li><li><p>Fixed inventory item icons sometimes rendering in blurry state or not rendering</p></li><li><p>Fixed several server-only sound events to not start multiple times</p></li><li><p>Stability improvements</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">516350567072662004</guid>
+      <pubDate>Wed, 22 Oct 2025 23:00:20 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -639,14 +647,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4361258795955674967</guid>
       <pubDate>Mon, 26 Aug 2024 23:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 7/22/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br /><em>Dust II</em><br /><ul><li>Modified crate stack outside CT spawn towards bombsite A.</li></ul><em>Nuke</em><br /><ul><li>Clipping adjustments.</li></ul><em>Assembly</em><br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3071005299">Update Notes</a>).</li></ul><em>Memento</em><br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3165559377">Update Notes</a>).</li></ul><br />[ MISC ]<br /><ul><li>Added official game servers in London.</li><li>Reduced fire effects penetration through thin walls.</li><li>Added 2024 Copenhagen Major trophies to player profiles.</li><li>Whitelisted cs_minimap_create_output_size setting for Counter-Strike 2 Workshop Tools.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4363508865823029428</guid>
-      <pubDate>Tue, 24 Sep 2024 22:24:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
