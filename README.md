@@ -1,9 +1,9 @@
 [![Generate RSS feeds](https://github.com/IceQ1337/CS2-RSS-Feed/actions/workflows/update-rss-feeds.yaml/badge.svg)](https://github.com/IceQ1337/CS2-RSS-Feed/actions/workflows/update-rss-feeds.yaml)
 
 # Counter-Strike RSS-Feed Repository
-This repository provides a collection of RSS feeds for news and updates on the [new Counter-Strike website](https://counter-strike.net), which is updated several times a day as the new website unfortunately lacks this feature.  
+This repository provides a collection of RSS feeds for news and updates on the [new Counter-Strike website](https://counter-strike.net) as the new website unfortunately lacks this feature.  
 
-Using [Github Workflows](https://docs.github.com/en/actions/using-workflows), the website is checked for new entries every 2 hours. The RSS feeds are only updated when there are actually new entries to reduce repository noise.  
+Using [Github Workflows](https://docs.github.com/en/actions/using-workflows), the website is checked for new entries every 10 minutes. The RSS feeds are only updated when there are actually new entries to reduce repository noise.  
 
 Updating each feed requires one API request per language to the website. This means that generating both the news and updates feed for a single language (e.g., English) takes only one request total, as both feeds are created from the same data source.
 
