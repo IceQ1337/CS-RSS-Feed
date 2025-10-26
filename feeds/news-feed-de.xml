@@ -7,8 +7,13 @@
     <atom:link href="https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-de.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/global/cs2_icon_color_512x512.png</url>
+      <title>Counter-Strike 2 - News (German)</title>
+      <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-de.xml</link>
+    </image>
     <language>de</language>
-    <lastBuildDate>Fri, 24 Oct 2025 22:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 15:17:37 +0000</lastBuildDate>
     <item>
       <title>Zu-Rückeroberung</title>
       <link>https://www.counter-strike.net/newsentry/516350567072661952</link>

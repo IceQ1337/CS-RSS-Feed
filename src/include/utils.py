@@ -78,6 +78,7 @@ def update_rss_feed(
     fg.description(description)
     fg.link(href=feed_link, rel="self")
     fg.language(language["code"])
+    fg.logo("https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/global/cs2_icon_color_512x512.png")
 
     for item in reversed(items):
         fe = fg.add_entry()
