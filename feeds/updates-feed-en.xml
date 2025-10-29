@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 15:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 23:38:43 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Improved player movement prediction when colliding with other moving players.</p></li><li><p>Added scope in/out sound prediction to play immediately for local player.</p></li><li><p>Retake loadout cards will now randomly offer M4A1-S or M4A4 if player has both equipped in their CT loadout.</p></li><li><p>Added Body Armor to 4v3, 4 Bad Guys Left, and Blind Fire cards.</p></li><li><p>Added Dual Berettas to T Blind Fire card.</p></li><li><p>Replaced Flashbang with HE Grenade on CT Enemy Loadout Card</p></li><li><p>Fixed idle animations on CZ75-Auto, SSG 08, AUG, Galil AR.</p></li><li><p>Performance improvements.</p></li><li><p>Stability improvements.</p></li><li><p>Improvements to animation fidelity during demo playback.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">771930569635266572</guid>
+      <pubDate>Wed, 29 Oct 2025 23:36:37 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -644,14 +652,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6500469346429581891</guid>
       <pubDate>Thu, 26 Sep 2024 22:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/14/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br /><em>Mills</em><br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710">Update Notes</a>)</li></ul><em>Pool Day</em><br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964">Update Notes</a>)</li></ul><br />[ MISC ]<br /><ul><li>Slightly delayed tagging effects to reduce instances of players experiencing teleportation when taking damage. Delaying tagging results in a smoother experience, however players will have slightly more time to move at full speed when receiving damage. The delay can be adjusted on servers using convar sv_predictable_damage_tag_ticks (default 2)</li><li>Fixed a case where players could start the bomb plant animation outside of bomb sites</li><li>Fixed a case where the revolver barrel would rotate erroneously</li><li>Reduced initial loading times for the Settings and Play menus</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4254298937819686068</guid>
-      <pubDate>Mon, 26 Aug 2024 23:51:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
