@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 26 Oct 2025 15:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 18:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 29.10.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Vorhersage der Spielerbewegung bei Kollision mit anderen sich bewegenden Spielern verbessert.</p></li><li><p>Soundvorhersage beim Herein- bzw. Herauszoomen mit einem Zielfernrohr hinzugefügt, sodass der Sound sofort auf dem Client abgespielt wird.</p></li><li><p>Die Ausrüstungskarten im Spielmodus Rückeroberung bieten jetzt zufällig die M4A4 oder M4A1-S an, wenn der Spieler beide Waffen in seiner AT-Ausrüstung ausgerüstet hat.</p></li><li><p>Kevlarweste zu den Ausrüstungskarten „4 vs. 3“, „Noch 4 böse Jungs“ und „Blinde Wut“ hinzugefügt.</p></li><li><p>Akimbo-Berettas zur T-Ausrüstungskarte „Blinde Wut“ hinzugefügt.</p></li><li><p>Blendgranate durch Splittergranate bei der AT-Ausrüstungskarte „Gegner-Ausrüstung“ ersetzt.</p></li><li><p>Animationen bei Inaktivität für die Waffen CZ75-Auto, SSG 08, AUG und Galil AR korrigiert.</p></li><li><p>Leistungsverbesserungen vorgenommen.</p></li><li><p>Stabilitätsverbesserungen vorgenommen.</p></li><li><p>Animationsgenauigkeit bei der Demo-Wiedergabe verbessert.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">771930569635266572</guid>
+      <pubDate>Wed, 29 Oct 2025 23:36:37 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 23.10.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -644,14 +652,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6500469346429581891</guid>
       <pubDate>Thu, 26 Sep 2024 22:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 14.08.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br /><em>Mills</em><br /><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710">Update-Notizen</a>)</li></ul><em>Pool Day</em><br /><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964">Update-Notizen</a>)</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Zeitpunkt des Verlangsamungseffekts nach erlittenem Schaden verzögert, sodass Spieler weniger oft den Eindruck erhalten, ein Stück zurückteleportiert zu werden. Indem der Verlangsamungseffekt erst verzögert auftritt, entsteht ein flüssigeres Spielerlebnis, allerdings können sich Spieler dadurch auch etwas länger mit maximalem Tempo bewegen, nachdem sie getroffen wurden. Die Verzögerung kann auf Servern mit der Konfigurationsvariable „sv_predictable_damage_tag_ticks“ angepasst werden (Standardwert: 2).</li><li>Fehler behoben, durch den Spieler die Animation zum Legen der Bombe außerhalb von Bombenorten auslösen konnten.</li><li>Fehler behoben, durch den sich die Trommel des R8-Revolvers irrtümlich drehen konnte.</li><li>Anfängliche Ladezeiten für die Menüs „Einstellungen“ und „Spielen“ verkürzt.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4254298937819686068</guid>
-      <pubDate>Mon, 26 Aug 2024 23:51:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
