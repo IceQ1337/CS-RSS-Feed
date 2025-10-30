@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Oct 2025 15:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 19:17:25 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Amélioration de la prédiction des mouvements des modèles en cas de collision avec d&#39;autres personnes en mouvement.</p></li><li><p>Ajout d&#39;une prédiction sonore d&#39;utilisation de la lunette pour déclencher le son immédiatement côté client.</p></li><li><p>Les cartes d&#39;équipement Reprises de contrôle proposeront désormais au hasard une M4A1-S ou une M4A4 si les deux armes sont équipées dans l&#39;équipement AT.</p></li><li><p>Les cartes « Quatre contre trois », « Plus que 4 minables » et « Tir à l&#39;aveugle » confèrent désormais une protection pare-balle.</p></li><li><p>Ajout des Dual Berrettas à la carte « Tir à l&#39;aveugle » pour les terroristes.</p></li><li><p>La grenade aveuglante de la carte « Équip. ennemi » a été remplacée par une grenade explosive pour les antiterroristes.</p></li><li><p>Correction des animations du CZ75-Auto, du SSG 08, de l&#39;AUG et du Galil AR en cas d&#39;inactivité.</p></li><li><p>Améliorations des performances.</p></li><li><p>Améliorations au niveau de la stabilité.</p></li><li><p>Améliorations de la fidélité des animations lors de la lecture des fichiers de rediffusion.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">771930569635266572</guid>
+      <pubDate>Wed, 29 Oct 2025 23:36:37 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -644,14 +652,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6500469346429581891</guid>
       <pubDate>Thu, 26 Sep 2024 22:38:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 14/08/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><br /><em>Mills</em><br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop de la communauté (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710">cliquez ici pour voir les notes de mise à jour</a>).</li></ul><em>Pool Day</em><br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop de la communauté (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964">cliquez ici pour voir les notes de mise à jour</a>).</li></ul><br />[DIVERS]<br /><ul><li>L&#39;effet de ralentissement en cas de dégâts reçus a été légèrement retardé pour éviter les phénomènes de téléportations. Le fait de retarder le ralentissement permet de gagner en fluidité. Cela signifie également que vous disposez d&#39;un délai supplémentaire pour vous déplacer à pleine vitesse après avoir reçu des dégâts. Le délai peut être ajusté sur les serveurs à l&#39;aide de la variable « sv_predictable_damage_tag_ticks » (réglée sur 2 par défaut).</li><li>Correction du problème suivant : il était possible de déclencher l&#39;animation de pose de bombe en dehors des sites A et B.</li><li>Correction d&#39;un problème avec la rotation du barillet du révolver R8.</li><li>Réduction du temps de chargement initial pour les menus « Paramètres » et « Jouer ».</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4254298937819686068</guid>
-      <pubDate>Mon, 26 Aug 2024 23:51:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
