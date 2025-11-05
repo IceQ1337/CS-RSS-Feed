@@ -13,19 +13,19 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Nov 2025 00:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 03:58:59 +0000</lastBuildDate>
     <item>
       <title>Introducing TrueView</title>
       <link>https://www.counter-strike.net/newsentry/578276333072678918</link>
-      <description><![CDATA[<p>Today we&#39;re adding a new feature to demo playback called <em>TrueView</em>.  With TrueView, demo playback will match the player&#39;s original experience much more closely.</p><p>Previously, demo playback showed the server&#39;s view of the world, without accounting for network latency. This could be confusing because shots would hit that didn&#39;t look like they should have, and vice versa. </p><p>TrueView provides a more accurate representation of the observed player&#39;s experience by re-running their <em><a rel="nofollow" href="https://en.wikipedia.org/wiki/Client-side_prediction">client-side prediction</a></em>.</p><p>The video below shows the difference between the old demo playback and the same playback with TrueView.</p><p>
+      <description><![CDATA[<p>Today we&#39;re adding a new feature to demo playback called <em>TrueView</em>.  With TrueView, demo playback will match the player&#39;s original experience much more closely.</p><p>Previously, demo playback showed the server&#39;s view of the world, without accounting for network latency. This could be confusing because shots would hit that didn&#39;t look like they should have, and vice versa. </p><p>TrueView provides a more accurate representation of the observed player&#39;s experience by re-running their <a rel="nofollow" href="https://en.wikipedia.org/wiki/Client-side_prediction"><em>client-side prediction</em></a>.</p><p>The video below shows the difference between the old demo playback and the same playback with TrueView.</p><p>
             <video controls poster="{STEAM_CLAN_IMAGE}/3381077/62030ce08e8f12c926a4f6d935273d4dd68eb0bb.jpg">
                 <source src="{STEAM_CLAN_IMAGE}/3381077/9ca1d515aebe8c11b94bcd3dd1ee9f28c02f0909.mp4" type="video/mp4">
 <source src="{STEAM_CLAN_IMAGE}/3381077/9a8ab6de516a3c52f5d76f2174fd45976d8203b2.webm" type="video/webm">
             </video>
-            </p><p>A few caveats:</p><ul><li><p>TrueView will only predict damage if Damage Prediction was active for the player being observed at the time. Your own client settings will not have an effect.</p></li><li><p>By default, TrueView is deactivated when the version of the game you are using to view the demo does not match the version of the game used to record the demo.</p></li><li><p>Even with TrueView active, there may still be some differences between what you see in the demo and what the player originally saw (especially with slow-motion playback). For example, damage effects will have different timing during demo playback due to the way CPU and GPU work are pipelined.</p></li></ul><p></p><p>Additionally, we&#39;re shipping movement changes that we made available last week in a beta branch. All that and more and today&#39;s update!</p>]]></description>
+            </p><p>A few caveats:</p><ul><li><p>By default, TrueView is deactivated when the version of the game you are using to view the demo does not match the version of the game used to record the demo.</p></li><li><p>Even with TrueView active, there may still be some differences between what you see in the demo and what the player originally saw (especially with slow-motion playback). For example, damage effects will have different timing during demo playback due to the way CPU and GPU work are pipelined.</p></li><li><p>In addition to performing clientside prediction of the observed player, TrueView will also perform Damage Prediction on enemies, if Damage Prediction was used by the observed player at the time. </p></li></ul><p></p><p>Additionally, we&#39;re shipping movement changes that we made available last week in a beta branch. All that and more and today&#39;s update!</p>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">578276333072678918</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:20 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025 03:55:58 +0000</pubDate>
     </item>
     <item>
       <title>Re-Retakes</title>
