@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Oct 2025 23:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 00:27:24 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Fixed a case where air acceleration was clamped incorrectly while surfing.</p></li><li><p>Fixed a case where slowly surfing up a ramp was handled incorrectly due to misidentification as a jump apex.</p></li><li><p>Fix a bug causing &quot;Delay Sniper Rifle Un-Scope after Shot&quot; to be inconsistent.</p></li></ul><p></p><p>[ DEMO ]</p><ul><li><p>Added TrueView demo playback, which reconstructs the observed player&#39;s original experience more accurately by re-running client-side prediction.</p></li><li><p>TrueView playback will show the effects of Damage Prediction, if it was enabled by the observed player at the time.</p></li><li><p>TrueView does not reconstruct the precise timings of rendered frames, so some differences between the original player&#39;s experience and TrueView playback will remain, especially in very slow motion playback.  The player&#39;s frame at the time when the mouse was clicked, which is used for hit registration, is shown accurately to the nearest demo playback frame. However, reaction effects such as recoil, muzzle flash, blood splatter, and ragdoll are delayed while playing the game by one or two frames due to the way CPU and GPU work is pipelined, and will not appear at the same time during demo playback.</p></li><li><p>TrueView demo playback might not work properly on old demos and is disabled by default if the playback client version does not match the client version when the demo was recorded. You can set cl_demo_predict 2 to override this.</p></li><li><p>Fixed a bug causing third person models to not animate smoothly.</p></li><li><p>Fixed a bug causing time to lurch forward by one tick when unpausing a demo.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Animation fixes for G3SG1 bolt.</p></li><li><p>Fixed developer console scrollbar to accept mouse clicks.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">578276333072678914</guid>
+      <pubDate>Tue, 04 Nov 2025 23:59:11 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -644,14 +652,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4273439871236872890</guid>
       <pubDate>Mon, 26 Aug 2024 20:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/19/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ INPUT ]<br /><ul><li>Certain types of movement/shooting input automation such as hardware-assisted counter strafing will now be detected on Valve official servers, resulting in a kick from the match</li><li>Input binds that include more than one of the following commands will now be ignored by default. Support can be re-enabled using the cheat-protected convar `cl_allow_multi_input_binds 1`</li><ul><li>sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft</li></ul> <li>The jump-throw confirmation grunt sound can now be heard by other players nearby</li></ul><br />[ VacNet ]<br /><ul><li>Initial testing of VacNet 3.0 has begun on a limited set of matches. If you believe your match was incorrectly cancelled, email us the match details at csgoteamfeedback@valvesoftware.com</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6500469346429581891</guid>
-      <pubDate>Thu, 26 Sep 2024 22:38:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
