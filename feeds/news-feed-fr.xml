@@ -13,7 +13,20 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Oct 2025 15:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 01:03:58 +0000</lastBuildDate>
+    <item>
+      <title>Présentation de TrueView</title>
+      <link>https://www.counter-strike.net/newsentry/578276333072678918</link>
+      <description><![CDATA[<p>Aujourd&#39;hui, nous ajoutons une nouvelle fonctionnalité à la lecture des rediffusions appelée <em>TrueView</em>.  Grâce à TrueView, les rediffusions transmettront l&#39;expérience de jeu originale beaucoup plus fidèlement.</p><p>Auparavant, les rediffusions montraient l&#39;environnement tel qu&#39;il était interprété par le serveur sans aucune prise en compte de la latence du réseau. Cela pouvait prêter à confusion, car des tirs pouvaient atteindre leur cible sans qu&#39;on s&#39;y attende, et inversement. </p><p>TrueView restitue de manière plus authentique l’expérience initiale de la personne observée en répétant la <a rel="nofollow" href="https://en.wikipedia.org/wiki/Client-side_prediction"><em>prédiction côté client</em></a> (article en anglais).</p><p>La vidéo ci-dessous illustre la différence entre l&#39;ancienne lecture des rediffusions et celle avec TrueView.</p><p>
+            <video controls poster="{STEAM_CLAN_IMAGE}/3381077/62030ce08e8f12c926a4f6d935273d4dd68eb0bb.jpg">
+                <source src="{STEAM_CLAN_IMAGE}/3381077/9ca1d515aebe8c11b94bcd3dd1ee9f28c02f0909.mp4" type="video/mp4">
+<source src="{STEAM_CLAN_IMAGE}/3381077/9a8ab6de516a3c52f5d76f2174fd45976d8203b2.webm" type="video/webm">
+            </video>
+            </p><p>Quelques mises en garde :</p><ul><li><p>Par défaut, TrueView est désactivé lorsque la version du jeu dans laquelle vous regardez la rediffusion n&#39;est pas la même que celle dans laquelle la partie a été enregistrée.</p></li><li><p>Même quand TrueView est activé, il peut subsister des différences entre ce que vous voyez lors de la rediffusion et ce que la personne a effectivement vu en jeu (surtout lors de la lecture au ralenti). Par exemple, les effets de dégâts auront un timing différent lors de la lecture d&#39;une rediffusion en raison de la façon dont les données sont traitées par le processeur et la carte graphique.</p></li><li><p>En plus d&#39;effectuer une prédiction côté client de la personne observée, TrueView effectuera également une prédiction des dégâts sur les adversaires, si la prédiction des dégâts était utilisée par la personne observée à ce moment-là. </p></li></ul><p></p><p>Nous déployons également les modifications de mouvement mises à disposition la semaine dernière dans une branche bêta. Et ce n&#39;est pas tout, découvrez le reste des nouveautés dans la mise à jour d&#39;aujourd&#39;hui !</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">578276333072678918</guid>
+      <pubDate>Wed, 05 Nov 2025 03:55:58 +0000</pubDate>
+    </item>
     <item>
       <title>Re-Reprises de contrôle</title>
       <link>https://www.counter-strike.net/newsentry/516350567072661952</link>
@@ -147,14 +160,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4674264042200250912</guid>
       <pubDate>Mon, 07 Oct 2024 23:36:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sur un pied d'égalité</title>
-      <link>https://www.counter-strike.net/newsentry/6500469346429600836</link>
-      <description><![CDATA[Counter-Strike est en constante évolution. Qu&#39;il s&#39;agisse de créations de fans, de cartes, de stratégies inventives ou même de commandes en jeu personnalisées, CS est façonné par sa communauté. <br /><br />La création de scripts et l&#39;automatisation de commandes en jeu ont toujours été controversées, mais au fil des années, certains scripts (par exemple, le saut + lancé de grenade instantané, ou « jump-throws » en anglais) ont été acceptés, car ils permettent d&#39;effectuer des actions en jeu qui ne seraient pas possibles autrement. Les « jump-throws » se sont tellement imposés dans le jeu que nous avons fait le nécessaire pour qu&#39;ils fonctionnent de manière cohérente sans aucun script ni aucune contrainte particulière (c&#39;est-à-dire en sautant et en lançant rapidement une grenade).<br /><br />Développer sa coordination et son temps de réaction a toujours été essentiel pour maitriser Counter-Strike.<br /><br />Récemment, certaines fonctionnalités matérielles ont brouillé la frontière entre la saisie manuelle et l&#39;automatisation. Nous avons donc décidé de refaire un point sur ce qui est acceptable ou non dans Counter-Strike.<br /><br />Nous n&#39;autoriserons plus les automatisations (via des scripts ou du matériel) qui contournent ces éléments essentiels à la maitrise de Counter-Strike, et, à l&#39;avenir (et dans un premier temps, seulement sur les serveurs officiels Valve), les personnes soupçonnées d&#39;automatiser plusieurs actions en jeu à partir d&#39;une seule entrée pourront être exclues de leur partie.<br /><br />Afin d&#39;éviter les infractions accidentelles, les combinaisons d&#39;entrées qui incluent plusieurs mouvements et/ou actions offensives ne fonctionneront plus (par exemple, les « null-binds » et les « jump-throws »).<br /><br />Si votre clavier inclut une fonction d&#39;automatisation (par exemple, le mode « Snap Tap »), assurez-vous de désactiver cette fonctionnalité avant de rejoindre une partie afin d&#39;éviter toute exclusion.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6500469346429600836</guid>
-      <pubDate>Thu, 26 Sep 2024 22:37:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
