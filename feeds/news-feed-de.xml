@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Nov 2025 00:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 15:38:36 +0000</lastBuildDate>
     <item>
       <title>Wir stellen vor: TrueView</title>
       <link>https://www.counter-strike.net/newsentry/578276333072678918</link>
@@ -25,7 +25,7 @@
             </p><p>Einige Einschränkungen:</p><ul><li><p>Standardmäßig ist TrueView deaktiviert, wenn die Spielversion, dessen Demo Sie sich ansehen, nicht mit der Version übereinstimmt, mit der die Demo aufgenommen wurde.</p></li><li><p>Auch wenn TrueView aktiviert ist, kann es einige Unterschiede zwischen dem Gameplay-Erlebnis der Demo und dem Erlebnis des ursprünglichen Spielers geben (insbesondere bei der Wiedergabe in Zeitlupe). Beispielsweise können Schadenseffekte während der Demo-Wiedergabe aufgrund der Art und Weise, wie Befehle von der CPU und GPU abgearbeitet werden, zu einem unterschiedlichen Zeitpunkt dargestellt werden.</p></li><li><p>Zusätzlich zur clientseitigen Vorhersage des beobachteten Spielers führt TrueView auch eine Schadensvorhersage bei Gegnern durch, sofern die Schadensvorhersage vom beobachteten Spieler zu diesem Zeitpunkt verwendet wurde. </p></li></ul><p></p><p>Darüber hinaus veröffentlichen wir die Bewegungsänderungen, die wir letzte Woche in einer Beta-Version für Testzwecke zur Verfügung gestellt haben. Das alles und noch viel mehr erwartet Sie im heutigen Update!</p>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">578276333072678918</guid>
-      <pubDate>Wed, 05 Nov 2025 03:55:58 +0000</pubDate>
+      <pubDate>Thu, 06 Nov 2025 15:35:33 +0000</pubDate>
     </item>
     <item>
       <title>Zu-Rückeroberung</title>

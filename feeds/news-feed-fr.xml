@@ -13,7 +13,7 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 06 Nov 2025 01:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 15:38:36 +0000</lastBuildDate>
     <item>
       <title>Présentation de TrueView</title>
       <link>https://www.counter-strike.net/newsentry/578276333072678918</link>
@@ -25,7 +25,7 @@
             </p><p>Quelques mises en garde :</p><ul><li><p>Par défaut, TrueView est désactivé lorsque la version du jeu dans laquelle vous regardez la rediffusion n&#39;est pas la même que celle dans laquelle la partie a été enregistrée.</p></li><li><p>Même quand TrueView est activé, il peut subsister des différences entre ce que vous voyez lors de la rediffusion et ce que la personne a effectivement vu en jeu (surtout lors de la lecture au ralenti). Par exemple, les effets de dégâts auront un timing différent lors de la lecture d&#39;une rediffusion en raison de la façon dont les données sont traitées par le processeur et la carte graphique.</p></li><li><p>En plus d&#39;effectuer une prédiction côté client de la personne observée, TrueView effectuera également une prédiction des dégâts sur les adversaires, si la prédiction des dégâts était utilisée par la personne observée à ce moment-là. </p></li></ul><p></p><p>Nous déployons également les modifications de mouvement mises à disposition la semaine dernière dans une branche bêta. Et ce n&#39;est pas tout, découvrez le reste des nouveautés dans la mise à jour d&#39;aujourd&#39;hui !</p>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">578276333072678918</guid>
-      <pubDate>Wed, 05 Nov 2025 03:55:58 +0000</pubDate>
+      <pubDate>Thu, 06 Nov 2025 15:35:33 +0000</pubDate>
     </item>
     <item>
       <title>Re-Reprises de contrôle</title>
