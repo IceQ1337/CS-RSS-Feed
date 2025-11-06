@@ -13,7 +13,20 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Sun, 26 Oct 2025 15:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 00:30:58 +0000</lastBuildDate>
+    <item>
+      <title>Wir stellen vor: TrueView</title>
+      <link>https://www.counter-strike.net/newsentry/578276333072678918</link>
+      <description><![CDATA[<p>Heute fügen wir der Demo-Wiedergabe eine neue Funktion namens <em>TrueView</em> hinzu.  Mit TrueView entspricht die Demo-Wiedergabe deutlich genauer dem ursprünglichen Spielerlebnis.</p><p>Bisher wurde bei der Demo-Wiedergabe lediglich die Perspektive des Servers dargestellt, ohne die Netzwerklatenz zu berücksichtigen. Dies sorgte für Verwirrung, da Schüsse als Treffer registriert wurden, obwohl dies augenscheinlich nicht der Fall war – und umgekehrt. </p><p>TrueView bietet eine genauere Darstellung des beobachteten Gameplay-Erlebnisses aus der Perspektive des Spielers, indem die Funktion die entsprechende <a rel="nofollow" href="https://en.wikipedia.org/wiki/Client-side_prediction"><em>clientseitige Vorhersage</em></a> erneut ausführt.</p><p>Das folgende Video zeigt den Unterschied zwischen der bisherigen Demo-Wiedergabe und der Demo-Wiedergabe mit TrueView.</p><p>
+            <video controls poster="{STEAM_CLAN_IMAGE}/3381077/62030ce08e8f12c926a4f6d935273d4dd68eb0bb.jpg">
+                <source src="{STEAM_CLAN_IMAGE}/3381077/9ca1d515aebe8c11b94bcd3dd1ee9f28c02f0909.mp4" type="video/mp4">
+<source src="{STEAM_CLAN_IMAGE}/3381077/9a8ab6de516a3c52f5d76f2174fd45976d8203b2.webm" type="video/webm">
+            </video>
+            </p><p>Einige Einschränkungen:</p><ul><li><p>Standardmäßig ist TrueView deaktiviert, wenn die Spielversion, dessen Demo Sie sich ansehen, nicht mit der Version übereinstimmt, mit der die Demo aufgenommen wurde.</p></li><li><p>Auch wenn TrueView aktiviert ist, kann es einige Unterschiede zwischen dem Gameplay-Erlebnis der Demo und dem Erlebnis des ursprünglichen Spielers geben (insbesondere bei der Wiedergabe in Zeitlupe). Beispielsweise können Schadenseffekte während der Demo-Wiedergabe aufgrund der Art und Weise, wie Befehle von der CPU und GPU abgearbeitet werden, zu einem unterschiedlichen Zeitpunkt dargestellt werden.</p></li><li><p>Zusätzlich zur clientseitigen Vorhersage des beobachteten Spielers führt TrueView auch eine Schadensvorhersage bei Gegnern durch, sofern die Schadensvorhersage vom beobachteten Spieler zu diesem Zeitpunkt verwendet wurde. </p></li></ul><p></p><p>Darüber hinaus veröffentlichen wir die Bewegungsänderungen, die wir letzte Woche in einer Beta-Version für Testzwecke zur Verfügung gestellt haben. Das alles und noch viel mehr erwartet Sie im heutigen Update!</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">578276333072678918</guid>
+      <pubDate>Wed, 05 Nov 2025 03:55:58 +0000</pubDate>
+    </item>
     <item>
       <title>Zu-Rückeroberung</title>
       <link>https://www.counter-strike.net/newsentry/516350567072661952</link>
@@ -147,14 +160,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4674264042200250912</guid>
       <pubDate>Mon, 07 Oct 2024 23:36:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nur Ihr Können zählt</title>
-      <link>https://www.counter-strike.net/newsentry/6500469346429600836</link>
-      <description><![CDATA[Counter-Strike entwickelt sich ständig weiter. Von kunstvollen Kreationen über Karten und innovative Spielstile bis zu Eingabemethoden prägt die CS-Community das Spiel. <br /><br />Skripte und die Automatisierung von Spielerbefehlen waren schon immer umstritten, aber im Laufe der Jahre haben sich einige Formen, z. B. das Springen in Verbindung mit einem Granatenwurf („jump-throw“), durchgesetzt, da diese Taktiken sonst nur schwer durchführbar sind. Tatsächlich sind „jump-throws“ zu einem so wichtigen Bestandteil des Spiels geworden, dass wir die Spieleingabe angepasst haben, um eine zuverlässige Ausführung ohne spezielle Skripte oder Belegungen zu ermöglichen (d. h. durch zeitlich abgestimmtes Springen und Werfen der Granate).<br /><br />Die Verbesserung der eigenen Koordination und Reaktionszeit war schon immer der Schlüssel zum Erfolg in Counter-Strike.<br /><br />In letzter Zeit hat jedoch die Weiterentwicklung der Hardware die Grenze zwischen manueller Eingabe und Automatisierung verwischt. Deshalb haben wir beschlossen, eine klare Grenze zu ziehen, was in Counter-Strike akzeptabel ist und was nicht.<br /><br />Wir erlauben ab sofort keine Automatisierungen mehr (weder Skripte noch Hardware), die diese Kernkompetenzen unterlaufen. In Zukunft (und zunächst ausschließlich auf offiziellen Valve-Servern) werden Spieler, die im Verdacht stehen, mehrere Spielerbefehle mit einer einzigen Eingabe zu automatisieren, aus diesem Spiel geworfen.<br /><br />Um versehentliche Verstöße zu verhindern, funktionieren ab sofort Belegungen zur Automatisierung von Bewegungs- oder Angriffsaktionen nicht mehr (z. B. sogenannte „null-binds“ oder die bereits oben erwähnten „jump-throws“).<br /><br />Falls Sie eine Tastatur mit einer Funktion zur Eingabeautomatisierung besitzen (z. B. den „Snap-Tap-Modus“), müssen Sie diese Funktion vor einem Spielbeitritt deaktivieren, um einen Rauswurf zu vermeiden.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6500469346429600836</guid>
-      <pubDate>Thu, 26 Sep 2024 22:37:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
