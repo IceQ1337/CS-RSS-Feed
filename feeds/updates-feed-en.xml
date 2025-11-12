@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Nov 2025 00:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 23:05:50 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAJOR ]</p><ul><li><p>The StarLadder Budapest Major Hub is now available. Visit the hub to purchase tournament items, play the Pick&#39;Em Challenge and more.</p></li><li><p>Purchase a Budapest 2025 Viewer Pass to receive an upgradable Budapest 2025 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick&#39;Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick&#39;Em Challenge performance to your friends.</p></li></ul><p>[ STORE ]</p><ul><li><p>Added new &quot;Sticker Slab&quot; item, a charm that seals any sticker and can be attached to weapons. The sealed sticker can be returned to your inventory at any time by cracking open and discarding the slab.</p></li><li><p>Newly purchased Name Tag and StatTrak™ Swap Tool items can no longer be traded or listed on Community Market.</p></li></ul><p>[ GAMEPLAY ]</p><ul><li><p>Increased the maximum effective sv_maxvelocity to 16,384 units per second. The default value of 3500 is unchanged.</p></li><li><p>Fixed a case where clients would mispredict jump button presses.</p></li><li><p>Fixed a case where clients would mispredict jump apexes.</p></li></ul><p>[ MAPS ]</p><ul><li><p>Fixed skybox on Inferno that was blocking grenades.</p></li></ul><p>[ MISC ]</p><ul><li><p>Increased default bullet decal rendering distance.</p></li><li><p>Glove models and animations in the UI/inventory now use Animgraph2, matching first-person in-game gloves.</p></li><li><p>Enabled the pulsing light on the C4 view model.</p></li><li><p>Updated the color scheme of Counter-Strike items in Steam Community Market and Web Inventory to match item quality colors.</p></li><li><p>Performance improvements.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">616557564382937290</guid>
+      <pubDate>Wed, 12 Nov 2025 22:58:57 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -636,22 +644,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4273439871244044450</guid>
       <pubDate>Mon, 26 Aug 2024 20:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/21/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br />Office<br /><ul><li>Fixed a case where a player could get stuck between a prop and the ceiling</li></ul>Nuke<br /><ul><li>Fixed a pixel walk</li><li>Fixed some C4 stuck spots</li></ul>Mirage<br /><ul><li>Adjusted collision on van for smoother movement</li><li>Fixed wall penetration issues around some arches</li><li>Fixed a view jittering issue when jumping on a crate near palace</li><li>Fixed some collision that allowed smoke grenades to go inside a wall</li><li>Adjustments to grenade clipping</li><li>Adjusted collision on some props</li><li>Fixed some C4 stuck spots</li></ul>Inferno<br /><ul><li>Fixed some C4 stuck spots</li><li>Removed a boost spot in pit by A site</li></ul>Italy<br /><ul><li>Perf improvements</li><li>Clipping adjustments</li></ul>Vertigo<br /><ul><li>Adjustments to grenade clipping</li></ul>Ancient<br /><ul><li>Fixed a bad clip edge that players were getting stuck on at T spawn</li><li>Fixed a pixel peak</li></ul>Anubis<br /><ul><li>Adjustments to grenade clipping</li><li>Fixed a C4 stuck spot</li><li>Fixed some prop collision that could hide C4</li><li>Fixed some lighting issues</li></ul>Overpass<br /><ul><li>Fixed some minor visual bugs near canal</li><li>Some clipping adjustments near park for smoother movement</li><li>Added some missing handrail collision</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4273439871240583434</guid>
-      <pubDate>Tue, 24 Sep 2024 17:21:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/20/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MUSIC KITS ]<br /><ul><li>The MASTERMINDS 2 Music Kit Box is now available for purchase in standard and StatTrak versions</li></ul>[ AUDIO ]<br /><ul><li>Fixed a case where audio output was garbled due to running on efficiency CPU cores</li></ul>[ HUD ]<br /><ul><li>Minor style adjustments</li></ul>[ MISC ]<br /><ul><li>Reduced the amount of performance stutter at end-of-round time</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4273439871236872890</guid>
-      <pubDate>Mon, 26 Aug 2024 20:31:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
