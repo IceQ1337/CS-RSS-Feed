@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Nov 2025 14:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 18:23:00 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction du problème suivant : il était possible de poser le C4 en se tenant sur les épaules d&#39;une personne de l&#39;équipe.</p></li><li><p>Correction d&#39;un problème de rendu avec les porte-bonheurs transparents attachés à la bombe une fois amorcée ou aux armes une fois au sol.</p></li><li><p>Correction du problème suivant : l&#39;insigne de Budapest 2025 ne s&#39;affichait parfois pas dans le tableau des scores.</p></li><li><p>Correction d&#39;un problème lors des rediffusions qui provoquait des effets de particules infinis lors de l&#39;éjection des cartouches.</p></li><li><p>Mise à jour de l&#39;illustration du sticker de Budapest 2025 de l&#39;équipe Imperial Esports.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">616557663605489978</guid>
+      <pubDate>Fri, 14 Nov 2025 01:01:16 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -636,14 +644,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4590944278954413249</guid>
       <pubDate>Mon, 09 Sep 2024 22:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 22/08/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[HUD]<br /><ul><li>Correction d&#39;un problème de décalage entre l&#39;arrière-plan du radar et ses icônes.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4273439871244044450</guid>
-      <pubDate>Mon, 26 Aug 2024 20:30:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
