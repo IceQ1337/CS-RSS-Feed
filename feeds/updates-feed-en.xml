@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Nov 2025 23:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 01:24:40 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed ability to plant C4 while standing on top of a teammate.</p></li><li><p>Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.</p></li><li><p>Fixed a bug where Budapest 2025 Coin sometimes wasn&#39;t showing up in the scoreboard.</p></li><li><p>Fixed a replay bug causing infinite shell casing effects.</p></li><li><p>Updated the Budapest 2025 Imperial Esports sticker artwork.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">616557663605489978</guid>
+      <pubDate>Fri, 14 Nov 2025 01:01:16 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -636,14 +644,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4590944278954413249</guid>
       <pubDate>Mon, 09 Sep 2024 22:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 8/22/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ HUD ]<br /><ul><li>Fixed a case where the radar background and radar icons were misaligned</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4273439871244044450</guid>
-      <pubDate>Mon, 26 Aug 2024 20:30:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
