@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Nov 2025 01:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 23:54:31 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.</p></li><li><p>Disabled TrueView while watching a live playcast to match on-server observing experience.</p></li><li><p>Fixed a wiggle at the end of SG 556 deploy animation.</p></li><li><p>Stability improvements.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">625565405086220596</guid>
+      <pubDate>Wed, 19 Nov 2025 23:47:48 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -636,14 +644,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4572930514768908303</guid>
       <pubDate>Tue, 17 Sep 2024 17:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 9/3/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br /><ul><li>Fixed a case where some commands, including jump, might be ignored under poor network conditions.</li><li>Fixed a bug that could cause inconsistent jump heights.</li><li>Fixed a case where client player collision would remain disabled after ragdoll interaction occurred in the previous round. Thanks for the repro steps, @poggu__.</li><li>Fixed a case for Linux users where the game would hang when opening the pause menu.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4590944278954413249</guid>
-      <pubDate>Mon, 09 Sep 2024 22:03:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
