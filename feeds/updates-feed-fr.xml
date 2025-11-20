@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 14 Nov 2025 18:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 17:07:25 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction du problème suivant : en vue spectatrice, des effets posttraitement incorrects étaient parfois observés quand on changeait de cible.</p></li><li><p>Désactivation de TrueView lors du visionnage d&#39;un match en direct pour qu&#39;il corresponde à l&#39;expérience en vue spectatrice sur le serveur.</p></li><li><p>Correction d&#39;un mouvement parasite à la fin de l&#39;animation de déploiement du SG 553.</p></li><li><p>Améliorations au niveau de la stabilité.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">625565405086220596</guid>
+      <pubDate>Wed, 19 Nov 2025 23:47:48 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -636,14 +644,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4572930514768908303</guid>
       <pubDate>Tue, 17 Sep 2024 17:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 03/09/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[DIVERS]<br /><ul><li>Correction du problème suivant : en cas de mauvaise connexion réseau, certaines commandes, y compris celle associée au saut, pouvaient être ignorées.</li><li>Correction d&#39;un problème qui pouvait conduire à des hauteurs de saut inégales.</li><li>Correction du problème suivant : les collisions entre personnages au niveau du client pouvaient rester désactivées après une interaction avec un cadavre lors de la manche précédente. Merci à @poggu__ d&#39;avoir reproduit le problème.</li><li>Correction du problème suivant : sur Linux, le jeu pouvait rester bloqué à l&#39;ouverture du menu « Pause ».</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4590944278954413249</guid>
-      <pubDate>Mon, 09 Sep 2024 22:03:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
