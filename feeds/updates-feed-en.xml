@@ -13,14 +13,14 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 22:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 23:02:39 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ RENDERING ]</p><ul><li><p>Improved shadow fidelity on view models.</p></li><li><p>Added local client icon cache for inventory items.</p></li></ul>]]></description>
+      <description><![CDATA[<p>[ RENDERING ]</p><ul><li><p>Improved shadow fidelity on view models.</p></li><li><p>Added local client icon cache for inventory items.</p></li><li><p>Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">500591777095354039</guid>
-      <pubDate>Mon, 08 Dec 2025 22:07:08 +0000</pubDate>
+      <pubDate>Mon, 08 Dec 2025 22:46:02 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 Update</title>
