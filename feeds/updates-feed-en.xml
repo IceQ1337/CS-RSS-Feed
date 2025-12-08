@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 23:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 22:28:23 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ RENDERING ]</p><ul><li><p>Improved shadow fidelity on view models.</p></li><li><p>Added local client icon cache for inventory items.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">500591777095354039</guid>
+      <pubDate>Mon, 08 Dec 2025 22:07:08 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -628,22 +636,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4674264042199559950</guid>
       <pubDate>Wed, 09 Oct 2024 15:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 9/10/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br /><ul><li>Practice matches and matches started with the &quot;map&quot; command will now run in engine loopback mode to match the CS:GO offline default. Engine loopback bypasses most networking code for the host, resulting in one less tick of latency for the local player. Engine loopback can be disabled by appending &quot;loopback=0&quot; to the map command-line (e.g. &quot;map de_dust2 loopback=0&quot;).</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4583064247485974477</guid>
-      <pubDate>Tue, 17 Sep 2024 17:16:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 9/9/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br /><ul><li>Added counter-strafe input automation detection options for non-Valve servers. See the sv_auto_cstrafe family of convar descriptions for details.</li><li>Enabled measurement of network jitter on direct UDP connections to community servers. Previously, jitter measurement was only available for connections relayed over SDR. Jitter data is included in the net_connections_status command output.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4572930514768908303</guid>
-      <pubDate>Tue, 17 Sep 2024 17:17:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
