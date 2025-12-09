@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 20 Nov 2025 17:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 23:02:55 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 08.12.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ RENDERING ]</p><ul><li><p>Schattendarstellung aus Ansichtsmodell-Perspektive verbessert.</p></li><li><p>Symbolcache für Inventargegenstände auf dem lokalen Client hinzugefügt.</p></li><li><p>Fehler behoben, durch den eine kleine Anzahl von Nutzern fälschlicherweise einen VAC-Bann erhielt. Der VAC-Bann wird aufgehoben.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">500591777095354039</guid>
+      <pubDate>Mon, 08 Dec 2025 22:46:02 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 19.11.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -628,22 +636,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4674264042199559950</guid>
       <pubDate>Wed, 09 Oct 2024 15:06:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 10.09.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Trainingsspiele und Spiele, die mit dem Befehl „map“ gestartet werden, werden jetzt im Loopback-Modus der Engine ausgeführt, um dem Offline-Standard von CS:GO zu entsprechen. Der Loopback-Modus der Engine umgeht den Großteil des Netzwerkcodes für den Host, wodurch sich die Latenzzeit für den lokalen Spieler um einen Tick verringert. Diese Funktion kann deaktiviert werden, indem „loopback=0“ dem Befehl zum Laden der Karte angefügt wird (z. B. „map de_dust2 loopback=0“).</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4583064247485974477</guid>
-      <pubDate>Tue, 17 Sep 2024 17:16:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 09.09.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Optionen zur automatischen Erkennung von Gegenbewegungseingaben („counter-strafing“) für Nicht-Valve-Server hinzugefügt. Weitere Informationen finden Sie in den Beschreibungen der einzelnen Konfigurationsvariablen beginnend mit „sv_auto_cstrafe“.</li><li>Messungen der Netzwerk-Latenzvarianz bei direkten Verbindungen zu Community-Servern über UDP aktiviert. Bisher waren Messungen der Latenzvarianz nur für Verbindungen verfügbar, die über das SDR weitergeleitet wurden. Die Daten zur Latenzvarianz werden in der Konsolenausgabe des Befehls „net_connections_status“ angezeigt.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4572930514768908303</guid>
-      <pubDate>Tue, 17 Sep 2024 17:17:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
