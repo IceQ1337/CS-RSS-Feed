@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Nov 2025 00:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 21:25:56 +0000</lastBuildDate>
+    <item>
+      <title>The Year of the Bees</title>
+      <link>https://www.counter-strike.net/newsentry/500593045099512825</link>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg"/><br />The StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization&#39;s third overall.<br /><br />Coming into the Grand Finals against FaZe Clan, Team Vitality had not lost a map in the Playoffs, defeating The MongolZ and Team Spirit 2-0.<br /><br />After losing the opening map, Team Vitality won the next three on Dust II, Inferno, and Overpass to take the series 3-1 in Counter-Strike&#39;s first ever best of five Grand Finals.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/930445c49b4eee2baadf7f70bf746aae04c1f38b.png"/><br />Today we are releasing the Budapest Champions Autograph Capsule, featuring Paper, Embroidered, Holo, and Gold stickers autographed by one of the players from Team Vitality.<br /><br />Congratulations again to Team Vitality, champions of the StarLadder Budapest Major and both Major Championships in 2025!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">500593045099512825</guid>
+      <pubDate>Thu, 18 Dec 2025 21:19:02 +0000</pubDate>
+    </item>
     <item>
       <title>The Starladder Budapest Major 2025</title>
       <link>https://www.counter-strike.net/newsentry/578276333072682038</link>
@@ -165,14 +173,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472732402493426409</guid>
       <pubDate>Tue, 03 Dec 2024 22:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Armory</title>
-      <link>https://www.counter-strike.net/newsentry/4674264042200250912</link>
-      <description><![CDATA[Today&#39;s update introduces the Armory, all new Weapon Charms, and a whole lot more. Click the image below for more details!<br /><a rel="nofollow" href="https://store.steampowered.com/sale/armory"><img src="https://clan.akamai.steamstatic.com/images/3381077/4f30364bf12221dd5c8db6fa9f113fee1e8b0641.png"/></a>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4674264042200250912</guid>
-      <pubDate>Mon, 07 Oct 2024 23:36:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

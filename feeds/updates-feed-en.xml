@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 23:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 21:25:56 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAJOR ]</p><ul><li><p>Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality!</p></li><li><p>Highlight Souvenir Packages can now be acquired for the Playoff matches.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">500593045099512836</guid>
+      <pubDate>Thu, 18 Dec 2025 21:18:53 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -612,30 +620,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4676516476953404525</guid>
       <pubDate>Mon, 14 Oct 2024 21:21:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 10/4/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<ul><li>Adjusted the score calculation in Casual, Competitive, and Wingman to exclude knife and utility damage</li><li>Fixed 3rd person weapon angles to fully incorporate recoil</li><li>Fixed missing cascade shadows on some community maps</li><li>Fixed the Armory weapon preview having extra models</li><li>Network jitter graphs now have a number in the upper right hand corner that gives the scale of the graph</li><li>Fixed some cases where shell casings could render as an error model</li><li>Various stability fixes</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4674264042207544586</guid>
-      <pubDate>Mon, 14 Oct 2024 21:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 10/3/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br /><ul><li>Adjusted first-person sniper scope effect</li><li>Fixed some dark spots in Inferno</li><li>Fixed a bug where breakable objects weren&#39;t behaving as expected</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4674264042203900860</guid>
-      <pubDate>Mon, 14 Oct 2024 21:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 10/2/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ THE ARMORY ]<br /><ul><li>The Armory is now available in the store (<a rel="nofollow" href="https://store.steampowered.com/sale/armory">https://store.steampowered.com/sale/armory</a>)</li><li>Features 3 new weapon collections, 2 charm collections, 2 sticker collections, the Gallery Case, and the Heat Treated Desert Eagle</li><li>Purchase and activate an Armory Pass to start earning Armory Credits</li><li>Make progress toward credits whenever you earn XP with an active Armory Pass</li><li>Redeem credits for items in the Armory</li></ul>[ CHARMS ]<br /><ul><li>Introducing Charms: dynamic items you can apply to your favorite weapons. Currently available exclusively in the Armory</li><li>Drag and drop Charms to precisely place them on the weapon of your choice. A weapon can have one charm attached at a time</li><li>Use a Charm Detachment to detach the Charm from a weapon. The Charm will return to your inventory and can be reused</li><li>Redeeming a Charm from the Armory grants three complimentary Charm Detachments. Additional Charm Detachments are available for purchase</li></ul>[ INVENTORY &amp; ITEMS ]<br /><ul><li>All items acquired from the in-game store (including the Armory), Trade Offers, and Steam Community Market are now subject to a 7 day re-trade and re-market restriction</li><li>All stickers, patches, and charms available on Steam Community Market, in the Armory, or on friends&#39; Steam Inventory web pages can now be previewed on your own inventory items</li><li>Removed ability to delete weapon cases from your inventory</li><li>Added sticker scrape level selector when applying new stickers to weapons</li><li>Added precise sticker wear level selector when scraping existing stickers on inventory weapons. Any applied stickers can only increase their sticker scrape level</li><li>Added a way to immediately remove existing stickers from inventory weapons in addition to sticker scraping</li><li>Added nametag module preview on the actual items when applying nametags</li><li>Fixed several cases where applying nametags or stickers would unequip the weapon from your loadout</li><li>Customizing a base weapon that&#39;s currently equipped will now auto-equip the newly customized version</li></ul>[ ANIMATION ]<br /><ul><li>Improved character posing when on large slopes</li><li>Made feet pin and unpin differently for all use cases to help remove aggressively leaned characters (AKA the MJ lean)</li><li>Pin/unpin IK logic now not affected by poor server ping times</li><li>Feet IK now repositions to idle pose if the feet have pinned at a largely different pose to that authored</li><li>Re-authored run, walk, and crouch content to fix wide/scissor leg posing when traversing</li><li>Changed ladder animations and behavior so characters heads are much more representative of where the player camera is, including characters now display crouch correctly when on ladders</li><li>Removed popping when crouching or uncrouching while jumped and reduced leaning on jump animations</li><li>Fixed character&#39;s pose popping when falling off a ledge</li><li>Fix for many cases where character&#39;s posing would subtly pop when traversing with slow moving weapons</li></ul>[ GAMEPLAY ]<br /><ul><li>Flashbangs and HE grenades no longer prematurely detonate when they exceed their &#39;stuck bounce&#39; limit</li></ul>[ GRAPHICS ]<br /><ul><li>Added a Display selection dropdown for non-windowed Fullscreen mode to the Video settings screen</li><li>Fixed graphics artifacts for fire effect in the Advanced Video tab</li></ul>[ AUDIO ]<br /><ul><li>Fixed a bug where UI sounds wouldn&#39;t position correctly when in-game</li><li>Fixed an issue where step sounds would play for the local player but fail to broadcast to other players and vice-versa</li><li>Fixed an issue where ragdoll water splash sounds would erroneously play on alive players</li><li>Fixed a case where voice chat didn&#39;t work on community servers</li><li>Fixed a case where incoming voice chats would sometimes never close</li></ul>[ NETWORKING ]<br /><ul><li>Added telemetry option to display graphs of network jitter and misdelivery</li><li>Changed how packet misdelivery is measured. Previously, if packets arrived out of order, this could be counted as misdelivery even if it was corrected and did not impact gameplay. Also, jitter was not considered, even though excessive jitter can disrupt smooth gameplay. The new measurement method will only count reordered packets as misdelivered if they impact gameplay. Furthermore, if network jitter exceeds a threshold where gameplay is affected, the packets are counted as misdelivered even if they are not dropped and arrive in order</li></ul>[ MAPS ]<br /><ul><li>Ancient</li><ul><li>Fixed some disappearing geometry</li><li>Fixed some cases where players could detect player movement through water from across the map</li><li>Fixed some pixel peeks</li><li>Fixed a case where player shadows could be seen through geometry</li><li>Adjusted some clipping for better player movement</li></ul><li>Anubis</li><ul><li>Fixed some missing collision</li><li>Nudged some geometry and clipping that were blocking grenade throws</li><li>Improved clipping on some floors for more predictable grenade throws</li><li>Fixed a pixel peek</li><li>Adjusted clipping in a few areas for better player movement</li></ul><li>Dust2</li><ul><li>Fixed some clipping at B site</li></ul><li>Italy</li><ul><li>Added to competitive matchmaking</li><li>Fixed bird animations</li></ul><li>Mirage</li><ul><li>Fixed some C4 stuck spots</li></ul><li>Nuke</li><ul><li>Fixed a pixel walk</li><li>Fixed some C4 stuck spots</li><li>Fixed some gaps in geometry where items could get lost</li><li>Fixed some disappearing geometry</li></ul><li>Overpass</li><ul><li>Adjusted some grenade clipping to prevent bad grenade bounces</li></ul></ul>[ WORKSHOP ]<br /><ul><li>Added optional 3rd layer to environment blend shader</li><li>Added biplanar mapping as an option for environment shaders</li><li>Added optional wetness layer, paintable in Hammer on environment materials with the feature enabled</li><li>Added color correction, roughness, and normal adjustments to foliage shader and static overlays</li></ul>[ MISC ]<br /><ul><li>Removed support for command line options that were intended for development purposes only</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4674264042199559950</guid>
-      <pubDate>Wed, 09 Oct 2024 15:06:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
