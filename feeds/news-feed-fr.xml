@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 14 Nov 2025 00:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 15:02:51 +0000</lastBuildDate>
+    <item>
+      <title>L'année des abeilles</title>
+      <link>https://www.counter-strike.net/newsentry/500593045099512825</link>
+      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg"/><br />L’année 2025 s’est terminée en beauté pour l’équipe Vitality, qui a remporté deux tournois majeurs consécutifs, dont le tournoi de Budapest, organisé par StarLadder. Avec un total de trois victoires en tournoi majeur, Vitality se hisse au sommet du palmarès.<br /><br />Team Vitality est arrivée en finale sans perdre une seule carte au cours des éliminatoires, s&#39;imposant face à The MongolZ et Team Spirit 2 à 0.<br /><br />Après avoir perdu la première carte, Team Vitality a su rebondir pour dominer sur Dust II, Inferno et Overpass avec un score de 3 à 1. Elle devient ainsi la première équipe à remporter une finale de tournoi majeur de Counter-Strike en cinq manches.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/930445c49b4eee2baadf7f70bf746aae04c1f38b.png"/><br />Nous sortons aujourd&#39;hui la capsule dédicacée de l&#39;équipe championne du tournoi majeur de Budapest contenant des stickers classiques, brodés, holographiques et en or, chacun signé par l&#39;un des membres de Team Vitality.<br /><br />Félicitations encore une fois à Team Vitality, championne du tournoi majeur de Budapest organisé par StarLadder et des deux tournois majeurs de 2025 !]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">500593045099512825</guid>
+      <pubDate>Thu, 18 Dec 2025 21:19:02 +0000</pubDate>
+    </item>
     <item>
       <title>Tournoi majeur CS2 de Budapest 2025 organisé par StarLadder</title>
       <link>https://www.counter-strike.net/newsentry/578276333072682038</link>
@@ -165,14 +173,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472732402493426409</guid>
       <pubDate>Tue, 03 Dec 2024 22:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'arsenal</title>
-      <link>https://www.counter-strike.net/newsentry/4674264042200250912</link>
-      <description><![CDATA[La mise à jour d&#39;aujourd&#39;hui apporte son lot de nouveautés : l&#39;arsenal, les porte-bonheurs, et bien d&#39;autres choses. Cliquez sur l&#39;image ci-dessous pour en découvrir tous les détails.<br /><a rel="nofollow" href="https://store.steampowered.com/sale/armory"><img src="https://clan.akamai.steamstatic.com/images/3381077/4f30364bf12221dd5c8db6fa9f113fee1e8b0641.png"/></a>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4674264042200250912</guid>
-      <pubDate>Mon, 07 Oct 2024 23:36:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
