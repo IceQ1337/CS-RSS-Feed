@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Jan 2026 17:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 20:02:44 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 22.01.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Die vertikale Geschwindigkeit beim Landen wird nun durch einen Geschwindigkeitsmalus beeinflusst, ähnlich wie es zuvor bei der klassischen Ausdauer der Fall war (dieses Verhalten kann über die Konsolenvariable „sv_legacy_jump“ nachgestellt werden).</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Problem behoben, durch das eine geringe Anzahl von Nutzern fälschlicherweise einen VAC-Ausschluss erhielt. Diese VAC-Ausschlüsse wurden aufgehoben.</p></li><li><p>Fehler behoben, durch den eingestellte HUD-Kantenpositionen nicht übernommen wurden.</p></li><li><p>Diverse Server-Stabilitätsverbesserungen vorgenommen.</p></li></ul><p></p><p>[ KARTEN ]</p><p>Anubis</p><ul><li><p>Fehler behoben, durch den Objekte, die von der Physik beeinflusst werden, mit mehreren überlappenden und konvexen Wasserflächen interagierten.</p></li><li><p>Verschiedene Anpassungen am Spieler-Clipping vorgenommen.</p></li><li><p>Radar-Minikarte aktualisiert, um den kürzlichen Änderungen zu entsprechen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">511855214544815765</guid>
+      <pubDate>Thu, 22 Jan 2026 22:54:54 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 21.01.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
