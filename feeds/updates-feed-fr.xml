@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Jan 2026 18:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 19:29:05 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Les cocktails Molotov et les grenades incendiaires qui rebondissent sur une cible ennemie n&#39;explosent plus dans les airs lorsque leur délai d&#39;expiration est écoulé. Désormais, la déflagration se produira systématiquement à l&#39;instant du contact avec le sol.</p></li></ul><p></p><p>[AUDIO]</p><ul><li><p>Correction d&#39;un problème de performances lors de l&#39;exécution de CS2 en l&#39;absence de périphérique audio.</p></li><li><p>Ajustements sonores divers apportés aux sons des couteaux.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction d&#39;un problème de visualisation de certaines classes d&#39;entités dynamiques rigides avec la commande cl_ent_bbox.</p></li><li><p>Diverses améliorations au niveau de la stabilité.</p></li></ul><p></p><p>[CARTES]</p><p>Nuke</p><ul><li><p>Ajustements des limites de rendu du modèle des casques de chantier suspendus afin d&#39;éviter que leur ombre ne soit déformée dès que le modèle se trouvait hors de l&#39;angle de vision de la caméra.</p></li></ul><p>Warden</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p>Sanctum</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">511855214544817164</guid>
+      <pubDate>Tue, 27 Jan 2026 00:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4522269457743085932</guid>
       <pubDate>Fri, 01 Nov 2024 22:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 24/10/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[DIVERS]<br /><ul><li>Correction du problème suivant : les grenades émettaient des sons de tir dans la tête.</li><li>Correction du problème suivant : les grenades ne rebondissaient pas sur certains objets dynamiques.</li><li>Correction du problème suivant : les gagnants du tournoi de Copenhague 2024 n&#39;apparaissaient pas dans l&#39;onglet des tournois majeurs du menu REGARDER.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4522269457743085699</guid>
-      <pubDate>Thu, 31 Oct 2024 20:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
