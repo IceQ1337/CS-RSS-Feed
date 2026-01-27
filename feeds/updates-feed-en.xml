@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 23:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 00:09:01 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.</p></li></ul><p></p><p>[ SOUND ]</p><ul><li><p>Fixed a performance issue when running CS2 without a sound device.</p></li><li><p>Various knife sound adjustments.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Fixed broken cl_ent_bbox visualization for some classes of rigid dynamic entities.</p></li><li><p>Various stability improvements.</p></li></ul><p></p><p>[ MAPS ]</p><p>Nuke</p><ul><li><p>Adjusted hanging hard hat model render bounds to prevent shadow popping when model exited the view frustum.</p></li></ul><p>Warden</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376">Update Notes</a>)</p></li></ul><p>Sanctum</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442">Update Notes</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">511855214544817164</guid>
+      <pubDate>Tue, 27 Jan 2026 00:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4522269457743085932</guid>
       <pubDate>Fri, 01 Nov 2024 22:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 10/24/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br /><ul><li>Fixed a bug where grenades were generating headshot sounds.</li><li>Fixed a bug where grenades were not bouncing off certain dynamic props.</li><li>Fixed a bug where Copenhagen 2024 winners were not showing up in the Majors tab in the Watch menu.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4522269457743085699</guid>
-      <pubDate>Thu, 31 Oct 2024 20:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
