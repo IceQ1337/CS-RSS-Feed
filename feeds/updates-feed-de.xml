@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Jan 2026 20:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 21:43:57 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 26.01.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Molotows/Brandgranaten, die von einem gegnerischen Spieler abprallen, erhalten eine einmalige Auslöseverlängerung. Dadurch soll verhindert werden, dass diese in der Luft explodieren, wenn der Timer für die max. Zeit in der Luft abgelaufen ist.</p></li></ul><p></p><p>[ SOUND ]</p><ul><li><p>Leistungsproblem behoben, das beim Ausführen von CS2 ohne Audiogerät auftrat.</p></li><li><p>Verschiedene Anpassungen an den Messer-Sounds vorgenommen.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Fehlerhafte Visualisierung der minimal umgebenden Rechtecke einiger Klassen von starren, aber durch die Physik beeinflussbaren Entitäten durch den Konsolenbefehl „cl_ent_bbox“ behoben.</p></li><li><p>Diverse Stabilitätsverbesserungen vorgenommen.</p></li></ul><p></p><p>[ KARTEN ]</p><p>Nuke</p><ul><li><p>Problem behoben, durch das die Modelle der hängenden Schutzhelme fehlerhafte Schatten warfen, wenn sich diese am Rand des gerenderten Bereichs befanden.</p></li></ul><p>Warden</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376">Update-Notizen</a>)</p></li></ul><p>Sanctum</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442">Update-Notizen</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">511855214544817164</guid>
+      <pubDate>Tue, 27 Jan 2026 00:09:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 22.01.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4522269457743085932</guid>
       <pubDate>Fri, 01 Nov 2024 22:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 24.10.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den bei einem Granatentreffer ein Kopfschusssound abgespielt wurde.</li><li>Fehler behoben, durch den Granaten nicht von bestimmten beweglichen Requisiten abprallten.</li><li>Fehler behoben, durch den die Meister des Kopenhagen-Majors 2024 nicht im Tab „Majors“ im Menü „Spiele und Turniere ansehen“ angezeigt wurden.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4522269457743085699</guid>
-      <pubDate>Thu, 31 Oct 2024 20:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
