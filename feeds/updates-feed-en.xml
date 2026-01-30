@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 00:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 00:50:07 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.</p></li></ul><p></p><p>[ SOUND ]</p><ul><li><p>Various knife sound adjustments.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Performance optimizations for exploding chickens.</p></li><li><p>Fixed a map scripting bug where Entity.SetOwner wasn&#39;t accepting undefined.</p></li><li><p>Added a method for community maps to save modified user settings. Running &#39;host_writeconfig_with_prompt&#39; will prompt the user for permission to save. If accepted, some of the modified settings (radar, viewmodel, safezones, etc) will be kept after the map exits. </p></li><li><p>Community maps are now restricted to a smaller list of allowed console commands.</p></li></ul><p></p><p>[ MAPS ]</p><p>Stronghold</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554">Update Notes</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">499470950023037644</guid>
+      <pubDate>Fri, 30 Jan 2026 00:17:36 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4461471496628338696</guid>
       <pubDate>Fri, 01 Nov 2024 22:14:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Release Notes for 10/28/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ JUMPING ]<br /><ul><li>Improved jump height consistency to be within 0.015625 of a unit regardless of distance from the map origin at coordinate (0,0,0).</li><ul><li>Previously, in both CS:GO and CS2, jump height could vary by up to 0.03125 of a unit depending on the distance from the map origin.</li></ul> <li>Improved consistency of successfully landing on surfaces very close to the maximum height of a jump.</li><li>Jump height is still affected by stamina; when using cl_showpos 2, stamina at takeoff is reported and output is color coded based on possible jump height.</li><li>Fixed a bug with cl_showpos display sometimes showing incorrect jump height when jumping from sloped surfaces.</li><li>Fixed some cases where the client would be pulled back down during a jump because the server disagreed that the jump had taken place.</li></ul><br />[ MISC ]<br /><ul><li>Adjusted weapon pickup logic while near the C4, prioritizing defusing over accidental weapon pick-up.</li><li>Enemies will now consistently play a flinch animation on the closest hit when the bullet goes through two hitboxes of equal priority (e.g. when both right and left legs get hit).</li><li>HE grenade explosions within smoke now clear the accumulated smoke screen effect on players inside that smoke within range of the HE grenade explosion.</li><li>Stability improvements.</li></ul><br />[ MAPS ]<br /><ul><li>Dust II</li><ul><li>Fixed a gap in geometry.</li></ul></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4522269457743085932</guid>
-      <pubDate>Fri, 01 Nov 2024 22:29:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
