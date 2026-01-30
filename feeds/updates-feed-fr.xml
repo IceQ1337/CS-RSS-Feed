@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 27 Jan 2026 19:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 17:52:09 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Les dégâts causés par les grenades explosives qui explosent en vol près du sol ne seront plus calculés comme si elles explosaient au sol.</p></li></ul><p></p><p>[AUDIO]</p><ul><li><p>Ajustements sonores divers apportés aux sons des couteaux.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Optimisation des performances pour les explosions de poulets.</p></li><li><p>Correction d&#39;un problème de scripts de carte qui empêchait la méthode Entity.SetOwner d&#39;accepter la valeur « undefined ».</p></li><li><p>Ajout d&#39;un moyen d&#39;enregistrer les modifications des paramètres utilisateur aux cartes de la communauté. La commande « host_writeconfig_with_prompt » demandera à l&#39;utilisateur ou l&#39;utilisatrice de confirmer la sauvegarde des données. Une fois cette autorisation accordée, certains paramètres modifiés (radar, vue subjective, zones de sécurité, etc.) seront conservés après la sortie de la carte. </p></li><li><p>Les cartes de la communauté sont désormais limitées à une liste plus restreinte de commandes de console autorisées.</p></li></ul><p></p><p>[CARTES]</p><p>Stronghold</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">499470950023037644</guid>
+      <pubDate>Fri, 30 Jan 2026 00:17:36 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4461471496628338696</guid>
       <pubDate>Fri, 01 Nov 2024 22:14:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du 28/10/2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[SAUTS]<br /><ul><li>Amélioration de la régularité de la hauteur des sauts avec une marge de 0,015625 unité, quelle que soit la distance par rapport au point d&#39;origine de la carte (aux coordonnées 0,0,0).</li><ul><li>Auparavant, dans CS:GO et CS2, la hauteur de saut pouvait varier jusqu&#39;à 0,03125 unité, en fonction de la distance avec le point d&#39;origine de la carte.</li></ul> <li>Amélioration de la régularité des atterrissages réussis sur les surfaces proches de la hauteur maximale d&#39;un saut.</li><li>La hauteur de saut est toujours affectée par l&#39;endurance. La commande « cl_showpos 2 » permet d&#39;afficher l&#39;endurance en début de saut. La couleur des données varie en fonction de la hauteur de saut possible.</li><li>Correction du problème suivant : les données de hauteur de saut affichées par « cl_showpos » lors des sauts depuis des surfaces inclinées pouvaient être erronées.</li><li>Correction du problème suivant : parfois, un saut était annulé à mi-hauteur, car il n&#39;était pas reconnu par le serveur.</li></ul><br />[DIVERS]<br /><ul><li>La logique de récupération d&#39;une arme à proximité du C4 a été ajustée : désormais, la priorité est donnée au désamorçage de la bombe plutôt qu&#39;au ramassage de l&#39;arme.</li><li>Quand une balle traverse deux masques de collision (hitboxes) de même priorité (par exemple, lorsqu&#39;elle touche les deux jambes), l&#39;animation de tressaillement se déclenchera désormais systématiquement sur le membre touché en premier.</li><li>Les explosions de grenades dans la fumée éliminent désormais la fumée accumulée autour des personnes se trouvant dans la zone et dans le rayon d&#39;explosion de la grenade.</li><li>Diverses améliorations au niveau de la stabilité.</li></ul><br />[CARTES]<br /><ul><li>Dust II</li><ul><li>Correction d&#39;un vide dans la géométrie.</li></ul></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4522269457743085932</guid>
-      <pubDate>Fri, 01 Nov 2024 22:29:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
