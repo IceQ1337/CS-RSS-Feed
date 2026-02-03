@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Jan 2026 21:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 17:57:51 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 29.01.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Der Schaden von Splittergranaten, die in Bodennähe in der Luft explodieren, wird ab sofort nicht mehr so berechnet, als würden sie am Boden explodieren.</p></li></ul><p></p><p>[ SOUND ]</p><ul><li><p>Verschiedene Anpassungen an den Messer-Sounds vorgenommen.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Leistungsoptimierungen für explodierende Hühner vorgenommen.</p></li><li><p>Problem beim Karten-Scripting behoben, das auftrat, wenn Entity.SetOwner den Wert „undefined“ nicht akzeptierte.</p></li><li><p>Methode hinzugefügt, mit der sich Änderungen der Benutzereinstellungen für Community-Karten speichern lassen. Beim Ausführen von „host_writeconfig_with_prompt“ wird der Nutzer um Erlaubnis zum Speichern gebeten. Wenn der Nutzer zustimmt, bleiben einige ausgewählte Einstellungen (Radar, Ansichtsmodell, Kantenpositionen usw.) auch nach dem Verlassen der Karte erhalten. </p></li><li><p>Für Community-Karten gilt ab sofort eine kleinere Liste zulässiger Konsolenbefehle. Die Filterung kann mit „-disable_workshop_command_filtering“ deaktiviert werden.</p></li></ul><p></p><p>[ KARTEN ]</p><p>Stronghold</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554">Update-Notizen</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">499470950023037644</guid>
+      <pubDate>Fri, 30 Jan 2026 18:45:49 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 26.01.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4461471496628338696</guid>
       <pubDate>Fri, 01 Nov 2024 22:14:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 28.10.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ SPRINGEN ]<br /><ul><li>Konsistenz der Sprunghöhe verbessert, sodass diese max. 0,015625 Einheiten abweicht, unabhängig von der Entfernung zum Kartenursprung an der Koordinate (0,0,0).</li><ul><li>Früher konnte die Sprunghöhe sowohl in CS:GO als auch in CS2 um bis zu 0,03125 Einheiten in Abhängigkeit von der Entfernung zum Kartenursprung abweichen.</li></ul> <li>Konsistenz einer erfolgreichen Landung auf Oberflächen verbessert, deren Niveau knapp unter der max. Sprunghöhe liegt.</li><li>Die Sprunghöhe wird nach wie vor von der Ausdauer beeinflusst. Unter Verwendung von „cl_showpos 2“ wird die Ausdauer zum Zeitpunkt des Sprungs eingeblendet und die Anzeige entsprechend der möglichen Sprunghöhe farblich hervorgehoben.</li><li>Fehler behoben, durch den die Anzeige von „cl_showpos“ gelegentlich eine falsche Sprunghöhe anzeigte, wenn Spieler von schrägen Oberflächen sprangen.</li><li>Fehler behoben, durch den in einigen Fällen der Spieler auf seinem Client während eines Sprungs wieder nach unten gezogen wurde, weil der Server den Sprung nicht ordnungsgemäß registrierte.</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Logik beim Aufheben von Waffen in der Nähe der Bombe angepasst, sodass das Entschärfen jetzt Vorrang vor dem versehentlichen Aufheben einer Waffe hat.</li><li>Bei Gegnern wird jetzt die Zuckanimation nur an dem Körperteil abgespielt, das zuerst getroffen wurde, auch wenn die Kugel zwei Hitboxen mit gleicher Priorität durchschlägt (z. B. wenn sowohl das rechte als auch das linke Bein getroffen wurde).</li><li>Die Explosion einer Splittergranate innerhalb einer Rauchgranate löst jetzt den Raucheffekt um Spieler auf, die sich in der Rauchwolke der Explosionsreichweite befinden.</li><li>Stabilitätsverbesserungen vorgenommen.</li></ul><br />[ KARTEN ]<br /><ul><li>Dust II</li><ul><li>Lücke in der Kartengeometrie ausgebessert.</li></ul></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4522269457743085932</guid>
-      <pubDate>Fri, 01 Nov 2024 22:29:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
