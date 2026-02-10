@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Feb 2026 21:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 21:18:27 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 09.02.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Code- und Textänderungen im Zusammenhang mit der Lokalisierung vorgenommen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">519737782627730641</guid>
+      <pubDate>Mon, 09 Feb 2026 22:59:17 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 04.02.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472731215261073417</guid>
       <pubDate>Thu, 07 Nov 2024 19:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patchnotizen vom 30.10.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Sprungtoleranz beim Gleiten entlang einer Oberfläche erhöht, um bestimmte Sprünge zu ermöglichen (z. B. wie der Sprung in der Ecke des Außenbereichs auf Office).</li><li>Absturz bei der Verwendung der Auslagerungsdatei behoben, der auftrat, wenn die Vulkan-Initialisierung fehlschlug und das Spiel auf DX11 zurückgriff.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4461471496628338745</guid>
-      <pubDate>Tue, 05 Nov 2024 19:02:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
