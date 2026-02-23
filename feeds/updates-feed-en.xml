@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Feb 2026 23:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 23:49:09 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.</p></li><li><p>Fixed a case where the Delete Item inventory option wasn&#39;t working.</p></li><li><p>Fixed a case of visual corruption using iron sights on AMD GPUs.</p></li><li><p>Expanding list of console variables addons are allowed to change.</p></li></ul><p></p><p>[ MAPS ]</p><p>Overpass</p><ul><li><p>Fixed the Party balloons.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">526494450238621925</guid>
+      <pubDate>Mon, 23 Feb 2026 23:38:41 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472731215261073715</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Various adjustments to bullet hit feedback.</li><li>Fixed a case mid-spray where lag compensation would rewind target hitboxes further into the past than what was on screen.</li><li>Jumping in place on a sloped surface will no longer result in players sliding a short distance.</li><li>Fixed a bug where C4 could be defused from any height.</li></ul>[ ANIMATION ]<br /><ul><li>Fixes for IK logic to improve third-person feet posing, especially on slopes.</li><li>Fixed a case where the feet and legs of players could pop out of position when exiting the bomb-plant animation.</li><li>Reduced animation-related network bandwidth usage.</li></ul>[ MATCHMAKING ]<br /><ul><li>Added more detailed matchmaking stats for players who try to find a match at off-peak times of day.</li></ul>[ MISC ]<br /><ul><li>Activating an Armory Pass no longer grants the first Armory Credit immediately. All 40 Armory Credits can be earned by playing and earning XP.</li></ul>[ MAPS ]<br /><br />Office<br /><ul><li>Fixed geometry in the problematic jumping corner.</li></ul>Ancient<br /><ul><li>Reworked collision on the staircase to A-main for better player movement.</li><li>Removed a tree that was creating a distracting shadow at A site.</li><li>Adjusted collision to better match visible geometry so that players can hug the walls more closely.</li><li>Fixed a few lighting bugs.</li><li>Reduced shadows to increase perf in some areas.</li><li>Fixed some spots in house where you could get stuck.</li><li>Fixed collision gap at the bottom of B ramp.</li><li>Fixed some disappearing mesh.</li></ul>Nuke<br /><ul><li>Fixed some lighting errors on lower graphics settings.</li></ul>Anubis<br /><ul><li>Fixed a gap in geometry.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472731215261073417</guid>
-      <pubDate>Thu, 07 Nov 2024 19:37:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
