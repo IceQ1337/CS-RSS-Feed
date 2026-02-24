@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Feb 2026 21:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 18:28:59 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 23.02.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Leistungsproblem (größtenteils) behoben, das hauptsächlich Windows-10-Nutzer mit neueren Intel-Prozessoren betraf.</p></li><li><p>Fehler behoben, durch den die Option „Gegenstand löschen“ im Inventar nicht funktionierte.</p></li><li><p>Visueller Darstellungsfehler bei der Verwendung von Leuchtpunktvisieren behoben, der Nutzer mit AMD-Grafikkarten betraf.</p></li><li><p>Positivliste der Konsolenbefehle erweitert, die von Workshop-Karten geändert werden dürfen.</p></li></ul><p></p><p>[ KARTEN ]</p><p>Overpass</p><ul><li><p>Problem mit den Luftballons bei Party behoben.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">526494450238621925</guid>
+      <pubDate>Mon, 23 Feb 2026 23:38:41 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 09.02.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472731215261073715</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Verschiedene Anpassungen am Kugeltreffer-Feedback vorgenommen.</li><li>Fehler behoben, durch den während eines Dauerfeuers die Hitboxen des Ziels durch die Verzögerungskompensation weiter zurückversetzt wurden, als es auf dem Bildschirm den Anschein hatte.</li><li>Fehler behoben, durch den ein Spieler beim Springen auf einer schrägen Fläche ein kleines Stück rutschte.</li><li>Fehler behoben, durch den die Bombe aus beliebiger Höhe entschärft werden konnte.</li></ul>[ ANIMATION ]<br /><ul><li>Anpassungen an der Inverse-Kinematik-Logik vorgenommen, um die Positionierung der Füße in der Third-Person-Perspektive zu verbessern (insbesondere auf schrägen Flächen).</li><li>Fehler behoben, durch den die Füße und Beine eines Spielers nach dem Ende der Animation beim Legen einer Bombe plötzlich eine andere Position annahmen.</li><li>Nutzung der Netzwerkbandbreite von Animationen reduziert.</li></ul>[ SPIELSUCHE ]<br /><ul><li>Detailliertere Informationen für die Spielsuche von Spielern hinzugefügt, die außerhalb der Spitzenspielzeiten eines Tages nach einem Spiel suchen.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Die Aktivierung eines Arsenalpasses gewährt keinen kostenlosen Arsenalpunkt mehr. Alle 40 Arsenalpunkte können durch das Sammeln von EP im Spiel verdient werden.</li></ul>[ KARTEN ]<br /><br />Office<br /><ul><li>Kartengeometrie in einer Ecke angepasst, die zu inkonsistenten Sprüngen führte.</li></ul>Ancient<br /><ul><li>Kollision auf der Treppe zum Hauptzugang zu Bombenort A überarbeitet, um die Spielerbewegung flüssiger zu gestalten.</li><li>Baum entfernt, der einen störenden Schatten auf den Bombenort A warf.</li><li>Kollision angepasst, damit diese besser der sichtbaren Kartengeometrie entspricht und Spieler näher an den Wänden stehen können.</li><li>Einige Fehler mit der Beleuchtung behoben.</li><li>Schatten reduziert, um die Leistung in einigen Bereichen zu verbessern.</li><li>Einige Orte im Haus korrigiert, an denen Spieler stecken bleiben konnten.</li><li>Kollisionslücke am unteren Ende der Rampe zu Bombenort B ausgebessert.</li><li>Problem mit verschwindenden Polygonnetzen behoben.</li></ul>Nuke<br /><ul><li>Einige Beleuchtungsfehler bei niedrigeren Grafikeinstellungen behoben.</li></ul>Anubis<br /><ul><li>Lücke in der Kartengeometrie ausgebessert.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472731215261073417</guid>
-      <pubDate>Thu, 07 Nov 2024 19:37:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
