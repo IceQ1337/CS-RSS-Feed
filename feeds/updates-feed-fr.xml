@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 10 Feb 2026 18:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 17:59:05 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction d&#39;un problème de performance qui affectait principalement les personnes utilisant Windows 10 avec des processeurs Intel récents.</p></li><li><p>Correction du problème suivant : le bouton « Supprimer l&#39;objet » dans l&#39;inventaire ne fonctionnait pas.</p></li><li><p>Correction d&#39;un problème de corruption visuelle lors de l&#39;utilisation de la mire métallique avec les processeurs AMD.</p></li><li><p>La liste des variables de console que les modules complémentaires peuvent modifier a été revue à la hausse.</p></li></ul><p></p><p>[CARTES]</p><p>Overpass</p><ul><li><p>Correction d&#39;un problème avec les ballons de baudruche.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">526494450238621925</guid>
+      <pubDate>Mon, 23 Feb 2026 23:38:41 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472731215261073715</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GAMEPLAY]<br /><ul><li>Plusieurs ajustements ont été apportés aux effets d&#39;impact de balles.</li><li>Correction du problème suivant : la compensation de latence au milieu d&#39;une rafale de tirs renvoyait les masques de collision (hitbox) à un état antérieur à celui affiché à l&#39;écran.</li><li>Sauter sur place sur une surface en pente ne provoque plus de glissade à l&#39;atterrissage.</li><li>Correction du problème suivant : il était possible de désamorcer la bombe depuis n&#39;importe quelle hauteur.</li></ul>[ANIMATIONS]<br /><ul><li>Corrections apportées à la logique de cinématique inverse (IK) pour améliorer la position des pieds des modèles, notamment sur les surfaces en pente.</li><li>Correction du problème suivant : les pieds et les jambes des modèles pouvaient se déboiter lors de la fin de l&#39;animation de pose de bombe.</li><li>Réduction de l&#39;utilisation de la bande passante réseau liée aux animations.</li></ul>[MATCHMAKING]<br /><ul><li>Ajout de statistiques de matchmaking plus détaillées pour les personnes qui tentent de trouver une partie pendant les heures creuses.</li></ul>[DIVERS]<br /><ul><li>L&#39;activation d&#39;un passe de l&#39;arsenal n&#39;accorde plus automatiquement le premier crédit. Jouez et gagnez de l&#39;XP pour débloquer les 40 crédits.</li></ul>[CARTES]<br /><br />Office<br /><ul><li>Correction de la géométrie qui posait problème dans le coin extérieur.</li></ul>Ancient<br /><ul><li>Amélioration des collisions dans les escaliers menant à la zone principale du site de bombe A pour fluidifier les mouvements.</li><li>Suppression d&#39;un arbre à l&#39;ombre gênante près du site de bombe A.</li><li>Ajustement des collisions pour qu&#39;elles soient plus cohérentes avec la géométrie et ainsi favoriser les déplacements contre les murs.</li><li>Correction de quelques problèmes d&#39;éclairage.</li><li>Réduction des ombres pour améliorer les performances dans certaines zones.</li><li>Correction de plusieurs endroits dans la maison où il était possible de rester coincé.</li><li>Correction d&#39;un problème de collision au bas de la rampe du site de bombe B.</li><li>Correction de maillage qui avait disparu.</li></ul>Nuke<br /><ul><li>Correction de certains problèmes relatifs à l&#39;éclairage qui se produisaient quand la qualité des graphismes était réglée sur « Faible ».</li></ul>Anubis<br /><ul><li>Correction d&#39;un vide dans la géométrie.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472731215261073417</guid>
-      <pubDate>Thu, 07 Nov 2024 19:37:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
