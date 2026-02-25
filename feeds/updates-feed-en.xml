@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 23:49:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 23:07:26 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAP SCRIPTING ]</p><ul><li><p>Added Instance.SetSaveData</p></li><li><p>Added Instance.GetSaveData</p><ul></ul></li><li><p>Workshop maps can write up to 1MB of save data.</p></li><li><p>Workshop saves leverage Steam Cloud and persist across installs.</p></li><li><p>Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.</p></li><li><p>Added Instance.OnModifyPlayerDamage</p><ul></ul></li><li><p>Called after all damage properties have been calculated, just before armor and health are modified</p></li><li><p>Replaces Instance.OnBeforePlayerDamage</p></li><li><p>Includes hitgroup in event data</p></li><li><p>Added hitgroup to OnPlayerDamage event data</p></li><li><p>Added CSDamageFlags.IGNORE_ARMOR</p></li><li><p>Added CSPlayerPawn.IsInputPressed</p></li><li><p>Added CSPlayerPawn.WasInputJustPressed</p></li><li><p>Added CSPlayerPawn.WasInputJustReleased</p></li><li><p>Added enum CSInputs</p></li><li><p>Fixed bug where CSDamageTypes was exported under the name CSDamageType</p></li></ul><p>[ MISC ]</p><ul><li><p>Map guides for de_ancient can now be used on de_ancient_night and vice versa.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">526495084411093117</guid>
+      <pubDate>Wed, 25 Feb 2026 22:53:52 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4458095069430284352</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ NETWORK ]<br /><ul><li>Fixed a case mid-spray where lag compensation wasn&#39;t aware of the user&#39;s &quot;Buffering to smooth over packet loss / jitter&quot; setting.</li><li>Improved clock synchronization to better handle downstream jitter bursts.</li></ul><br />[ TELEMETRY HUD ]<br /><ul><li>Changed the method for measuring network quality to measure how much network is negatively impacting gameplay. It now measures how often a tick is missed due to network loss or jitter.</li><li>Added detailed network quality display option, which can be used to display the raw packet loss and jitter numbers.</li><li>For more details see <a rel="nofollow" href="https://help.steampowered.com/en/faqs/view/5E6F-5B36-5485-F6B9">this article</a>.</li></ul><br />[ ABOUT THE NETWORK QUALITY READOUT ]<br />Prior to the Armory Update, the network quality readout in the telemetry HUD considered packets to be &quot;bad&quot; under two circumstances.  1.) If the packet was dropped.  2.) If the packet was delivered out-of-order and was not corrected at a relatively low layer in the network stack.  This was not a useful metric for two reasons.  First, it counted some misdelivery events as &quot;bad&quot; even though they did not negatively impact gameplay.  This was especially a problem for packet reordering.  Second, it was not counting as &quot;bad&quot; packets that arrived late due to network jitter and <em>did</em> negatively impact gameplay.  After debugging many instances of gameplay hitches with players, we determined that jitter was causing problems for many players, who believed (quite reasonably) that their network was working perfectly, since there was no packet loss.<br /><br />In an attempt to let these players know that jitter might be the cause of the hitches, we changed the measurement method in the Armory Update on October 2, 2024.  Now, we counted a message as &quot;bad&quot; if it was lost, if packets arrived out of order in a way that could not be corrected, or if the packets experienced jitter above a threshold.  For players on a network connection with significant jitter, suddenly the network quality indicator became significantly worse.  Many players assumed that this meant that something had changed to introduce packet loss.<br /><br />Unfortunately, this method of measuring quality was also flawed.  The Source 2 Engine automatically adds buffering to smooth over jitter.  For many players, these automatic adjustments are enough, and the indicator was counting jittered packets as &quot;bad&quot; even when there was not negative impact on gameplay.<br /><br />Today&#39;s update changes the network quality readout to only measure network events that are negatively impacting gameplay.  See the <a rel="nofollow" href="https://help.steampowered.com/en/faqs/view/5E6F-5B36-5485-F6B9">FAQ</a> for more details.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472731215261073715</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
