@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 23:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:03:51 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ DEAD HAND COLLECTION ]</p><ul><li><p>The Dead Hand Collection is now available, featuring 17 finishes from community contributors, and including 22 all-new gloves as rare special items.</p></li><li><p>Access items in the Dead Hand Collection via the Dead Hand Terminal, available as a weekly drop.</p></li></ul><p></p><p>[ MAPS ]</p><p>Dust II</p><ul><li><p>Fixed a pixel gap in a door Outside Long. </p></li></ul><p>Alpine</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3221491619">Update Notes</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">518615049848225874</guid>
+      <pubDate>Wed, 11 Mar 2026 23:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6562402086097518696</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAP GUIDES ]<ul><li>Fixed a bug where missing text for a user&#39;s language wouldn&#39;t fall back to English</li></ul>[ MAPS ]<br /><br />Train<ul><li>Fixed various collision issues including a higher fidelity for the orange train on B site</li><li>Minor fixes on textures stretching</li><li>Fixed various gaps in map</li><li>Disabled player collision on radio</li><li>Updated radio sound</li><li>Added vphysics clip to platform gap in T spawn for clumsy players</li><li>Players can now get on top of cratestack outside of longdog</li></ul>Overpass<ul><li>Fixed lighting bug on Bombsite B</li><li>Fixed footstep sound bug on mud surfaces</li></ul>Basalt<ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">Update Notes</a>)</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6562402086097518652</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
