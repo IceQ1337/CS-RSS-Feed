@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 15:26:52 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[COLLECTION MAIN MORTE]</p><ul><li><p>La collection Main morte est disponible. Elle comprend 17 finitions créées par la communauté ainsi que 22 paires de gants rares en tant qu&#39;items spéciaux.</p></li><li><p>Les items de la collection Main morte sont accessibles dans le terminal Main morte, disponible dans les récompenses hebdomadaires.</p></li></ul><p></p><p>[CARTES]</p><p>Dust II</p><ul><li><p>Correction d&#39;un interstice dans une porte du couloir extérieur. </p></li></ul><p>Alpine</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3221491619">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">518615049848225874</guid>
+      <pubDate>Wed, 11 Mar 2026 23:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6562402086097518696</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GUIDES DE CARTE]<ul><li>Correction du problème suivant : en cas de texte manquant dans la langue définie par un compte, le jeu ne revenait pas à la version anglaise.</li></ul>[CARTES]<br /><br />Train<ul><li>Correction de divers problèmes de collision, notamment avec le train orange sur le site de bombe B.</li><li>Corrections mineures apportées à certaines textures étirées.</li><li>Correction de divers interstices sur la carte.</li><li>Suppression de la collision avec la radio.</li><li>Mise à jour de l&#39;effet sonore de la radio.</li><li>Ajout d&#39;un modèle de collisions « VPhysics » à l&#39;interstice entre les plateformes dans la zone de réapparition T pour éviter les mauvaises chutes.</li><li>Il est désormais possible de monter au sommet de la pile de caisses près de Longdog.</li></ul>Overpass<ul><li>Correction d&#39;un problème d&#39;éclairage sur le site de bombe B.</li><li>Correction d&#39;un problème audio avec les bruits de pas dans les zones boueuses.</li></ul>Basalt<ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">cliquez ici pour voir les notes de mise à jour</a>)</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6562402086097518652</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
