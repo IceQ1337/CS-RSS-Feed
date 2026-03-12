@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 06 Mar 2026 22:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 16:59:24 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 12.03.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ TOTE-HAND-KOLLEKTION ]</p><ul><li><p>Die Kollektion „Tote Hand“ ist ab sofort verfügbar und enthält 17 Waffenlackierungen von Community-Künstlern sowie 22 brandneue Handschuhe als seltene Spezialgegenstände.</p></li><li><p>Die Gegenstände der Kollektion „Tote Hand“ sind über das Tote-Hand-Uplink-Terminal erhältlich, das als Belohnung im Wöchentlichen Versorgungspaket eingelöst werden kann.</p></li></ul><p></p><p>[ KARTEN ]</p><p>Dust II</p><ul><li><p>Pixelspalte an einer Tür bei Außerhalb Lang ausgebessert. </p></li></ul><p>Alpine</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3221491619">Update-Notizen</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">518615049848225874</guid>
+      <pubDate>Wed, 11 Mar 2026 23:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 04.03.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">6562402086097518696</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN-GUIDES ]<ul><li>Fehler behoben, durch den nicht lokalisierter Text einer Sprache nicht automatisch auf Englisch angezeigt wurde.</li></ul>[ KARTEN ]<br /><br />Train<ul><li>Verschiedene Probleme mit der Kollision (inklusive der Qualität des orangefarbenen Güterwagens am Bombenort B) behoben.</li><li>Kleinere Korrekturen im Zusammenhang mit gedehnten Texturen vorgenommen.</li><li>Verschiedene Lücken in der Spielwelt ausgebessert.</li><li>Spielerkollision mit dem Radio deaktiviert.</li><li>Radiogeräusch aktualisiert.</li><li>VPhysics-Kollision (für ungeschickte Spieler) zur Lücke in der Plattform im T-Start hinzugefügt.</li><li>Spieler können jetzt außerhalb von „Long Dog“ auf den Kistenstapel springen.</li></ul>Overpass<ul><li>Beleuchtungsfehler am Bombenort B behoben.</li><li>Fehlerhafte Trittgeräusche auf schlammigen Oberflächen behoben.</li></ul>Basalt<ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">Update-Notizen</a>)</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6562402086097518652</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
