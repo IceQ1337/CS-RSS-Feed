@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 23:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 22:07:47 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ X-Ray Scanner ]</p><ul><li><p>Players in Germany and Netherlands will have an <a rel="nofollow" href="https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B">X-Ray Scanner</a> tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Scanner will come preloaded with a one-time exclusive non-tradable &quot;Genuine P250 | X-ray&quot;, which must be claimed before using the X-Ray Scanner to reveal items in other containers.</p></li><li><p>Keyless Containers, like Souvenir Packages, can be opened without the X-Ray Scanner.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">518615049848226729</guid>
+      <pubDate>Mon, 16 Mar 2026 22:06:34 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472732402493423622</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br />Train<ul><li>Removed unintended boost in B halls</li><li>Added grenade collision to out of bounds areas</li><li>Fixed gap in world by longdog exit</li><li>Added collision to B site broken ceiling</li><li>Fixed collision type on oilcar in B site</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6562402086097518696</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
