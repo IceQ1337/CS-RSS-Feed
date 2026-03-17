@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Mar 2026 16:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 22:30:09 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 16.03.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ Röntgenscanner ]</p><ul><li><p>Spieler in Deutschland und den Niederlanden finden ab heute den Tab <a rel="nofollow" href="https://help.steampowered.com/faqs/view/7336-6EBC-1923-EE1B">Röntgenscanner</a> in ihrem Inventar. Besagte Spieler können Behälter nur noch per Röntgenscanner öffnen. Der Röntgenscanner enthält einmalig eine exklusive, nicht handelbare „P250 (Echt) | Röntgen“, die eingelöst werden muss. Erst dann kann der Röntgenscanner verwendet werden, um Gegenstände in anderen Behältern zu enthüllen.</p></li><li><p>Behälter wie Souvenirpakete, die keine Schlüssel benötigen, können ohne Röntgenscanner geöffnet werden.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">518615049848226729</guid>
+      <pubDate>Mon, 16 Mar 2026 22:06:34 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 12.03.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -596,14 +604,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472732402493423622</guid>
       <pubDate>Fri, 06 Dec 2024 23:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br />Train<ul><li>Nicht vorgesehener Boost-Ort im Gang über Bombenort B entfernt.</li><li>Granatenkollision für Bereiche außerhalb der Kartengrenze hinzugefügt.</li><li>Lücke in der Spielwelt am Ausgang von „Long Dog“ ausgebessert.</li><li>Kollision zum kaputten Dach am Bombenort B hinzugefügt.</li><li>Kollisionsart des Ölwagens am Bombenort B geändert.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6562402086097518696</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
