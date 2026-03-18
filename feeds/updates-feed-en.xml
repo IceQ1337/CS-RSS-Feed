@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 22:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 22:49:40 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<ul><li>Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves.</li><li>Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon.</li><li>The fill-level of the current weapon is now displayed below the ammo count.</li><li>Tuned reserve magazine counts per-weapon.</li></ul>[ MAP GUIDES ]<ul><li>Limited map guides are now available in Competitive and Retakes (first 5 rounds of the half, 30 node max).</li><li>sv_allow_annotations_access_level supports 3 values: 0 – disabled. 1 – limited view. 2 – full and editable.</li><li>sv_annotation_limits_max_rounds_per_half (default 5) determines how many rounds into the half guides are allowed. -1 for unlimited.</li><li>Minimal starter map guides have been added for all Active Duty maps.</li></ul>[ WORKSHOP MAPS ]<br /><ul><li>Friends playing a Practice or Workshop map can be joined through the friends menu if they have Open Party set.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">532126482488623360</guid>
+      <pubDate>Wed, 18 Mar 2026 22:35:27 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -588,22 +596,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472733036435211443</guid>
       <pubDate>Fri, 06 Dec 2024 23:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ SHANGHAI 2024 MAJOR ]<br /><ul><li>The Shanghai Major Hub is now available. Visit the hub to purchase tournament items, play the Pick&#39;Em Challenge and more.</li><li>Purchase a Shanghai 2024 Viewer Pass to receive an upgradable Shanghai 2024 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick&#39;Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick&#39;Em Challenge performance to your friends.</li><li>All players with Prime status can place Pick&#39;Em picks for free! However, to complete challenges and earn rewards from an event stage, you will have to activate a Viewer Pass before that stage begins.</li></ul>[ MUSIC KITS ]<br /><ul><li>A new music kit “Ay Hey” by Perfect World is now available for purchase in-game in standard and StatTrak versions.</li></ul>[ GAMEPLAY ]<br /><ul><li>Added &quot;sv_quantize_movement_input&quot; setting, enabled by default, to keep players from using analog binds to move at fractional speeds that the game is not designed to handle.</li><li>In cases when servers toggle some game rules from competitive to deathmatch and back to competitive mid-match, the weapons will no longer disappear when dropped on the ground, but toggling game rules settings without reloading the map is not a generally supported workflow for community servers.</li></ul>[ ANNOTATIONS ]<br /><ul><li>Added support for turning off text background</li><li>Added support for grenade types other than Smoke</li><li>Increased node limit from 100 to 300</li><li>Fixed annotation_delete_previous_node not cleaning up particle effects</li></ul>[ MISC ]<br /><ul><li>Added ability to rent weapons from all previous CS:GO weapon cases.</li><li>Added policy settings to enforce client delta ticks order, namely sv_deltaticks_enforce and sv_deltaticks_log, which should help diagnosing configurations causing delta ticks out of order disconnects.</li><li>Fixed a case where an unlocalized #SLOT prefix could appear in chat.</li><li>Added a reference Counter-Strike Broadcast Playcast Webserver implementation: <a rel="nofollow" href="https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Broadcast#Reference_Playcast_Webserver_Implementation">https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Broadcast#Reference_Playcast_Webserver_Implementation</a></li></ul>[ MAPS ]<br /><br />Basalt<br /><ul><li>Updated to latest version from Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">Update Notes</a>)</li></ul>Train<br /><ul><li>Fixed various gaps in map</li><li>Collision fidelity upgrades</li><li>Blockers added for train in B to avoid unfair angles</li><li>Various visual fixes</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472733036435210471</guid>
-      <pubDate>Fri, 06 Dec 2024 21:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<ul><li>Fixed a case where a disconnected player could cause a poltergeist CT model to appear in the middle of the map</li><li>Player model of a disconnecting player should now immediately suicide when disconnect is detected instead of lingering for 10 additional seconds under certain conditions</li><li>Fixed a case where damage prediction was incorrect due to view angle changes mid-spray</li><li>Lag compensation now runs when shooting at teammates and mp_teammates_are_enemies is enabled even when mp_friendlyfire is disabled</li></ul>[ UI ]<ul><li>Fixed layout inconsistencies for ranks display and player profiles</li></ul>[ MAPS ]<br /><br />Train<ul><li>Updated sounds on main menu background</li><li>Improved movement around ladders</li><li>Fixed various gaps in map</li><li>Fixed z-fighting in various spots</li></ul>Inferno<ul><li>Fixed various holes</li><li>Adjusted clipping in multiple spots</li><li>Fixed various texture bugs</li></ul>Nuke<ul><li>Fixed a spot that players could get stuck on</li></ul>Office<ul><li>Fixed a case where a T would spawn in the air</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472732402493423622</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
