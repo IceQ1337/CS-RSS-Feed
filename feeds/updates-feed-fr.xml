@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Mar 2026 15:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:53:58 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[[GAMEPLAY]<ul><li>Le système de rechargement a été repensé pour inciter à mieux gérer ses munitions. Lorsque vous rechargez une arme disposant d&#39;un chargeur, toutes les munitions restantes dans le chargeur sont jetées et un nouveau chargeur plein est prélevé de la réserve.</li><li>Les munitions en réserve sont maintenant représentées soit par le nombre de chargeurs, de cartouches ou de balles, en fonction de l&#39;arme.</li><li>Le niveau actuel de munitions de l&#39;arme s&#39;affiche désormais en dessous du nombre de munitions total.</li><li>Réglage du nombre de chargeurs de réserve par arme.</li></ul>[GUIDES DE CARTE]<ul><li>Des guides de carte restreints sont désormais disponibles en modes compétitif et prises de contrôle (cinq premières manches avant la mi-temps, maximum de 30 annotations).</li><li>« sv_allow_annotations_access_level » prend en charge trois valeurs : 0 – désactivé, 1 – vue limitée, et 2 – complet et modifiable.</li><li>« sv_annotation_limits_max_rounds_per_half » (par défaut 5) détermine le nombre de manches par mi-temps pendant lesquelles les guides sont autorisés. -1 pour illimitée.</li><li>Des guides de carte pour personnes débutantes ont été ajoutés pour toutes les cartes du service actif.</li></ul>[CARTES DU WORKSHOP]<br /><ul><li>Il est possible de rejoindre les contacts en jeu sur une carte d&#39;entrainement ou du Workshop à partir du menu des contacts si l&#39;option « Ouvrir le groupe » est activée.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">532126482488623360</guid>
+      <pubDate>Wed, 18 Mar 2026 22:35:27 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -580,30 +588,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">4472733036435211443</guid>
       <pubDate>Fri, 06 Dec 2024 23:26:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[TOURNOI MAJEUR DE SHANGHAI 2024]<br /><ul><li>Le hub du tournoi majeur de Shanghai est désormais disponible. Rendez-vous sur le hub pour acheter des items de tournoi, jouer au challenge Prono&#39;Stick et plus encore !</li><li>Achetez un passe du public de Shanghai 2024 pour recevoir un insigne évolutif du tournoi majeur de Shanghai 2024. Activez votre passe pour améliorer votre insigne et gagner des paquets souvenirs supplémentaires en participant au challenge Prono&#39;Stick. Vous figurerez également dans le classement des personnes ayant activé leur passe et pourrez ainsi comparer vos prouesses au challenge Prono&#39;Stick avec celles de vos proches.</li><li>Désormais, détenir le statut Prime suffit pour effectuer des pronostics gratuitement ! Cependant, vous devrez activer votre passe du public avant le début d&#39;une phase de l&#39;évènement pour relever les défis et gagner les récompenses de cette phase.</li></ul>[KITS DE MUSIQUES]<br /><ul><li>Une nouvelle caisse de kits de musiques « Ay Hey » de Perfect World est maintenant disponible à l&#39;achat en version standard et StatTrak.</li></ul>[GAMEPLAY]<br /><ul><li>Ajout du paramètre « sv_quantize_movement_input » activé par défaut, afin d&#39;empêcher l&#39;utilisation de boutons analogiques pour effectuer des mouvements à vitesse infime que le jeu ne peut pas retranscrire.</li><li>Lorsqu&#39;un serveur active des règles du mode compétitif, puis du mode match à mort, puis à nouveau du mode compétitif en pleine partie, les armes ne disparaissent plus une fois lâchées au sol. Cependant, le fait de modifier les règles d&#39;une partie sans recharger la carte n&#39;est généralement pas un scénario pris en charge par les serveurs de la communauté.</li></ul>[ANNOTATIONS]<br /><ul><li>Ajout d&#39;une option désactivant l&#39;arrière-plan de textes.</li><li>Ajout de la prise en charge de types de grenades autres que les fumigènes.</li><li>La limite des nœuds passe de 100 à 130.</li><li>Correction de « annotation_delete_previous_node » qui ne supprimait pas les effets de particules.</li></ul>[DIVERS]<br /><ul><li>Ajout de l&#39;option de location des armes pour toutes les caisses d&#39;armes CS:GO passées.</li><li>Ajout des paramètres de stratégie « sv_deltaticks_enforce » et « sv_deltaticks_log » afin de faire respecter l&#39;ordre d&#39;arrivée des ticks delta. Ils devraient permettre de diagnostiquer les configurations provoquant des déconnexions en raison de ticks delta arrivant dans le désordre.</li><li>Correction du problème suivant : il arrivait que le préfixe non traduit « #SLOT » apparaisse dans le chat.</li><li>Ajout d&#39;une implémentation de référence du serveur Web de diffusion pour Counter-Strike : <a rel="nofollow" href="https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Broadcast#Reference_Playcast_Webserver_Implementation">https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Broadcast#Reference_Playcast_Webserver_Implementation</a></li></ul>[CARTES]<br /><br />Basalt<br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">cliquez ici pour voir les notes de mise à jour</a>).</li></ul>Train<br /><ul><li>Correction de divers interstices sur la carte.</li><li>Amélioration des collisions.</li><li>Le train au site de bombe B a reçu des modifications pour éviter les angles qui offraient un avantage injuste.</li><li>Diverses corrections visuelles.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472733036435210471</guid>
-      <pubDate>Fri, 06 Dec 2024 21:36:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GAMEPLAY]<ul><li>Correction du problème suivant : un modèle « fantôme » d&#39;antiterroriste pouvait apparaitre au milieu de la carte si quelqu&#39;un venait à se déconnecter.</li><li>Lorsque quelqu&#39;un se déconnecte, son modèle devrait désormais se suicider immédiatement après la déconnexion détectée, au lieu de s&#39;attarder 10 secondes supplémentaires sous certaines conditions.</li><li>Correction du problème suivant : le changement d&#39;angle de vue en pleine rafale pouvait provoquer des erreurs de prédiction des dégâts.</li><li>La compensation de latence fonctionne désormais lorsque vous tirez sur des membres de votre équipe. Le paramètre « mp_teammates_are_enemies » est également activé, même lorsque « mp_friendlyfire » est désactivé.</li></ul>[INTERFACE]<ul><li>Correction d&#39;incohérences de mise en page pour l&#39;affichage du classement et des profils de comptes.</li></ul>[CARTES]<br /><br />Train<ul><li>Mise à jour des sons d&#39;arrière-plan du menu principal.</li><li>Amélioration des déplacements à proximité des échelles.</li><li>Correction de divers interstices sur la carte.</li><li>Correction de problèmes de « z-fighting » (textures qui se chevauchent) à plusieurs emplacements.</li></ul>Inferno<ul><li>Correction de divers interstices.</li><li>Ajustement des collisions à plusieurs endroits.</li><li>Correction de plusieurs problèmes de texture.</li></ul>Nuke<ul><li>Correction d&#39;un endroit où il était possible de rester bloqué.</li></ul>Office<ul><li>Correction du problème suivant : un point d&#39;apparition des terroristes pouvait flotter dans les airs.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472732402493423622</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><br />Train<ul><li>Suppression d&#39;un emplacement de courte échelle non voulu dans un couloir vers le site de bombe B.</li><li>Ajout de collisions aux grenades avec les éléments en dehors des limites de la carte.</li><li>Correction d&#39;un interstice près de la sortie de Longdog.</li><li>Ajout d&#39;une collision au plafond écroulé du site de bombe B.</li><li>Correction du type de collision sur le wagon-citerne du site de bombe B.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">6562402086097518696</guid>
-      <pubDate>Fri, 06 Dec 2024 23:59:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
