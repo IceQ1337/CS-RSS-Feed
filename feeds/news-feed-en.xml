@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 23:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 22:54:53 +0000</lastBuildDate>
+    <item>
+      <title>Animgraph 2 Beta</title>
+      <link>https://www.counter-strike.net/newsentry/528750051218948816</link>
+      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png"/><br /><br />Today we&#39;re shipping a beta build that updates CS2&#39;s animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many cases, adjusted in response to player feedback.<br /><br />It&#39;s time for you to take a look, poke around for bugs, and tell us what you think. To opt into the beta build, follow the instructions <a rel="nofollow" href="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A">here</a> and choose the &#39;animgraph_2_beta&#39; build. Note that you will not be able to connect to Valve servers while you are using the beta build. To report bugs or provide feedback about Animgraph 2, please email csgoteamfeedback@valvesoftware.com with the subject &quot;AG2 Beta&quot;.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">528750051218948816</guid>
+      <pubDate>Wed, 01 Apr 2026 22:35:45 +0000</pubDate>
+    </item>
     <item>
       <title>Guns, Guides, and Games</title>
       <link>https://www.counter-strike.net/newsentry/532126482488623353</link>
@@ -199,14 +207,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529833471389991079</guid>
       <pubDate>Thu, 19 Dec 2024 01:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shanghai 2024 Major</title>
-      <link>https://www.counter-strike.net/newsentry/4472732402493426409</link>
-      <description><![CDATA[The Counter-Strike Major has come to Shanghai.<br /><br />Over the past month, teams from around the world challenged the best in their region for their spot in the Major. Now the dust has settled and 24 teams remain&ndash;perennial favorites, seasoned veterans, and more than a few newcomers.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/f0f38a64ad92793e959eec2a45ff34098daf8f38.png"/><br />The Shanghai Major Hub is now open for business, complete with the Pick&#39;Em Challenge, the Shanghai 2024 Viewer Pass, Souvenirs, Graffiti, and Team and Player stickers. 50% of the proceeds from tournament items are shared with players and organizations.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/56dc2ad026cabb70fc939f0dfa95c9bf4227dce4.png"/><br />The Pick&#39;Em Challenge is free to play, but if you want to upgrade your Shanghai 2024 Coin (and earn extra Souvenir Packages), make sure to activate your Viewer Pass before the event begins. You can also compare your Pick&#39;Em performance to other friends with active passes on the Active Pass Leaderboard.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/2a940af901af1afe7527f1fb2eb7c2e9e51d3e32.png"/><br />It&#39;s time to support your favorite teams. Place your picks, set your graffiti, mark your calendar and get ready, because the Shanghai Major is about to begin. May the best team win!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4472732402493426409</guid>
-      <pubDate>Tue, 03 Dec 2024 22:39:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
