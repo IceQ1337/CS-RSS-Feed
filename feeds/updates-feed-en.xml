@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 23:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 22:21:09 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: <a rel="nofollow" href="https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>To report bugs or provide feedback about the beta build, please email csgoteamfeedback@<a rel="nofollow" href="https://valvesoftware.com">valvesoftware.com</a> with the subject &quot;AG2 Beta&quot;.</p><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fixed wrong pose when backing into corners</p></li><li><p>Improved stuttering of 3rd person aim</p></li><li><p>Fixed main menu pistol poses</p></li><li><p>Added missing knife draw animations</p></li><li><p>Fix pop when running and switching weapons</p></li><li><p>Fix pop when switching weapons after throwing a grenade</p></li><li><p>Fixed head wobbling when planting C4</p></li><li><p>Fixed issue when holding inspect and changing weapons</p></li></ul><p>[ OTHER ]</p><ul><li><p>Fixed a case where it was possible to climb down ladders faster than before.</p></li></ul><p></p><p>Please note that the client may produce a fatal error message when attempting to connect to a server running a different build.</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">534380184755770151</guid>
+      <pubDate>Tue, 14 Apr 2026 22:08:06 +0000</pubDate>
+    </item>
     <item>
       <title>Animgraph 2 Beta Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
