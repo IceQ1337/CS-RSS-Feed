@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Apr 2026 17:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 20:58:22 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 14.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>Die folgenden Änderungen sind in der Beta-Version „animgraph_2_beta“ verfügbar. Um an der Beta-Version teilzunehmen, folgen Sie bitte der Anleitung hier: <a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>Um Fehler zu melden oder Feedback zur Beta-Version zu hinterlassen, senden Sie bitte eine E-Mail an csgoteamfeedback@<a rel="nofollow" href="https://valvesoftware.com">valvesoftware.com</a> mit dem Betreff „AG2 Beta“.</p><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fehlerhafte Pose bei der Rückwärtsbewegung in eine Ecke behoben.</p></li><li><p>Ruckler der Modellanimation in der Third-Person-Perspektive beim Umherbewegen des Fadenkreuzes behoben.</p></li><li><p>Fehlerhafte Posen für Agenten im Hauptmenü behoben, die eine Pistole ausgerüstet hatten.</p></li><li><p>Fehlende Animationen beim Ausrüsten von Messern hinzugefügt.</p></li><li><p>Unsauberer Animationsübergang beim Waffenwechsel behoben, während der Spieler sich bewegte.</p></li><li><p>Unsauberer Animationsübergang beim Waffenwechsel behoben, nachdem der Spieler eine Granate warf.</p></li><li><p>Fehlerhaftes Wackeln des Kopfes beim Legen der Bombe behoben.</p></li><li><p>Problem behoben, das auftrat, wenn die Taste für das Untersuchen von Waffen gedrückt gehalten und die Waffe gewechselt wurde.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, der es ermöglichte, Leitern schneller als vorgesehen hinunterzuklettern.</p></li></ul><p></p><p>Bitte beachten Sie, dass der Client möglicherweise abstürzt, wenn versucht wird, eine Verbindung zu einem Server mit einer anderen Build-Version herzustellen.</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">534380184755770151</guid>
+      <pubDate>Tue, 14 Apr 2026 22:08:06 +0000</pubDate>
+    </item>
     <item>
       <title>Animgraph 2 (Beta) – Update vom 09.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
