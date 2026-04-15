@@ -13,11 +13,19 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:57:53 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>Les modifications suivantes sont disponibles dans la version « animgraph_2_beta ». Pour participer à la version bêta, suivez les instructions ici : <a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>Pour signaler un bug ou nous faire part de vos commentaires sur la version bêta, envoyez un e-mail à csgoteamfeedback@<a rel="nofollow" href="https://valvesoftware.com">valvesoftware.com</a> avec le sujet « AG2 Beta ».</p><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Correction de la pose qui était incorrecte quand un personnage reculait dans un coin.</p></li><li><p>Amélioration des saccades pendant la visée à la 3ᵉ personne.</p></li><li><p>Correction des poses avec le pistolet dans le menu principal.</p></li><li><p>Ajout d&#39;animations manquantes à la prise en main d&#39;un couteau.</p></li><li><p>L&#39;animation de changement d&#39;arme en pleine course est maintenant plus fluide.</p></li><li><p>L&#39;animation de changement d&#39;arme après avoir lancé une grenade est maintenant plus fluide.</p></li><li><p>Correction du problème suivant : la tête du personnage qui posait la bombe se balançait.</p></li><li><p>Correction d&#39;un problème qui se produisait quand on examinait une arme et qu&#39;on passait à une autre.</p></li></ul><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : il était possible de descendre des échelles plus rapidement qu&#39;avant.</p></li></ul><p></p><p>Remarque : il est possible que le client affiche un message d&#39;erreur fatale s&#39;il tente de se connecter à un serveur qui exécute une version différente.</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">534380184755770151</guid>
+      <pubDate>Tue, 14 Apr 2026 22:08:06 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de la version bêta d'Animgraph 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>Les modifications suivantes sont disponibles dans la version « animgraph_2_beta ». Pour participer à la version bêta, suivez les instructions ici : </p><p><a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>Pour signaler un bug ou nous faire part de vos commentaires sur la version bêta, envoyez un e-mail à csgoteamfeedback@valvesoftware.com avec le sujet « AG2 Beta ».</p><p></p><p> [RÉSEAU]</p><ul><li><p>Réduction de l&#39;utilisation de la bande passante du réseau.</p></li></ul><p></p><p>Remarque : il est possible que le client affiche un message d&#39;erreur fatale s&#39;il tente de se connecter à un serveur qui exécute une version différente.</p>]]></description>
+      <description><![CDATA[<p>Les modifications suivantes sont disponibles dans la version « animgraph_2_beta ». Pour participer à la version bêta, suivez les instructions ici : </p><p><a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>Pour signaler un bug ou nous faire part de vos commentaires sur la version bêta, envoyez un e⁠-⁠mail à csgoteamfeedback@valvesoftware.com avec le sujet « AG2 Beta ».</p><p></p><p> [RÉSEAU]</p><ul><li><p>Réduction de l&#39;utilisation de la bande passante du réseau.</p></li></ul><p></p><p>Remarque : il est possible que le client affiche un message d&#39;erreur fatale s&#39;il tente de se connecter à un serveur qui exécute une version différente.</p>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">534380184755767866</guid>
       <pubDate>Thu, 09 Apr 2026 23:19:31 +0000</pubDate>
