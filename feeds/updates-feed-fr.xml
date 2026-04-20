@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:33:43 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>Les modifications suivantes sont disponibles dans la version « animgraph_2_beta ». Pour participer à la version bêta, suivez les instructions ici : <a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a>.</p><p></p><p>Pour signaler un bug ou nous faire part de vos commentaires sur la version bêta, envoyez un e-mail à csgoteamfeedback@<a rel="nofollow" href="https://valvesoftware.com">valvesoftware.com</a> avec le sujet « AG2 Beta ».</p><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Correction d&#39;un problème lié à l&#39;animation de lancement des grenades explosives en vues à la 1ʳᵉ et à la 3ᵉ personnes.</p></li><li><p>Ajustement de la cinématique inverse des pieds au repos.</p></li><li><p>Peaufinage des rotations lors de la pose de la bombe.</p></li><li><p>Correction du passage rapide d&#39;une arme à l&#39;autre quand la touche d&#39;examen est enfoncée.</p></li><li><p>Ajustements mineurs des animations en vue à la 1ʳᵉ personne.</p></li><li><p>Ajustement de l&#39;animation de la tête qui s&#39;abaisse pendant les déplacements latéraux.</p></li></ul><p></p><p>Remarque : il est possible que le client affiche un message d&#39;erreur fatale s&#39;il tente de se connecter à un serveur qui exécute une version différente.</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">577165112126734783</guid>
+      <pubDate>Fri, 17 Apr 2026 20:47:38 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
