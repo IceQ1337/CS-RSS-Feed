@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Apr 2026 20:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 23:18:23 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 17.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>Die folgenden Änderungen sind in der Beta-Version „animgraph_2_beta“ verfügbar. Um an der Beta-Version teilzunehmen, folgen Sie bitte der Anleitung hier: <a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>Um Fehler zu melden oder Feedback zur Beta-Version zu hinterlassen, senden Sie bitte eine E-Mail an csgoteamfeedback@<a rel="nofollow" href="https://valvesoftware.com">valvesoftware.com</a> mit dem Betreff „AG2 Beta“.</p><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fehlerhafte Animation beim Wurf einer Splittergranate in der First-Person- und Third-Person-Perspektive behoben.</p></li><li><p>Anpassungen an der Inverse-Kinematik-Logik bei Inaktivität vorgenommen.</p></li><li><p>Kleinere Verbesserungen an den Drehanimationen beim Legen der Bombe vorgenommen.</p></li><li><p>Problem beim schnellen Waffenwechsel behoben, wenn die Taste für das Untersuchen von Waffen gedrückt gehalten wurde.</p></li><li><p>Kleinere Anpassungen an den Ansichtsmodellanimationen vorgenommen.</p></li><li><p>Absenkung des Kopfes bei Gegenbewegungseingaben („Counter-Strafing“) angepasst.</p></li></ul><p></p><p>Bitte beachten Sie, dass der Client möglicherweise abstürzt, wenn versucht wird, eine Verbindung zu einem Server mit einer anderen Build-Version herzustellen.</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">577165112126734783</guid>
+      <pubDate>Fri, 17 Apr 2026 20:47:38 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 14.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -600,15 +608,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529833630239817740</guid>
       <pubDate>Thu, 19 Dec 2024 23:21:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 18.12.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ SHANGHAI-MAJOR ]<br /><ul><li>Die Aufkleberkapsel der Meister von Shanghai ist ab sofort zum Kauf erhältlich. Diese Kapsel enthält die Autogramme aller Spieler des Meisterteams in der Qualität Standard, Glitzer, Holo und Gold. 50 % der Erlöse aus dem Verkauf fließen an die Spieler und die Organisatoren.</li></ul>[ GAMEPLAY ]<br /><ul><li>Schwellenwert angepasst, ab wann ein Spieler als „geblendet“ in der Abschussanzeige aufgeführt wird.</li><li>Waffen werden jetzt durch Explosionen zuverlässiger fortgeschleudert, auch wenn mehrere davon aufeinanderliegen.</li><li>Während der Aufwärmphase werden Waffen beim Teamwechsel nicht mehr fallen gelassen.</li><li>Während der Aufwärmphase hat der Teamwechsel jetzt eine Abklingzeit von zwei Sekunden.</li><li>Servereinstellungen hinzugefügt, die festlegen, welche Gegenstände während der Aufwärmphase fallen gelassen werden können: „mp_warmup_items_drop_policy“, „mp_warmup_items_nocost“ und „mp_warmup_items_nocount_policy“. Community-Server, die während der Aufwärmphase mit kostenlosen Waffen operieren, die nicht fallen gelassen werden können, können die folgenden Einstellungen festlegen: „mp_warmup_items_drop_policy 0“, „mp_warmup_items_nocost 1“ und „mp_warmup_items_nocount_policy 251“.</li><li>Der Befehl „give“ lässt jetzt die ausgerüstete Waffe immer fallen, wenn für die neue Waffe ein leerer Primär-/Sekundärwaffenslot benötigt wird. Das klassische Verhalten, bei dem neue Waffen fallen gelassen werden, kann in der Konsole mit der Zusatzoption „-keep_gear“ aktiviert werden, z. B. „give weapon_awp -keep_gear“.</li></ul>[ KARTEN ]<br /><ul><li></li>Train
-<ul><li>Kollisionsqualität für verschiedene Objekte verbessert.</li><li>Oberflächentypen von mehreren Objekten aktualisiert und Fehler korrigiert.</li><li>Feuchtigkeitsgrad auf einigen Oberflächen angepasst.</li><li>Verschiedene Lücken in der Spielwelt ausgebessert.</li></ul></ul>[ KARTEN-GUIDES ]<br /><ul><li>Unterstützung für das Einreichen und Abonnieren von Karten-Guides im Steam-Workshop hinzugefügt.</li><li>Auswahloption hinzugefügt, um festzulegen, welcher Karten-Guide im Trainingsmodus geladen wird.</li><li>Karten-Kommentare werden jetzt auf dem Radar angezeigt.</li><li>Werkzeug hinzugefügt (über den Konsolenbefehl „workshop_annotation_submit“), um einen Karten-Guide in den Steam-Workshop hochzuladen.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Einstellung für die Nutzungspräferenz von Prozessorkernen hinzugefügt, um festzulegen, wie Spiele Hochleistungs- und Leistungseffizienz-Kerne von Prozessoren mit Hybridarchitektur verwenden.</li><li>Fehler behoben, durch den die Waffen in der Ausrüstungsoberfläche vom Grafiktreiber fehlerhaft dargestellt werden konnten.</li><li>Verbesserungen an den Animationen beim Untersuchen einer Waffe vorgenommen.</li><li>Verbesserungen in der Benutzeroberfläche bei der Anzeige besonders langer angepasster Waffennamen vorgenommen.</li><li>Stabilitätsverbesserungen vorgenommen.</li><li>Brandneue Verdienstmedaille 2025 hinzugefügt, die ab dem 1. Januar (GMT) erhältlich ist.</li><li>Workshop-Werkzeuge: Fehlerhafte Schatten bei spitzen Sonneneinstrahlungswinkeln behoben.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529833471389991082</guid>
-      <pubDate>Thu, 19 Dec 2024 01:25:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
