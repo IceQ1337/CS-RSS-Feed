@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 23:12:17 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.</p></li><li><p>Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.</p></li></ul><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Minor adjustments to viewmodel animations.</p></li><li><p>Fixed several cases where crouch transitions in the air were instantaneous.</p></li><li><p>Fixed a bug where MVP panel characters weren&#39;t resetting correctly.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508485755865137153</guid>
+      <pubDate>Tue, 21 Apr 2026 22:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -606,15 +614,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520828168477606335</guid>
       <pubDate>Fri, 10 Jan 2025 21:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><ul><li></li>Inferno
-<ul><li>Adjusted clipping on stairs under balcony</li></ul></ul>[ MISC ]<br /><ul><li>Fixed offset discrepancy in legacy SSG08 model.</li><li>Fixed stickers mask on legacy Dual Elites magazine model.</li><li>Fixed Dual Elite pistol holster floating off the local firstperson leg model.</li><li>Fixed a regression in grenade interactions with ragdolls.</li><li>Fixed a bug where +attack2 and +lookatweapon composite binding could get silenced weapon into an inconsistent silencer state.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520828168477605889</guid>
-      <pubDate>Tue, 07 Jan 2025 23:42:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
