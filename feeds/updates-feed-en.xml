@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 23:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:00:44 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed a bug that removed the delay between burst fire bullets.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">577165112126735189</guid>
+      <pubDate>Tue, 21 Apr 2026 01:11:28 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -607,15 +615,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520828168477605889</guid>
       <pubDate>Tue, 07 Jan 2025 23:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><ul><li></li>Inferno
-<ul><li>Adjusted clipping on scaffolding on B site</li></ul></ul>[ MISC ]<br /><ul><li>Fixed a problem on team select screen for servers with no auto-select time limit.</li><li>Fixed a regression with annotation_load command.</li><li>Fixed a crash for give item_assaultsuit command.</li><li>Adjusted the rarity of the rare AK-47 inspect animation.</li><li>Fixed a regression with the rare Desert Eagle inspect animation.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529833630239817740</guid>
-      <pubDate>Thu, 19 Dec 2024 23:21:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
