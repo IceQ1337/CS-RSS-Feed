@@ -13,7 +13,23 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 20 Apr 2026 07:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:39:10 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction d&#39;un bug qui supprimait le délai entre les balles en mode rafale.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">577165112126735189</guid>
+      <pubDate>Tue, 21 Apr 2026 01:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>Toutes les modifications de la version « animgraph_2_beta » sont maintenant en ligne.</p><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Ajustements mineurs des animations en vue à la 1ʳᵉ personne.</p></li><li><p>Ajustement de la logique générale des animations de déploiement des armes.</p></li><li><p>Correction de problèmes survenant pendant la transition entre les attaques au couteau.</p></li><li><p>Correction des tirs défectueux des Dual Berettas en vue à la troisième personne.</p></li></ul><p><br />[DIVERS]</p><ul><li><p>Correction du problème suivant : il était possible de monter silencieusement sur des échelles à vitesse de course en appuyant sur les touches de déplacement de manière intermittente.</p></li><li><p>Ajustement du lissage des textures du sol aux emplacements où les surfaces en pente rencontrent le sol plat.</p></li><li><p>Correction du problème suivant : la taille des grenades tenues pouvait être altérée dans certains cas, par exemple si on les lâchait puis qu&#39;on les ramassait.</p></li><li><p>Correction du problème suivant : le jeu pouvait planter pendant la transition entre les AT et les T à la mi-temps.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">577165112126735184</guid>
+      <pubDate>Mon, 20 Apr 2026 22:58:43 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -599,24 +615,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520828168477605889</guid>
       <pubDate>Tue, 07 Jan 2025 23:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li></li>Inferno
-<ul><li>Une collision a été ajustée sur l&#39;échafaudage du site B.</li></ul></ul>[DIVERS]<br /><ul><li>Correction d&#39;un problème sur l&#39;écran de sélection des équipes pour les serveurs sans limite avant la sélection automatique.</li><li>Correction d&#39;une régression avec la commande « annotation_load ».</li><li>Correction d&#39;un plantage avec la commande de don de « item_assaultsuit ».</li><li>La rareté de l&#39;animation rare d&#39;examen de l&#39;Ak-47 a été ajustée.</li><li>Correction d&#39;une régression avec l&#39;animation rare d&#39;examen du Desert Eagle.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529833630239817740</guid>
-      <pubDate>Thu, 19 Dec 2024 23:21:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[TOURNOI MAJEUR DE SHANGHAI]<br /><ul><li>La capsule dédicacée de l&#39;équipe championne de Shanghai 2024 est maintenant disponible à l&#39;achat. Elle contient des stickers classiques, scintillants, holo et or dédicacés par chaque membre de l&#39;équipe gagnante. La moitié des recettes est reversée aux joueurs et aux organisations.</li></ul>[GAMEPLAY]<br /><ul><li>Le seuil à partir duquel l&#39;icône d&#39;élimination spécifique aux victimes aveuglées s&#39;affiche a été ajusté.</li><li>Les explosions disperseront désormais plus efficacement les armes, même si plusieurs armes sont déposées les unes sur les autres.</li><li>Les armes ne tombent plus au sol lors d&#39;un changement d&#39;équipe pendant l&#39;échauffement.</li><li>Un délai de 2 secondes est désormais appliqué entre les changements d&#39;équipe pendant l&#39;échauffement.</li><li>Ajout de paramètres de serveur pour contrôler les objets lâchés au sol pendant l&#39;échauffement : « mp_warmup_items_drop_policy », « mp_warmup_items_nocost » et « mp_warmup_items_nocount_policy ». Les serveurs communautaires qui fonctionnent avec des armes non lâchables gratuites pendant l&#39;échauffement peuvent définir ces paramètres comme suit : « mp_warmup_items_drop_policy 0 », « mp_warmup_items_nocost 1 » et « mp_warmup_items_nocount_policy 251 ».</li><li>La commande « give » fera désormais toujours tomber au sol l&#39;arme équipée si la nouvelle arme obtenue a besoin d&#39;un emplacement d&#39;arme principale/secondaire vide pour être utilisée. Pour revenir au fonctionnement précédent qui faisait tomber la nouvelle arme obtenue au sol, les dévs peuvent utiliser le flag « -keep_gear », par exemple « give weapon_awp -keep_gear ».</li></ul>[CARTES]<br /><ul><li></li>Train
-<ul><li>Amélioration de la fidélité des collisions avec de nombreuses entités.</li><li>Mises à jour et corrections du type de surface de plusieurs entités.</li><li>Ajustement des particules d&#39;eau sur certaines surfaces.</li><li>Correction de divers interstices sur la carte.</li></ul></ul>[GUIDES DE CARTE]<br /><ul><li>Les guides de carte sont désormais disponibles dans le Workshop Steam.</li><li>Ajout d&#39;un outil de sélection de guides de carte à utiliser en mode entrainement.</li><li>L&#39;emplacement des annotations est désormais indiqué sur le radar.</li><li>Ajout d&#39;un outil (via la commande de console « workshop_annotation_submit ») permettant de mettre en ligne un guide de carte sur le Workshop Steam.</li></ul>[DIVERS]<br /><ul><li>Ajout d&#39;un paramètre pour les préférences d&#39;utilisation des cœurs du processeur afin de contrôler la manière dont les cœurs à haute performance et à faible consommation d&#39;énergie sont utilisés par le jeu sur les processeurs à cœurs variables.</li><li>Correction du problème suivant : les pilotes graphiques pouvaient afficher un rendu corrompu des armes dans l&#39;inventaire.</li><li>Amélioration des animations d&#39;inspection d&#39;armes.</li><li>Amélioration de l&#39;affichage des noms d&#39;armes personnalisés très longs dans l&#39;interface.</li><li>Diverses améliorations au niveau de la stabilité.</li><li>Ajout d&#39;une toute nouvelle médaille de service 2025 qui sera disponible à partir du 1ᵉʳ janvier (GMT).</li><li>Outils du Workshop : correction d&#39;un bug avec les ombres des angles peu éclairés.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529833471389991082</guid>
-      <pubDate>Thu, 19 Dec 2024 01:25:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
