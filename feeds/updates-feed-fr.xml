@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 22 Apr 2026 15:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:56:07 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Ajustement du lissage du sol aux emplacements où le joueur peut se tenir sur des rebords très fins.</p></li></ul><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Ajustements mineurs des animations en vue à la 1ʳᵉ personne.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction de l’attribution incorrecte de certaines textures des personnages.</p></li><li><p>Les offres d&#39;échange incluant des items Counter-Strike 2 ne peuvent pas dépasser 1 000 items.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508485755865137697</guid>
+      <pubDate>Wed, 22 Apr 2026 22:40:51 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -605,15 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">518577002799693838</guid>
       <pubDate>Wed, 15 Jan 2025 16:17:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li></li>Train
-<ul><li>Correction de divers problèmes visuels et d&#39;interstices sur la carte.</li><li>Ajout de saleté et d&#39;humidité sur les caisses et les bâches aux endroits appropriés.</li><li>Le passage vers le site A en sortant de Tunnels a été élargi.</li><li>La porte du conteneur à l&#39;arrière du train près de Lierre/Tunnels a été ouverte.</li><li>Ajout d&#39;une benne à ordures près de Lierre.</li><li>Ajout de barils dans un coin près du site de bombe A.</li><li>La zone de réapparition T a été légèrement repoussée.</li></ul></ul>[DIVERS]<br /><ul><li>Correction du problème suivant : la vitesse initiale des cadavres pouvait être extrêmement rapide.</li><li>Ajout d&#39;un repère pour les matchs individuels sur la timeline de l&#39;enregistrement de parties Steam.</li><li>Correction de la régression suivante : le déploiement d&#39;armes ne permettait pas un examen immédiat.</li><li>Correction du problème suivant : les doigts s&#39;enfonçaient dans la structure du couteau papillon pendant l&#39;animation d&#39;examen.</li><li>Correction du problème suivant : la prévisualisation des récompenses hebdomadaires ne comportait pas de bouton de fermeture.</li><li>Guides de carte : s&#39;éloigner d&#39;une annotation ne retire plus la grenade de l&#39;équipement.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520828168477606335</guid>
-      <pubDate>Fri, 10 Jan 2025 21:34:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
