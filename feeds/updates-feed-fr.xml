@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:26:26 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Le mouvement de la caméra pendant le recul a été ajusté pour qu&#39;il corresponde mieux à celui de CS:GO. Les trajectoires des balles correspondent toujours à celles de CS2.</p></li><li><p>En cas de sources externes de vacillement de la visée (par exemple, suite à l&#39;impact d&#39;une balle), la caméra effectuera désormais l&#39;intégralité de son mouvement, quelle que soit la latence du réseau. Les effets de vacillement sur les trajectoires de balles sont toujours appliqués immédiatement sur le serveur.</p></li></ul><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Ajustements mineurs des animations en vue à la 1ʳᵉ personne.</p></li><li><p>Correction du problème suivant : dans plusieurs cas, l&#39;accroupissement d&#39;un personnage dans les airs était instantané.</p></li><li><p>Correction du problème suivant : il arrivait que les personnages ne soient pas réinitialisés correctement sur le panneau de MJ.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508485755865137153</guid>
+      <pubDate>Tue, 21 Apr 2026 22:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -606,15 +614,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520828168477606335</guid>
       <pubDate>Fri, 10 Jan 2025 21:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li></li>Inferno
-<ul><li>Les collisions sur les marches sous le balcon ont été ajustées.</li></ul></ul>[DIVERS]<br /><ul><li>Correction d&#39;une divergence de compensation touchant l&#39;ancien modèle SSG08.</li><li>Correction d&#39;un problème avec le masque pour stickers sur l&#39;ancien modèle du chargeur des Dual Berettas.</li><li>Correction du problème suivant : l&#39;étui de l&#39;ancien modèle des Dual Berettas flottait sur la jambe en vue à la première personne locale.</li><li>Correction d&#39;une régression affectant les interactions entre les grenades et les cadavres.</li><li>Correction du problème suivant : la combinaison de « +attack2 » et de « +lookatweapon » pouvait dérégler le silencieux d&#39;une arme silencieuse.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520828168477605889</guid>
-      <pubDate>Tue, 07 Jan 2025 23:42:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
