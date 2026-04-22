@@ -13,11 +13,27 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Mon, 20 Apr 2026 23:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:38:43 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 20.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, der dazu führte, dass Kugeln im Feuerstoß-Modus ohne Verzögerung abgefeuert wurden.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">577165112126735189</guid>
+      <pubDate>Tue, 21 Apr 2026 01:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 20.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>Alle Änderungen der Beta-Version „animgraph_2_beta“ wurden ins Spiel übernommen.</p><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Kleinere Anpassungen an den Ansichtsmodellanimationen vorgenommen.</p></li><li><p>Allgemeine Logik der Animationen beim Ausrüsten von Waffen angepasst.</p></li><li><p>Fehlerhafte Animationsübergänge zwischen Angriffen mit dem Messer behoben.</p></li><li><p>Fehler behoben, durch den die Akimbo-Berettas in der Third-Person-Perspektive nicht ordnungsgemäß abgefeuert wurden.</p></li></ul><p><br />[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, der das geräuschlose Klettern auf Leitern mit Laufgeschwindigkeit ermöglichte, indem die Bewegungstasten wiederholt nur kurz gedrückt wurden.</p></li><li><p>Bodenglättung an Stellen angepasst, an denen geneigte Oberflächen in ebene Oberflächen übergehen.</p></li><li><p>Fehler behoben, durch den ausgerüstete Granaten unter bestimmten Umständen die falsche Skalierung übernahmen, z. B. nachdem sie fallen gelassen und aufgehoben wurden.</p></li><li><p>Absturz behoben, der in der Halbzeit beim Wechsel von AT zu T auftrat.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">577165112126735184</guid>
+      <pubDate>Mon, 20 Apr 2026 22:58:43 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 17.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<p>Die folgenden Änderungen sind in der Beta-Version „animgraph_2_beta“ verfügbar. Um an der Beta-Version teilzunehmen, folgen Sie bitte der Anleitung hier: <a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>Um Fehler zu melden oder Feedback zur Beta-Version zu hinterlassen, senden Sie bitte eine E-Mail an csgoteamfeedback@<a rel="nofollow" href="https://valvesoftware.com">valvesoftware.com</a> mit dem Betreff „AG2 Beta“.</p><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fehlerhafte Animation beim Wurf einer Splittergranate in der First-Person- und Third-Person-Perspektive behoben.</p></li><li><p>Anpassungen an der Inverse-Kinematik-Logik bei Inaktivität vorgenommen.</p></li><li><p>Kleinere Verbesserungen an den Drehanimationen beim Legen der Bombe vorgenommen.</p></li><li><p>Problem beim schnellen Waffenwechsel behoben, wenn die Taste für das Untersuchen von Waffen gedrückt gehalten wurde.</p></li><li><p>Kleinere Anpassungen an den Ansichtsmodellanimationen vorgenommen.</p></li><li><p>Absenkung des Kopfes bei Gegenbewegungseingaben („Counter-Strafing“) angepasst.</p></li></ul><p></p><p>Bitte beachten Sie, dass der Client möglicherweise abstürzt, wenn versucht wird, eine Verbindung zu einem Server mit einer anderen Build-Version herzustellen.</p>]]></description>
+      <description><![CDATA[<p>Die folgenden Änderungen sind in der Beta-Version „animgraph_2_beta“ verfügbar. Um an der Beta-Version teilzunehmen, folgen Sie bitte der Anleitung hier: <a rel="nofollow" href="https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A">https://help.steampowered.com/faqs/view/5A86-0DF4-C59E-8C4A</a></p><p></p><p>Um Fehler zu melden oder Feedback zur Beta-Version zu hinterlassen, senden Sie bitte eine E-Mail an csgoteamfeedback@<a rel="nofollow" href="https://valvesoftware.com">valvesoftware.com</a> mit dem Betreff „AG2 Beta“.</p><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fehlerhafte Animation beim Wurf einer Splittergranate in der First-Person- und Third-Person-Perspektive behoben.</p></li><li><p>Anpassungen an der Inverse-Kinematik-Logik bei Inaktivität vorgenommen.</p></li><li><p>Kleinere Verbesserungen an den Drehanimationen beim Legen der Bombe vorgenommen.</p></li><li><p>Problem behoben, das beim schnellen Waffenwechsel auftrat, wenn die Taste für das Untersuchen von Waffen gedrückt gehalten wurde.</p></li><li><p>Kleinere Anpassungen an den Ansichtsmodellanimationen vorgenommen.</p></li><li><p>Absenkung des Kopfes bei Gegenbewegungseingaben („Counter-Strafing“) angepasst.</p></li></ul><p></p><p>Bitte beachten Sie, dass der Client möglicherweise abstürzt, wenn versucht wird, eine Verbindung zu einem Server mit einer anderen Build-Version herzustellen.</p>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">577165112126734783</guid>
       <pubDate>Fri, 17 Apr 2026 20:47:38 +0000</pubDate>
@@ -590,24 +606,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520828168477606335</guid>
       <pubDate>Fri, 10 Jan 2025 21:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 07.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li></li>Inferno
-<ul><li>Clipping auf der Treppe unter dem Balkon angepasst.</li></ul></ul>[ VERSCHIEDENES ]<br /><ul><li>Versatzdiskrepanz im klassischen Modell der SSG08 behoben.</li><li>Aufklebermaske auf dem klassischen Modell des Magazins der Akimbo-Berettas korrigiert.</li><li>Fehler behoben, durch den das Pistolenhalfter der Akimbo-Berettas in der Ego-Perspektive zu weit weg vom Bein des Spielers schwebte.</li><li>Regression bei der Interaktion von Granaten mit Ragdolls behoben.</li><li>Fehler behoben, durch den eine kombinierte Tastenbelegung von +attack2 und +lookatweapon bei schallgedämpften Waffen zu einer inkonsistenten Schalldämpfung führte.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520828168477605889</guid>
-      <pubDate>Tue, 07 Jan 2025 23:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 19.12.2024</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li></li>Inferno
-<ul><li>Clipping auf dem Gerüst am Bombenort B angepasst.</li></ul></ul>[ VERSCHIEDENES ]<br /><ul><li>Problem mit der Oberfläche der Teamauswahl behoben, das bei Servern ohne Zeitlimit für die automatische Auswahl auftrat.</li><li>Regression behoben, die im Zusammenhang mit dem Befehl „annotation_load“ auftrat.</li><li>Absturz behoben, der im Zusammenhang mit dem Befehl „give item_assaultsuit“ auftrat.</li><li>Chance der seltenen Animation beim Untersuchen der AK-47 angepasst.</li><li>Regression behoben, die im Zusammenhang mit der seltenen Animation beim Untersuchen der Desert Eagle auftrat.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529833630239817740</guid>
-      <pubDate>Thu, 19 Dec 2024 23:21:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
