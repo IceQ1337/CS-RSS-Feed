@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Apr 2026 21:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 16:52:30 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 22.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Bodenglättung an Stellen angepasst, an denen der Spieler auf sehr schmalen Vorsprüngen stehen kann.</p></li></ul><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Kleinere Anpassungen an den Ansichtsmodellanimationen vorgenommen.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Einige fehlerhafte Zuweisungen von Charaktertexturen korrigiert.</p></li><li><p>Handelsangebote mit CS2-Gegenständen sind jetzt auf 1000 Gegenstände begrenzt.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508485755865137697</guid>
+      <pubDate>Wed, 22 Apr 2026 22:40:51 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 21.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,15 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">518577002799693838</guid>
       <pubDate>Wed, 15 Jan 2025 16:17:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 09.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li></li>Train
-<ul><li>Mehrere kleinere visuelle Fehler behoben und Löcher in der Spielwelt ausgebessert.</li><li>Bestimmte Kisten und Planen sind jetzt von Schmutz und Nässe überzogen.</li><li>Öffnung des Hallenausgangs von Tunnel zu Bombenort A (bei Efeu) verbreitert.</li><li>Containertür des dort befindlichen Waggons auf der Hallenseite geöffnet (Spieler können nicht mehr in der Ecke stehen).</li><li>Müllcontainer bei Efeu hinzugefügt.</li><li>Fässer in einer Ausbuchtung am Bombenort A hinzugefügt.</li><li>Einstiegspunkte der Terroristen etwas weiter nach hinten versetzt.</li></ul></ul>[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den Ragdolls getöteter Spieler mit extremem Tempo fortgeschleudert wurden.</li><li>Markierung zur Unterscheidung von Spielen in der Zeitleiste der Steam-Spielaufnahme hinzugefügt.</li><li>Regression behoben, durch die nach einem Waffenwechsel die neu ausgerüstete Waffe nicht unmittelbar untersucht werden konnte.</li><li>Animation beim Untersuchen eines Butterfly-Messers korrigiert, bei der sich die Finger des Spielermodells durch eine Griffhälfte des Messers bewegten.</li><li>Fehler behoben, durch den die Vorschau einer Waffenkiste aus dem Wöchentlichen Versorgungspaket über keine „Schließen“-Schaltfläche verfügte.</li><li>Wenn sich Spieler von einer Stelle mit Karten-Kommentar entfernen, werden die hierfür benötigten Granaten jetzt nicht mehr entfernt.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520828168477606335</guid>
-      <pubDate>Fri, 10 Jan 2025 21:34:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
