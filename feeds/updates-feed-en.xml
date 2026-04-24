@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 22:57:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 22:55:20 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fixed XM1014 shells flickering when starting a reload.</p></li><li><p>Fixed bugs with dual berettas in first person and in spectator mode.</p></li><li><p>Fixed inspect/cancel causing multiple worldmodel deploys.</p></li><li><p>Fixed a bug where players can get stuck in a planted-turn state.</p></li><li><p>Made foot IK transitions smoother.</p></li><li><p>Adjusted the firstperson in-air crouch transition time to match the thirdperson animation better.</p></li><li><p>Fixed a case where high frequency stutter steps would cause large pose changes.</p></li><li><p>Fixed a case where legs would snap when quickly stopping and then continuing in same direction.</p></li><li><p>Adjusted thirdperson bomb plant animation to more closely match firstperson animation.</p></li><li><p>Minor adjustments to viewmodel animations.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Fixed random crash on startup when a non-default Audio Device was specified in settings or when sound_device_override was specified in a config file or on the command line.</p></li><li><p>Adjusted official map guides to match new surface smoothing.</p></li><li><p>Dropped weapons with silencers now correctly reflect the silenced state.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508485755865137963</guid>
+      <pubDate>Fri, 24 Apr 2026 22:45:08 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">523080783919841380</guid>
       <pubDate>Fri, 17 Jan 2025 01:07:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ SHANGHAI MAJOR ]<br /><ul><li>Shanghai 2024 Major sticker capsules are now on sale for 75% off</li></ul>[ ARMORY ]<br /><ul><li><em>Desert Eagle | Heat Treated</em> is no longer available to claim from The Armory</li></ul>[ MISC ]<br /><ul><li>Fixed finger placement during Huntsman knife in-game inspect animation</li><li>Fixed a bug where grenade icons weren&#39;t disappearing on the spectator map</li><li>Fixed a case when spectator icon could show up at the wrong time on the radar</li><li>Fixed a bug related to changing inspect scenery while inspecting knives</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">518577002799693838</guid>
-      <pubDate>Wed, 15 Jan 2025 16:17:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
