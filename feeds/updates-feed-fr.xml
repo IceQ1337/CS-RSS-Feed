@@ -13,11 +13,19 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 22 Apr 2026 23:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:01:56 +0000</lastBuildDate>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Ajustement du lissage du sol aux emplacements où le joueur peut se tenir sur des rebords très fins.</p></li></ul><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Ajustements mineurs des animations en vue à la 1ʳᵉ personne.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction de l’attribution incorrecte de certaines textures des personnages.</p></li><li><p>Les offres d&#39;échange incluant des items Counter-Strike 2 ne peuvent pas dépasser 1 000 items.</p></li></ul>]]></description>
+      <description><![CDATA[<p>[ANIMGRAPH 2]</p><ul><li><p>Correction du problème suivant : les cartouches du XM1014 clignotaient au commencement d&#39;un rechargement.</p></li><li><p>Correction de problèmes avec les Dual Berettas à la 1ʳᵉ personne et en mode spectateur.</p></li><li><p>Correction du problème suivant : annuler l&#39;animation d&#39;examen d&#39;une arme créait à tort des modèles à répétition.</p></li><li><p>Correction du problème suivant : les personnages pouvaient rester bloqués dans l&#39;état de pose de la bombe.</p></li><li><p>Les transitions de la cinématique inverse des pieds sont maintenant plus fluides.</p></li><li><p>Le temps de transition de la position d&#39;accroupissement en l&#39;air à la 1ʳᵉ personne correspond maintenant mieux à l&#39;animation à la 3ᵉ personne.</p></li><li><p>Correction du problème suivant : parfois, les saccades à haute fréquence dans les pas provoquaient des changements de pose importants.</p></li><li><p>Correction du problème suivant : parfois, les jambes se « brisaient » si l&#39;on s&#39;arrêtait rapidement et qu&#39;on repartait dans la même direction.</p></li><li><p>L&#39;animation de pose de bombe à la 3ᵉ personne a été ajustée pour mieux correspondre à l&#39;animation à la 1ʳᵉ personne.</p></li><li><p>Ajustements mineurs des animations à la 1ʳᵉ personne.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : un plantage aléatoire pouvait survenir au démarrage quand un périphérique audio autre que celui par défaut était choisi dans les paramètres, ou quand « sound_device_override » était saisi dans un fichier de configuration ou dans la console.</p></li><li><p>Les guides des cartes officielles ont été modifiés pour refléter le nouveau lissage des surfaces.</p></li><li><p>Correction du problème suivant : les armes lâchées dont le silencieux avait été retiré montraient toujours un silencieux au sol.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508485755865137963</guid>
+      <pubDate>Fri, 24 Apr 2026 22:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Ajustement du lissage du sol aux emplacements où le personnage peut se tenir sur des rebords très fins.</p></li></ul><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Ajustements mineurs des animations en vue à la 1ʳᵉ personne.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction de l’attribution incorrecte de certaines textures des personnages.</p></li><li><p>Les offres d&#39;échange comprenant des items Counter-Strike 2 sont désormais limitées à 1 000 items.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">508485755865137697</guid>
       <pubDate>Wed, 22 Apr 2026 22:40:51 +0000</pubDate>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">523080783919841380</guid>
       <pubDate>Fri, 17 Jan 2025 01:07:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[TOURNOI MAJEUR DE SHANGHAI]<br /><ul><li>Les capsules de stickers de Shanghai 2024 sont maintenant en promotion à −75 %.</li></ul>[ARSENAL]<br /><ul><li>Le <em>Desert Eagle | Trempe jaspée</em> n&#39;est plus disponible depuis l&#39;arsenal.</li></ul>[DIVERS]<br /><ul><li>Correction d&#39;un problème avec les doigts du modèle lors de l&#39;animation d&#39;examen du Couteau de chasse.</li><li>Correction du problème suivant : les icônes de grenades ne disparaissaient pas sur la carte en mode spectateur.</li><li>Correction du problème suivant : les icônes sur la carte en mode spectateur ne s&#39;affichaient pas toujours au bon moment sur le radar.</li><li>Correction d&#39;un problème qui se produisait lors du changement d&#39;arrière-plan du menu lors de l&#39;examen des couteaux.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">518577002799693838</guid>
-      <pubDate>Wed, 15 Jan 2025 16:17:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
