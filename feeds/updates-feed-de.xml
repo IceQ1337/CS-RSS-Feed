@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Apr 2026 16:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 18:00:55 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 24.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fehler behoben, durch den die Patronenhülsen der XM1014 beim Beginn des Nachladens flackerten.</p></li><li><p>Fehler bei der Anzeige der Akimbo-Berettas in der First-Person- und Third-Person-Perspektive behoben.</p></li><li><p>Fehler behoben, durch den es zur fehlerhaften Anzeige des Third-Person-Modells kam, wenn das Untersuchen einer Waffe abgebrochen wurde.</p></li><li><p>Fehler behoben, durch den Spieler in einer Animation steckenbleiben konnten, wenn sie sich beim Legen der Bombe drehten.</p></li><li><p>Inverse-Kinematik-Logik für die Füße flüssiger gestaltet.</p></li><li><p>Animationsübergang beim Ducken in der Luft in der First-Person-Perspektive angepasst, damit dieser besser mit der Third-Person-Perspektive übereinstimmt.</p></li><li><p>Fehler behoben, durch den häufige Minischritte die Haltung ändern konnten.</p></li><li><p>Fehler behoben, durch den die Beine fehlerhaft animiert wurden, wenn Spieler schnell stoppten und sich dann in dieselbe Richtung weiterbewegten.</p></li><li><p>Animation beim Legen der Bombe in der Third-Person-Perspektive angepasst, damit diese besser mit der First-Person-Perspektive übereinstimmt.</p></li><li><p>Kleinere Anpassungen an den Ansichtsmodellanimationen vorgenommen.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Zufälliger Absturz beim Start behoben, der auftrat, wenn in den Einstellungen ein nicht standardmäßiges Audiogerät angegeben wurde oder wenn „sound_device_override“ in einer Konfigurationsdatei angegeben bzw. in der Befehlszeile ausgeführt wurde.</p></li><li><p>Offizielle Karten-Guides angepasst, um die neuen Oberflächenglättungen zu berücksichtigen.</p></li><li><p>Fehler behoben, durch den fallengelassene Waffen nicht den korrekten Zustand des Schalldämpfers (soll heißen, ob dieser an- oder angeschraubt war) widerspiegelten.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508485755865137963</guid>
+      <pubDate>Fri, 24 Apr 2026 22:45:08 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 22.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">523080783919841380</guid>
       <pubDate>Fri, 17 Jan 2025 01:07:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ SHANGHAI-MAJOR ]<br /><ul><li>Aufkleberkapseln des Shanghai-Majors 2024 können jetzt mit einem Rabatt von 75 % erworben werden.</li></ul>[ ARSENAL ]<br /><ul><li><em>Desert Eagle | Wärmebehandlung</em> kann nicht länger im Arsenal eingelöst werden.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Fingerposition der Animation beim Untersuchen des Jagdmessers im Spiel angepasst.</li><li>Fehler behoben, der dazu führte, dass Granatensymbole auf der Zuschauerkarte nicht verschwanden.</li><li>Fehler behoben, der dazu führte, dass Zuschauersymbole zur falschen Zeit auf dem Radar auftauchen konnten.</li><li>Problem mit der Hintergrundkulisse behoben, das bei der Untersuchung von Messern auftrat.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">518577002799693838</guid>
-      <pubDate>Wed, 15 Jan 2025 16:17:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
