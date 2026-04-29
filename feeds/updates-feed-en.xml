@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 22:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 21:59:31 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAPS ]</p><p>Cache</p><ul><li><p>Bomb explosion radius increased.</p></li><li><p>Lighting Adjustments around Vent.</p></li><li><p>Disabled player collision on sign and removed lamp by squeaky.</p></li><li><p>Reworked e-box on A-site for better visibility.</p></li><li><p>Lowered Checkers entrance frame height at B Main.</p></li><li><p>Removed AC unit above Sandbags and moved pipes.</p></li><li><p>Fixed lack of footstep sounds on top of crates at A-site.</p></li><li><p>Fixed hole in world on door in Sun Room.</p></li><li><p>Fixed wall bangs on A Main wall.</p></li><li><p>Fixed some z-fighting around Garage.</p></li><li><p>Adjusted grenade clipping throughout map.</p></li><li><p>Adjusted player clipping throughout map.</p></li></ul><p>Dust II</p><ul><li><p>Blocked visibility through corner of Mid Box (Xbox).</p></li></ul><p></p><p>[ SOUND ]</p><ul><li><p>Speculative fix for a case where all audio drops out.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Fixed cases where crouch-jumping in confined spaces could cause the player camera to intersect the ceiling.</p></li><li><p>Adjusted particle effect sprite opacity for fully occluded flashbangs.</p></li><li><p>Improved smoke lighting consistency.</p></li><li><p>Minor adjustments to dropped pistol magazine velocity.</p></li><li><p>Ambient Occlusion adjustment settings in Environment Blend shader restored.</p></li><li><p>Fixed a case where money was subtracted from the wrong player during bot takeover.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212723087</guid>
+      <pubDate>Wed, 29 Apr 2026 21:46:05 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
