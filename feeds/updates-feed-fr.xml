@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[CARTES]</p><p>Cache</p><ul><li><p>Ajout de Cache aux modes compétitif, occasionnel, match à mort et reprises de contrôle.</p></li></ul><p>Dust II</p><ul><li><p>La bâche a été retirée partiellement sur les caisses du Milieu pour révéler un emplacement de saut, mais cette fois-ci intentionnellement.</p></li></ul><p>Office</p><ul><li><p>Les collisions ont été activées sur les bâches des caisses autour de la zone d&#39;apparition des AT.</p></li></ul><p>Stronghold</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p>Poseidon</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p></p><p>[ANIMGRAPH 2]</p><ul><li><p>Ajustements mineurs des animations à la 1ʳᵉ personne.</p></li><li><p>Les canifs et les couteaux karambit sont maintenant tenus correctement pendant le désamorçage.</p></li></ul><p></p><p>[AUDIO]</p><ul><li><p>Modifications et ajustements mineurs apportés au mixage.</p></li><li><p>Correction du problème suivant : le son de l&#39;équipement de la bombe n&#39;était pas interrompu par les sons d&#39;autres actions d&#39;équipement.</p></li><li><p>Suppression de l&#39;effet sonore de mort en vue à la 1ʳᵉ personne qui se déclenchait si l&#39;effet sonore de mort du kit de musiques était inaudible.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : le shader de l&#39;occlusion ambiante provoquait des silhouettes trop sombres et larges en test alpha, par exemple sur la rambarde dans Mirage.</p></li><li><p>Correction du problème suivant : il était possible de ne pas tenir d&#39;arme en faisant un changement de main après avoir lancé une grenade.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">508486359454843160</guid>
+      <pubDate>Tue, 28 Apr 2026 22:24:18 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -597,22 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520829437562848528</guid>
       <pubDate>Tue, 28 Jan 2025 00:56:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[DIVERS]<br /><ul><li>Améliorations mineures apportées aux performances pour certains scénarios subordonnés au temps de calcul (CPU bound).</li><li>Le paramètre de suivi du recul en mode spectateur suivra désormais le paramètre de réticule de la cible observée, si le réticule de cette cible est affiché.</li><li>Ajout de la prise en charge de la mise à jour des annotations de carte existantes au Steam Workshop. Par exemple, utilisez « workshop_annotation_submit 123456 » pour mettre à jour votre soumission avec l&#39;ID=123456 qui se trouve dans l&#39;URL du Steam Workshop. Si vous fournissez un ID qui ne vous appartient pas, une toute nouvelle soumission sera créée. Après la première mise à jour, l&#39;ID sera intégré dans le fichier d&#39;annotation, et vous pourrez soumettre d&#39;autres modifications sans avoir à fournir l&#39;ID une nouvelle fois.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520829437562847236</guid>
-      <pubDate>Wed, 22 Jan 2025 00:46:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[DIVERS]<br /><ul><li>Les bibliothèques Steam pour les serveurs de jeux Linux ont été mises à jour vers la dernière version bêta du client Steam.</li><li>Amélioration de la capacité des serveurs de jeux Linux à se reconnecter à Steam après une déconnexion.</li><li>Diverses améliorations au niveau de la stabilité.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">523080783919841380</guid>
-      <pubDate>Fri, 17 Jan 2025 01:07:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
