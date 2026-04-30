@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Apr 2026 21:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 22:17:00 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 29.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Explosionsradius der Bombe erhöht.</p></li><li><p>Anpassungen der Beleuchtung rund um den Lüftungsschacht vorgenommen.</p></li><li><p>Lampe über der Quietschetür entfernt und Spielerkollision mit einem Schild neben dieser deaktiviert.</p></li><li><p>E-Box am Bombenort A überarbeitet, um die Sichtbarkeit von Spielern zu verbessern.</p></li><li><p>Höhe der Tür vom B-Hauptzugang zum Schachtgang verringert.</p></li><li><p>Klimaanlage über den Sandsäcken entfernt und Rohre umplatziert.</p></li><li><p>Fehler behoben, durch den auf den Y-Kisten am Bombenort A keine Schrittgeräusche abgespielt wurden.</p></li><li><p>Loch in der Welt an einer Tür von B-Halle zum Seitengang behoben.</p></li><li><p>Kugeln durchdringen nicht mehr die Wand zum A-Hauptzugang.</p></li><li><p>Probleme mit einigen Z-Fighting-Artefakten in der Garage behoben.</p></li><li><p>Granaten-Clipping auf der gesamten Karte angepasst.</p></li><li><p>Spieler-Clipping auf der gesamten Karte angepasst.</p></li></ul><p>Dust II</p><ul><li><p>Sichtlinie durch eine Ecke der Box in der Mitte (auch bekannt als X-Box) blockiert.</p></li></ul><p></p><p>[ SOUND ]</p><ul><li><p>Fehler (möglicherweise) behoben, der zu einem Ausfall des Sounds führte.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, durch den das Springen bei gleichzeitigem Ducken in engen Bereichen dazu führte, dass Spieler durch die Decke spähen konnten.</p></li><li><p>Transparenz der Partikeleffekt-Sprites für vollständig verdeckte Blendgranaten angepasst.</p></li><li><p>Konsistenz der Beleuchtung von Rauch verbessert.</p></li><li><p>Kleinere Anpassungen an der Geschwindigkeit von fallen gelassenen Pistolenmagazinen vorgenommen.</p></li><li><p>Einstellungen für die Umgebungsverdeckung im Environment-Blend-Shader wiederhergestellt.</p></li><li><p>Fehler behoben, durch den Geld vom falschen Spieler abgezogen wurde, wenn dieser einen Bot übernahm.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212723087</guid>
+      <pubDate>Wed, 29 Apr 2026 21:46:05 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 28.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
