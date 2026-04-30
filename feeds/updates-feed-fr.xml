@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 15:21:53 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[CARTES]</p><p>Cache</p><ul><li><p>Le rayon d&#39;explosion de la bombe a été augmenté.</p></li><li><p>L&#39;éclairage autour de Conduits a été ajusté.</p></li><li><p>Les collisions sur le panneau mural et la lampe près de la porte grinçante ont été supprimées.</p></li><li><p>L&#39;armoire électronique du site de bombe A a été retravaillée pour une meilleure visibilité.</p></li><li><p>La hauteur du passage situé entre Damier et le site de bombe B a été diminuée.</p></li><li><p>Le climatiseur au-dessus des Sacs de sable a été supprimé et les tuyaux ont été déplacés.</p></li><li><p>Correction de l&#39;absence de bruits de pas sur les caisses du site de bombe A.</p></li><li><p>Correction d&#39;un interstice dans la géométrie de la porte de Soleil.</p></li><li><p>Correction des tirs pénétrants sur le mur du site de bombe A.</p></li><li><p>Correction d&#39;un problème de « z-fighting » (textures qui se superposent) autour du Garage.</p></li><li><p>Correction des problèmes de collision des grenades sur l&#39;ensemble de la carte.</p></li><li><p>Correction des problèmes de collision des modèles de personnages sur l&#39;ensemble de la carte.</p></li></ul><p>Dust II</p><ul><li><p>L&#39;interstice au coin des caisses du milieu a été bouché.</p></li></ul><p></p><p>[AUDIO]</p><ul><li><p>Tentative de correction d&#39;un problème entrainant la mise en sourdine de tous les sons.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : les sauts accroupis dans des espaces confinés pouvaient permettre de voir à travers le plafond.</p></li><li><p>Ajustement de l&#39;opacité des sprites d&#39;effet de particules pour les grenades aveuglantes totalement occultées par la fumée des grenades fumigènes.</p></li><li><p>Amélioration de la cohérence de l&#39;éclairage de la fumée des grenades fumigènes.</p></li><li><p>Ajustements mineurs de la vitesse de chute du chargeur des pistolets.</p></li><li><p>Les paramètres d&#39;ajustement de l&#39;occlusion ambiante dans le shader de mélange d&#39;environnement ont été restaurés.</p></li><li><p>Correction du problème suivant : l&#39;argent était soustrait à la mauvaise personne lors de la prise de contrôle d&#39;un bot.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212723087</guid>
+      <pubDate>Wed, 29 Apr 2026 21:46:05 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
