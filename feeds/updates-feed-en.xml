@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 21:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 23:00:11 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAPS ]</p><p>Cache</p><ul><li><p>Map-wide clipping fixes and geometry polish.</p></li><li><p>Fixed some spots where bomb would be unreachable when dropped.</p></li><li><p>Fixed dynamic shadows breaking in some spots.</p></li><li><p>Fixed some surface sound types.</p></li></ul><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fixed hand popping when counter-strafing with a grenade equipped.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Limit aim punch to 90 degrees.</p></li><li><p>Added secondary intersection trace for partially-occluded thirdperson weapons.</p></li><li><p>Adjusted ground smoothing at locations where sloped ground surfaces join with step-height transitions.</p></li><li><p>Fixed issue that caused defuse-cables from completely occluded players to also be occluded.</p></li><li><p>Fixed &#39;FATAL ERROR: Failed to on-demand compile shader&#39; affecting some older GPUs.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212723291</guid>
+      <pubDate>Thu, 30 Apr 2026 22:46:49 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721026</guid>
       <pubDate>Tue, 28 Jan 2025 23:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ PREMIER ]<br /><ul><li>Premier Season One is now over, and Premier matchmaking has been temporarily disabled.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520829437562848528</guid>
-      <pubDate>Tue, 28 Jan 2025 00:56:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
