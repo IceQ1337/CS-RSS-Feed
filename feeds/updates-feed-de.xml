@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Apr 2026 22:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:59:00 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 30.04.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Auf der gesamten Karte wurden Clipping-Fehler behoben und die Geometrie optimiert.</p></li><li><p>Einige Orte korrigiert, an denen die Bombe nicht mehr zu erreichen war, wenn sie fallen gelassen wurde.</p></li><li><p>Fehlerhafte dynamische Schatten an einigen Orten korrigiert.</p></li><li><p>Fehlerhafte Oberflächensounds korrigiert.</p></li></ul><p></p><p>[ ANIMGRAPH 2 ]</p><ul><li><p>Fehler behoben, durch den sich ein Arm übermäßig bewegte, wenn Spieler Gegenbewegungen ausführten, während sie eine Granate ausgerüstet hatten.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Bei einem Aimpunch bewegt sich die Kamera nur noch max. um 90 Grad.</p></li><li><p>Sekundäre Schnittlinie für teilweise verdeckte Waffen in der Third-Person-Perspektive hinzugefügt (damit diese nicht mehr durch Objekte in der Spielwelt ragen).</p></li><li><p>Bodenglättung an Stellen angepasst, an denen geneigte Oberflächen auf Oberflächen in Stufenhöhe übergehen.</p></li><li><p>Problem behoben, durch das die Kabel des Entschärfungskits nicht angezeigt wurden, wenn der Spieler verdeckt war.</p></li><li><p>Schwerwiegender Fehler für einige ältere GPUs behoben, durch den die Shader-Kompilierung bei Bedarf fehlschlug.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212723291</guid>
+      <pubDate>Thu, 30 Apr 2026 22:46:49 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 29.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721026</guid>
       <pubDate>Tue, 28 Jan 2025 23:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 27.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ PREMIUM ]<br /><ul><li>Die erste Saison des Premium-Modus ist nun vorbei. Die Spielsuche für diesen Spielmodus wurde vorübergehend deaktiviert.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520829437562848528</guid>
-      <pubDate>Tue, 28 Jan 2025 00:56:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
