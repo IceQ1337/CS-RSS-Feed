@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 23:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:40:14 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAPS ]</p><p>Cache</p><ul><li><p>Fixed various holes in map.</p></li><li><p>Simplified grenade clipping in various areas.</p></li><li><p>Fixed sounds and surfacetypes for various materials.</p></li><li><p>Orange wire spool at Sandbags has been exchanged for white wire.</p></li></ul><p>[ MUSIC KITS ]</p><ul><li><p>NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.</p></li></ul><p>[ WORKSHOP ]</p><ul><li><p>Fixed progressive refinement rendering Source Film Maker.</p></li></ul><p>[ MISC ]</p><ul><li><p>User Viewmodel FOV now correctly networks to remote clients.</p></li><li><p>Adjusted player model occlusion bounds.</p></li><li><p>Fixed ragdolls missing death velocity when shot in specific body locations.</p></li><li><p>Minor adjustments to ground smoothing transitions when leaving the ground and when landing.</p></li><li><p>Fixed a case where post-processing transitions weren&#39;t smooth (e.g. at the end of freeze time).</p></li><li><p>Fixed a case where map guides for Ancient wouldn&#39;t load in the nighttime version.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141807556821888</guid>
+      <pubDate>Thu, 07 May 2026 22:09:37 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721127</guid>
       <pubDate>Thu, 30 Jan 2025 01:29:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ PREMIER ]<br /><ul><li>Premier Season Two is here, and Premier matchmaking has resumed</li><li>Every player who earned a CS Rating during Season One will receive a commemorative Premier Season One Medal which includes detailed Season Statistics</li><li>Every player will have their CS Rating recalibrated based on their Season One performance, and will need to re-establish their CS Rating by winning 10 matches</li><li>Train has been added to the Active Duty map pool</li><li>Vertigo has been removed from the Active Duty map pool</li></ul><br />[ GAMEPLAY ]<br /><ul><li>M4A4 price reduced to $2,900</li><li>FAMAS accuracy improved and price reduced to $1,950</li><li>Reduced crouching accuracy for the MP9, MP5-SD, and MP7</li><li>Adjusted scope dot on AUG/SG to be more useable at range</li></ul><br />[ UI ]<br /><ul><li>Added a new radar dynamic zoom option that will grow or shrink the radar to include your team mates, bomb and other detected elements</li><li>Adjusted grenade order in spectator UI to match weapon selection order</li><li>Increased brightness of carried C4 in UI</li></ul><br />[ MAPS ]<br />Train<br /><ul><li>Removed a boost angle from Long Dog to Bombsite A</li><li>Fixed lighting artifacts on double-sided materials</li></ul><br />[ MISC ]<br /><ul><li>Added fallback logic to allow playing incomplete demo files, either copied from an ongoing live match or recovered after a game server crash</li><li>Fixed an exploit where users could use secondary fire on R8 Revolver and then sell it back</li><li>Counter-strafe summaries are now available in game server log data distributed via log address in addition to console logs</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721026</guid>
-      <pubDate>Tue, 28 Jan 2025 23:40:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

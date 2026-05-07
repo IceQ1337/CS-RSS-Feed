@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 01:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:40:14 +0000</lastBuildDate>
+    <item>
+      <title>NIGHTMODE II Music Kits</title>
+      <link>https://www.counter-strike.net/newsentry/702141174212725164</link>
+      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png"/><br />Today we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:<br /><ul><li>ALRT, DOPAMINE HIT</li><li>Altare, Change My Mind</li><li>borne, Give It To Me</li><li>Pirapus, EVERYNITE</li><li>Repiet &amp; Julia Kleijn, On And On</li><li>ShockOne, Voices</li></ul>Alongside new music kits, we&#39;ve continued updating Cache and made other miscellaneous fixes. <br /><br />Release Notes for today&#39;s update can be found <a rel="nofollow" href="https://store.steampowered.com/news/app/730/view/702141807556821888">here</a>.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212725164</guid>
+      <pubDate>Thu, 07 May 2026 22:10:43 +0000</pubDate>
+    </item>
     <item>
       <title>The Return Of Cache</title>
       <link>https://www.counter-strike.net/newsentry/508486359454843045</link>
@@ -204,14 +212,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529846144626327818</guid>
       <pubDate>Wed, 16 Jul 2025 22:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Season's Greetings</title>
-      <link>https://www.counter-strike.net/newsentry/520830071182721028</link>
-      <description><![CDATA[Welcome to Premier Season Two. <br /><br />If you haven&#39;t heard the news, here&#39;s what&#39;s new in Season Two. Vertigo is out, Train is in, the M4A4 is more&#8230; A4-dable&#8230; and we&#39;ve tweaked the FAMAS. <br /><br />Season Two runs from now through the Austin Major, at which point players who meet the requirements will be awarded a Premier Season Two Medal. The color will correspond to your highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25—up to five bars.<br /><br />To earn your Premier Season Two Medal, you&#39;ll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.<br /><br />Premier matchmaking is now open for business, so hit the queue and start racking up those wins!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721028</guid>
-      <pubDate>Tue, 28 Jan 2025 23:42:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
