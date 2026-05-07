@@ -13,14 +13,14 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 22:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 23:05:03 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ MAPS ]</p><p>Cache</p><ul><li><p>Fixed various holes in map.</p></li><li><p>Simplified grenade clipping in various areas.</p></li><li><p>Fixed sounds and surfacetypes for various materials.</p></li><li><p>Orange wire spool at Sandbags has been exchanged for white wire.</p></li></ul><p>[ MUSIC KITS ]</p><ul><li><p>NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.</p></li></ul><p>[ WORKSHOP ]</p><ul><li><p>Fixed progressive refinement rendering Source Film Maker.</p></li></ul><p>[ MISC ]</p><ul><li><p>User Viewmodel FOV now correctly networks to remote clients.</p></li><li><p>Adjusted player model occlusion bounds.</p></li><li><p>Fixed ragdolls missing death velocity when shot in specific body locations.</p></li><li><p>Minor adjustments to ground smoothing transitions when leaving the ground and when landing.</p></li><li><p>Fixed a case where post-processing transitions weren&#39;t smooth (e.g. at the end of freeze time).</p></li><li><p>Fixed a case where map guides for Ancient wouldn&#39;t load in the nighttime version.</p></li></ul>]]></description>
+      <description><![CDATA[<p>[ MAPS ]</p><p>Cache</p><ul><li><p>Fixed various holes in map.</p></li><li><p>Simplified grenade clipping in various areas.</p></li><li><p>Fixed sounds and surfacetypes for various materials.</p></li><li><p>Orange wire spool at Sandbags has been exchanged for white wire.</p></li></ul><p>[ MUSIC KITS ]</p><ul><li><p>NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.</p></li></ul><p>[ WORKSHOP ]</p><ul><li><p>Fixed progressive refinement rendering Source Film Maker.</p></li></ul><p>[ MISC ]</p><ul><li><p>User Viewmodel FOV now correctly networks to remote clients.</p></li><li><p>Adjusted player model occlusion bounds.</p></li><li><p>Fixed ragdolls missing death velocity when shot in specific body locations.</p></li><li><p>Minor adjustments to ground smoothing transitions when leaving the ground and when landing.</p></li><li><p>Fixed a case where post-processing transitions weren&#39;t smooth (e.g. at the end of freeze time).</p></li><li><p>Fixed a case where map guides for Ancient wouldn&#39;t load in the nighttime version</p></li><li><p>Adjusted score values for various weapons in Deathmatch.</p></li><li><p>Adjusted XP limits in Deathmatch and Arms Race.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">702141807556821888</guid>
-      <pubDate>Thu, 07 May 2026 22:09:37 +0000</pubDate>
+      <pubDate>Thu, 07 May 2026 23:04:46 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 Update</title>
