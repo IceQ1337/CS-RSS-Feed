@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 23:59:21 +0000</lastBuildDate>
+    <item>
+      <title>Kits de musiques NIGHTMODE II</title>
+      <link>https://www.counter-strike.net/newsentry/702141174212725164</link>
+      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png"/><br />Aujourd&#39;hui, nous sortons six nouveaux kits de musiques avec NIGHTMODE Records. Les kits de musiques NIGHTMODE II sont désormais disponibles dans l&#39;onglet MAGASIN ; ils comprennent :<br /><ul><li>ALRT, DOPAMINE HIT</li><li>Altare, Change My Mind</li><li>borne, Give It To Me</li><li>Pirapus, EVERYNITE</li><li>Repiet &amp; Julia Kleijn, On And On</li><li>ShockOne, Voices</li></ul>En plus de ces nouveaux kits de musique, nous avons continué de mettre à jour Cache et de corriger d&#39;autres problèmes divers. <br /><br />Les notes de la mise à jour d&#39;aujourd&#39;hui se trouvent <a rel="nofollow" href="https://store.steampowered.com/news/app/730/view/702141807556821888">ici</a>.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212725164</guid>
+      <pubDate>Thu, 07 May 2026 22:10:43 +0000</pubDate>
+    </item>
     <item>
       <title>Cache fait son grand retour</title>
       <link>https://www.counter-strike.net/newsentry/508486359454843045</link>
@@ -22,7 +30,7 @@
                 <source src="https://clan.fastly.steamstatic.com/images/3381077/2a3251dedbc1d4ffcac5e644280893c52f053b5a.mp4" type="video/mp4">
 <source src="https://clan.fastly.steamstatic.com/images/3381077/c2e89d3e3ea290a9a7ac0f4ff472b3c51b81dec5.webm" type="video/webm">
             </video>
-            <br /><br />Dans la mise à jour d&#39;aujourd&#39;hui, un classique signe son grand retour. Quel plaisir de retrouver Cache !<br /><br />Les joueurs et joueuses assidus de Cache retrouveront leurs repères dans cet environnement familier, tandis que les néophytes apprendront rapidement les ficelles de cette carte à trois voies classiques qui récompense l&#39;esprit d&#39;équipe et la stratégie.<br /><br />Cache est disponible en mode occasionnel, compétitif, match à mort, et reprises de contrôle (pour l&#39;instant). <br /><br />N&#39;oubliez pas de sécuriser Chariot élévateur, et on vous retrouvera sur le serveur.]]></description>
+            <br /><br />Dans la mise à jour d&#39;aujourd&#39;hui, un classique signe son grand retour. Quel plaisir de retrouver Cache !<br /><br />Les joueurs et joueuses assidus de Cache retrouveront leurs repères dans cet environnement familier, tandis que les néophytes apprendront rapidement les ficelles de cette carte à trois voies classiques qui récompense l&#39;esprit d&#39;équipe et la stratégie.<br /><br />Cache est disponible en mode occasionnel, compétitif, match à mort, et reprises de contrôle (pour l&#39;instant). <br /><br />N&#39;oubliez pas de sécuriser le Charriot élévateur, et à bientôt sur le serveur !]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">508486359454843045</guid>
       <pubDate>Wed, 29 Apr 2026 00:44:06 +0000</pubDate>
@@ -204,14 +212,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529846144626327818</guid>
       <pubDate>Wed, 16 Jul 2025 22:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coup d'envoi de la nouvelle saison</title>
-      <link>https://www.counter-strike.net/newsentry/520830071182721028</link>
-      <description><![CDATA[Bienvenue dans la deuxième saison du mode Premier. <br /><br />Si vous avez manqué l&#39;annonce précédente, voici les nouveautés de la saison 2. Vertigo tire sa révérence, Train entre en scène, le prix du M4 a diminué et le FAMAS a été modifié. <br /><br />La saison 2 se terminera après le tournoi majeur d&#39;Austin. Les joueurs et joueuses qui y ont droit se verront décerner la médaille de la saison 2 du mode Premier. La couleur correspondra à la note CS la plus haute que vous aurez atteinte pendant la saison, et les barrettes reflèteront votre nombre total de victoires, avec une barrette représentant 25 victoires pour un maximum de cinq barrettes.<br /><br />Pour remporter votre médaille de la saison 2 du mode Premier, vous devrez avoir un compte en règle, 25 victoires dans des parties en mode Premier et des points de jeu actifs à la fin de la saison.<br /><br />Le matchmaking en mode Premier est à nouveau disponible, alors n&#39;attendez plus et allez gagner des parties !]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721028</guid>
-      <pubDate>Tue, 28 Jan 2025 23:42:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
