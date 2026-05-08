@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 01 May 2026 16:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:01:35 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 07.05.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Diverse Löcher in der Spielwelt der Karte ausgebessert.</p></li><li><p>Granaten-Clipping in verschiedenen Bereichen vereinfacht.</p></li><li><p>Fehlerhafte Oberflächentypen und -sounds für verschiedene Materialien korrigiert.</p></li><li><p>Die Farbe der Kabeltrommel bei den Sandsäcken von Orange zu Weiß geändert.</p></li></ul><p>[ MUSIKKITS ]</p><ul><li><p>Musikkits „NIGHTMODE II“ sind jetzt im Shop in normaler und in StatTrak™-Version verfügbar.</p></li></ul><p>[ WORKSHOP ]</p><ul><li><p>Probleme beim Rendern von progressiven Verfeinerungen mit Source Filmmaker behoben.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Ansichtsmodell und Sichtfeld des Nutzers werden jetzt korrekt von Remote-Clients übernommen.</p></li><li><p>Verdeckungsberechnung für die Grenzen des Spielermodells angepasst.</p></li><li><p>Fehler behoben, durch den bei tödlichen Treffern von bestimmten Körperteilen die Ragdolls nicht die richtige Geschwindigkeit hatten.</p></li><li><p>Kleine Anpassungen der Bodenglättung beim Übergang von Absprung und Landung vorgenommen.</p></li><li><p>Fehler behoben, durch den Übergänge in der Nachbearbeitung nicht fließend waren (z. B. am Ende der Pause).</p></li><li><p>Problem behoben, durch das der Karten-Guide für Ancient nicht in der Nachtversion geladen wurde.</p></li><li><p>Punktevergabe für verschiedene Waffen in Deathmatch angepasst.</p></li><li><p>Limit für Erfahrungspunkte in Deathmatch und Wettrüsten angepasst.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141807556821888</guid>
+      <pubDate>Thu, 07 May 2026 23:04:46 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 30.04.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721127</guid>
       <pubDate>Thu, 30 Jan 2025 01:29:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 28.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ PREMIUM ]<br /><ul><li>Die zweite Saison des Premium-Modus feiert ihren Auftakt. Die Spielsuche für diesen Spielmodus ist ab sofort wieder verfügbar.</li><li>Jeder Spieler, der sich während der ersten Saison eine CS-Wertung erspielt hat, erhält ein entsprechendes Abzeichen. Dieses gewährt Spielern einen Einblick in detaillierte Saisonstatistiken.</li><li>Die CS-Wertung jedes Spielers wird auf der Grundlage seiner Leistungen in der ersten Saison neu kalibriert. Spieler müssen zehn Spiele gewinnen, um erneut eine CS-Wertung zu erhalten.</li><li>Train zur Kartengruppe des aktiven Dienstes hinzugefügt.</li><li>Vertigo aus der Kartengruppe des aktiven Dienstes entfernt.</li></ul><br />[ GAMEPLAY ]<br /><ul><li>Preis der M4A4 auf 2.900 Dollar reduziert.</li><li>Schussgenauigkeit der FAMAS verbessert und Preis auf 1.950 Dollar reduziert.</li><li>Schussgenauigkeit der MP9, MP5-SD und MP7 in geduckter Position reduziert.</li><li>Sichtbarkeit des Leuchtpunkts der AUG/SG 553 im Zoom-Modus verbessert.</li></ul><br />[ BENUTZEROBERFLÄCHE ]<br /><ul><li>Neue Option für einen dynamischen Radar-Zoom hinzugefügt, die die Zoom-Stufe unter Berücksichtigung der Teammitglieder, der Bombe und anderer Elemente von Interesse automatisch anpasst.</li><li>Anordnung der Granaten im HUD des Zuschauermodus angepasst, sodass diese mit der Anordnung der Auswahl des jeweiligen Spielers übereinstimmt.</li><li>Helligkeit des Bombensymbols im HUD des Bombenträgers erhöht.</li></ul><br />[ KARTEN ]<br />Train<br /><ul><li>Sichtlinie von einem Boost-Ort bei Long Dog auf Bombenort A blockiert.</li><li>Beleuchtungsartefakte auf doppelseitigen Materialien behoben.</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Fallback-Logik hinzugefügt, um die Wiedergabe unvollständiger Demo-Dateien zu ermöglichen, die entweder aus einem laufenden Spiel kopiert oder nach einem Absturz des Spielservers wiederhergestellt wurden.</li><li>Exploit behoben, durch den Spieler den R8-Revolver im Sekundärfeuermodus abfeuern und dann trotzdem rückerstatten konnten.</li><li>In den Protokollierungsdateien des Spielservers sind jetzt neben der Konsolenprotokollierung auch über die Netzwerkadresse zur Protokollierung verteilte Auswertungen zu Gegenbewegungseingaben („Counter-strafing“) verfügbar.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721026</guid>
-      <pubDate>Tue, 28 Jan 2025 23:40:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
