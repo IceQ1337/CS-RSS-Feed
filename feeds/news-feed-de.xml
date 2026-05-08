@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Apr 2026 22:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 17:29:08 +0000</lastBuildDate>
+    <item>
+      <title>NIGHTMODE II Musikkits</title>
+      <link>https://www.counter-strike.net/newsentry/702141174212725164</link>
+      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png"/><br />Heute veröffentlichen wir sechs neue Musikkits in Zusammenarbeit mit NIGHTMODE Records. NIGHTMODE II Musikkits sind ab sofort im SHOP erhältlich, darunter:<br /><ul><li>ALRT, DOPAMINE HIT</li><li>Altare, Change My Mind</li><li>borne, Give It To Me</li><li>Pirapus, EVERYNITE</li><li>Repiet &amp; Julia Kleijn, On And On</li><li>ShockOne, Voices</li></ul>Zusätzlich zur Veröffentlichung der neuen Musikkits haben wir die Karte Cache aktualisiert und verschiedene Fehlerbehebungen vorgenommen. <br /><br />Die Patchnotizen des heutigen Updates finden Sie <a rel="nofollow" href="https://store.steampowered.com/news/app/730/view/702141807556821888">hier</a>.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">702141174212725164</guid>
+      <pubDate>Thu, 07 May 2026 22:10:43 +0000</pubDate>
+    </item>
     <item>
       <title>Die Rückkehr von Cache</title>
       <link>https://www.counter-strike.net/newsentry/508486359454843045</link>
@@ -22,7 +30,7 @@
                 <source src="https://clan.fastly.steamstatic.com/images/3381077/2a3251dedbc1d4ffcac5e644280893c52f053b5a.mp4" type="video/mp4">
 <source src="https://clan.fastly.steamstatic.com/images/3381077/c2e89d3e3ea290a9a7ac0f4ff472b3c51b81dec5.webm" type="video/webm">
             </video>
-            <br /><br />Mit dem heutigen Update feiern wir die Rückkehr einer klassischen Karte. Willkommen zurück, Cache!<br /><br />Cache-Veteranen werden sich auf der überarbeiteten Version sofort wie zu Hause fühlen, während sich neue Spieler ohne Frage schnell für die Feinheiten dieser klassischen Drei-Wege-Karte, die Strategie und Zusammenarbeit belohnt, begeistern werden.<br /><br />Cache ist (vorerst) in den Spielmodi Gelegenheitsspiel, Wettkampf, Deathmatch und Rückeroberung verfügbar. <br /><br />Vergessen Sie nicht, beim Gabelstapler nach Gegnern Ausschau zu halten. Wir sehen uns auf dem Server.]]></description>
+            <br /><br />Mit dem heutigen Update feiern wir die Rückkehr einer klassischen Karte: Willkommen zurück, Cache!<br /><br />Cache-Veteranen werden sich auf der überarbeiteten Version sofort wie zu Hause fühlen, während sich neue Spieler ohne Frage schnell für die Feinheiten dieser klassischen Drei-Wege-Karte, die Strategie und Zusammenarbeit belohnt, begeistern werden.<br /><br />Cache ist (vorerst) in den Spielmodi Gelegenheitsspiel, Wettkampf, Deathmatch und Rückeroberung verfügbar. <br /><br />Vergessen Sie nicht, beim Gabelstapler nach Gegnern Ausschau zu halten. Wir sehen uns auf dem Server.]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">508486359454843045</guid>
       <pubDate>Wed, 29 Apr 2026 00:44:06 +0000</pubDate>
@@ -204,14 +212,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529846144626327818</guid>
       <pubDate>Wed, 16 Jul 2025 22:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auftakt der zweiten Saison</title>
-      <link>https://www.counter-strike.net/newsentry/520830071182721028</link>
-      <description><![CDATA[Die zweite Saison des Premium-Modus hat begonnen. <br /><br />Falls es Ihnen noch nicht zu Ohren gekommen sein sollte, sind hier die wichtigsten Änderungen für die zweite Saison. Die Karte Vertigo wurde gegen die neue Karte Train ausgetauscht, der Preis der M4A4 wurde reduziert und die FAMAS hat einige Verbesserungen erhalten. <br /><br />Die zweite Saison läuft ab heute bis zum Austin-Major. Anschließend erhalten alle Spieler, die die Anforderungen erfüllen, ein entsprechendes Abzeichen. Die Farbe des Abzeichens entspricht der höchsten CS-Wertung, die Sie während der zweiten Saison erreicht haben. Die Balken spiegeln dabei die Anzahl Ihrer Siege wider (ein Balken für jeweils 25 Siege, max. fünf Balken).<br /><br />Sie erhalten das Abzeichen der zweiten Saison des Premium-Modus, wenn Ihr Steam-Account nicht negativ aufgefallen ist, Sie 25 Spiele im Premium-Modus gewonnen haben und am Ende der Saison über eine aktuelle CS-Wertung verfügen.<br /><br />Die Spielsuche des Premium-Modus ist ab sofort wieder verfügbar. Also höchste Zeit, die ersten Siege einzufahren!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721028</guid>
-      <pubDate>Tue, 28 Jan 2025 23:42:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
