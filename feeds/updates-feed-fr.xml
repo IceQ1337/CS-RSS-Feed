@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 07 May 2026 23:59:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 23:37:08 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[CARTES]</p><p>Cache</p><ul><li><p>Correction de divers trous sur la carte</p></li><li><p>Correction de types de surface pour divers matériaux.</p></li><li><p>Ajout de grilles métalliques à certaines fenêtres pour bloquer les balles.</p></li><li><p>Ajustements des collisions entre les personnages et les grenades.</p></li></ul><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : il était possible d&#39;annuler le lancer d&#39;une grenade après le début de l&#39;action et alors que l&#39;animation de dégoupillage arrivait à sa fin.</p></li><li><p>Diverses améliorations au niveau de la stabilité.</p></li></ul><p>[OUTILS]</p><ul><li><p>Correction d&#39;un problème qui rendait la sélection d&#39;une ressource en cours d&#39;utilisation impossible quand l&#39;explorateur de modèles était ouvert.</p></li><li><p>Correction d&#39;un bug touchant les matériaux en couches si toutes les couches possédaient la même propriété « surface ». </p></li></ul><p>[KITS DE MUSIQUES]</p><ul><li><p>Ajout de roundmvpanthem_02 pour tous les kits de musiques NIGHTMODE II lus avec un ratio de 5:1.</p></li></ul><p></p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672869045073084965</guid>
+      <pubDate>Thu, 14 May 2026 22:23:58 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721726</guid>
       <pubDate>Tue, 04 Feb 2025 00:50:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li>Mise à jour de la carte Basalt d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">cliquez ici pour voir les notes de mise à jour</a>).</li></ul>[DIVERS]<br /><ul><li>Activation de l&#39;indicateur de progrès de la saison 2 du mode Premier dans le menu de jeu.</li><li>Correction de régressions relatives aux graphismes des lunettes de visée des armes AUG et SG.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721127</guid>
-      <pubDate>Thu, 30 Jan 2025 01:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
