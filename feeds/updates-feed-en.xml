@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 23:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 22:39:18 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAPS ]</p><p>Cache</p><ul><li><p>Fixed various holes in map</p></li><li><p>Fixed surfacetypes for various materials.</p></li><li><p>Added grating to some windows to make them block bullets.</p></li><li><p>Tweaks to player and grenade clipping.</p></li></ul><p>[ MISC ]</p><ul><li><p>Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin pull animation.</p></li><li><p>Miscellaneous stability improvements.</p></li></ul><p>[ TOOLS ]</p><ul><li><p>Fixed bug that prevented the asset in use from being selected when model browser was opened.</p></li><li><p>Fixed bug with layered materials with same surface property on all layers. </p></li></ul><p>[ MUSIC KITS ]</p><ul><li><p>Added roundmvpanthem_02 for all NIGHTMODE II music kits which plays at 1:5 ratio.</p></li></ul><p></p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672869045073084965</guid>
+      <pubDate>Thu, 14 May 2026 22:23:58 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721726</guid>
       <pubDate>Tue, 04 Feb 2025 00:50:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><ul><li>Basalt - updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">Update Notes</a>).</li></ul>[ MISC ]<br /><ul><li>Activated Premier Season Two progress indicator in the play menu.</li><li>Fixed regressions with AUG/SG scope graphics.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721127</guid>
-      <pubDate>Thu, 30 Jan 2025 01:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
