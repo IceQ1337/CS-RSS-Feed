@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 08 May 2026 02:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 19:52:53 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 14.05.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Diverse Löcher in der Spielwelt ausgebessert.</p></li><li><p>Fehlerhafte Oberflächentypen für verschiedene Materialien korrigiert.</p></li><li><p>Gitter zu einigen Fenstern hinzugefügt, um den Durchschuss von Kugeln zu blocken.</p></li><li><p>Anpassungen am Spieler- und Granaten-Clipping vorgenommen.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, durch den es möglich war, einen Granatenwurf abzubrechen, wenn der Wurf kurz vor dem Ende der Animation für das Ziehen des Sicherheitsrings ausgeführt wurde.</p></li><li><p>Diverse Stabilitätsverbesserungen vorgenommen.</p></li></ul><p>[ WERKZEUGE ]</p><ul><li><p>Fehler behoben, durch den das aktuell verwendete Element nicht ausgewählt werden konnte, während der Modell-Browser geöffnet war.</p></li><li><p>Problem mit mehrschichtigen Materialien, bei denen alle Schichten dieselben Oberflächeneigenschaften aufwiesen, behoben. </p></li></ul><p>[ MUSIKKITS ]</p><ul><li><p>Alternative Hymne für den besten Spieler bei allen „NIGHTMODE II“-Musikkits hinzugefügt, die mit einer Wahrscheinlichkeit von 20 % abgespielt wird.</p></li></ul><p></p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672869045073084965</guid>
+      <pubDate>Thu, 14 May 2026 22:23:58 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 07.05.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830071182721726</guid>
       <pubDate>Tue, 04 Feb 2025 00:50:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 29.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li>Basalt: Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">Update-Notizen</a>)</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Fortschrittsanzeige für das Abzeichen der zweiten Saison des Premium-Modus im Tab „Premium“ der Spielsuche hinzugefügt.</li><li>Regressionen bei der Anzeige des Zoom-Modus für die AUG und SG 553 behoben.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721127</guid>
-      <pubDate>Thu, 30 Jan 2025 01:29:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
