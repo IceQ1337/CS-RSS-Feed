@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 15 May 2026 19:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:03:09 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 18.05.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ ZUSCHAUEN ]</p><ul><li><p>Fehler in der Nachbearbeitung behoben, der beim Wechsel des Zuschauerziels auf Karten mit unterschiedlichem Nachbearbeitungsumfang auftrat.</p></li><li><p>Fehler behoben, durch den Röntgenblick-Silhouetten weiterhin angezeigt wurden, wenn das Zuschauerziel gewechselt wurde.</p></li><li><p>Problem mit einem Overlay-Schadenseffekt für Zuschauer behoben.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Konsolenvariable „weapon_accuracy_stack_boost_limit“ (Standard: 2) hinzugefügt, welche die Ungenauigkeit bei Schüssen von Leitern anwendet, wenn Spieler einen Boost mit Teammitgliedern durchführen und dabei die Anzahl der Beteiligten dem festgelegten Wert entspricht oder diesen überschreitet.</p></li><li><p>Anpassungen an der Übergangsanimation der AWP zwischen Ausrüsten und Inaktivität vorgenommen.</p></li><li><p>Konsistenz bei Sprungwürfen von Granaten sowie Genauigkeit der Granatenkamera bei Sprungwürfen verbessert.</p></li></ul><p></p><p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Modell der Fenstergitter angepasst, um Einschusslöcher anzuzeigen.</p></li><li><p>Anpassungen des Spieler- und Granaten-Clipping an Fenstern, Fenstergittern und dem Eingang zum Luftschacht vorgenommen.</p></li></ul><p></p><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>Funktion „Instance.RegisterCheatCommand“ hinzugefügt.</p></li><li><p>Funktion „Instance.GetAllPlayerControllers“ hinzugefügt.</p></li><li><p>Funktion „Instance.OnBeginRoundRestart“ hinzugefügt.</p></li><li><p>Funktion „Instance.SetRoundRemainingTime“ hinzugefügt.</p></li><li><p>Methode „CSPlayerController.AddMoneySpendableNow“ hinzugefügt.</p></li><li><p>Methode „CSPlayerController.GetMoneySpendableNow“ hinzugefügt.</p></li><li><p>Methode „CSPlayerController.AddMoneyEarnedForNextRound“ hinzugefügt.</p></li><li><p>Methode „CSPlayerController.GetMoneyEarnedForNextRound“ hinzugefügt.</p></li><li><p>Methode „CSPlayerPawn.HasHelmet“ hinzugefügt.</p></li><li><p>Methode „CSPlayerPawn.SetHasHelmet“ hinzugefügt.</p></li><li><p>Methode „CSPlayerPawn.IsScoped“ hinzugefügt.</p></li><li><p>Methode „CSWeaponBase.IsSilencerOn“ hinzugefügt.</p></li><li><p>Aktivator für die Ausgabe „OnPlayerUse“ geändert, sodass dieser immer der ausführende Spieler ist.</p></li><li><p>Aufrufer für die Ausgabe „OnPlayerUse“ geändert, sodass dieser immer die verwendete Entität ist.</p></li><li><p>Wert der Methode „CSInputs.LOOK_AT_WEAPON“ korrigiert.</p></li><li><p>Potenzieller Absturz bei der Ausnahmebehandlung behoben.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672869045073086086</guid>
+      <pubDate>Mon, 18 May 2026 23:36:08 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 14.05.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830705162257115</guid>
       <pubDate>Sat, 15 Feb 2025 00:52:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 03.02.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Visueller Fehler beim Übergang in den Zoom-Modus der AUG bzw. SSG 553 behoben, der in der Nähe von Wasseroberflächen auftrat.</li><li>Fehler behoben, durch den die Fortschrittsanzeige für das Abzeichen des Premium-Modus bei niedrigen Auflösungen nicht ordnungsgemäß dargestellt wurde.</li><li>Fehler behoben, durch den einige Elemente der Benutzeroberfläche nicht transparent dargestellt wurden, wenn in den erweiterten Grafikeinstellungen für „Multisampling-Antialiasing-Modus“ die Option „CMAA2“ und für „Hoher Farbkontrast (HDR)“ die Option „Leistung“ gleichzeitig ausgewählt waren.</li><li>Verhalten des dynamischen Zooms der Radarkarte verbessert. Wenn ein Gegner bzw. die Bombe auf dem Radar auftaucht, zoomt das Radar sofort heraus, um dieses Ereignis einzufangen. Wenn diese hingegen wieder vom Radar verschwinden, zoomt das Radar jetzt erst nach einer gewissen Verzögerung auf die festgelegte Zoom-Stufe zurück.</li><li>Fehler behoben, durch den mit der Einstellung „Radarkartenzoom“ nicht der gesamte mögliche Skalierungsbereich von 0,25 bis 1,0 festgelegt werden konnte.</li><li>Fehler behoben, durch den die Sounds beim Untersuchen eines Gegenstands mit der Hintergrundkulisse „Train“ auch nach der Rückkehr ins Hauptmenü abgespielt wurden.</li><li>Problem mit Vorhersagefehlern behoben, durch das Spieler in der Nähe von Wänden durch diese spähen konnten.</li><li>Fehlerhafte Darstellung der Kleidung auf einem lokalen Server behoben, wenn beim Laden der Karte der Parameter „loopback=1“ verwendet wurde.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721726</guid>
-      <pubDate>Tue, 04 Feb 2025 00:50:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
