@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 22:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:00:44 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ SPECTATING ]</p><ul><li><p>Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.</p></li><li><p>Fixed a case of stuck x-ray silhouettes when switching spectator targets.</p></li><li><p>Fixed spectator damage overlay effect.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Added weapon_accuracy_stack_boost_limit (default value &quot;2&quot;) to apply ladder inaccuracy to players boosted by a stack of this many or more players.</p></li><li><p>Adjustments to AWP draw to idle animation transition.</p></li><li><p>Improved consistency of grenade jump throws and the accuracy of the jump throw preview camera.</p></li></ul><p></p><p>[ MAPS ]</p><p>Cache</p><ul><li><p>Adjusted model for window covers to show collision / decals when shot.</p></li><li><p>Adjustments to player clipping and grenade clipping around windows, window covers, and vent entrance.</p></li></ul><p></p><p>[ MAP SCRIPTING ]</p><ul><li><p>Added Instance.RegisterCheatCommand</p></li><li><p>Added Instance.GetAllPlayerControllers</p></li><li><p>Added Instance.OnBeginRoundRestart</p></li><li><p>Added Instance.SetRoundRemainingTime</p></li><li><p>Added CSPlayerController.AddMoneySpendableNow</p></li><li><p>Added CSPlayerController.GetMoneySpendableNow</p></li><li><p>Added CSPlayerController.AddMoneyEarnedForNextRound</p></li><li><p>Added CSPlayerController.GetMoneyEarnedForNextRound</p></li><li><p>Added CSPlayerPawn.HasHelmet</p></li><li><p>Added CSPlayerPawn.SetHasHelmet</p></li><li><p>Added CSPlayerPawn.IsScoped</p></li><li><p>Added CSWeaponBase.IsSilencerOn</p></li><li><p>Changed the activator for OnPlayerUse to always be the player</p></li><li><p>Changed the caller for OnPlayerUse to always be the used entity</p></li><li><p>Fixed the value of CSInputs.LOOK_AT_WEAPON</p></li><li><p>Fixed a potential crash in exception handling</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672869045073086086</guid>
+      <pubDate>Mon, 18 May 2026 23:36:08 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">520830705162257115</guid>
       <pubDate>Sat, 15 Feb 2025 00:52:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<br /><ul><li>Fixed AUG scope stencil filter bug near water surfaces.</li><li>Fixed Premier progress bar not displaying properly in low resolutions.</li><li>Fixed certain UI panels not rendering transparently when using CMAA2 and HDR performance settings simultaneously.</li><li>Improved dynamic radar scale to snap size when a newly discovered enemy/C4 enters radar view, but still shrink gradually when enemy/C4 disappears and enough time passes.</li><li>Fixed radar scale settings UI to support full range of radar scale from 0.25 to 1.0 values.</li><li>Fixed sounds from Train inspect scenery not getting cleared when going back to the main menu.</li><li>Fixed misprediction error smoothing near walls to avoid clipping through walls.</li><li>Fixed cloth simulation bug on loopback=1 local servers.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830071182721726</guid>
-      <pubDate>Tue, 04 Feb 2025 00:50:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
