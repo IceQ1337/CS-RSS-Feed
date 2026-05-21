@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 19 May 2026 19:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:39:26 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 20.05.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Spieler- und Granaten-Kollision angepasst.</p></li><li><p>Übergang der Materialien angepasst, um die Genauigkeit der Schrittgeräusche zu verbessern.</p></li><li><p>Mehrere von Spielern gemeldete Lücken ausgebessert.</p></li></ul><p>Ancient</p><ul><li><p>Lücke in der Wand ausgebessert.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">685254577766793432</guid>
+      <pubDate>Wed, 20 May 2026 23:06:14 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 18.05.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">748263301754912773</guid>
       <pubDate>Thu, 13 Feb 2025 23:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 06.02.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ PREMIUM ]<br /><ul><li>Logik angepasst, die bestimmt, wann die Differenz der CS-Wertung zwischen Spielern in einer Gruppe zu groß ist, um gemeinsam an der Spielsuche teilzunehmen. In den meisten Fällen können Spieler, die in der ersten Saison des Premium-Modus zusammen als Gruppe gespielt haben, auch in der zweiten Saison zusammen spielen.</li></ul><br />[ BENUTZEROBERFLÄCHE ]<br /><ul><li>Schaltfläche „Verdienstmedaille erhalten“ direkt zum kleinen Spielerprofil im Hauptmenü hinzugefügt.</li><li>Fehler behoben, durch den in Spielerprofilen im Hauptmenü keine Abzeichen ausgestellt wurden.</li><li>Radarkarte von Dust II aktualisiert, um die Gegebenheiten der Karte präziser widerzuspiegeln.</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den das Drücken der Tasten „Untersuchen“ und „Nachladen“ zu Vorhersagefehlern führen konnte.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">520830705162257115</guid>
-      <pubDate>Sat, 15 Feb 2025 00:52:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
