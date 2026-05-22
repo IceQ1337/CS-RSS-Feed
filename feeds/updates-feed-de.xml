@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 21 May 2026 17:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 18:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 21.05.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ MAJOR ]</p><ul><li><p>Der Hub für das Major IEM Köln 2026 ist jetzt verfügbar. Dort können Sie Turniergegenstände kaufen, an der Pick’Em Challenge teilnehmen und vieles mehr rund um das Turnier entdecken.</p></li><li><p>Kaufen Sie einen Zuschauerpass, um eine aufwertbare Münze für das Major IEM Köln 2026 zu erhalten. Mit einem aktivierten Zuschauerpass können Sie Ihre Münze aufwerten und Belohnungen verdienen, indem Sie an der Pick’Em Challenge teilnehmen. Ebenso werden Sie in einer Rangliste für Spieler mit aktiviertem Zuschauerpass angezeigt, wo Sie Ihre Ergebnisse der Pick’Em Challenge mit denen Ihrer Freunde vergleichen können.</p></li></ul><p>[ BENUTZEROBERFLÄCHE ]</p><ul><li><p>Fehler behoben, durch den der Rundenverlauf bei Verlängerung im Punktestand falsch angezeigt wurde.</p></li><li><p>Fehler behoben, durch den Waffenentitäten die Anzeige zum Aufheben der entsprechenden Waffe verhinderten.</p></li><li><p>Zuschauer werden jetzt durch Blendgranaten stärker geblendet.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Souvenirgegenstände können jetzt im Aufwertungsvertrag zusätzlich zu normalen Gegenständen ausgewählt werden. Alle speziellen Eigenschaften der ausgewählten Souvenirgegenstände werden dabei entfernt. Das Ergebnis eines Aufwertungsvertrags ist ein einzelner normaler Gegenstand einer höheren Qualitätsstufe, der aus einer Kollektion aller für die Aufwertung ausgewählten Gegenstände stammt.</p></li><li><p>Fehler behoben, durch den die Feuerpartikel des brennenden Reifens in der Vorschau der erweiterten Grafikeinstellungen flackerten.</p></li><li><p>Fingeranimation für das Bajonettmesser angepasst.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">685254577766793646</guid>
+      <pubDate>Fri, 22 May 2026 00:40:34 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 20.05.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,22 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529841887223218177</guid>
       <pubDate>Thu, 20 Mar 2025 23:07:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 27.02.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li>Inferno<ul></ul></li><li>Fehlerhafte Geometrie des Kirchendachs behoben, die vom Hauseingang (ehemals „Boiler“) aus sichtbar war.</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den der Sprachchat bei der Rückkehr ins Hauptmenü nach dem Spielen einer Karte aus dem Steam-Workshop nicht mehr funktionierte.</li><li>Fehler behoben, durch den der Spielclient abstürzte, wenn bestimmte Community-Server-Plugins die Netzwerkverbindung von Spielerentitäten beschränkten.</li><li>Verschiedene Probleme in der Benutzeroberfläche beim Anbringen von Aufnähern behoben.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529839807839339585</guid>
-      <pubDate>Fri, 28 Feb 2025 00:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 13.02.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ BENUTZEROBERFLÄCHE ]<br /><ul><li>Fehler behoben, durch den beim Einblenden des Kaufmenüs die Größe und Skalierung von HUD-Elementen auf den Standardwert zurückgesetzt wurde.</li><li>Fehler bei der Anzeige der Rüstung für CSTV-Zuschauer korrigiert.</li><li>Alternative Animation beim Untersuchen der AK-47 aktualisiert.</li></ul><br />[ WORKSHOP ]<br /><ul><li>Unterstützte Upload-Größe von Steam-Workshop-Karten für Counter-Strike 2 auf 3 GB erhöht.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">748263301754912773</guid>
-      <pubDate>Thu, 13 Feb 2025 23:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
