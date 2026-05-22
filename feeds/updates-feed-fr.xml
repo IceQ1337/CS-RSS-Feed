@@ -13,11 +13,19 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 21 May 2026 08:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 20:18:18 +0000</lastBuildDate>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>[CARTES</p><p>Cache</p><ul><li><p>Les collisions entre les modèles de personnages et les grenades ont été ajustées.</p></li><li><p>La fusion des matériaux a été ajustée afin d&#39;améliorer la précision des bruits de pas.</p></li><li><p>Correction de plusieurs interstices signalés par la communauté.</p></li></ul><p>Ancient</p><ul><li><p>Correction d&#39;un interstice dans le mur.</p></li></ul>]]></description>
+      <description><![CDATA[<p>[TOURNOI MAJEUR]</p><ul><li><p>Le hub du tournoi majeur de Cologne 2026 organisé par IEM est désormais disponible. Rendez-vous sur le hub pour acheter des items de tournoi, jouer au challenge Prono&#39;Stick et plus encore !</p></li><li><p>Achetez un passe du public de Cologne 2026 pour recevoir un insigne évolutif du tournoi majeur. Activez votre passe pour améliorer votre insigne et recevoir des récompenses en participant au challenge Prono&#39;Stick. Vous figurerez également dans le classement des personnes ayant activé leur passe, et pourrez ainsi comparer vos prouesses au challenge Prono&#39;Stick avec celles de vos proches.</p></li></ul><p>[INTERFACE]</p><ul><li><p>Correction d&#39;un problème avec la présentation de la chronologie du tableau des scores pendant les prolongations.</p></li><li><p>Correction d&#39;un problème d&#39;affichage du texte qui empêchait de ramasser une arme.</p></li><li><p>Augmentation de l&#39;intensité de l&#39;éblouissement provoqué par les grenades aveuglantes en mode spectateur.</p></li></ul><p>[DIVERS]</p><ul><li><p>Les items de qualité « Souvenir » peuvent désormais être sélectionnés lors des contrats d&#39;échange au même titre que les items de qualité normale. Tous les attributs « Souvenir » seront retirés des items sélectionnés, et le résultat du contrat d&#39;échange sera un seul item ordinaire d&#39;un niveau de qualité supérieure, provenant de la même collection que l&#39;un des items sélectionnés pour l&#39;échange.</p></li><li><p>Correction du problème suivant : les particules de feu sur le pneu de l&#39;onglet « Paramètres vidéo avancés » clignotaient.</p></li><li><p>Ajustement de l&#39;animation des doigts sur le modèle de la baïonnette.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">685254577766793646</guid>
+      <pubDate>Fri, 22 May 2026 00:40:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[CARTES]</p><p>Cache</p><ul><li><p>Les collisions entre les modèles de personnages et les grenades ont été ajustées.</p></li><li><p>La fusion des matériaux a été ajustée afin d&#39;améliorer la précision des bruits de pas.</p></li><li><p>Correction de plusieurs interstices signalés par la communauté.</p></li></ul><p>Ancient</p><ul><li><p>Correction d&#39;un interstice dans le mur.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">685254577766793432</guid>
       <pubDate>Wed, 20 May 2026 23:06:14 +0000</pubDate>
@@ -597,22 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529841887223218177</guid>
       <pubDate>Thu, 20 Mar 2025 23:07:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li>Inferno<ul></ul></li><li>Correction du problème suivant : la géométrie du toit de l&#39;église était visible depuis le rez-de-chaussée des appartements.</li></ul><br />[DIVERS]<br /><ul><li>Correction du problème suivant : quitter une carte du Workshop Steam faisait planter le chat vocal.</li><li>Correction du problème suivant : le client de jeu plantait si certains plugins des serveurs de la communauté restreignaient la mise en réseau des entités (personnages) jouables.</li><li>Corrections de plusieurs problèmes lors de l&#39;application des écussons.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529839807839339585</guid>
-      <pubDate>Fri, 28 Feb 2025 00:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[INTERFACE]<br /><ul><li>Correction de la taille et de la mise à l&#39;échelle des éléments de l&#39;interface utilisateur partagés entre le menu d&#39;achat et le HUD en jeu.</li><li>Correction d&#39;un bug avec l&#39;affichage de l&#39;armure en mode spectateur dans CSTV.</li><li>Mise à jour de l&#39;animation alternative d&#39;examen de l&#39;AK47.</li></ul><br />[WORKSHOP]<br /><ul><li>La limite de taille pour la mise en ligne de cartes dans le Workshop Steam de Counter-Strike 2 a été augmentée à 3 Go.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">748263301754912773</guid>
-      <pubDate>Thu, 13 Feb 2025 23:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
