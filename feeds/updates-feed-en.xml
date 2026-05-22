@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 23:45:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 01:13:27 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAJOR ]</p><ul><li><p>The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick&#39;Em Challenge and more.</p></li><li><p>Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick&#39;Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick&#39;Em Challenge performance to your friends.</p></li></ul><p>[ UI ]</p><ul><li><p>Fixed a case of incorrect scoreboard timeline presentation in overtime.</p></li><li><p>Fixed weapon entities disallowing pickup from showing pick up weapon hint text.</p></li><li><p>Increased spectator in-eye flash amount.</p></li></ul><p>[ MISC ]</p><ul><li><p>Souvenir quality items can now be selected in Trade Up Contract alongside normal quality items. All Souvenir attributes will be removed from any souvenir items selected, and the result of a Trade Up Contract will be a single normal item of a quality one higher, from a collection of all of the items selected for exchange.</p></li><li><p>Fixed a case where tire fire particles were flickering in the advanced video preview.</p></li><li><p>Adjusted finger animation on Bayonet model.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">685254577766793646</guid>
+      <pubDate>Fri, 22 May 2026 00:40:34 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -597,22 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529841887223218177</guid>
       <pubDate>Thu, 20 Mar 2025 23:07:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><ul><li>Inferno<ul></ul></li><li>Fixed roof geometry at church that was visible from boiler entrance.</li></ul><br />[ MISC ]<br /><ul><li>Fixed a case where voice chat would break after unloading a Steam Workshop map.</li><li>Fixed a case where game client would crash if certain community server plugins were restricting networking of player entities.</li><li>Fixed several bugs in applying patches UI.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529839807839339585</guid>
-      <pubDate>Fri, 28 Feb 2025 00:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ UI ]<br /><ul><li>Fixed sizing and scaling of UI elements shared between buy menu and in-game HUD.</li><li>Fixed a bug with armor display for CSTV spectators.</li><li>Updated alternate AK-47 inspect animation.</li></ul><br />[ WORKSHOP ]<br /><ul><li>Increased supported upload size for Counter-Strike 2 Steam Workshop Maps to 3 GB.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">748263301754912773</guid>
-      <pubDate>Thu, 13 Feb 2025 23:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
