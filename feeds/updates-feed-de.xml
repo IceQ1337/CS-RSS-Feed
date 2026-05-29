@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 22 May 2026 18:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 18:48:28 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 29.05.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KÖLN 2026 ]</p><ul><li><p>Möglichkeit hinzugefügt, Aufkleber für das CS2-Major IEM Köln 2026 im Shop als Favoriten zu markieren.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Konfigurationsvariable „r_spectator_flashbang_opacity“ hinzugefügt, um die Stärke des Blendgranateneffekts für Zuschauer anzupassen, die nicht aktiv am Spiel teilnehmen.</p></li><li><p>Der Blendgranateneffekt für Zuschauer, die nicht aktiv am Spiel teilnehmen, wird jetzt hinter dem HUD angezeigt.</p></li><li><p>Stabilitätsverbesserungen vorgenommen.</p></li></ul><p>[ KARTEN ]</p><p>Ancient</p><ul><li><p>Clipping aktualisiert, um bestimmte Boost-Orte zu verhindern.</p></li></ul><p>Sanctum</p><ul><li><p>Karte auf die neueste Version aus dem Steam-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442">Update-Notizen</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672870313012233012</guid>
+      <pubDate>Fri, 29 May 2026 00:17:23 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 21.05.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,14 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529842339955345112</guid>
       <pubDate>Fri, 04 Apr 2025 17:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 20.03.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li>Basalt: Karte auf die neueste Version aus dem Steam-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">Update-Notizen</a>)</li></ul><br />[ WORKSHOP ]<br /><ul><li>Im Steam-Workshop von Counter-Strike 2 können jetzt Vorlagen für Anhänger eingereicht werden, die im Rahmen der Würstchenbude-Kollektion veröffentlicht wurden.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529841887223218177</guid>
-      <pubDate>Thu, 20 Mar 2025 23:07:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
