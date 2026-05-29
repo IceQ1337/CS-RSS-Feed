@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 01:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 01:21:46 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ COLOGNE 2026 ]</p><ul><li><p>Added ability to bookmark stickers in Cologne 2026 Shop.</p></li></ul><p>[ MISC ]</p><ul><li><p>Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.</p></li><li><p>Flashbang effect for remote spectators now renders underneath the HUD.</p></li><li><p>Stability improvements</p></li></ul><p>[ MAPS ]</p><p>Ancient</p><ul><li><p>Updated clipping to prevent certain boost locations</p></li></ul><p>Sanctum</p><ul><li><p>Updated to the latest version from Steam Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442">Update Notes</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672870313012233012</guid>
+      <pubDate>Fri, 29 May 2026 00:17:23 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -597,14 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529842339955345112</guid>
       <pubDate>Fri, 04 Apr 2025 17:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><ul><li>Updated Basalt to the latest version from Steam Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">Update Notes</a>)</li></ul><br />[ WORKSHOP ]<br /><ul><li>Added ability to author and submit patterns for the Missing Link Charm to Counter-Strike 2 Steam Workshop.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529841887223218177</guid>
-      <pubDate>Thu, 20 Mar 2025 23:07:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
