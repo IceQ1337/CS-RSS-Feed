@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 22 May 2026 20:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 09:32:57 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[COLOGNE 2026]</p><ul><li><p>Il est désormais possible de mettre des stickers en favoris dans la boutique de Cologne 2026.</p></li></ul><p>[DIVERS]</p><ul><li><p>Ajout de la variable de console « r_spectator_flashbang_opacity » pour contrôler l&#39;opacité des grenades aveuglantes en mode spectateur.</p></li><li><p>L&#39;effet des grenades aveuglantes en mode spectateur s&#39;affiche désormais en dessous du HUD.</p></li><li><p>Diverses améliorations au niveau de la stabilité.</p></li></ul><p>[CARTES]</p><p>Ancient</p><ul><li><p>Mise à jour des collisions pour empêcher certaines courtes échelles.</p></li></ul><p>Sanctum</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop Steam (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">672870313012233012</guid>
+      <pubDate>Fri, 29 May 2026 00:17:23 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -597,14 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529842339955345112</guid>
       <pubDate>Fri, 04 Apr 2025 17:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li>Mise à jour de la carte Basalt d&#39;après sa dernière version publiée sur le Workshop Steam (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290">cliquez ici pour voir les notes de mise à jour</a>).</li></ul><br />[WORKSHOP]<br /><ul><li>Il est maintenant possible de créer et d&#39;envoyer des motifs pour les porte-bonheurs Saucisses cocktail dans le Workshop Steam de Counter-Strike 2.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529841887223218177</guid>
-      <pubDate>Thu, 20 Mar 2025 23:07:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
