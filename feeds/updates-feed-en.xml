@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 01:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 21:59:50 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ COLOGNE 2026 ]</p><ul><li><p>Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.</p></li><li><p>Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.</p></li></ul><p>[ MISC ]</p><ul><li><p>Added multi-select functionality in Storage Units deposit/retrieve UI.</p></li><li><p>Added appropriate error message when user&#39;s inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.</p></li><li><p>Fixed number wrapping rules in some languages.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">697641379212296485</guid>
+      <pubDate>Wed, 10 Jun 2026 21:22:05 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
