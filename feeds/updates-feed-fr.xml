@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Mon, 01 Jun 2026 09:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 19:16:25 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[COLOGNE 2026]</p><ul><li><p>Une indication du prix le plus haut et le plus bas dans les sept derniers jours pour les stickers a été ajoutée à la boutique du tournoi majeur de Cologne 2026.</p></li><li><p>Ajout d&#39;une vitrine de stickers à la section du hub du tournoi majeur de Cologne 2026 affichée dans le menu principal.</p></li></ul><p>[DIVERS]</p><ul><li><p>Ajout de la possibilité de sélectionner plusieurs éléments à déposer ou retirer dans l&#39;interface des unités de stockage.</p></li><li><p>Ajout d&#39;un message d&#39;erreur adapté si le joueur ou la joueuse tente de récupérer des récompenses hebdomadaires, des items de l&#39;arsenal ou des items de la boutique du tournoi majeur alors que son inventaire est plein.</p></li><li><p>Correction de la gestion des retours à la ligne pour les nombres dans certaines langues.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">697641379212296485</guid>
+      <pubDate>Wed, 10 Jun 2026 21:22:05 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
