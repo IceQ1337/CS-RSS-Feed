@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 29 May 2026 18:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 21:59:49 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 10.06.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KÖLN 2026 ]</p><ul><li><p>Anzeige des niedrigsten und höchsten Aufkleberpreises in den letzten 7 Tagen im Major-Shop des IEM Köln 2026 hinzugefügt.</p></li><li><p>Aufkleberschaukasten auf der Major-Shop-Kachel des IEM Köln 2026 im Hauptmenü hinzugefügt.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Mehrfachauswahlfunktion für das Verschieben/Abrufen von Gegenständen in der Benutzeroberfläche für Speichereinheiten hinzugefügt.</p></li><li><p>Fehlermeldung hinzugefügt, die angezeigt wird, wenn das Einlösen von Belohnungen aus dem Wöchentlichen Versorgungspaket oder von Gegenständen aus dem Arsenal oder aus dem Warenkorb des Major-Shops wegen eines vollen Inventars fehlschlägt.</p></li><li><p>Regeln für den Zahlenumbruch in einigen Sprachen angepasst.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">697641379212296485</guid>
+      <pubDate>Wed, 10 Jun 2026 21:22:05 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 29.05.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
