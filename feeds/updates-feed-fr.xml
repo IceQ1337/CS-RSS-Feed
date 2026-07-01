@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 11 Jun 2026 19:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:28:33 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[TOURNOI MAJEUR DE COLOGNE 2026]</p><ul><li><p>Les stickers dédicacés par les champions du tournoi sont maintenant disponibles à l&#39;achat dans la boutique du tournoi majeur. Félicitations à Falcons !</p></li><li><p>Les porte-bonheurs souvenirs d&#39;actions décisives sont maintenant disponibles à l&#39;achat dans la boutique du tournoi majeur. Ils commémorent 10 actions décisives pour chacune des six phases du tournoi majeur de Cologne 2026, ainsi que la levée de trophée de Falcons.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701020348316912158</guid>
+      <pubDate>Wed, 01 Jul 2026 02:57:57 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -589,30 +597,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529846144626329750</guid>
       <pubDate>Wed, 14 May 2025 14:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[MISSIONS]<br /><ul><li>Correction du problème suivant : la progression des missions semblait réinitialisée lors d&#39;une reconnexion à une partie en cours.</li></ul>[CARTES]<br /><ul><li>Grail :</li><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">cliquez ici pour voir les notes de mise à jour</a>).</li></ul></ul>[GRAPHISMES]<br /><ul><li>Correction du problème suivant : les flammes étaient parfois visibles à travers la fumée.</li></ul>[AUDIO]<br /><ul><li>Diverses corrections de bugs et ajustements des sons dans l&#39;interface.</li></ul>[DIVERS]<br /><ul><li>Diverses corrections de bugs et améliorations au niveau de la stabilité.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626329208</guid>
-      <pubDate>Thu, 08 May 2025 22:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[MISSIONS]<br /><ul><li>Ajout de missions hebdomadaires, accessibles depuis le menu principal ou le menu « Jouer ».</li><li>Chaque personne reçoit une nouvelle mission par semaine.</li><li>Les missions hebdomadaires expirent au bout de sept jours et rapportent de l&#39;XP dès qu&#39;elles sont menées à bien.</li></ul>[CARTES]<br /><ul><li>Suppression des cartes de la communauté suivantes de tous les modes de jeu : Basalt, Edin, Palais et Whistle.</li><li>Ajout des cartes de la communauté suivantes aux groupes de cartes des modes compétitif, occasionnel et match à mort : Jura, Grail et Agency.</li><li>Ajout des cartes de la communauté suivantes au mode Wingman : Dogtown et Brewery.</li><li>Les groupes de cartes des modes compétitif et occasionnel ont été réorganisés.</li><ul><li>Groupe de désamorçage Alpha : Dust 2, Mirage, Inferno et Vertigo.</li><li>Groupe de désamorçage Delta : Train, Anubis, Ancient, Overpass et Nuke.</li><li>Groupe de cartes de la communauté : Jura, Grail et Agency.</li><li>Groupe de cartes otages : Office et Italy.</li></ul></ul>[AUDIO]<br /><ul><li>Ajout du paramètre « Volume d&#39;ambiance sonore du menu principal ».</li><li>Correction du problème suivant : dans certains cas, tirer sur une unité ennemie visible par-dessus un fumigène ne déclenchait pas le son d&#39;impact de balles.</li><li>Correction du problème suivant : dans certains cas, les sons en jeu ne se déclenchaient pas ou étaient inaudibles.</li><li>Suppression des commandes de console suivantes : snd_setmixer, snd_setmixlayer, snd_soundmixer_setmixlayer_amount, et snd_soundmixer_set_trigger_factor.</li></ul>[DIVERS]<br /><ul><li>Correction du problème suivant : l&#39;association de la touche « scancode56 » (soit la barre oblique « / » sur un clavier américain) à une action était réinitialisée à chaque lancement.</li><li>Les invitations aux salles d&#39;attente envoyées par des comptes pour lesquels les communications sur Steam ont été bloquées ne s&#39;afficheront plus en jeu.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626327635</guid>
-      <pubDate>Wed, 07 May 2025 23:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[RÉCOMPENSES HEBDOMADAIRES]<br /><ul><li>Trois nouvelles collections d&#39;armes ont été ajoutées à la liste de récompenses hebdomadaires : Ascent, Boreal et Radiant.</li><li>Quatre collections d&#39;armes ont été supprimées de la liste de récompenses hebdomadaires : Bank, Italy, Lake et la collection Train originale.</li></ul><br />[ARSENAL]<br /><ul><li>Ajout du contenu suivant à l&#39;arsenal :</li><ul><li>la collection Train 2025 ;</li><li>la caisse Fièvre ;</li><li>un nouvel item en édition limitée, le XM1014 | Solitude.</li></ul></ul><br />[CARTES]<br /><br /><em>Inferno</em><br /><ul><li>Le passage Banane a été ajusté pour mieux correspondre à la taille qu&#39;il faisait dans CS:GO.</li><li>L&#39;arrière-plan derrière la rampe T a été simplifié.</li><li>La vue vers la Fosse a été simplifiée.</li><li>L&#39;arrière-plan du site de bombe B a été simplifié.</li><li>Le rebord le long du couloir sous la Voute a été supprimé.</li><li>Ajout de pixels manquants sur « Coffin » (près du site de bombe B).</li><li>Des caisses ont été ajoutées aux escaliers sous le balcon des Appartements pour qu&#39;on puisse y grimper plus facilement.</li><li>Certains objets ont été ajustés ou supprimés sur l&#39;ensemble de la carte.</li><li>Les collisions entre les grenades et les modèles de personnages ont été ajustées.</li></ul><br /><em>Train</em><br /><ul><li>Correction du problème suivant : les ombres des personnages étaient visibles à travers les fenêtres au-dessus du site de bombe A.</li><li>Correction d&#39;interstices sur la carte.</li><li>Le mur du fond à côté de la porte menant au Raccordement a été simplifié.</li><li>L&#39;arrière-plan à côté de l&#39;entrée supérieure du site de bombe B a été simplifié.</li><li>Le rail au-dessus du site de bombe A a été raccourci pour permettre d&#39;y lancer plus facilement des grenades.</li><li>La passerelle à la sortie du Raccordement n&#39;est plus transparente.</li><li>Les clôtures de la partie supérieure de Lierre ne sont plus transparentes.</li><li>Le mur en brique à côté de Lierre a été simplifié.</li><li>Correction d&#39;un problème de collision de grenade sur la voute supérieure du site B.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529842339955345112</guid>
-      <pubDate>Fri, 04 Apr 2025 17:04:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
