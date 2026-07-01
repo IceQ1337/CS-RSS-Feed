@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 21:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:59:03 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ COLOGNE 2026 MAJOR ]</p><ul><li><p>Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons!</p></li><li><p>Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons&#39; trophy-lifting moment.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701020348316912158</guid>
+      <pubDate>Wed, 01 Jul 2026 02:57:57 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -589,30 +597,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529846144626329750</guid>
       <pubDate>Wed, 14 May 2025 14:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISSIONS ]<br /><ul><li>Fixed a case where mission progress appeared to be reset when reconnecting to a match in-progress.</li></ul>[ MAPS ]<br /><ul><li>Grail:</li><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update Notes</a>).</li></ul></ul>[ GRAPHICS ]<br /><ul><li>Fixed a case where fire was visible through smoke.</li></ul>[ AUDIO ]<br /><ul><li>Various UI sound bug fixes and tweaks.</li></ul>[ MISC ]<br /><ul><li>Various crash fixes and stability improvements.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626329208</guid>
-      <pubDate>Thu, 08 May 2025 22:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISSIONS ]<br /><ul><li>Added Weekly Missions, which can be entered though the main menu or play menu.</li><li>Players receive one mission each week.</li><li>The weekly mission expires after 7 days and rewards XP for completion.</li></ul>[ MAPS ]<br /><ul><li>Removed community maps Basalt, Edin, Palais, and Whistle from all game modes.</li><li>Added community maps Jura, Grail, and Agency to Competitive, Casual, and Deathmatch modes.</li><li>Added community maps Dogtown and Brewery to Wingman mode.</li><li>Re-organized Casual and Deathmatch map groups.</li><ul><li>Defusal Group Alpha: Dust 2, Mirage, Inferno, Vertigo.</li><li>Defusal Group Delta: Train, Anubis, Ancient, Overpass, Nuke.</li><li>Community Map Group: Jura, Grail, Agency.</li><li>Hostage Group: Office, Italy.</li></ul></ul>[ AUDIO ]<br /><ul><li>Added &quot;Main Menu Ambience Volume&quot; setting.</li><li>Fixed some cases where shooting visible enemies over the top of smoke would not play an attacker feedback sound.</li><li>Fixed some cases where gameplay sounds were inaudible or would skip.</li><li>Removed snd_setmixer, snd_setmixlayer, snd_soundmixer_setmixlayer_amount, and snd_soundmixer_set_trigger_factor console commands.</li></ul>[ MISC ]<br /><ul><li>Fixed a bug where input bindings to scancode56 (US English key &quot;/&quot;) wouldn&#39;t persist across app launches.</li><li>Lobby invites from players marked with &quot;Block All Communication&quot; in Steam will now be ignored in-game.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626327635</guid>
-      <pubDate>Wed, 07 May 2025 23:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ WEEKLY CARE PACKAGE ]<br /><ul><li>Added three all-new weapon collections to the Weekly Care Package drop list: Ascent, Boreal, and Radiant</li><li>Removed four weapon collections from the Weekly Care Package drop list: Bank, Italy, Lake, and the original Train collection</li></ul><br />[ ARMORY ]<br /><ul><li>Added new Armory Content:</li><ul><li>The Train 2025 Collection</li><li>The Fever Case</li><li>A new Limited Edition Item: the XM1014 | Solitude</li></ul></ul><br />[ MAPS ]<br /><br /><em>Inferno</em><br /><ul><li>Adjusted Banana to more closely match the size of the CS:GO version</li><li>Simplified background behind T ramp</li><li>Simplified view into Pit</li><li>Simplified background of Bombsite B</li><li>Removed step on sides of Arch hallway</li><li>Removed pixel gap at Coffin</li><li>Adjusted crates on steps up to balcony so players step up reliably</li><li>Adjusted or removed props throughout map</li><li>Adjusted Player and Grenade collision throughout map</li></ul><br /><em>Train</em><br /><ul><li>Fixed a bug where player shadows would render through windows above A main</li><li>Fixed some holes in the world</li><li>Simplified back wall by door to Z</li><li>Simplified background by upper B entrance</li><li>Shortened overhead roof rail in A site, to make it easier to throw utility into site</li><li>Replaced see-through grating on catwalk outside of Z door</li><li>Replaced see-through fences at top if Ivy with solid version</li><li>Simplified brick wall by Ivy</li><li>Fixed grenade collision on upper B arch</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529842339955345112</guid>
-      <pubDate>Fri, 04 Apr 2025 17:04:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

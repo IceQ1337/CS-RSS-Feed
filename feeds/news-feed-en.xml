@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 16:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:59:03 +0000</lastBuildDate>
+    <item>
+      <title>Team Falcons' Finale</title>
+      <link>https://www.counter-strike.net/newsentry/701020348316912154</link>
+      <description><![CDATA[<p><img src="https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg"/>Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.<br /><br />Facing the defending Major Champions in the Quarterfinals, Falcons defeated Vitality 2-1, with each map taking 24 rounds to determine a winner. The Semifinals weren&#39;t any easier, where the Falcons met Team Spirit in a best of three that saw two maps go to Overtime. In the end, the Falcons outlasted Team Spirit 16:12 on Dust II, taking the series 2-1 and booking their first appearance in the Grand Finals. <br /><br />In the Grand Finals the Falcons left no doubt, defeating FURIA 3-0 to claim the organization&#39;s first Major Championship.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/1a646666feb18ff678ffee27f43faa3c8b0e1560.png"/><br />To celebrate the closing of the Cologne Major, new items are available in the Major Shop: the IEM Cologne 2026 Champions Autograph stickers (featuring Paper, Holo, Foil, and Gold autographs from Falcons players), and IEM Cologne 2026 Highlight Charms (featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons&#39; trophy-lifting moment.)<br /><br />Congratulations to the Falcons, champions of the Cathedral and champions of the IEM Cologne 2026 Major!</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701020348316912154</guid>
+      <pubDate>Wed, 01 Jul 2026 03:01:34 +0000</pubDate>
+    </item>
     <item>
       <title>IEM Cologne 2026</title>
       <link>https://www.counter-strike.net/newsentry/672869045073084948</link>
@@ -212,14 +220,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529847413482979949</guid>
       <pubDate>Fri, 23 May 2025 00:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mission Possible</title>
-      <link>https://www.counter-strike.net/newsentry/529846144626327818</link>
-      <description><![CDATA[Today&#39;s update includes several community maps, a rearranging of casual and deathmatch map groups, and the introduction of weekly missions!<br /><br /><h3>Weekly Missions</h3><br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/c33643703076e28d5979c51ed2bcef6c8c40b106.png"/><br /><br />Your mission, should you choose to accept it, can be completed for bonus XP. Each week you&#39;ll get a new mission, and you can access your mission in the Main Menu and in the Play Menu.<br /><br /><h3>Community Maps</h3><br /><br />Today we welcome a host of new community maps: Jura, Grail and Agency have been added to Competitive, Casual, and Deathmatch modes, and Dogtown and Brewery have been added to Wingman. And it&#39;s easier than ever to play community maps—Jura, Grail, and Agency can be found in the new Community Map Group.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/533154f720195f2032a302a5fed0a785dafbfb21.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/0521b3dbaf187b3ff154d0efa5e23c3dd829943b.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/342e88dbbef797238e60a492e95eb47e82687e8f.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/afa0f29d86f969c4e8f7cf3ab3f00ebc5e84750e.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/7d152e290ec0d02e1d47167682bfb60132411e96.png"/> <br /><br />All this and more (<a rel="nofollow" href="https://store.steampowered.com/news/app/730/view/529846144626327635">particularly for fans of binding keys to &quot;/&quot;</a>) in today&#39;s update, so jump into some community maps and see what&#39;s new!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626327818</guid>
-      <pubDate>Wed, 16 Jul 2025 22:43:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
