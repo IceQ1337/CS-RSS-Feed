@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 11 Jun 2026 16:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 19:50:41 +0000</lastBuildDate>
+    <item>
+      <title>Finale de Team Falcons</title>
+      <link>https://www.counter-strike.net/newsentry/701020348316912154</link>
+      <description><![CDATA[<p><img src="https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg"/>Après avoir survécu à l&#39;une des phases éliminatoires les plus difficiles, tout tournoi majeur confondu, Team Falcons a marqué l&#39;histoire du tournoi majeur CS2 de Cologne 2026, organisé par IEM.<br /><br />En quarts de finale, Team Falcons a remporté la victoire contre les champions en titre, Vitality, sur le score de 2-1, avec un total de 24 manches par carte. Les demi-finales n&#39;ont pas été plus faciles : Team Falcons a dû en découdre avec Team Spirit dans une série en cinq manches, dont deux se sont soldées par des prolongations. Au final, Team Falcons a eu raison de Team Spirit avec un score de 16-12 sur Dust II, remportant la série 2-1 et se qualifiant pour la première fois pour la grande finale. <br /><br />Team Falcons n&#39;a pas laissé la moindre à FURIA lors de la grande finale, remportant une victoire écrasante de 3-0 et décrochant ainsi son tout premier titre d&#39;équipe championne du tournoi majeur.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/1a646666feb18ff678ffee27f43faa3c8b0e1560.png"/><br />Pour célébrer la fin du tournoi majeur de Cologne, de nouveaux items sont disponibles dans la boutique du tournoi majeur : les stickers autographiés de l&#39;équipe championne du tournoi majeur de Cologne 2026 organisé par IEM (avec des variantes papier, holographiques, premium et or des membres de Team Falcons) et les porte-bonheurs d&#39;actions décisives du tournoi majeur (qui permettent de revivre les dix actions décisives de chacune des six phases de la compétition, ainsi que le moment où Team Falcons a soulevé le trophée).<br /><br />Félicitations à Team Falcons, équipe championne de la cathédrale de Counter-Strike et du tournoi majeur de Cologne 2026 organisé par IEM !</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701020348316912154</guid>
+      <pubDate>Wed, 01 Jul 2026 03:01:34 +0000</pubDate>
+    </item>
     <item>
       <title>IEM Cologne 2026</title>
       <link>https://www.counter-strike.net/newsentry/672869045073084948</link>
@@ -212,14 +220,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529847413482979949</guid>
       <pubDate>Fri, 23 May 2025 00:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mission possible</title>
-      <link>https://www.counter-strike.net/newsentry/529846144626327818</link>
-      <description><![CDATA[La mise à jour d&#39;aujourd&#39;hui inclut plusieurs cartes de la communauté, une réorganisation des groupes de cartes en modes occasionnel et match à mort, et l&#39;ajout de missions hebdomadaires !<br /><br /><h3>Missions hebdomadaires</h3><br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/c33643703076e28d5979c51ed2bcef6c8c40b106.png"/><br /><br />Votre mission, si toutefois vous l&#39;acceptez, vous rapportera un bonus d&#39;XP. Chaque semaine, vous recevrez une nouvelle mission, accessible depuis le menu principal ou le menu « Jouer ».<br /><br /><h3>Cartes de la communauté</h3><br /><br />Aujourd&#39;hui, nous souhaitons la bienvenue aux nouvelles cartes de la communauté suivantes qui rejoignent les groupes de cartes des modes compétitif, occasionnel et match à mort : Jura, Grail et Agency. Viennent également s&#39;ajouter au mode Wingman les cartes Dogtown et Brewery. Accéder aux cartes de la communauté n&#39;a jamais été si facile : retrouvez Jura, Grail et Agency dans le tout nouveau groupe de cartes de la communauté.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/533154f720195f2032a302a5fed0a785dafbfb21.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/0521b3dbaf187b3ff154d0efa5e23c3dd829943b.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/342e88dbbef797238e60a492e95eb47e82687e8f.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/afa0f29d86f969c4e8f7cf3ab3f00ebc5e84750e.png"/><img src="https://clan.fastly.steamstatic.com/images/3381077/7d152e290ec0d02e1d47167682bfb60132411e96.png"/> <br /><br />Tout le détail est à retrouver dans les notes de la mise à jour d&#39;aujourd&#39;hui (<a rel="nofollow" href="https://store.steampowered.com/news/app/730/view/529846144626327635">les fans d&#39;association de la touche « / » vont jubiler</a>). Mais ne perdez pas de temps, allez explorer ces nouvelles cartes de la communauté et remplissez vos missions !]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626327818</guid>
-      <pubDate>Wed, 16 Jul 2025 22:43:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

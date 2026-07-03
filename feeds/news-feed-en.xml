@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 19:50:40 +0000</lastBuildDate>
+    <item>
+      <title>The Jackass Sticker Capsule</title>
+      <link>https://www.counter-strike.net/newsentry/701021228894257190</link>
+      <description><![CDATA[<img src="https://clan.fastly.steamstatic.com/images/3381077/cc6a469cea898157d07b667ed256a3801cd737e2.png"/><br />Today we’re excited to release the Jackass Sticker Capsule in association with Paramount Games Studio, Jackass graphic artist Andy Jenkins, and community artist TheDanidem.<br /><br />Celebrating the release of <em>jackass: best and last</em>, the Jackass Sticker Capsule contains 39 stickers referencing iconic Jackass moments.<br /><br />Whether it’s an airhorn on a golf course or a trip down Electric Avenue, there’s something for every jackass in here; even you!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701021228894257190</guid>
+      <pubDate>Fri, 03 Jul 2026 19:48:06 +0000</pubDate>
+    </item>
     <item>
       <title>Team Falcons' Finale</title>
       <link>https://www.counter-strike.net/newsentry/701020348316912154</link>
