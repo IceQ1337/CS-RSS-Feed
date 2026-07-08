@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:05:37 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ PREMIER ]</p><ul><li><p>Premier Season Five has begun</p></li><li><p>Added Cache to the Active Duty Map Pool</p></li><li><p>Removed Overpass from the Active Duty Map Pool</p></li></ul><p></p><p>[ GAMEPLAY ]</p><ul><li><p>Re-designed effective range and extent of C4 explosion damage on all official defusal-mode maps.</p><ul></ul></li><li><p>Damage is now applied according to precomputed simulation values, baked into the compiled map.</p></li><li><p>Explosion shockwave damage now rapidly expands from the center of the explosion instead of being applied instantly.</p></li><li><p>Fixed case where picking up dropped weapons through the Buy Menu would fail to complete.</p></li></ul><p></p><p>[ ARMORY ]</p><ul><li><p>Added two new weapon collections based on the recent Call to Arms community announcement: Spy Tech + Arabesque</p></li><li><p>Added two new sticker collections based on the recent Call to Arms community announcement: Fruits &amp; Vegetables + Auto Racing</p></li><li><p>Train 2025 and Sport &amp; Field weapon collections are no longer available in the Armory</p></li><li><p>Sugarface 2 and Elemental Craft sticker collections are no longer available in the Armory</p></li></ul><p></p><p>[ WORKSHOP ]</p><ul><li><p>Updated &quot;Custom Paint Job Extended&quot; </p><ul></ul></li><li><p>Added option to include a dedicated overlay mask texture </p></li><li><p>Added option to set unique overlay UV randomization separate from albedo UV randomization </p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Reduced the performance cost of showing the scoreboard.</p></li><li><p>Fixed a case where material blending effects would disappear when you got too close (e.g. the dirt on the barrels in Inferno Banana).</p></li><li><p>Increased sticker rotation precision to allow half-degree increments on application screen.</p></li></ul><p></p><p>[ MAP SCRIPTING ]</p><ul><li><p>Added Instance.QueueAfterThinks</p></li><li><p>Added Instance.OnWeaponDrop</p></li><li><p>Added CSWeaponBase.GetOriginalOwner</p></li><li><p>Fixed a crash when the name passed to Instance.RegisterCheatCommand collided with an existing command.</p></li><li><p>Added file name and line number to errors caught during the CompileModule step of script loading.</p></li><li><p>Removed support for deprecated vts assets.</p></li></ul><p></p><p>[ ENGINE ]</p><ul><li><p>Updated engine code to the latest version of Source 2</p></li></ul><p></p><p>[ MAPS ]</p><ul><li><p>Removed community maps: Warden, Stronghold, Alpine, and Sanctum from all game modes</p></li><li><p>Added community maps Boulder, Fachwerk, and Shelter to Competitive, Casual, and Deathmatch modes</p></li><li><p>Added community maps Debris and El Dorado to Wingman mode</p></li></ul><p>Cache</p><ul><li><p>Various clipping adjustments</p></li></ul><p>Dust II</p><ul><li><p>Fixed pixel gap Outside Tunnel</p></li><li><p>Clipping adjustment Outside Tunnel</p></li></ul><p>Inferno</p><ul><li><p>Clipping fix to prevent pixel boost at Top of Mid</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701021228894259245</guid>
+      <pubDate>Wed, 08 Jul 2026 22:51:31 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -573,30 +581,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">820329049655084170</guid>
       <pubDate>Tue, 20 May 2025 21:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Deathmatch mode now allows unbalanced teams.</li></ul>[ GRAPHICS ]<br /><ul><li>Fixed a case where molotov and incendiary fire was visible through the AK-47 viewmodel.</li><li>Fixed a case where stickers covering the gap on the front grip of the AK-47 weren&#39;t lit correctly in left hand mode.</li><li>Fixed a case where inventory item icons rendered incorrectly while scoped in-game.</li></ul>[ AUDIO ]<br /><ul><li>Shortened front end of the AK-47 fire sound.</li><li>Reduced delay for body shot impact sounds from the attacker perspective.</li><li>Body shot impact sounds from the attacker perspective will momentarily reduce the volume of weapon fire and ambience to help ensure feedback remains audible.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">820329049655083173</guid>
-      <pubDate>Thu, 15 May 2025 22:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Fixed a bug where weapons purchased with &quot;Buy &amp; Throw&quot; could be refunded after firing.</li></ul>[ PREMIER ]<br /><ul><li>Season Two world and regional leaderboards are now populated.</li></ul>[ MISC ]<br /><ul><li>Added HUD &quot;Glow Weapon with Rarity Color&quot; setting.</li><li>Minimally scraped stickers now cover over the gap on the front grip of the AK-47.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626330001</guid>
-      <pubDate>Tue, 13 May 2025 22:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><ul><li>Fixed a bug where searching for Defusal Group Alpha would lead to Anubis and Defusal Group Delta would lead to Vertigo.</li></ul>Jura:<br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969">Update Notes</a>).</li></ul>Grail:<br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update Notes</a>).</li></ul>Brewery:<br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240">Update Notes</a>).</li></ul>Dogtown:<br /><ul><li>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782">Update Notes</a>).</li></ul>[ AUDIO ]<br /><ul><li>Remastered various UI sounds.</li></ul>[ MISC ]<br /><ul><li>Various crash fixes and stability improvements.</li><li>Various fixes for running on Linux with SDL_VIDEODRIVER=wayland.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626329750</guid>
-      <pubDate>Wed, 14 May 2025 14:42:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
