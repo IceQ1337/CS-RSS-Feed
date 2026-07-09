@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Jul 2026 16:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:35:21 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[PREMIER]</p><ul><li><p>La saison 5 du mode Premier a démarré.</p></li><li><p>Cache a été ajoutée au groupe de cartes du service actif.</p></li><li><p>Overpass a été supprimée du groupe de cartes du service actif.</p></li></ul><p></p><p>[GAMEPLAY]</p><ul><li><p>La portée effective et l&#39;étendue des dégâts d&#39;explosion du C4 ont été remaniées sur toutes les cartes officielles des groupes de désamorçage.</p><ul></ul></li><li><p>Les dégâts sont désormais appliqués en fonction de valeurs de simulation précalculées et intégrées à la carte compilée.</p></li><li><p>Les dégâts de l&#39;onde de déflagration se propagent rapidement à partir du centre de l&#39;explosion au lieu d&#39;être appliqués instantanément.</p></li><li><p>Correction d&#39;un cas où la récupération des armes lâchées depuis le menu d&#39;achat ne se terminait pas.</p></li></ul><p></p><p>[ARSENAL]</p><ul><li><p>Ajout de deux nouvelles collections d&#39;armes basées sur la récente annonce de la communauté d&#39;appel aux armes : Espionnage et technique et Arabesque.</p></li><li><p>Ajout de deux nouvelles collections de stickers basées sur la récente annonce de la communauté d&#39;appel aux armes : Fruits et légumes et Course automobile.</p></li><li><p>Les collections d&#39;armes Train 2025 et Sports &amp; Field ne sont plus disponibles dans l&#39;arsenal.</p></li><li><p>Les collections Sugarface 2 et Maitrise des éléments ne sont plus disponibles dans l&#39;arsenal.</p></li></ul><p></p><p>[WORKSHOP]</p><ul><li><p>Mise à jour du kit de finition personnalisée enrichie. </p><ul></ul></li><li><p>Ajout de l&#39;option qui permet d&#39;inclure une texture de masque en superposition dédiée. </p></li><li><p>Ajout d&#39;une option permettant de définir une randomisation UV de superposition unique distincte de la randomisation UV par albédo. </p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Réduction du cout en performances lié à l&#39;affichage du tableau des scores.</p></li><li><p>Correction du problème suivant : les effets de mélange des matériaux disparaissaient quand on s&#39;en approchait trop (par exemple, la poussière sur les tonneaux dans Banana sur Inferno).</p></li><li><p>Augmentation de la précision de la rotation des stickers pour permettre l&#39;incrémentation en mi-degrés sur l&#39;écran de l&#39;application.</p></li></ul><p></p><p>[SCRIPTS DE CARTE]</p><ul><li><p>Ajout de Instance.QueueAfterThinks.</p></li><li><p>Ajout de Instance.OnWeaponDrop.</p></li><li><p>Ajout de CSWeaponBase.GetOriginalOwner.</p></li><li><p>Correction du problème suivant : un plantage survenait quand le nom passé à Instance.RegisterCheatCommand était le même qu&#39;une commande existante.</p></li><li><p>Ajout du nom de fichier et de la numérotation de ligne aux erreurs décelées pendant l&#39;étape CompileModule du chargement du script.</p></li><li><p>Retrait de la prise en charge des ressources VTS obsolètes.</p></li></ul><p></p><p>[MOTEUR DE JEU]</p><ul><li><p>Mise à jour du code du moteur vers la dernière version de Source 2.</p></li></ul><p></p><p>[CARTES]</p><ul><li><p>Suppression des cartes de la communauté suivantes de tous les modes de jeu : Warden, Stronghold, Alpine et Sanctum.</p></li><li><p>Ajout des cartes de la communauté suivantes en mode compétitif, occasionnel et match à mort : Boulder, Fachwerk et Shelter.</p></li><li><p>Ajout des cartes de la communauté suivantes au mode Wingman : Debris et El Dorado.</p></li></ul><p>Cache</p><ul><li><p>Divers ajustements des collisions.</p></li></ul><p>Dust II</p><ul><li><p>Correction de pixels manquants à l&#39;extérieur du tunnel.</p></li><li><p>Ajustement d&#39;une collision à l&#39;extérieur du tunnel.</p></li></ul><p>Inferno</p><ul><li><p>Correction d&#39;une collision pour éviter de sauter vers le milieu supérieur.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701021228894259245</guid>
+      <pubDate>Wed, 08 Jul 2026 22:51:31 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -573,30 +581,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">820329049655084170</guid>
       <pubDate>Tue, 20 May 2025 21:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GAMEPLAY]<br /><ul><li>Le mode Match à mort permet maintenant que les équipes ne soient pas équilibrées.</li></ul>[GRAPHISMES]<br /><ul><li>Correction du problème suivant : il arrivait que le feu des cocktails Molotov et des grenades incendiaires soit visible à travers le modèle de l&#39;AK-47 en vue à la première personne.</li><li>Correction du problème suivant : les stickers qui recouvraient l&#39;interstice sur la poignée avant de l&#39;AK-47 n&#39;étaient pas éclairés correctement en mode main gauche.</li><li>Correction du problème suivant : les icônes d&#39;objets de l&#39;inventaire ne s&#39;affichaient pas correctement lors de l&#39;utilisation de la lunette de visée.</li></ul>[AUDIO]<br /><ul><li>Le son initial du tir à l&#39;AK-47 a été raccourci.</li><li>Réduction du délai d&#39;émission des sons d&#39;impact de balles contre un corps du point de vue de la personne qui tire.</li><li>Les sons d&#39;impact de balles contre un corps du point de vue de la personne qui tire réduiront momentanément le volume du tir et des sons ambiants afin que le retour soit bien audible.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">820329049655083173</guid>
-      <pubDate>Thu, 15 May 2025 22:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[GAMEPLAY]<br /><ul><li>Correction du problème suivant : il était possible d&#39;« Acheter et lâcher » une arme à une personne de l&#39;équipe, qui pouvait ensuite tirer avec avant de vous la redonner. Vous pouviez alors vous faire rembourser l&#39;arme en question.</li></ul>[PREMIER]<br /><ul><li>Les classements mondiaux et régionaux de la saison 2 sont désormais remplis.</li></ul>[DIVERS]<br /><ul><li>Ajout de l&#39;option « Mettre les armes rares en surbrillance » aux paramètres du HUD.</li><li>Les autocollants légèrement égratignés recouvrent désormais les interstices sur la poignée avant de l&#39;AK-47.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626330001</guid>
-      <pubDate>Tue, 13 May 2025 22:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li>Correction du problème suivant : Anubis figurait parmi les cartes du groupe de désamorçage Alpha et Vertigo parmi celles du groupe de désamorçage Delta.</li></ul>Jura :<br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop de la communauté (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969">cliquez ici pour voir les notes de mise à jour</a>).</li></ul>Grail :<br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">cliquez ici pour voir les notes de mise à jour</a>).</li></ul>Brewery :<br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240">cliquez ici pour voir les notes de mise à jour</a>).</li></ul>Dogtown :<br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782">cliquez ici pour voir les notes de mise à jour</a>).</li></ul>[AUDIO]<br /><ul><li>Divers sons de l&#39;interface ont été rematricés.</li></ul>[DIVERS]<br /><ul><li>Diverses corrections de bugs et améliorations au niveau de la stabilité.</li><li>Divers correctifs pour l&#39;exécution sous Linux avec SDL_VIDEODRIVER=wayland.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626329750</guid>
-      <pubDate>Wed, 14 May 2025 14:42:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
