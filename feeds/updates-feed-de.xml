@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 16:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 08.07.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ PREMIUM ]</p><ul><li><p>Die 5. Saison des Premium-Modus hat begonnen.</p></li><li><p>Cache wurde zur Kartengruppe des aktiven Dienstes hinzugefügt.</p></li><li><p>Overpass wurde aus der Kartengruppe des aktiven Dienstes entfernt.</p></li></ul><p></p><p>[ GAMEPLAY ]</p><ul><li><p>Effektive Reichweite und Stärke des C4-Explosionsschadens auf allen offiziellen Karten im Entschärfungsmodus überarbeitet.</p><ul></ul></li><li><p>Der Explosionsschaden wird nun anhand vorab berechneter Simulationswerte angewendet, die in die kompilierte Karte eingearbeitet sind.</p></li><li><p>Der durch die Schockwelle verursachte Explosionsschaden breitet sich nun rasch vom Zentrum der Explosion aus, anstatt sofort angewendet zu werden.</p></li><li><p>Fehler behoben, durch den das Aufsammeln fallen gelassener Waffen über das Kaufmenü nicht ordnungsgemäß funktionierte.</p></li></ul><p></p><p>[ ARSENAL ]</p><ul><li><p>Zwei neue Waffenkollektionen basierend auf dem letzten Ruf zu den Waffen an die Community hinzugefügt: „Arabeske Kunst“ und „Spionage und Technologie“.</p></li><li><p>Zwei neue Aufkleberkollektionen basierend auf dem letzten Ruf zu den Waffen an die Community hinzugefügt: „Obst und Gemüse“ und „Autorennen“.</p></li><li><p>Waffenkollektionen „Train 2025“ und „Sport und Freizeit“ aus dem Arsenal entfernt.</p></li><li><p>Aufkleberkollektionen „Zuckerschnute 2“ und „Elementare Kunst“ aus dem Arsenal entfernt.</p></li></ul><p></p><p>[ WORKSHOP ]</p><ul><li><p>Lackierungsoption „Erweiterte maßgefertigte Lackierung“ aktualisiert: </p><ul></ul></li><li><p>Option hinzugefügt, um eine dedizierte Overlay-Maskentextur einzubinden. </p></li><li><p>Option hinzugefügt, um eine separate Overlay-UV-Randomisierung getrennt von der Albedo-UV-Randomisierung festzulegen. </p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Leistungseinbruch beim Einblenden des Punktestands reduziert.</p></li><li><p>Fehler behoben, durch den Materialüberblendungseffekte verschwanden, wenn man sich zu nah heranbewegte (z. B. der Schmutz auf den Fässern in der Banane auf Inferno).</p></li><li><p>Präzision bei der Rotation von Aufklebern erhöht, um Anpassungen auf ein halbes Grad in der entsprechenden Oberfläche zu ermöglichen.</p></li></ul><p></p><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>Methode „Instance.QueueAfterThinks“ hinzugefügt.</p></li><li><p>Methode „Instance.OnWeaponDrop“ hinzugefügt.</p></li><li><p>Methode „CSWeaponBase.GetOriginalOwner“ hinzugefügt.</p></li><li><p>Absturz behoben, der auftrat, wenn der an die Methode „Instance.RegisterCheatCommand“ übergebene Name mit einem bereits vorhandenen Befehl übereinstimmte.</p></li><li><p>Dateiname und Zeilennummer zu Fehlermeldungen hinzugefügt, die während des „CompileModule“-Schritts beim Laden eines Skripts auftraten.</p></li><li><p>Unterstützung für veraltete VTS-Assets entfernt.</p></li></ul><p></p><p>[ ENGINE ]</p><ul><li><p>Engine-Code auf die neueste Version von Source 2 aktualisiert.</p></li></ul><p></p><p>[ KARTEN ]</p><ul><li><p>Community-Karten Warden, Stronghold, Alpine und Sanctum aus allen Spielmodi entfernt.</p></li><li><p>Community-Karten Boulder, Fachwerk und Shelter zu den Spielmodi Wettkampf, Gelegenheitsspiel und Deathmatch hinzugefügt.</p></li><li><p>Community-Karten Debris und El Dorado zum Spielmodus Wingman hinzugefügt.</p></li></ul><p>Cache</p><ul><li><p>Diverse Anpassungen am Clipping vorgenommen.</p></li></ul><p>Dust II</p><ul><li><p>Pixelspalte bei Außerhalb Tunnel ausgebessert.</p></li><li><p>Clipping-Anpassung bei Außerhalb Tunnel vorgenommen.</p></li></ul><p>Inferno</p><ul><li><p>Clipping-Anpassung bei Obere Mitte vorgenommen, um eine unsichtbare Kante auszubessern.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701021228894259245</guid>
+      <pubDate>Wed, 08 Jul 2026 22:51:31 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 01.07.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -573,30 +581,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">820329049655084170</guid>
       <pubDate>Tue, 20 May 2025 21:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 15.05.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Der Deathmatch-Modus erlaubt jetzt unausgeglichene Teams.</li></ul>[ GRAFIK ]<br /><ul><li>Fehler behoben, durch den das Feuer von Molotows/Brandgranaten durch das Ansichtsmodell der AK-47 sichtbar war.</li><li>Fehler behoben, durch den Aufkleber, die die Lücke am vorderen Griff der AK-47 abdeckten, im Modus für Linkshänder falsch ausgeleuchtet wurden.</li><li>Problem im Spiel behoben, durch das Symbole für Gegenstände im Inventar im Zoommodus nicht korrekt angezeigt wurden.</li></ul>[ AUDIO ]<br /><ul><li>Soundeffekt beim Abfeuern der AK-47 im Vordergrund gekürzt.</li><li>Verzögerung des Soundeffekts für einschlagende Körpertreffer aus der Sicht des Schützen reduziert.</li><li>Soundeffekte für einschlagende Körpertreffer aus der Sicht des Schützen verringern kurzzeitig die Umgebungslautstärke und die Lautstärke von anderem Waffenfeuer, damit das Feedback tatsächlich hörbar ist.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">820329049655083173</guid>
-      <pubDate>Thu, 15 May 2025 22:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 13.05.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Fehler behoben, durch den ein Teammitglied eine mit „Kaufen und verschenken“ erhaltene Waffe abfeuern und vor dem Verstreichen der Kaufzeit wieder an den ursprünglichen Besitzer zurückgeben konnte, um sich diese rückerstatten zu lassen.</li></ul>[ PREMIUM ]<br /><ul><li>Die regionale sowie die weltweite Bestenliste der 2. Premium-Saison können jetzt abgerufen werden.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>HUD-Einstellung „Seltenheitsfarben von Waffen anzeigen“ hinzugefügt.</li><li>Minimal abgekratzte Aufkleber überdecken jetzt die Lücken am vorderen Handgriff der AK-47.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626330001</guid>
-      <pubDate>Tue, 13 May 2025 22:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 13.05.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li>Fehler behoben, durch den eine Spielsuche über die Entschärfungsgruppe Alpha auf Anubis und eine Spielsuche über die Entschärfungsgruppe Delta auf Vertigo führte.</li></ul>Jura:<br /><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969">Update-Notizen</a>)</li></ul>Grail:<br /><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update-Notizen</a>)</li></ul>Brewery:<br /><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240">Update-Notizen</a>)</li></ul>Dogtown:<br /><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782">Update-Notizen</a>)</li></ul>[ AUDIO ]<br /><ul><li>Verschiedene Sounds der Benutzeroberfläche überarbeitet.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Diverse Absturzbehebungen und Stabilitätsverbesserungen vorgenommen.</li><li>Diverse Fehler behoben, wenn Linux mit „SDL_VIDEODRIVER=wayland“ ausgeführt wurde.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529846144626329750</guid>
-      <pubDate>Wed, 14 May 2025 14:42:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
