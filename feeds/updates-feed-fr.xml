@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:36:50 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Suppression du point de dégât infligé par défaut lors de la détonation du nouveau C4.</p></li><li><p>Correction du problème suivant : les nouveaux dégâts du C4 n&#39;étaient pas calculés correctement dans les zones limitrophes.</p></li><li><p>Les nouvelles explosions de C4 appliquent désormais plus de force aux armes lâchées au sol.</p></li></ul><p></p><p>[ARSENAL]</p><ul><li><p>Ajustement de la visibilité du sticker « Sniper Ahead » lorsqu&#39;il est gratté.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : les médailles de saison n&#39;avaient pas leur teinte dorée sur l&#39;une des barres.</p></li><li><p>Correction du problème suivant : le tableau des scores ne se mettait pas à jour lorsqu&#39;il était ouvert.</p></li><li><p>Diverses améliorations au niveau de la stabilité.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">701021228894259656</guid>
+      <pubDate>Thu, 09 Jul 2026 21:46:16 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -573,14 +581,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529847413482979455</guid>
       <pubDate>Thu, 22 May 2025 20:24:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br />Jura :<br /><ul><li>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop de la communauté (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969">cliquez ici pour voir les notes de mise à jour</a>).</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">820329049655084170</guid>
-      <pubDate>Tue, 20 May 2025 21:19:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
