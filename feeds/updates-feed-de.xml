@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Jul 2026 16:58:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 16:47:33 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 14.07.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Fachwerk</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">Update-Notizen</a>).</p></li></ul><p>Boulder</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">Update-Notizen</a>).</p></li></ul><p>Shelter</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295">Update-Notizen</a>).</p></li></ul><p>El Dorado</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3408790618">Update-Notizen</a>).</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Verschiedene Stabilitäts- und Sicherheitsverbesserungen vorgenommen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">698770449667981326</guid>
+      <pubDate>Wed, 15 Jul 2026 00:42:00 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 09.07.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -573,14 +581,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529850584204839876</guid>
       <pubDate>Wed, 02 Jul 2025 22:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 21.05.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<br /><ul><li>Anpassungen am Ansichtsmodell aufgrund des Rückstoßes von Waffen werden jetzt pro Frame berechnet.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529847413482979455</guid>
-      <pubDate>Thu, 22 May 2025 20:24:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
