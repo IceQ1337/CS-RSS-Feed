@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 01:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 23:19:30 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>The bomb damage health preview is now revealed when the bomb becomes audible.</p></li><li><p>The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. </p></li></ul><p><br />[ MAPS ]</p><p>Fachwerk</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">Update Notes</a>)</p></li></ul><p>Boulder</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">Update Notes</a>)</p></li></ul><p>Debris</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3539217452">Update Notes</a>)</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Added Workshop maps section to Play menu for Counter-Strike in Steam China.</p></li><li><p>Added a shortcut to Community Servers list to Play menu for Counter-Strike in Steam China.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">698770449667982800</guid>
+      <pubDate>Mon, 20 Jul 2026 23:13:36 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
