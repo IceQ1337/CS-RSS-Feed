@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:48:17 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>L&#39;aperçu des dégâts de la bombe est désormais révélé lorsque le compte à rebours de la bombe devient audible.</p></li><li><p>L&#39;explosion de la bombe interagit désormais avec la fumée des grenades ​​fumigènes et les flammes des cocktails Molotov et des grenades incendiaires. </p></li></ul><p><br />[CARTES]</p><p>Fachwerk</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">cliquez ici pour voir les notes de mise à jour</a>)</p></li></ul><p>Boulder</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">cliquez ici pour voir les notes de mise à jour</a>)</p></li></ul><p>Debris</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3539217452">cliquez ici pour voir les notes de mise à jour</a>)</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Ajout d&#39;une section « Cartes du Workshop » au menu « Jouer » de la version Steam China de Counter-Strike.</p></li><li><p>Ajout d&#39;un raccourci vers les serveurs de la communauté au menu « Jouer » de la version Steam China de Counter-Strike.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">698770449667982800</guid>
+      <pubDate>Mon, 20 Jul 2026 23:13:36 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
