@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:28:22 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 20.07.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Der Indikator für den Bombenschaden wird jetzt angezeigt, wenn das Ticken der Bombe hörbar ist.</p></li><li><p>Die Bombenexplosion löst jetzt Rauchgranaten und Molotows/Brandgranaten aus. </p></li></ul><p><br />[ KARTEN ]</p><p>Fachwerk</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">Update-Notizen</a>)</p></li></ul><p>Boulder</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">Update-Notizen</a>)</p></li></ul><p>Debris</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3539217452">Update-Notizen</a>)</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Auswahl für Workshop-Karten im Tab „Spielen“ für Counter-Strike 2 in der Steam-China-Version hinzugefügt.</p></li><li><p>Verknüpfung für den Community-Serverbrowser im Tab „Spielen“ für Counter-Strike 2 in der Steam-China-Version hinzugefügt.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">698770449667982800</guid>
+      <pubDate>Mon, 20 Jul 2026 23:13:36 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 14.07.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
