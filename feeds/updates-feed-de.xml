@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Jul 2026 17:28:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:59:29 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 28.07.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ MAJOR IEM KÖLN 2026 ]</p><ul><li><p>Die Turnieraufkleber basierend auf der Endplatzierung der Team sind jetzt erhältlich. 50 % der Erlöse aus dem Verkauf werden als Tantiemen zwischen den Teams, den Spielern und dem Turnierorganisator aufgeteilt.</p></li><li><p>Gegenstände im Major-Shop zur IEM Köln 2026 können bis zum 29. September gekauft werden.</p></li></ul><p></p><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>Fehler behoben, der dazu führte, dass Skripte im Werkzeugmodus erst nach einer manuellen Neukompilierung geladen werden konnten.</p></li></ul><p><br />[ KARTEN ]</p><p>Boulder</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">Update-Notizen</a>)</p></li></ul><p>Fachwerk</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">Update-Notizen</a>)</p></li></ul><p>Shelter</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295">Update-Notizen</a>)</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, der einige Spieler daran hinderte, EP für die Katalogisierung der Gegenstände aus der Terminal-Kollektion „Tote Hand“ zu beanspruchen.</p></li><li><p>Fehler behoben, der es bösartigen Akteuren ermöglichte, der VACnet-Erkennung zu entgehen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">692016318956699785</guid>
+      <pubDate>Wed, 29 Jul 2026 00:38:24 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 20.07.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
