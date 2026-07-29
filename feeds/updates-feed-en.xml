@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 23:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:47:45 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ COLOGNE 2026 MAJOR ]</p><ul><li><p>The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.</p></li><li><p>Items in the the Cologne 2026 Shop will be available for purchase until September 29th.</p></li></ul><p></p><p>[ MAP SCRIPTING ]</p><ul><li><p>Fixed a bug where scripts would fail to load in tools mode until a manual recompile.</p></li></ul><p><br />[ MAPS ]</p><p>Boulder</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">Update Notes</a>)</p></li></ul><p>Fachwerk</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">Update Notes</a>)</p></li></ul><p>Shelter</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295">Update Notes</a>)</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Fixed a bug which prevented some users from claiming Collection Catalog XP for The Dead Hand Collection.</p></li><li><p>Fixed a bug that allowed malicious players to avoid being processed by VACnet.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">692016318956699785</guid>
+      <pubDate>Wed, 29 Jul 2026 00:38:24 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>

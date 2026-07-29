@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 23:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:47:45 +0000</lastBuildDate>
+    <item>
+      <title>Cologne 2026: Ranked Series</title>
+      <link>https://www.counter-strike.net/newsentry/676253085555756223</link>
+      <description><![CDATA[<img src="https://clan.fastly.steamstatic.com/images/3381077/81b4cf3f2d2130bd4aed48bad3d2d5e5ee061756.png"/><br /><br />Today we&#39;re shipping the Ranked Series of Cologne 2026 Major stickers&ndash;new stickers that indicate a team&#39;s final standing in the design. As with all items in the Cologne 2026 Shop, 50% of the royalties support the teams, players and tournament organizer.<br /><br />The original dynamic pricing system determined the relative interest in players and teams, but it didn&#39;t produce reasonable prices. So the Ranked stickers have a lower price, but with the same relationship between players and teams as the Event Series stickers (as of today&#39;s update).<br /><br />Check out the new stickers and support your favorite players and teams! The Cologne 2026 Shop will be available until September 29th.]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">676253085555756223</guid>
+      <pubDate>Wed, 29 Jul 2026 00:38:10 +0000</pubDate>
+    </item>
     <item>
       <title>Season 5, Armory, and More</title>
       <link>https://www.counter-strike.net/newsentry/701021228894257508</link>
@@ -220,22 +228,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529850584204838951</guid>
       <pubDate>Wed, 02 Jul 2025 22:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capture the Moment</title>
-      <link>https://www.counter-strike.net/newsentry/529848048073835651</link>
-      <description><![CDATA[The BLAST.tv Austin Major is fast approaching! <br /><br />Activate your Austin 2025 Viewer Pass and set your Pick&#39;Ems before the first matches start, and you&#39;ll be well on your way to upgrading your Challenge Coin and earning Souvenir Tokens. Speaking of which&#8230;<br /><br /><h3>Souvenir Highlight Packages</h3><br /><br />Just like previous Majors, you&#39;ll have the opportunity to claim a memento from the match of your choice. But this time, if you choose a <strong>playoff match</strong>, you&#39;ll receive an <em>all new</em> Souvenir Highlight Package.<br /><br />Available exclusively for playoff stage matches, Souvenir Highlight Packages contain a souvenir weapon with an attached charm that features a video highlight from the playoff map you selected. Your weapon&#39;s description will include information about the highlight, and you can view the attached clip in your CS2 inventory, in Steam, or while spectating a teammate in-match.<br /><br /><img src="https://clan.cloudflare.steamstatic.com/images/3381077/43fc8779bd35f9f8ef4244d4fa7581aea714a322.png"/><br />We&#39;re excited for everyone to get their chance to pick up a playoffs-exclusive Souvenir Highlight Package, but they will take some time to put together. So stay tuned—Souvenir Highlight Packages will be redeemable shortly after the Major comes to a close!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529848048073835651</guid>
-      <pubDate>Thu, 29 May 2025 23:09:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>BLAST.TV Austin Major 2025</title>
-      <link>https://www.counter-strike.net/newsentry/529847413482979949</link>
-      <description><![CDATA[Like a dust storm on the horizon, the <a rel="nofollow" href="https://blast.tv/cs/austin-major-2025">BLAST.TV Austin Major</a> is fast approaching. Join us June 3rd as the first stage of the major gets underway!<br /><br /><h2>Pick&#39;Em and Stick&#39;Em</h2><br />Featuring more teams than ever before, this Major promises to be the most competitive yet. And you can start supporting your favorite teams today with the Austin 2025 Viewer Pass!<br /><br /><img src="https://clan.cloudflare.steamstatic.com/images/3381077/35cdb694da776a40377c9c4a2fa29ebf07d38f5d.png"/><br />Your activated Austin 2025 Viewer Pass includes a coin that you can upgrade by playing the Pick&#39;Em challenge, along with unlimited team graffiti for the duration of the event so you can show your support everywhere you play. You&#39;ll also have the opportunity to earn (and purchase) Souvenir Tokens, redeemable for a memento from the match of your choice. <br /><br /><img src="https://clan.cloudflare.steamstatic.com/images/3381077/b9ccae936af6a1bf8ef076140595e8cec37c7a81.png"/><br />Along with the Viewer Pass and Pick&#39;Em Challenge, today we&#39;re releasing tournament stickers featuring the logos of every participating team and the autograph of every participating player. With a bit of Texas flair, Austin Major stickers can be found in a variety of finishes so you can find the perfect look for your collection. <br /><br /><img src="https://clan.cloudflare.steamstatic.com/images/3381077/85a9d07d5ef8006de47176a7be56cafc64ac14e3.png"/><br />So mark your calendar, dust off your boots, and join us in Austin for Counter-Strike&#39;s biggest Major yet!<br /><br /><h2>Stick to Your Guns</h2><br /><br />But that&#39;s not all!<br /><br />We&#39;ve partnered with Games Workshop to celebrate the Warhammer Skulls 2025 event by releasing four Warhammer 40,000-themed sticker capsules.<br /><br />Themed after Warhammer 40,000 decal sheets, you&#39;ll find the Warhammer 40,000 Adeptus Astartes, Traitor Astartes, Imperium, and Xenos Sticker Capsules in-game now!<br /><br /><img src="https://clan.cloudflare.steamstatic.com/images/3381077/edb17546cd7f439b4baab2a311a94c5557c9eafc.png"/>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529847413482979949</guid>
-      <pubDate>Fri, 23 May 2025 00:12:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
