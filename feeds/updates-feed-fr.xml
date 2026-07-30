@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:48:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:28:54 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[TOURNOI MAJEUR DE COLOGNE 2026]</p><ul><li><p>Les stickers du classement sont désormais disponibles à l&#39;achat. La moitié des royalties est partagée avec les pros, les équipes et l&#39;entité organisatrice du tournoi.</p></li><li><p>Les items dans la boutique du tournoi majeur de Cologne 2026 seront disponibles à l&#39;achat jusqu&#39;au 29 septembre.</p></li></ul><p></p><p>[CRÉATION DE SCRIPTS DE CARTE]</p><ul><li><p>Correction du problème suivant : le chargement de scripts en mode outils du Workshop échouait jusqu&#39;à ce qu&#39;ils soient recompilés manuellement.</p></li></ul><p><br />[CARTES]</p><p>Boulder</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p>Fachwerk</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p>Shelter</p><ul><li><p>Mise à jour de la carte d&#39;après sa dernière version publiée sur le Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295">cliquez ici pour voir les notes de mise à jour</a>).</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : certains comptes ne pouvaient pas récupérer d&#39;XP pour le catalogue de la collection Main morte.</p></li><li><p>Correction d&#39;un problème qui permettait à des personnes malveillantes d&#39;échapper au contrôle de VACnet.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">692016318956699785</guid>
+      <pubDate>Wed, 29 Jul 2026 00:38:24 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
