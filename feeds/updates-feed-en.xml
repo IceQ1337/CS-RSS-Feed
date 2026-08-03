@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 21:22:37 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Fixed a case where grenades could be thrown through level geometry</p></li></ul><p></p><p>[ MAPS ]</p><p>Cache</p><ul><li><p>Fixed various gaps in map</p></li><li><p>Fixed collision in various spots across map</p></li><li><p>Fixed flickering on some assets</p></li><li><p>Removed boost spot in Outside A</p></li></ul><p>Shelter</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295">Update Notes</a>)</p></li></ul><p></p><p>[ MAP SCRIPTING ]</p><ul><li><p>Added Instance.TracePlayer</p></li><li><p>Added Instance.OnWeaponPickup</p></li><li><p>Added Instance.OnBombExplode</p></li><li><p>Added Instance.SpawnGrenadeProjectile</p></li><li><p>Added dropper to Instance.OnWeaponDrop event</p></li><li><p>Added hitEntity to Instance.OnGrenadeBounce event</p></li><li><p>Added normal to Instance.OnGrenadeBounce event</p></li><li><p>Added CSGrenadeProjectileBase.GetGrenadeType</p></li><li><p>Added CSGrenadeProjectileBase.GetThrower</p></li><li><p>Added CSGrenadeProjectileBase.Detonate</p></li><li><p>Added CSPlantedC4.IsBombsiteA</p></li><li><p>Added CSPlantedC4.IsBombsiteB</p></li><li><p>Added CSPlantedC4.GetPlanter</p></li><li><p>Added CSPlantedC4.GetDefuser</p></li><li><p>Added CSPlantedC4.IsActive</p></li><li><p>Added CSPlantedC4.IsExploded</p></li><li><p>Added CSPlantedC4.IsDefused</p></li><li><p>Added CSPlantedC4.GetPlantTime</p></li><li><p>Added CSPlantedC4.GetExplodeTime</p></li><li><p>Added CSPlantedC4.GetDefuseStartTime</p></li><li><p>Added CSPlantedC4.GetDefuseFinishTime</p></li><li><p>Added CSPlayerPawn.HasDefuser</p></li><li><p>Added CSPlayerPawn.SetHasDefuser</p></li><li><p>Added CSGrenadeType enum</p></li><li><p>Fixed a bug where Instance.RegisterCheatCommand would not work on script reload.</p></li><li><p>Deprecated bounces from Instance.OnGrenadeBounce event.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">692016318956701712</guid>
+      <pubDate>Mon, 03 Aug 2026 21:20:49 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
