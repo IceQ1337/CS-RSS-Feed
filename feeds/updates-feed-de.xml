@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 29 Jul 2026 21:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 23:26:49 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 03.08.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Fehler behoben, durch den Granaten durch die Levelgeometrie hindurchgeworfen werden konnten.</p></li></ul><p></p><p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Verschiedene Lücken in der Spielwelt ausgebessert.</p></li><li><p>Kollision an verschiedenen Stellen auf der Karte behoben.</p></li><li><p>Flackern bei einigen Elementen behoben.</p></li><li><p>Boost-Ort bei Außerhalb A entfernt.</p></li></ul><p>Shelter</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295">Update-Notizen</a>)</p></li></ul><p></p><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>Event „Instance.TracePlayer“ hinzugefügt.</p></li><li><p>Event „Instance.OnWeaponPickup“ hinzugefügt.</p></li><li><p>Event „Instance.OnBombExplode“ hinzugefügt.</p></li><li><p>Event „Instance.SpawnGrenadeProjectile“ hinzugefügt.</p></li><li><p>Parameter „dropper“ zum Event „Instance.OnWeaponDrop“ hinzugefügt.</p></li><li><p>Parameter „hitEntity“ zum Event „Instance.OnGrenadeBounce“ hinzugefügt.</p></li><li><p>Parameter „normal“ zum Event „Instance.OnGrenadeBounce“ hinzugefügt.</p></li><li><p>Methode „CSGrenadeProjectileBase.GetGrenadeType“ hinzugefügt.</p></li><li><p>Methode „CSGrenadeProjectileBase.GetThrower“ hinzugefügt.</p></li><li><p>Methode „CSGrenadeProjectileBase.Detonate“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.IsBombsiteA“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.IsBombsiteB“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.GetPlanter“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.GetDefuser“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.IsActive“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.IsExploded“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.IsDefused“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.GetPlantTime“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.GetExplodeTime“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.GetDefuseStartTime“ hinzugefügt.</p></li><li><p>Methode „CSPlantedC4.GetDefuseFinishTime“ hinzugefügt.</p></li><li><p>Methode „CSPlayerPawn.HasDefuser“ hinzugefügt.</p></li><li><p>Methode „CSPlayerPawn.SetHasDefuser“ hinzugefügt.</p></li><li><p>Enumeration „CSGrenadeType“ hinzugefügt.</p></li><li><p>Fehler behoben, durch den das Event „Instance.RegisterCheatCommand“ beim Neuladen eines Skipts nicht funktionierte.</p></li><li><p>Veralteter Parameter „bounces“ vom Event „Instance.OnGrenadeBounce“ entfernt.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">692016318956701712</guid>
+      <pubDate>Mon, 03 Aug 2026 21:20:49 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 28.07.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
