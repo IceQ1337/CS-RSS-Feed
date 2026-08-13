@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 04 Aug 2026 23:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:23:29 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 12.08.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Fachwerk</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035">Update-Notizen</a>)</p></li></ul><p>Shelter</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295">Update-Notizen</a>)</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">689765787249934890</guid>
+      <pubDate>Wed, 12 Aug 2026 22:50:47 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 03.08.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,14 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529850584204840488</guid>
       <pubDate>Thu, 03 Jul 2025 22:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 02.07.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ AUSTIN-MAJOR 2025]<br /><ul><li>Die Autogrammkapsel der Meister kann ab sofort erworben werden. Herzlichen Glückwunsch, Team Vitality!</li><li>Souvenirpakete mit Highlights sind jetzt für die Spiele der Play-offs erhältlich.</li></ul><br />[ VERSCHIEDENES ]<br /><ul><li>Sprachchat für die Lobby im Spiel und die Auswahl-/Bann-Phase im Premium-Modus hinzugefügt.</li><li>Fehlerhafte Befehlsabläufe in „point_servercommand“-Entitäten behoben.</li><li>Fehler behoben, durch den Community-Karten mit dem Befehl „mp_restartgame“ nicht ordnungsgemäß neu geladen wurden.</li><li>Tastenbelegungen zum Kauf von Gegenständen sind jetzt während der Halbzeitpause deaktiviert.</li><li>Textformatierung der Spalten des Punktstands für Japanisch korrigiert.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529850584204839876</guid>
-      <pubDate>Wed, 02 Jul 2025 22:11:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
