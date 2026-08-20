@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 13 Aug 2026 17:23:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:06:13 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 19.08.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Boulder</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989">Update-Notizen</a>)</p></li></ul><p>Poseidon</p><ul><li><p>Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043">Update-Notizen</a>)</p></li></ul><p>[ GAMEPLAY ]</p><ul><li><p>Fehler behoben, durch den sich Spieler zu schnell an Wänden entlang bewegen konnten.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">717913919982665978</guid>
+      <pubDate>Wed, 19 Aug 2026 23:36:33 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 12.08.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,14 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529852487375519749</guid>
       <pubDate>Wed, 16 Jul 2025 00:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 03.07.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Hinweis zur Beschreibung von Souvenirpaketen mit Highlight hinzugefügt, dass diese nach 7 Tagen gehandelt und im Communitymarkt verkauft werden können.</li><li>Diverse Stabilitätsverbesserungen vorgenommen.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529850584204840488</guid>
-      <pubDate>Thu, 03 Jul 2025 22:49:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
