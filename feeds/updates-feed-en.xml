@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:44:51 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAP SCRIPTING ]</p><ul><li><p>Added custom_hud_layout entity:</p><ul></ul></li><li><p>custom_hud_layouts are the entry point for scripted maps to provide custom UI.</p></li><li><p>Panel, Label, Image, and Button panel types are supported.</p></li><li><p>Styling with css is supported.</p></li><li><p>Events and client side scripting are not supported.</p></li><li><p>Maintains state during tools mode reloads.</p></li><li><p>Added cs_player_camera entity:</p><ul></ul></li><li><p>Gives control of a player&#39;s view without moving their pawn.</p></li><li><p>Can be configured to let the player look around from the scripted position.</p></li><li><p>Added Instance.Delay</p></li><li><p>Added Instance.OnBombPlantStart</p></li><li><p>Added Instance.OnBombPlantAbort</p></li><li><p>Added Instance.OnBombDefuseStart</p></li><li><p>Added Instance.OnBombDefuseAbort</p></li><li><p>Added Instance.OnCustomHudClicked</p></li><li><p>Added Instance.IsDedicatedServer</p></li><li><p>Added Entity.Move</p></li><li><p>Added Entity.GetMoveType</p></li><li><p>Added Entity.SetMoveType</p></li><li><p>Added CSPlayerPawn.GetC4</p></li><li><p>Added CSPlayerPawn.GetDefuseTarget</p></li><li><p>Added CSPlayerPawn.IsBuyMenuOpen</p></li><li><p>Added CSPlayerPawn.GetCamera</p></li><li><p>Added C4.GetPlantStartTime</p></li><li><p>Added C4.GetPlantFinishTime</p></li><li><p>Added C4.AbortPlant</p></li><li><p>Added CustomHudLayout.SetHasClass</p></li><li><p>Added CustomHudLayout.SetHasClassForPlayer</p></li><li><p>Added CustomHudLayout.SetDialogVariableString</p></li><li><p>Added CustomHudLayout.SetDialogVariableStringForPlayer</p></li><li><p>Added CustomHudLayout.SetInputCaptureEnabled</p></li><li><p>Added CustomHudLayout.IsInputCaptureEnabled</p></li><li><p>Added CSPlayerCamera.IsEnabled</p></li><li><p>Added CSPlayerCamera.SetEnabled</p></li><li><p>Added CSPlayerCamera.SetIsControllingAngles</p></li><li><p>Added enum CSMoveType</p></li><li><p>Corrected types for some events where parameters were maybe undefined.</p></li><li><p>Errors encountered during initial script run are now logged to the console.</p></li><li><p>Unhandled promise rejections are now logged to the console.</p></li><li><p>Added the column number to errors caught during the CompileModule step of script loading.</p></li><li><p>Deprecated planter from Instance.OnBombPlant event</p></li><li><p>Deprecated defuser from Instance.OnBombDefuse event</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">717913919982667304</guid>
+      <pubDate>Mon, 24 Aug 2026 23:41:11 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
