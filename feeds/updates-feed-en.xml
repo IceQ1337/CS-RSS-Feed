@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:03:03 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAPS ]</p><p>Cache</p><ul><li><p>Fixed various gaps in map.</p></li><li><p>Fixed a wallbang spot on B site.</p></li><li><p>Added a missing competitive CT spawn point.</p></li><li><p>Added additional T spawn points.</p></li></ul><p>[ MAP SCRIPTING ]</p><ul><li><p>Reworked CSPlayerCamera:</p><ul></ul></li><li><p>Renamed it to CustomPlayerCamera.</p></li><li><p>Added GetPlayer, GetMode, SetMode, and SetFollowConfig.</p></li><li><p>Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.</p></li><li><p>Added an &#39;observable&#39; property to custom_hud_layout that controls whether an observer sees the UI as the spectated player sees it. Defaults to false.</p></li><li><p>Fixed several bugs related to stale custom_hud_layout state when changing spectator targets.</p></li><li><p>Added top-level custom_hud_layout classes driven by client state:</p><ul></ul></li><li><p>HUD_BUYMENU_VISIBLE</p></li><li><p>HUD_SCOREBOARD_VISIBLE</p></li><li><p>custom_hud_layout now always draws on top of the base HUD.</p></li></ul><p>[ MISC ]</p><ul><li><p>Chat is now encrypted in demo files using the same rules as CS:GO :</p><ul></ul></li><li><p>Team chat is no longer readable when playing back demo files.</p></li><li><p>Global chat is only readable in demo files when played back via the in-game watch UI.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">692020124159312044</guid>
+      <pubDate>Wed, 09 Sep 2026 23:02:43 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529853121068793939</guid>
       <pubDate>Mon, 28 Jul 2025 21:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ Premier Season Three ]<br /><ul><li>Premier Season Three is now open for business</li><li>Added Overpass to the Active Duty Map Pool</li><li>Removed Anubis from the Active Duty Map Pool</li></ul>[ GAMEPLAY ]<br /><ul><li>Incendiary Grenade - incendiary grenade fire spreads more rapidly</li><li>MP9 - increased recoil magnitude and substantially reduced jumping accuracy</li><li>In Competitive modes, Counter-Terrorists now receive a $50 team award for each Terrorist eliminated in a round</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529852487375519749</guid>
-      <pubDate>Wed, 16 Jul 2025 00:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
