@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:41:05 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 09.09.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Cache</p><ul><li><p>Verschiedene Lücken in der Spielwelt ausgebessert.</p></li><li><p>Stelle am Bombenort B ausgebessert, an der Schüsse durch die Wand nicht vorgesehen sind.</p></li><li><p>Fehlender AT-Einstiegspunkt im Wettkampfmodus hinzugefügt.</p></li><li><p>Zusätzliche T-Einstiegspunkte hinzugefügt.</p></li></ul><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>Entität „CSPlayerCamera“ überarbeitet:</p><ul></ul></li><li><p>In „CustomPlayerCamera“ umbenannt.</p></li><li><p>Methoden „GetPlayer“, „GetMode“, „SetMode“ und „SetFollowConfig“ hinzugefügt.</p></li><li><p>Methoden „IsEnabled“, „SetEnabled“ und „SetIsControllingAngles“ entfernt.</p></li><li><p>Eigenschaft „observable“ zur Entität „custom_hud_layout“ hinzugefügt, um festzulegen, ob ein Zuschauer das HUD genauso angezeigt bekommt wie der beobachtete Spieler. (Standardwert: false)</p></li><li><p>Mehrere Fehler im Zusammenhang mit einem veralteten Zustand der Entität „custom_hud_layout“ beim Ändern von Zuschauerzielen behoben.</p></li><li><p>Übergeordnete Klassen für die Entität „custom_hud_layout“ hinzugefügt, die vom Client-Zustand gesteuert werden:</p><ul></ul></li><li><p>HUD_BUYMENU_VISIBLE</p></li><li><p>HUD_SCOREBOARD_VISIBLE</p></li><li><p>Die Entität „custom_hud_layout“ wird jetzt immer über der Basisversion des HUD angezeigt.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Chatnachrichten werden in den Demo-Dateien jetzt nach denselben Regeln wie in CS:GO verschlüsselt:</p><ul></ul></li><li><p>Der Teamchat kann bei der Wiedergabe von Demo-Dateien nicht mehr gelesen werden.</p></li><li><p>Der globale Chat kann in Demo-Dateien nur gelesen werden, wenn diese über die Wiedergabe-Benutzeroberfläche im Spiel abgespielt werden.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">692020124159312044</guid>
+      <pubDate>Wed, 09 Sep 2026 23:02:43 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 24.08.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529853121068793939</guid>
       <pubDate>Mon, 28 Jul 2025 21:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 15.07.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ 3. Premium-Saison ]<br /><ul><li>Die dritte Saison des Premium-Modus hat begonnen.</li><li>Overpass wurde zur Kartengruppe des aktiven Dienstes hinzugefügt.</li><li>Anubis wurde aus der Kartengruppe des aktiven Dienstes entfernt.</li></ul>[ GAMEPLAY ]<br /><ul><li>Das Feuer der Brandgranate breitet sich jetzt schneller aus.</li><li>Der Rückstoß der MP9 wurde erhöht und Präzision beim Springen erheblich reduziert.</li><li>Im Premium- und Wettkampfmodus erhalten AT-Einheiten jetzt eine Teamprämie in Höhe von 50 Dollar für jeden in einer Runde eliminierten Terroristen.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529852487375519749</guid>
-      <pubDate>Wed, 16 Jul 2025 00:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
