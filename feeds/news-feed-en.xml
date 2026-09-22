@@ -13,7 +13,30 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:41:03 +0000</lastBuildDate>
+    <item>
+      <title>Rush Hour</title>
+      <link>https://www.counter-strike.net/newsentry/711161056325533826</link>
+      <description><![CDATA[
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm" type="video/webm">
+            </video>
+            <br />Put your foot on the gas and floor it. Welcome to Rush, a new fast-paced 3v3 queued mode for CS2. Experience the push and pull as you advance through a gauntlet of randomly-selected battle arenas, and dominate your opponent to win the match!<br /><br />Make the most of your limited budget and precious time to clear the objective. Control the tower when you eliminate the enemy team (or time expires) to win the round.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/4ccfe4f44119ac6ddd5cd39d24c907dd11f4c70a.png"/><br />Run the gauntlet of battle arenas to capture the enemy castle and win the match. The battle arenas are randomly selected each time you play, so no two matches are the same.<br /><br />Keep track of your wins and compete for bragging rights with the Rush friends leaderboard!<br /><br /><h3>Pick, Pick Pick, Pick</h3><br />
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/ab74e99b6fa25b35a355bc110a65e81906b3b22f.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/a26282d4460f972b036a9873a3f1ed5a98fe989a.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/332c9f95f6e825649d2db55d15bff8a7d7c7b82a.webm" type="video/webm">
+            </video>
+            <br />We think that if you spend a lot of time developing strategies on a map, you should have a chance to benefit from that investment. So today we&#39;re changing the process for getting into a map in Premier&ndash;instead of banning down to a single map, teams will vote to pick two maps each. After all four maps are picked, a single map will be randomly selected and the match will begin.<br /><br /><h3>Change You Can See</h3><br />
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/924591876f9ac3a56b658770ca6945b6fa9096c7.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/6f5bc36b20be7f069115b6bb1ea22e75ed4734e4.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/5341ed2d42a633c39e6aedb7342f26f3db78a418.webm" type="video/webm">
+            </video>
+            <br />Today&#39;s update also includes several quality of life improvements, starting with blood and bullet impact visiblity. Blood is now much more bloody, and bullet impacts are far more impacty.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/22559f46380abfdad669fbbebfb02f50149fb1a2.png"/><br />But wait, there&#39;s more! Crosshairs have gotten a significant upgrade with new shapes and other features, so check out the new Crosshair/Scopes settings and create the custom crosshair of your dreams. Also, Clan Tags are back! Select one of your Steam Groups in your player profile and you&#39;ll see your clan tag appear next to your name wherever you play.<br /><br /><h3>Change You Can&#39;t See (or Hear)</h3><br />There are some gameplay adjustments in today&#39;s update to add a bit of stealth to your game-time decisions. Reloading can now be performed silently (by holding the reload key), but with a cost&ndash;silent reloads take quite a bit longer. And for those of you who love scoping your scoped weapons, you&#39;ll now be perfectly silent when you unscope, as nature intended.<br /><br /><h3>Starjunk 95</h3><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/602718694f8ef8a7d4adce9f2db208286af6b37f.png"/><br />There&#39;s a new Music Kit in town, featuring the sounds of Starjunk 95. Experience music from the grooviest station in the galaxy, available now!]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">711161056325533826</guid>
+      <pubDate>Tue, 22 Sep 2026 23:38:37 +0000</pubDate>
+    </item>
     <item>
       <title>Cologne 2026: Ranked Series</title>
       <link>https://www.counter-strike.net/newsentry/676253085555756223</link>
@@ -212,22 +235,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">657081807721726187</guid>
       <pubDate>Fri, 15 Aug 2025 19:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Season Two: Episode One</title>
-      <link>https://www.counter-strike.net/newsentry/529852487375519751</link>
-      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images//3381077/f780ca0f8f1f5561b4f72030672ed657382ecd9a.png"/><br />Premier Season Three begins today!<br /><br />It&#39;s time to start working toward your Season Three Medal. As before, the color of your medal will correspond to the highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25 (up to five bars). To be eligible for a medal, you&#39;ll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.<br /><br /><h3>New for Season 3 </h3><br />With the new season comes an update to the Active Duty Map Pool: Overpass is back in, and Anubis is out.<br /><br />There are a few gameplay changes with Season Three. Fire from the incendiary grenade now spreads faster, occupying space rapidly to counter rushing Ts. The MP9 has gotten a bit of a nerf, with a harder to control spray and substantially less jumping accuracy. There&#39;s also a change to the CT economy: win or lose, CTs now receive a shared team award for each T eliminated in the round, so the more you win and the closer you keep your losses, the more you&#39;ll have to spend.<br /><br /><h3>Trade Protected Items</h3><br />Today we are introducing a new feature to help keep your Counter-Strike items secure. In the unlikely event that you lose control of your account or were the target of a scam by a bad actor, you may reverse all Counter-Strike item trades from the last 7 days. <br /><br />Obviously we hope you&#39;ll never need it, but you can review your recent trades and find the trade reversal feature on the Trade History page on your Steam Account. For more information about what happens when trades are reversed, visit the <a rel="nofollow" href="https://help.steampowered.com/en/faqs/view/365F-4BEE-2AE2-7BDD">FAQ</a>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529852487375519751</guid>
-      <pubDate>Wed, 16 Jul 2025 00:13:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>BLAST.tv Austin Major Champions</title>
-      <link>https://www.counter-strike.net/newsentry/529850584204838951</link>
-      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/295fc91153ac46320f142edffbd45c4e5b31c394.png"/><br />Over four days, the Moody Center in Austin, Texas hosted Team Vitality&#39;s coronation as the best Counter-Strike team on the planet.<br /><br />Facing The MongolZ in the Grand Finals, Team Vitality lost the opening map 13:5, then stormed back on the next two, winning 13:4 on Dust II and 13:6 on Inferno to win the BLAST.tv Austin Major and the organization&#39;s second Major Championship.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/13f607e38001ed765a63729028036855b884c715.png"/><br />To celebrate, today we are releasing the Major Champions Capsule, featuring Paper, Foil, Holo, and Gold stickers autographed by one of the Champions from Team Vitality. <br /><br />And for the first time, we are introducing Souvenir Charms. Each Playoff Stage Souvenir comes with a Souvenir Charm that contains a highlight from the match. <br /><br />Finally, Season Two of Premier ends on July 14th. To receive your Premier Season Two Medal, you must have 25 Season Two Premier wins and a visible CSR when the Season concludes.<br /><br />See you soon for Premier Season Three!]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529850584204838951</guid>
-      <pubDate>Wed, 02 Jul 2025 22:11:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
