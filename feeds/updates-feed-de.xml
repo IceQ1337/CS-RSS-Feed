@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 19:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:26:35 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 24.09.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ STOSSZEIT ]</p><ul><li><p>Bessere Beschreibung der Regeln zum Ladebildschirm hinzugefügt.</p></li><li><p>Regeln zur Entscheidung angepasst, wann Spieler wegen Teamschadens herausgeworfen werden.</p></li><li><p>Verschiedene Anpassungen am Clipping vorgenommen.</p></li></ul><p></p><p>[ GAMEPLAY ]</p><ul><li><p>Fehler behoben, durch den ein etwas schnelleres geräuschloses Nachladen möglich war, indem man die Nachladen-Taste antippte, bevor man sie gedrückt hielt.</p></li><li><p>Fehler behoben, durch den es möglich war, mit geräuschlosem Nachladen Schrotflinten schneller als vorgesehen abzufeuern.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Fehler behoben, durch den es beim Untersuchen der AK-47 zu einem unsauberen Animationsübergang kam.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">674006995886409095</guid>
+      <pubDate>Thu, 24 Sep 2026 21:51:38 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 23.09.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,14 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">657081807721726196</guid>
       <pubDate>Thu, 14 Aug 2025 20:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 01.08.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ] <br /><ul><li>Fehler behoben, durch den Granaten nach dem Scharfmachen untersucht werden konnten.</li><li>Fehler behoben, durch den das Ansichtsmodell nicht wie vorgesehen hin- und herschwankte.</li><li>Fehler behoben, durch den Molotows nicht den korrekten Partikeleffekt für das Feuer abspielten.</li><li>Fehler behoben, durch den Brandgranaten und Rauchgranaten nicht die korrekten Sounds abspielten.</li><li>Timing für den Sound und den Effekteintritt der Molotows für die Egoperspektive angepasst.</li><li>Fehler behoben, durch den sich die Strafzeit nach verfehlten Bunnyhop-Sprüngen weiter aufsummierte, obwohl kein weiterer Sprung getätigt wurde.</li><li>Der Timer zur Erfassung aufeinanderfolgender Bunnyhop-Sprünge beginnt jetzt im Moment der Eingabe und nicht erst am Ende des Subticks, in dem der Befehl verarbeitet wurde.</li></ul><br />[ KARTEN ]<br />Jura<br /><ul><li>Karte auf die neueste Version aus dem Community-Workshop aktualisiert.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529853754800866483</guid>
-      <pubDate>Fri, 01 Aug 2025 22:34:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
