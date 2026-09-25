@@ -13,7 +13,30 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/news-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 30 Jul 2026 20:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:10:02 +0000</lastBuildDate>
+    <item>
+      <title>Le grand Rush</title>
+      <link>https://www.counter-strike.net/newsentry/711161056325533826</link>
+      <description><![CDATA[
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm" type="video/webm">
+            </video>
+            <br />À vos marques, prêts… C&#39;est parti pour le Rush, un nouveau mode de jeu CS2 au rythme effréné en 3 contre 3 ! Engagez-vous dans une bataille féroce à travers une succession d&#39;arènes de combat choisies au hasard, et dominez vos adversaires pour remporter la partie !<br /><br />Utilisez au mieux votre budget limité et votre temps précieux pour remplir l&#39;objectif. Contrôlez la tour une fois l&#39;équipe adverse éliminée (ou lorsque le temps est écoulé) pour remporter la manche.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/4ccfe4f44119ac6ddd5cd39d24c907dd11f4c70a.png"/><br />Dominez successivement les arènes de combat pour capturer le château adverse et remporter la victoire. Les arènes sont choisies au hasard pour chaque partie, garantissant ainsi des expériences de jeu toujours différentes.<br /><br />Gardez une trace de vos victoires et affichez-les fièrement grâce au classement entre contacts du mode Rush.<br /><br /><h3>L&#39;embarras du choix</h3><br />
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/ab74e99b6fa25b35a355bc110a65e81906b3b22f.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/a26282d4460f972b036a9873a3f1ed5a98fe989a.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/332c9f95f6e825649d2db55d15bff8a7d7c7b82a.webm" type="video/webm">
+            </video>
+            <br />Selon nous, le temps passé à élaborer des stratégies sur une carte se doit d&#39;être récompensé. C&#39;est pourquoi nous modifions aujourd&#39;hui le processus de sélection de la carte en mode Premier. Au lieu de bannir des cartes jusqu&#39;à ce qu&#39;il n&#39;en reste plus qu&#39;une seule, les équipes voteront pour choisir deux cartes chacune. Une fois que vous aurez choisi les quatre cartes, une d&#39;entre elles sera tirée au hasard et la partie commencera.<br /><br /><h3>Nouveautés bien visibles</h3><br />
+            <video controls poster="https://clan.fastly.steamstatic.com/images/3381077/924591876f9ac3a56b658770ca6945b6fa9096c7.png">
+                <source src="https://clan.fastly.steamstatic.com/images/3381077/6f5bc36b20be7f069115b6bb1ea22e75ed4734e4.mp4" type="video/mp4">
+<source src="https://clan.fastly.steamstatic.com/images/3381077/5341ed2d42a633c39e6aedb7342f26f3db78a418.webm" type="video/webm">
+            </video>
+            <br />La mise à jour d&#39;aujourd&#39;hui apporte également plusieurs améliorations de confort, à commencer par la visibilité du sang et des impacts de balles. Le sang est désormais beaucoup plus sanglant, et les impacts de balles, bien plus impactants.<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/22559f46380abfdad669fbbebfb02f50149fb1a2.png"/><br />Mais attendez, ce n&#39;est pas tout ! Les viseurs ont bénéficié d&#39;une amélioration significative avec de nouvelles formes et d&#39;autres fonctionnalités. Explorez la nouvelle section de paramètres « Viseur et lunette » et créez le viseur personnalisé de vos rêves. Les tags de clan font également leur grand retour ! Sélectionnez l&#39;un de vos groupes Steam dans votre profil de jeu et votre tag de clan apparaitra à côté de votre nom partout où vous jouez.<br /><br /><h3>Nouveautés invisibles (et inaudibles)</h3><br />La mise à jour d&#39;aujourd&#39;hui comporte quelques ajustements de gameplay pour ajouter un peu de discrétion à vos décisions prises dans le feu de l&#39;action. Il est désormais possible de recharger son arme silencieusement (en maintenant la touche de rechargement enfoncée), mais cela a un cout : les rechargements silencieux prennent beaucoup plus de temps. Enfin, bonne nouvelle pour les adeptes des armes de précision : arrêter de regarder dans la lunette ne provoque plus aucun son, comme la nature l&#39;a prévu.<br /><br /><h3>Starjunk 95</h3><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/602718694f8ef8a7d4adce9f2db208286af6b37f.png"/><br />Starjunk 95 débarque sur les ondes de Counter-Strike avec un nouveau kit de musiques. Branchez-vous sur la station de radio la plus groovy de la galaxie, disponible dès maintenant !]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">711161056325533826</guid>
+      <pubDate>Tue, 22 Sep 2026 23:38:37 +0000</pubDate>
+    </item>
     <item>
       <title>Cologne 2026 : stickers du classement</title>
       <link>https://www.counter-strike.net/newsentry/676253085555756223</link>
@@ -212,22 +235,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">657081807721726187</guid>
       <pubDate>Fri, 15 Aug 2025 19:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saison 2 : épisode 1</title>
-      <link>https://www.counter-strike.net/newsentry/529852487375519751</link>
-      <description><![CDATA[<img src="https://clan.akamai.steamstatic.com/images//3381077/f780ca0f8f1f5561b4f72030672ed657382ecd9a.png"/><br />La saison 3 du mode Premier commence aujourd&#39;hui !<br /><br />L&#39;heure est venue de faire progresser votre médaille de la saison 3. Comme pour la médaille précédente, sa couleur correspondra à la note CS la plus haute que vous aurez atteinte pendant la saison, et les barrettes reflèteront votre nombre total de victoires, avec une barrette représentant 25 victoires (pour un maximum de cinq barrettes). Pour obtenir la médaille de la saison 3 du mode Premier, vous devrez avoir un compte en règle, 25 victoires dans des parties en mode Premier et une note CS active à la fin de la saison.<br /><br /><h3>Nouveautés de la saison 3 </h3><br />La nouvelle saison s&#39;accompagne d&#39;une mise à jour du groupe de cartes du service actif : Overpass est de retour et Anubis tire sa révérence.<br /><br />Cette troisième saison apporte également quelques modifications du gameplay. Le feu produit par les grenades incendiaires se propage désormais plus rapidement : idéal pour contrer les offensives terroristes ! Le MP9 a légèrement perdu de sa puissance : ses rafales sont plus difficiles à contrôler et la précision des tirs en plein saut a été nettement revue à la baisse. L&#39;économie côté AT a également été modifiée : les membres de l&#39;équipe reçoivent désormais une récompense partagée pour chaque terroriste éliminé au cours de la manche. En résumé, plus vous dominez et moins vous mourez, plus vous avez de quoi dépenser !<br /><br /><h3>Items protégés contre les échanges</h3><br />La mise à jour d&#39;aujourd&#39;hui ajoute une nouvelle fonctionnalité conçue pour renforcer la sécurité de vos items Counter-Strike. Dans le cas peu probable où vous perdriez le contrôle de votre compte ou seriez la cible d&#39;une arnaque, vous pouvez annuler tous les échanges d&#39;items Counter-Strike effectués lors des 7 derniers jours. <br /><br />Évidemment, nous espérons que vous n&#39;aurez jamais besoin de cette fonctionnalité, mais si c&#39;est le cas, il vous suffit d&#39;examiner vos échanges récents et de sélectionner la fonction d&#39;annulation sur la page d&#39;historique des échanges de votre compte Steam. Pour en savoir plus sur l&#39;annulation des échanges, consultez cette <a rel="nofollow" href="https://help.steampowered.com/faqs/view/365F-4BEE-2AE2-7BDD">FAQ</a>.]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529852487375519751</guid>
-      <pubDate>Wed, 16 Jul 2025 00:13:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Champions du tournoi majeur d'Austin organisé par BLAST.tv</title>
-      <link>https://www.counter-strike.net/newsentry/529850584204838951</link>
-      <description><![CDATA[<img src="https://clan.cloudflare.steamstatic.com/images//3381077/295fc91153ac46320f142edffbd45c4e5b31c394.png"/><br />Pendant quatre jours, le Moody Center d&#39;Austin a été le théâtre du couronnement de Team Vitality, la meilleure équipe de Counter-Strike de la planète.<br /><br />Pour la grande finale à Austin, Team Vitality affrontait The MongolZ. Après avoir perdu la première carte 13-5, l&#39;équipe a dominé les deux suivantes pour gagner 13-4 sur Dust II et 13-6 sur Inferno. L&#39;équipe rafle ainsi son second titre d&#39;équipe championne d&#39;un tournoi majeur organisé par BLAST.tv !<br /><br /><img src="https://clan.fastly.steamstatic.com/images/3381077/13f607e38001ed765a63729028036855b884c715.png"/><br />Pour fêter ça, nous sortons aujourd&#39;hui la capsule de l&#39;équipe championne du tournoi majeur contenant des autocollants classiques, premium, holographiques et en or, chacun dédicacé par l&#39;un des champions de Team Vitality. <br /><br />Et pour la première fois, les porte-bonheurs souvenirs sont proposés. Dans chaque souvenir des phases éliminatoires se trouve un porte-bonheur souvenir qui contient une action décisive du match. <br /><br />Pour finir, la saison 2 du mode Premier se termine le 14 juillet. Pour recevoir votre médaille de la saison, vous devrez avoir remporté 25 victoires en mode Premier et votre note CS devra être visible à la clôture de la saison 2.<br /><br />À bientôt pour la saison 3 du mode Premier !]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529850584204838951</guid>
-      <pubDate>Wed, 02 Jul 2025 22:11:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
