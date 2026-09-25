@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:03:45 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ RUSH ]</p><ul><li><p>Various gap fixes and clipping adjustments.</p></li></ul><p></p><p>[ GAMEPLAY ]</p><ul><li><p>Fixed some cases where loud reloads would persist while trying to stealth reload.</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Added sv_clantags_enabled option so custom servers can disable clan tags.</p></li><li><p>The eggs of background players in main menu lobbies now rest in nests.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">674006995886409297</guid>
+      <pubDate>Fri, 25 Sep 2026 21:54:54 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
