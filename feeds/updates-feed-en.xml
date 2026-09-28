@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:43:11 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed pixel-gaps in various Rush rooms.</p></li><li><p>Clipping adjustments in T/CT Castle rooms.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">674006995886409692</guid>
+      <pubDate>Mon, 28 Sep 2026 22:38:25 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">657081807721726694</guid>
       <pubDate>Mon, 18 Aug 2025 22:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br />Ancient and Shoots<br /><ul><li>Added nighttime versions.</li><li>Refreshed all ancient materials to use latest CS2 shaders.</li><li>Added new blending options for ancient materials including wetness and moss.</li><li>Added &quot;ancient_zoo.vmap&quot; with all assets and blending examples for mapmakers.</li></ul>[ ITEMS ]<br /><ul><li>Deluge Music Kit Box is now available for purchase in standard and StatTrak versions.</li><li>New Limited Time Item, the M4A1-S | Solitude, is now available in The Armory.</li></ul>[ ANIMATION ]<br /><ul><li>Sawed-off shotgun deploy modified and fixed shell penetration on reload.</li><li>Improved deploy +quick inspect animations for all knives.</li><li>Improved deploy +quick inspect animations for the AK, Galil, AUG, PP-Bizon.</li><li>Improved deploy animations for the AWP, M4A4, M4A1-S.</li><li>Improved animations for legacy SSG08 models.</li><li>Removed the deploy inspect delay for most weapons.</li><li>Fixed XM1014 blocking crosshair during reload.</li></ul>[ MISC ]<br /><ul><li>Rendering performance improvements across most maps.</li><li>Rendering resolution and aspect ratio can now be changed in fullscreen windowed mode.</li><li>fps_max can no longer be changed while connected to a server.</li><li>Fixed a case where certain weapons could be fired sooner after a re-deploy.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">657081807721726196</guid>
-      <pubDate>Thu, 14 Aug 2025 20:21:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
