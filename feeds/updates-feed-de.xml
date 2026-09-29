@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:32:00 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 25.09.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ RUSH ]</p><ul><li><p>Verschiedene Lücken ausgebessert und Clipping-Anpassungen vorgenommen.</p></li></ul><p></p><p>[ GAMEPLAY ]</p><ul><li><p>Mehrere Fehler behoben, in denen beim Versuch, leise nachzuladen, trotzdem laut nachgeladen wurde.</p></li></ul><p></p><p>[ VERSCHIEDENES ]</p><ul><li><p>Option „sv_clantags_enabled“ hinzugefügt, damit benutzerdefinierte Server Clan-Tags deaktivieren können.</p></li><li><p>Die Hühnereier von Spielern ruhen in Hauptmenü-Lobbys jetzt in Nestern im Hintergrund.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">674006995886409297</guid>
+      <pubDate>Fri, 25 Sep 2026 21:54:54 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 24.09.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,14 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">657081807721726694</guid>
       <pubDate>Mon, 18 Aug 2025 22:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 14.08.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br />Ancient und Shoots<br /><ul><li>Nachtversion für beide Karten hinzugefügt.</li><li>Alle alten Materialien aktualisiert, um die neuesten CS2-Shader zu verwenden.</li><li>Neue Überblendungsoptionen für Materialien im antiken Stil (einschließlich Nässe und Moos) hinzugefügt.</li><li>Kartendatei „ancient_zoo.vmap“ mit allen Elementen und Überblendungsbeispielen für Community-Kartenersteller hinzugefügt.</li></ul>[ GEGENSTÄNDE ]<br /><ul><li>Die Musikkiste „Deluge“ ist jetzt in der normalen und in der StatTrak™-Version erhältlich.</li><li>Ein neuer Gegenstand in limitierter Edition ist jetzt im Arsenal verfügbar: M4A1-S | Einsamkeit</li></ul>[ ANIMATION ]<br /><ul><li>Animationen der abgesägten Schrotflinte beim Ausrüsten und der Schrotpatronen beim Nachladen verbessert.</li><li>Animationen aller Messer verbessert, wenn diese nach dem Ausrüsten schnell untersucht werden.</li><li>Animationen der AK-47, Galil AR, AUG und PP-Bizon verbessert, wenn diese nach dem Ausrüsten schnell untersucht werden.</li><li>Animationen beim Ausrüsten der AWP, M4A4 und M4A1-S verbessert.</li><li>Animationen für klassische Modelle der SSG-08 verbessert.</li><li>Verzögerung beim Ausrüsten der meisten Waffen entfernt.</li><li>Anzeigeproblem behoben, durch das die XM1014 das Fadenkreuz beim Nachladen verdeckte.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Rendering-Leistungsverbesserungen an den meisten Karten vorgenommen.</li><li>Die Rendering-Auflösung und das Bildformat können jetzt im Anzeigemodus „Vollbildfenster“ geändert werden.</li><li>Die Konsolenvariable „fps_max“ kann nicht mehr geändert werden, während eine Verbindung zu einem Server besteht.</li><li>Fehler behoben, durch den bestimmte Waffen nach dem erneuten Ausrüsten schneller als vorgesehen abgefeuert werden konnten.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">657081807721726196</guid>
-      <pubDate>Thu, 14 Aug 2025 20:21:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
