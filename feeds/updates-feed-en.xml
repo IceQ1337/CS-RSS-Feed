@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 22:43:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 23:03:31 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Various clipping fixes in Rush maps</p></li></ul><p>[ CROSSHAIR ]</p><ul><li><p>Fixed visualization of weapon inaccuracy + spread</p></li><li><p>Added crosshair outline color option</p></li><li><p>Added a new style &quot;Static Quadrant&quot;</p></li><li><p>Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)</p></li><li><p>Allowed negative gaps for classic dynamic crosshair style</p></li><li><p>Changed the classic dynamic crosshair alpha increments to 0.01</p></li><li><p>Scope dot scale and color preferences are now included in the new crosshair share code</p></li><li><p>Changed the format of the crosshair share code to accommodate newly included crosshair settings</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675133527946166402</guid>
+      <pubDate>Wed, 30 Sep 2026 22:46:19 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856292184915971</guid>
       <pubDate>Tue, 26 Aug 2025 23:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br />Ancient<br /><ul><li>Reverted &quot;house&quot; roof decorations near CT spawn.</li><li>Restored the ability to wallbang the plywood in &quot;cave&quot;.</li><li>Various changes to the daytime soundscape.</li><li>Fixed items getting stuck behind the rubble pile on T side of B.</li><li>Player clipping adjustments.</li></ul>Shoots<br /><ul><li>Player clipping adjustments.</li></ul>Ancient and Shoots<br /><ul><li>More Ancient and Shoots source content is now available for community map makers in maps/editor/zoo/ancient_zoo.vmap.</li></ul>[ MISC ]<br /><ul><li>Fixed knife slashes applying a &#39;dry&#39; attack decal on wet surfaces.</li><li>Fixed a case where clients would mispredict shots if the attack button was held across round respawn.</li><li>Fixed a case where the viewmodel would stick to the camera when cl_lock_camera was set.</li><li>Fixed a case where fullscreen windowed mode wasn&#39;t offering resolutions with extreme aspect ratios.</li><li>Fixed a case where fullscreen windowed mode wasn&#39;t actually stretching to fill the screen.</li><li>Fixed a case where relative mouse motion was incorrect on Linux.</li><li>Various stability improvements.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">657081807721726694</guid>
-      <pubDate>Mon, 18 Aug 2025 22:32:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
