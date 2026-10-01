@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:03:37 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Diverses corrections de collisions sur les cartes du mode Rush.</p></li></ul><p>[VISEUR]</p><ul><li><p>Correction de la visualisation de l&#39;imprécision des armes et de la dispersion des tirs.</p></li><li><p>Ajout d&#39;une option de couleur de contour du viseur.</p></li><li><p>Ajout d&#39;un nouveau style « Quadrant statique ».</p></li><li><p>Activation des viseurs pour les grenades pendant la période d&#39;immobilisation pour les fumigènes instantanés (il suffit de maintenir le bouton de lancer de grenade enfoncé).</p></li><li><p>Le style de viseur dynamique classique accepte maintenant une valeur négative pour l&#39;écart.</p></li><li><p>Les incréments de la valeur alpha pour le viseur dynamique classique sont maintenant de 0,01.</p></li><li><p>Les préférences de taille et de couleur du point lumineux de la lunette sont désormais incluses dans le nouveau code de partage de viseur.</p></li><li><p>Modification du format du code de partage de viseur pour qu&#39;il inclue les nouveaux paramètres de viseur.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675133527946166402</guid>
+      <pubDate>Wed, 30 Sep 2026 22:46:19 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
