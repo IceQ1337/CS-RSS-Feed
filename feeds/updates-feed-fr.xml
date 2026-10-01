@@ -13,11 +13,19 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:31:42 +0000</lastBuildDate>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>[RUSH]</p><ul><li><p>Ajout d&#39;une meilleure description des règles sur l&#39;écran de chargement.</p></li><li><p>Ajustement des règles relatives à l&#39;exclusion en cas de dégâts infligés à sa propre équipe.</p></li><li><p>Divers ajustements des collisions.</p></li></ul><p></p><p>[GAMEPLAY]</p><ul><li><p>Correction du problème suivant : il était possible d&#39;effectuer un rechargement silencieux légèrement plus rapide en appuyant brièvement sur la touche recharger avant de la maintenir enfoncé.</p></li><li><p>Correction du problème suivant : il était possible d&#39;utiliser le rechargement silencieux pour accélérer la cadence de tirs des fusils à pompe.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : l&#39;animation d&#39;examen de l&#39;AK-47 présentait parfois des saccades.</p></li></ul>]]></description>
+      <description><![CDATA[<p>[RUSH]</p><ul><li><p>Correction de divers interstices et ajustement des collisions.</p></li></ul><p></p><p>[GAMEPLAY]</p><ul><li><p>Correction du problème suivant : les rechargements silencieux émettaient parfois le même niveau de bruit qu&#39;un rechargement normal.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Ajout de l&#39;option « sv_clantags_enabled », qui permet aux serveurs personnalisés de désactiver les tags de groupe.</p></li><li><p>Les œufs des personnes présentes dans l&#39;arrière-plan des salles d&#39;attente du menu principal reposent désormais dans des nids.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">674006995886409297</guid>
+      <pubDate>Fri, 25 Sep 2026 21:54:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[RUSH]</p><ul><li><p>Ajout d&#39;une meilleure description des règles sur l&#39;écran de chargement.</p></li><li><p>Ajustement des règles relatives à l&#39;exclusion en cas de dégâts infligés à sa propre équipe.</p></li><li><p>Divers ajustements des collisions.</p></li></ul><p></p><p>[GAMEPLAY]</p><ul><li><p>Correction du problème suivant : il était possible de recharger son arme en silence légèrement plus vite en appuyant brièvement sur la touche de rechargement avant de la maintenir enfoncée.</p></li><li><p>Correction du problème suivant : il était possible d&#39;utiliser le rechargement silencieux pour accélérer la cadence de tirs des fusils à pompe.</p></li></ul><p></p><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : l&#39;animation d&#39;examen de l&#39;AK-47 présentait parfois des saccades.</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">674006995886409095</guid>
       <pubDate>Thu, 24 Sep 2026 21:51:38 +0000</pubDate>
@@ -589,22 +597,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856292184915971</guid>
       <pubDate>Tue, 26 Aug 2025 23:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><br />Ancient<br /><ul><li>Rétablissement des décorations de toit de « Maison » près de la zone de réapparition AT.</li><li>Restauration de la capacité de tirer à travers le contreplaqué dans « Entrée latérale ».</li><li>Plusieurs modifications aux sons diurnes.</li><li>Correction du problème suivant : des objets restaient bloqués derrière le tas de gravats du côté T du site de bombe B.</li><li>Ajustements des collisions.</li></ul>Shoots<br /><ul><li>Ajustements des collisions.</li></ul>Ancient et Shoots<br /><ul><li>Plus de contenu source d&#39;Ancient et de Shoots est désormais disponible pour les cartographes de la communauté dans maps/editor/zoo/ancient_zoo.vmap.</li></ul>[DIVERS]<br /><ul><li>Correction des entailles au couteau dont la marque était « sèche » sur les surfaces mouillées.</li><li>Correction d&#39;une erreur de prédiction des tirs de la part des clients si le bouton de tir était maintenu enfoncé pendant le démarrage d&#39;une nouvelle manche.</li><li>Correction de l&#39;erreur suivante : le modèle collait à la caméra lors du réglage de cl_lock_camera.</li><li>Correction d&#39;un problème en mode plein écran fenêtré qui empêchait la proposition de résolutions pour les formats extrêmes d&#39;image.</li><li>Correction du problème suivant : le mode plein écran fenêtré ne s&#39;étirait pas pour remplir l&#39;écran.</li><li>Correction du problème suivant : le mouvement relatif de la souris était incorrect sous Linux.</li><li>Diverses améliorations au niveau de la stabilité.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">657081807721726694</guid>
-      <pubDate>Mon, 18 Aug 2025 22:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><br />Ancient et Shoots<br /><ul><li>Ajout de versions nocturnes.</li><li>Tous les matériaux d&#39;Ancient ont été actualisés pour utiliser les derniers shaders CS2.</li><li>Ajout de nouvelles options de fusionnement pour les matériaux d&#39;Ancient, notamment l&#39;humidité et la mousse.</li><li>Ajout de « ancient_zoo.vmap » et toutes ses ressources, et des exemples de fusion pour les cartographes.</li></ul>[OBJETS]<br /><ul><li>La caisse de kit de musique est disponible à la vente, en versions standard et StatTrak.</li><li>Le nouvel objet à durée limitée, le M4A1-S | Solitude, est désormais disponible dans l&#39;arsenal.</li></ul>[ANIMATIONS]<br /><ul><li>Le déploiement du fusil à pompe a été modifié et le problème d&#39;éjection des cartouches corrigé.</li><li>Les animations de déploiement et d&#39;inspection rapide ont été améliorées pour tous les couteaux.</li><li>Les animations de déploiement et d&#39;inspection rapide ont été améliorées pour le AK, le Galil, l&#39;AUG, et le PP-Bizon.</li><li>Les animations de déploiement ont été améliorées pour le AWP, le M4A4 et le M4A1-S.</li><li>Animations améliorées pour les anciens modèles SSG08.</li><li>Le délai causé par le déploiement et l&#39;inspection a été supprimé pour la plupart des armes.</li><li>Correction du problème suivant : le XM1014 bloquait la ligne de mire pendant la recharge.</li></ul>[DIVERS]<br /><ul><li>Amélioration des performances de rendu sur la plupart des cartes.</li><li>La résolution de rendu et le rapport hauteur-largeur peuvent désormais être modifiés en mode fenêtré plein écran.</li><li>fps_max ne peut plus être modifié lorsque vous êtes connecté à un serveur.</li><li>Correction du problème suivant : dans certains cas, la cadence de tir des armes était trop élevée après avoir été redéployée.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">657081807721726196</guid>
-      <pubDate>Thu, 14 Aug 2025 20:21:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
