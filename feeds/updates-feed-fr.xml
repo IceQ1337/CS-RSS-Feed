@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 15:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:04:14 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction de divers pixels manquants dans plusieurs salles du mode Rush.</p></li><li><p>Ajustements des collisions dans les châteaux T et AT.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">674006995886409692</guid>
+      <pubDate>Mon, 28 Sep 2026 22:38:25 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
