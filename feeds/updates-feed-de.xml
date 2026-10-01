@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:43:17 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 30.09.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Verschiedene Clipping-Fehler auf Stoßzeit-Karten behoben.</p></li></ul><p>[ FADENKREUZ ]</p><ul><li><p>Visualisierung der Waffenungenauigkeit im Zusammenhang mit Streuung korrigiert.</p></li><li><p>Option für Konturfarbe für Fadenkreuze hinzugefügt.</p></li><li><p>Neuen Stil „Statische Kreissegmente“ hinzugefügt.</p></li><li><p>Ausrichtungshilfe zum Werfen von Granaten in Pausen aktiviert, um Granaten sofort werfen zu können (einfach eine beliebige Granaten-Taste dafür gedrückt halten).</p></li><li><p>Der Abstand für den klassischen dynamischen Fadenkreuzstil kann jetzt negative Werte annehmen.</p></li><li><p>Transparenz-Inkrement für den klassischen dynamischen Fadenkreuzstil auf 0,01 geändert.</p></li><li><p>Die Einstellungen für Leuchtpunktgröße und Leuchtpunktfarbe für bestimmte Waffen mit Zielfernrohr sind jetzt im neuen teilbaren Fadenkreuzcode enthalten.</p></li><li><p>Format des teilbaren Fadenkreuzcodes geändert, um die neu hinzugefügten Fadenkreuzeinstellungen zu berücksichtigen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675133527946166402</guid>
+      <pubDate>Wed, 30 Sep 2026 22:46:19 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 28.09.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856292184915971</guid>
       <pubDate>Tue, 26 Aug 2025 23:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 18.08.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br />Ancient<br /><ul><li>Änderungen an den Ziegelsteinen des Tempeldaches aus Sicht der AT-Startzone rückgängig gemacht.</li><li>Kugeln können jetzt wieder die blaue Sperrholzplatte im Seiteneingang zu Bombenort B durchdringen.</li><li>Verschiedene Änderungen an der Geräuschkulisse der Tagversion der Karte vorgenommen.</li><li>Fehler behoben, durch den Gegenstände hinter dem Schutthaufen bei Ruine stecken bleiben konnten.</li><li>Anpassungen am Spieler-Clipping vorgenommen.</li></ul>Shoots<br /><ul><li>Anpassungen am Spieler-Clipping vorgenommen.</li></ul>Ancient und Shoots<br /><ul><li>Weitere Quellinhalte für Ancient und Shoots sind jetzt für Community-Kartenersteller in der Kartendatei „maps/editor/zoo/ancient_zoo.vmap“ verfügbar.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den Hiebe mit einem Messer auf nasse Oberflächen visuelle Spuren hinterließen, die trockenen Oberflächen vorbehalten sind.</li><li>Fehler behoben, durch den der Client Schüsse falsch vorhersagen konnte, wenn die Schießen-Taste während des Rundenübergangs gedrückt gehalten wurde.</li><li>Fehler behoben, durch den sich das Ansichtsmodell strikt an der Kamera ausrichtete, wenn der Konsolenbefehl „cl_lock_camera“ aktiviert war.</li><li>Fehler behoben, durch den im Anzeigemodus „Vollbildfenster“ keine Auflösungen mit extremen Bildformaten vorgeschlagen wurden.</li><li>Fehler behoben, durch den im Anzeigemodus „Vollbildfenster“ bei bestimmten Auflösungen nicht der gesamte Bildschirm ausgefüllt wurde.</li><li>Fehler behoben, durch den die relative Mausgeschwindigkeit unter Linux falsch berechnet wurde.</li><li>Diverse Stabilitätsverbesserungen vorgenommen.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">657081807721726694</guid>
-      <pubDate>Mon, 18 Aug 2025 22:32:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
