@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 23:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:28:42 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu</p></li><li><p>Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels</p></li><li><p>Fixed formatting of titles in commend and report dialogs</p></li><li><p>Improved lighting in the Warehouse map</p></li><li><p>Updated workshop convars whitelist with the new crosshair settings</p></li><li><p>Stability improvements</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675133527946167652</guid>
+      <pubDate>Fri, 02 Oct 2026 22:24:13 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856292184916389</guid>
       <pubDate>Wed, 27 Aug 2025 22:34:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><br />Ancient<br /><ul><li>Restored some grenade lineup visuals.</li><li>Misc clipping fixes.</li></ul>[ ANIMATION ]<br /><ul><li>Fixed issues with the classic knife&#39;s inspect animations.</li><li>Fixed the deploy for the Stiletto knife.</li><li>Fixed the deploy for the Butterfly knife.</li><li>Updated Talon knife inspect while &#39;fidgeting&#39; to be more responsive.</li><li>Adjusted Flip knife animation when inspecting immediately after deploying.</li><li>Adjusted Bayonet knife animation when inspecting immediately after deploying.</li></ul>[ MISC ]<br /><ul><li>Fixed a performance regression when creating bullet impact effects.</li><li>View angle velocity now affects spectator target viewmodels the same way it affects local player viewmodels.</li><li>Fixed a case where looping weapon inspects weren&#39;t networking to spectators.</li><li>Fixed a bug where matchmaking was avoiding servers playing the nighttime version of Ancient.</li><li>Removed legacy sprite-based shell casing fallback particle effects.</li><li>Fixed case where overlapping smoke clouds would prematurely extinguish molotov fire.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856292184915971</guid>
-      <pubDate>Tue, 26 Aug 2025 23:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
