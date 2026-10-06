@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 17:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:05:02 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Les agents portent désormais leurs gants équipés pendant les séances photo dans le photomaton et dans le menu d&#39;achat.</p></li><li><p>Correction d&#39;un problème de rendu pour le viseur de grenade qui se produisait quand l&#39;épaisseur du viseur était égale à 3 pixels.</p></li><li><p>Correction de la mise en forme des titres dans les fenêtres de recommandation et de signalement.</p></li><li><p>Amélioration de l&#39;éclairage sur Warehouse.</p></li><li><p>Mise à jour de la liste des variables de la console autorisées pour les cartes du Workshop afin de prendre en compte les nouveaux paramètres de viseur.</p></li><li><p>Diverses améliorations au niveau de la stabilité.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675133527946167652</guid>
+      <pubDate>Fri, 02 Oct 2026 22:24:13 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -597,22 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490218408</guid>
       <pubDate>Thu, 04 Sep 2025 17:29:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[DIVERS]<br /><ul><li>Améliorations apportées à la stabilité quand des associations de touches multicommandes sont utilisées.</li><li>Correction du problème suivant : le kit de musiques de Jonathan Young ne se répétait pas correctement.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856292184916389</guid>
-      <pubDate>Wed, 27 Aug 2025 22:34:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><br />Ancient<br /><ul><li>Certains visuels de réticules de grenade ont été restaurés.</li><li>Corrections de diverses collisions.</li></ul>[ANIMATIONS]<br /><ul><li>Correction de problèmes avec les animations d&#39;examen du couteau classique.</li><li>Correction de la sortie du stylet.</li><li>Correction de la sortie du couteau papillon.</li><li>Mise à jour de l&#39;examen du canif quand on le fait tourner pour une meilleure réactivité.</li><li>L&#39;animation de rotation du couteau quand celui-ci est examiné immédiatement après avoir été sorti a été ajustée.</li><li>L&#39;animation de la baïonnette quand elle est examinée juste après sa sortie a été ajustée.</li></ul>[DIVERS]<br /><ul><li>Correction d&#39;une régression sur les performances lors de la création d&#39;effet d&#39;impacts de balles.</li><li>La vitesse de l&#39;angle de vue affecte maintenant les modèles affichés en mode spectateur de la même façon que les modèles vus localement par le joueur ou la joueuse.</li><li>Correction du problème suivant : dans un cas spécifique, l&#39;examen en boucle d&#39;une arme n&#39;était pas transmis aux personnes en mode spectateur.</li><li>Correction du problème suivant : le système de matchmaking évitait les serveurs où se jouaient des matchs sur Ancient en version nocturne.</li><li>Les anciens effets de particules sur les douilles de munitions ont été supprimés.</li><li>Correction du problème suivant : les nuages de fumée qui se chevauchaient pouvaient éteindre un feu de cocktail Molotov prématurément.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856292184915971</guid>
-      <pubDate>Tue, 26 Aug 2025 23:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
