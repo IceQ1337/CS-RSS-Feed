@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 01 Oct 2026 19:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:38:14 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 02.10.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Agenten tragen ihre ausgerüsteten Handschuhe jetzt während eines Fotoshootings in der Fotokabine und im Kaufmenü.</p></li><li><p>Problem beim Rendern der Ausrichtungshilfe zum Werfen von Granaten behoben, wenn die Fadenkreuzstärke auf 3 Pixel eingestellt ist.</p></li><li><p>Formatierung der Titel in den Dialogfenstern beim Empfehlen und Melden von Spielern korrigiert.</p></li><li><p>Beleuchtung auf der Karte Warehouse verbessert.</p></li><li><p>Konfigurations-Whitelist für Workshop-Karten mit den neuen Fadenkreuzeinstellungen aktualisiert.</p></li><li><p>Stabilitätsverbesserungen vorgenommen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675133527946167652</guid>
+      <pubDate>Fri, 02 Oct 2026 22:24:13 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 30.09.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,22 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490218408</guid>
       <pubDate>Thu, 04 Sep 2025 17:29:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 27.08.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br /><ul><li>Stabilitätsverbesserungen bei der Verwendung von Tastenbelegungen mit mehreren Befehlen vorgenommen.</li><li>Fehler behoben, durch den das Musikkit „Jonathan Young, Starship Velociraptor“ nicht korrekt in Schleife wiedergegeben wurde.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856292184916389</guid>
-      <pubDate>Wed, 27 Aug 2025 22:34:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 26.08.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><br />Ancient<br /><ul><li>Visuelle Fixpunkte für das Werfen von Granaten wiederhergestellt.</li><li>Verschiedene Clipping-Fehler behoben.</li></ul>[ ANIMATION ]<br /><ul><li>Animationsfehler beim Untersuchen des klassischen Messers behoben.</li><li>Animationsfehler beim Ausrüsten des Stiletts behoben.</li><li>Animationsfehler beim Ausrüsten des Butterflymessers behoben.</li><li>Animation des Talon-Messers aktualisiert; diese ist jetzt responsiver, wenn das Messer während des Herumwirbelns untersucht wird.</li><li>Animation des Klappmessers angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.</li><li>Animation des Bajonetts angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Leistungsregression behoben, die beim Erstellen von Kugeleinschlagseffekten auftrat.</li><li>Fehler behoben, durch den das Sichtfeld des Ansichtsmodells eines Spielers beim Zuschauen nicht berücksichtigt wurde.</li><li>Fehler behoben, durch den das wiederholte Untersuchen einer Waffe für Zuschauer nicht angezeigt wurde.</li><li>Fehler behoben, durch den die Spielsuche Server mit der Nachtversion von Ancient nicht berücksichtigte.</li><li>Veraltete Sprite-basierte Ausweichpartikeleffekte für Patronenhülsen entfernt.</li><li>Fehler behoben, durch den überlappende Rauchwolken von Rauchgranaten das Feuer eines Molotows bzw. einer Brandgranate in der Nähe frühzeitig löschten.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856292184915971</guid>
-      <pubDate>Tue, 26 Aug 2025 23:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
