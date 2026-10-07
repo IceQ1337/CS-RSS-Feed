@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Wed, 07 Oct 2026 18:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:53:39 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 05.10.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Die Seiten des Haustier-Fotoalbums enthalten jetzt lokalisierte Textgrafiken.</p></li><li><p>Dem Spielmenü wurden Schaltflächen zur Verwaltung heruntergeladener Workshop-Karten hinzugefügt.</p></li><li><p>Erweiterungs-Flags für den Vulkan-Shader-Cache angepasst.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675133527946168308</guid>
+      <pubDate>Mon, 05 Oct 2026 23:39:43 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 02.10.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
