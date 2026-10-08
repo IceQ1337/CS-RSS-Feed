@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 23:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:46:14 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Added a ping icon for dropped defuse kits</p></li><li><p>Reduced the time for AUG reload by half second</p></li><li><p>Fixed the sound event during silent reload for Desert Eagle</p></li><li><p>Fixed a case of buzzing soundscape sounds during demo playback</p></li><li><p>Clipping fixes for Rush maps</p></li><li><p>Localization updates</p></li><li><p>Stability updates</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">675134162359814146</guid>
+      <pubDate>Thu, 08 Oct 2026 22:36:49 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490218818</guid>
       <pubDate>Wed, 10 Sep 2025 21:48:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed an issue where player sounds would not visualize correctly on the minimap.</p></li><li><p>Fixed a crash when changing sound devices.</p></li><li><p>Fixed a case where sounds would play incorrectly as players move through water.</p></li><li><p>Fixed a case where viewmodel motion due to view angle changes misbehaved at certain frame rates.</p></li></ul><p>[ UI ]</p><ul><li><p>Minor fixes to the Loadout UI layout on certain resolutions.</p></li><li><p>Trade-protected and rental items now allow &quot;Unfavorite for CT&quot; action.</p></li></ul><p></p><p>[ MAPS ]</p><p>Ancient</p><ul><li><p>Various grenade and player clipping fixes.</p></li></ul><p>Shoots</p><ul><li><p>Various grenade and player clipping fixes.</p></li></ul><p>Grail</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update Notes</a>)</p></li></ul><p>Agency</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232">Update Notes</a>)</p></li></ul><p>Dogtown</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782">Update Notes</a>)</p></li></ul><p><br /></p>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856925490218408</guid>
-      <pubDate>Thu, 04 Sep 2025 17:29:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
