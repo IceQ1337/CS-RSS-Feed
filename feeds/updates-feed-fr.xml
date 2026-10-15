@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:46:09 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[INTERFACE]</p><p>Améliorations apportées au lecteur de rediffusions.</p><ul><li><p>Ajout d&#39;une barre de progression pour les téléchargements de rediffusions.</p></li><li><p>Les commandes de la caméra utilisent désormais un système de cliquer-glisser.</p></li><li><p>La caméra libre et la caméra de poursuite sont désormais utilisables quand que la rediffusion est en pause.</p></li><li><p>Correction de quelques problèmes mineurs avec la recherche au sein d&#39;un fichier de rediffusion.</p></li></ul><p></p><p>[DIVERS]</p><p>Les fichiers de sauvegarde de la manche nécessitent désormais le paramètre de démarrage du serveur de jeu « -allow_round_backup_files ».</p><p>Mise à jour des animations de rechargement de l&#39;AUG en position debout et accroupie pour mieux correspondre à la nouvelle durée de rechargement.</p><p>Ajout d&#39;une liste explicite des commandes radio autorisées.</p><p>Ajout du matériau « toolsskybox_occluder » pour les outils du Workshop CS2.</p><p>Améliorations de la stabilité du moteur de rendu Vulkan.</p>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">687519694976975304</guid>
+      <pubDate>Wed, 14 Oct 2026 23:02:48 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">529856925490219040</guid>
       <pubDate>Tue, 09 Sep 2025 00:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>[AUDIO]</p><ul><li><p>Correction du problème suivant : le volume du son pouvait soudainement descendre quand on jouait sur Agency.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856925490218818</guid>
-      <pubDate>Wed, 10 Sep 2025 21:48:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
