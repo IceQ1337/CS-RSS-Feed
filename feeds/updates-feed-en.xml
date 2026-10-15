@@ -13,14 +13,14 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 23:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:27:21 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ UI ]</p><p>Demo/Replay viewer improvements:</p><ul><li><p>Added a progress bar for demo/replay downloads</p></li><li><p>Camera controls now use click-and-drag scheme</p></li><li><p>Free and chase camera are usable during a paused demo</p></li><li><p>Fixed some minor issues when seeking to a different position in the demo file</p></li></ul><p></p><p>[ MISC ]</p><p>Round backup files now require the game server startup flag &quot;-allow_round_backup_files&quot;</p><p>Updated AUG reload animations for standing and crouch reloads to better match new reload duration</p><p>Allowed radio commands now have an explicit list</p><p>Added toolsskybox_occluder tool material for CS2 Workshop Tools</p><p>Stability improvements for Vulkan renderer</p>]]></description>
+      <description><![CDATA[<p>[ UI ]</p><p>Demo/Replay viewer improvements:</p><ul><li><p>Added a progress bar for demo/replay downloads</p></li><li><p>Camera controls now use click-and-drag scheme</p></li><li><p>Free and chase camera are usable during a paused demo</p></li><li><p>Fixed some minor issues when seeking to a different position in the demo file</p></li></ul><p></p><p>[ MISC ]</p><ul><li><p>Round backup files now require the game server startup flag &quot;-allow_round_backup_files&quot;</p></li><li><p>Updated AUG reload animations for standing and crouch reloads to better match new reload duration</p></li><li><p>Allowed radio commands now have an explicit list</p></li><li><p>Added toolsskybox_occluder tool material for CS2 Workshop Tools</p></li><li><p>Stability improvements for Vulkan renderer</p></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">687519694976975304</guid>
-      <pubDate>Wed, 14 Oct 2026 23:02:48 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 20:26:15 +0000</pubDate>
     </item>
     <item>
       <title>Counter-Strike 2 Update</title>
