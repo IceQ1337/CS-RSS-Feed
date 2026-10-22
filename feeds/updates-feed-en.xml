@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 20:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:03:10 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAP SCRIPTING ]</p><ul><li><p>Added Instance.Precache</p><ul></ul></li><li><p>Returns a CSPrecache object</p></li><li><p>Added CSPrecache.IsServerLoading</p></li><li><p>Added CSPrecache.IsServerLoaded</p></li><li><p>Added CSPrecache.IsClientLoading</p></li><li><p>Added CSPrecache.IsClientLoaded</p></li><li><p>Added CSPrecache.IsLoadedForAll</p></li><li><p>Added CSPrecache.Release</p></li><li><p>Added CSHostage</p><ul></ul></li><li><p>Added CSHostage.IsBeingPickedUp</p></li><li><p>Added CSHostage.IsBeingCarried</p></li><li><p>Added CSHostage.IsRescued</p></li><li><p>Added CSHostage.GetRescuer</p></li><li><p>Added CSHostage.GetPickUpStartTime</p></li><li><p>Added CSHostage.GetPickUpFinishTime</p></li><li><p>Added CSPlayerPawn.GetHostage</p></li><li><p>Added Instance.OnHostagePickUpStart</p></li><li><p>Added Instance.OnHostagePickUpAbort</p></li><li><p>Added Instance.OnHostagePickUp</p></li><li><p>Added Instance.OnHostageDrop</p></li><li><p>Added Instance.OnHostageRescue</p></li><li><p>Added Instance.OnHostageKill</p></li><li><p>Added new top level export Console</p><ul></ul></li><li><p>Added Console.GetConvarBoolean</p></li><li><p>Added Console.GetConvarNumber</p></li><li><p>Added Console.GetConvarString</p></li><li><p>Added Console.GetConvarVector</p></li><li><p>Added Console.GetConvarQAngle</p></li><li><p>Added Console.GetConvarColor</p></li><li><p>Added Console.SetConvar</p><ul></ul></li><li><p>Console.SetConvar is not restricted by sv_cheats and executes synchronously</p></li><li><p>Renamed Instance.Msg to Console.Log</p></li><li><p>Moved Instance.ClientCommand, ServerCommand and RegisterCheatCommand to Console</p></li><li><p>Added new top level export GameRules</p><ul></ul></li><li><p>Added GameRules.StartWarmup</p></li><li><p>Added GameRules.EndWarmup</p></li><li><p>Added GameRules.GetTeamScore</p></li><li><p>Added GameRules.AddTeamScore</p></li><li><p>Added GameRules.TerminateRound</p></li><li><p>Moved Instance.IsWarmupPeriod, IsFreezePeriod, IsTeamIntroPeriod, GetRoundsPlayed, GetRoundRemainingTime, SetRoundRemainingTime and AddTeamMoney to GameRules</p></li><li><p>Moved and renamed methods are still available in their original location, deprecated</p></li><li><p>Added top-level custom_hud_layout classes HUD_TEAMMENU_VISIBLE and HUD_CHAT_VISIBLE</p></li><li><p>radar_element can now appear on the radar in every game mode, not just Rush</p></li><li><p>Added support for GameRules.AddTeamMoney with CSTeamMoneyReason.NONE and an amount</p></li><li><p>Fixed a crash in GameRules.AddTeamMoney with CSTeamMoneyReason.NONE</p></li><li><p>Fixed CSTeamMoneyReason enum values not matching point_script.d.ts</p></li><li><p>Fixed CSWeaponAttackType enum values not matching point_script.d.ts</p></li><li><p>Fixed CSRadarPoint.IsVisibleToTeam returning a number instead of a boolean</p></li><li><p>Fixed CSObservablePoint.IsObservableForTeam returning a number instead of a boolean</p></li><li><p>Logged warnings now include the JS call stack</p></li><li><p>Logged warnings now include details about bad argument values</p></li><li><p>Logged warnings now count arguments from 0 instead of 1</p></li><li><p>Improved auto complete of the map_workshop command</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">694275728822244199</guid>
+      <pubDate>Thu, 22 Oct 2026 22:56:10 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">545620158577639655</guid>
       <pubDate>Wed, 17 Sep 2025 16:19:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ MAPS ]</p><p>Agency</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232">Update Notes</a>)</p></li></ul><p>Grail</p><ul><li><p>Updated to the latest version from the Community Workshop (<a rel="nofollow" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710">Update Notes</a>)</p></li></ul><p>[ ANIMATION ]</p><ul><li><p>Viewmodel animation fixes for the Bowie, Bayonet, Kukri, Nomad, Paracord, and Skeleton knives.</p></li></ul><p>[ MISC ]</p><ul><li><p>Improved performance when firing weapons.</p></li><li><p>Fixed a case where viewmodel motion due to view angle changes depended on the direction you were facing.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">529856925490219040</guid>
-      <pubDate>Tue, 09 Sep 2025 00:17:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
