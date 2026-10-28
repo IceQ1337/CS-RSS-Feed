@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:21:56 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[GAMEPLAY]</p><ul><li><p>Ajout d&#39;une option permettant de modifier le mode de rechargement silencieux (maintenir enfoncé ou basculer). Avec l&#39;option de basculement activée, vous pouvez relâcher la touche associée au rechargement une fois que le rechargement silencieux a commencé. Pour annuler un rechargement silencieux et revenir à un rechargement rapide, il suffira de réappuyer sur la touche associée au rechargement.</p></li><li><p>Correction du problème suivant : le premier son d&#39;un rechargement était audible, même si un rechargement silencieux avait été choisi.</p></li></ul><p>[DIVERS]</p><ul><li><p>Correction du problème suivant : les liquides pouvaient s&#39;afficher en noir avec les cartes graphiques AMD.</p></li><li><p>Correction de plusieurs problèmes de son et d&#39;interface lors du retour en arrière pendant la lecture d&#39;une rediffusion.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">694276363007296020</guid>
+      <pubDate>Wed, 28 Oct 2026 21:48:09 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498332997840273409</guid>
       <pubDate>Tue, 16 Sep 2025 23:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction du problème suivant : exec_async pouvait continuer à s&#39;exécuter dans des serveurs protégés contre la triche, ce qui entrainait une perte aléatoire des entrées utilisateur.</p></li><li><p>Dernier appel : récupérez la caisse Galerie, la collection Graphic et les stickers de création de personnages dans l&#39;arsenal avant qu&#39;il ne soit trop tard.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">545620158577639655</guid>
-      <pubDate>Wed, 17 Sep 2025 16:19:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
