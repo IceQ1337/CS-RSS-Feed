@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:02:33 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.</p></li><li><p>Fixed various cases where the first sound of a reload was audible irrespective if a user requested a silent reload or not.</p></li></ul><p>[ MISC ]</p><ul><li><p>Fixed a bug where liquid could render as black on AMD video cards</p></li><li><p>Fixed some sound and UI bugs when rewinding during demo playback</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">694276363007296020</guid>
+      <pubDate>Wed, 28 Oct 2026 21:48:09 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498332997840273409</guid>
       <pubDate>Tue, 16 Sep 2025 23:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed an issue that would allow exec_async to continue executing in cheat protected servers resulting in random user input dropout.</p></li><li><p>Last chance to pick up the Gallery Case, Graphic Collection, and Character Craft stickers from The Armory.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">545620158577639655</guid>
-      <pubDate>Wed, 17 Sep 2025 16:19:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
