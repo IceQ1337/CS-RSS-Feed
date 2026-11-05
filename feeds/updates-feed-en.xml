@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:03:02 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ GAMEPLAY ]</p><ul><li><p>Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.</p></li><li><p>Reduced freeze time and round restart delay in Retakes mode.</p></li><li><p>Pinging pet chickens during freeze time will request a trick from them.</p></li><li><p>Pet chicken names are no longer displayed when customized item text game option is set to hidden.</p></li></ul><p>[ MAP SCRIPTING ]</p><ul><li><p>Instance.Precache now accepts entities to precache</p></li><li><p>Added new top level export Entities</p></li><li><p>Added Entities.Spawn</p></li><li><p>Added Instance.OnBotControl</p></li><li><p>Added CSPlayerController.IsControllingBot</p></li><li><p>Added CSPlayerController.GetControlledBotPawn</p></li><li><p>Added CSPlayerPawn.Reset</p></li><li><p>Moved Instance.ConnectOutput to Entities and changed it to accept a config object</p></li><li><p>Moved Instance.DisconnectOutput to Entities</p></li><li><p>Renamed Instance.EntFireAtName to Entities.FireInput</p></li><li><p>Renamed Instance.FindEntitiesByName to Entities.FindByName</p></li><li><p>Renamed Instance.FindEntitiesByClass to Entities.FindByClass</p></li><li><p>Renamed Instance.EntFireAtTarget to Entity.FireInput</p></li><li><p>Moved and renamed methods are still available in their original location, deprecated</p></li><li><p>Deprecated Instance.FindEntityByName and FindEntityByClass</p></li><li><p>Calling a method on an invalid (removed) Entity now reports that the Entity is invalid</p></li><li><p>ConnectOutput now logs a warning when the target has no output with that name</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">694277000588690211</guid>
+      <pubDate>Thu, 05 Nov 2026 00:54:07 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
