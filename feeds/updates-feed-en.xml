@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:21:55 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ ANIMATION ]</p><ul><li><p>Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles</p></li></ul><p>[ MISC ]</p><ul><li><p>Fixed bot pathing issue in Retakes game mode</p></li><li><p>Fixed a rendering hang on DX11</p></li><li><p>Improved avx / avx512 instruction set detection</p></li><li><p>Miscellaneous stability and performance improvements</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">687522235410284761</guid>
+      <pubDate>Wed, 11 Nov 2026 23:03:20 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -613,14 +621,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498332997840273547</guid>
       <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ GENESIS COLLECTION ]</p><ul><li><p>The Genesis Collection is now available, featuring 17 finishes from community contributors.</p></li><li><p>Access items in the Genesis Collection via the Genesis Uplink Terminal, available as a weekly drop.</p></li></ul><p>[ MAP SCRIPTING ]</p><ul><li><p>Added cs_script, a JavaScript based scripting system for Counter-Strike maps.</p></li><li><p>Added script_zoo.vmap to demonstrate cs_script usage and functionality.</p></li></ul><p>[ UI ]</p><ul><li><p>Added ability to inspect another player&#39;s loadout when spectating.</p></li><li><p>Added zoom (mousewheel) and pan (shift+drag) to all inspect panels.</p></li></ul><p>[ SOUND ]</p><ul><li><p>Each grenade now has unique higher-fidelity sounds for draw, inspect, pin-pull, and throw.</p></li></ul><p>[ MISC ]</p><ul><li><p>Various improvements to subtick shooting consistency.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840273409</guid>
-      <pubDate>Tue, 16 Sep 2025 23:24:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
