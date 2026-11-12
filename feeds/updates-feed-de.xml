@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 05 Nov 2026 20:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:06:07 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 11.11.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ ANIMATION ]</p><ul><li><p>Visuelle Fehler beim Waffenwechsel und Nachladen in extremen Winkeln behoben.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Problem mit der Pfadzuweisung von Bots im Spielmodus „Rückeroberung“ behoben.</p></li><li><p>Renderingfehler unter DX11 behoben.</p></li><li><p>Erkennung der AVX-/AVX512-Befehlssätze verbessert.</p></li><li><p>Diverse Stabilitäts- und Leistungsverbesserungen vorgenommen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">687522235410284761</guid>
+      <pubDate>Wed, 11 Nov 2026 23:03:20 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 04.11.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -613,14 +621,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498332997840273547</guid>
       <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 16.09.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<p>[ GENESIS-KOLLEKTION ]</p><ul><li><p>Die Kollektion „Genesis“ ist ab sofort verfügbar und enthält 17 Waffenlackierungen von Community-Künstlern.</p></li><li><p>Die Gegenstände der Kollektion „Genesis“ sind über das Genesis-Uplink-Terminal erhältlich, das als Belohnung im Wöchentlichen Versorgungspaket eingelöst werden kann.</p></li></ul><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>JavaScript-basierte Skriptsprache „cs_script“ für Counter-Strike-Karten hinzugefügt.</p></li><li><p>Kartendatei „script_zoo.vmap“ hinzugefügt, um die Verwendung und Funktionalität von „cs_script“ zu demonstrieren.</p></li></ul><p>[ BENUTZEROBERFLÄCHE ]</p><ul><li><p>Beim Zuschauen kann jetzt die Ausrüstung anderer Spieler betrachtet werden.</p></li><li><p>Alle Benutzeroberflächen zum Untersuchen von Gegenständen ermöglichen jetzt das Vergrößern/Verkleinern (Mausrad) sowie die Neuausrichtung (Umschalttaste + Ziehen) des entsprechenden Gegenstands.</p></li></ul><p>[ SOUND ]</p><ul><li><p>Jede Granate verfügt jetzt über spezifische Sounds fürs Ausrüsten, Untersuchen, Scharfmachen und Werfen mit höherer Wiedergabetreue.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Verschiedene Verbesserungen an der Schuss-Konsistenz in Verbindung mit dem Subtick-System vorgenommen.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840273409</guid>
-      <pubDate>Tue, 16 Sep 2025 23:24:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
