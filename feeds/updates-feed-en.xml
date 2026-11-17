@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:41:20 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ SINGAPORE 2026 MAJOR ]<ul><li>The PGL Singapore 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick&#39;Em Challenge, and more.</li><li>Purchase a Singapore 2026 Viewer Pass to receive an upgradable Singapore 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick&#39;Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick&#39;Em Challenge performance to your friends.</li></ul>[ MAPS ]<ul><li>Added Cobblestone map to official Casual, Competitive, Wingman, Retakes, and Deathmatch matchmaking.</li><li>Removed Boulder, Fachwerk, and Shelter from official matchmaking pool.</li></ul>[ MUSIC ]<ul><li>Added 8 new music kits from Monstercat.</li></ul>[ ANIMATION ]<ul><li>Fixed head dipping too low at extreme aim angles.</li><li>Restored T-side lowered aim pose.</li></ul>[ MISC ]<ul><li>Fixed a case of defuse kits not getting correctly granted in Retakes.</li><li>Fixed T-side bots to attack CTs who try to defuse the bomb.</li><li>Added custom processing for fire effects on ground materials to apply hardening to metal surfaces, to melt snow, and so on.</li><li>Added &quot;health_c4_preview&quot; output value in player_state objects for Game State Integration.</li><li>Added MVP Anthem preview button when inspecting Music Kits in the in-game store.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">687522235410286587</guid>
+      <pubDate>Tue, 17 Nov 2026 23:40:07 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,22 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498333631688736878</guid>
       <pubDate>Wed, 24 Sep 2025 00:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ MISC ]</p><ul><li><p>Fixed a regression to view punch which affected weapon sprays.</p></li><li><p>Fixed a regression in server performance that caused frequent long server frames, primarily in drop-in drop-out modes. </p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840274525</guid>
-      <pubDate>Fri, 19 Sep 2025 00:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[<p>[ GENESIS COLLECTION ]</p><ul><li><p>Customers in Belgium, Netherlands, and France can now unseal their Sealed Genesis Terminal items.</p></li><li><p>Fixed purchasing errors for users with Steam Wallet funds in Chilean Peso, Colombian Peso, Costa Rican Colón, Indonesian Rupiah, Indian Rupee, Japanese Yen, South Korean Won, Kazakhstani Tenge, New Taiwan Dollar, Ukrainian Hryvnia, Uruguayan Peso, and Vietnamese Dong.</p></li></ul><p>[ ITEMS ]</p><ul><li><p>Fixed position of the nametag and StatTrak module on Shadow Daggers.</p></li></ul><p>[ MAP SCRIPTING ]</p><ul><li><p>Added javascript to the list of asset types.</p></li><li><p>Fixed type declaration for the newAngles parameter of Entity.Teleport.</p></li><li><p>Fixed a bug where GetTraceHit would crash when the config parameter was not specified.</p></li></ul><p>[ MISC ]</p><ul><li><p>Improved timestep-independence of subtick movement acceleration.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840273547</guid>
-      <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
