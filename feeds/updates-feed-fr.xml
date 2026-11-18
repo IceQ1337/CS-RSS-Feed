@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:41:06 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[[TOURNOI MAJEUR DE SINGAPOUR 2026]<ul><li>Le hub du tournoi majeur de Singapour 2026 organisé par PGL est désormais disponible. Rendez-vous sur le hub pour acheter des items de tournoi, jouer au challenge Prono&#39;Stick et plus encore !</li><li>Achetez un passe du public de Singapour 2026 pour recevoir un insigne évolutif du tournoi majeur de Singapour 2026. Activez votre passe pour améliorer votre insigne et recevoir des récompenses en participant au challenge Prono&#39;Stick. Vous figurerez également dans le classement des personnes ayant activé leur passe, et pourrez ainsi comparer vos prouesses au challenge Prono&#39;Stick avec celles de vos proches.</li></ul>[CARTES]<ul><li>Ajout de Cobblestone au groupe de cartes du matchmaking officiel des modes Occasionnel, Compétitif, Wingman, Reprises de contrôle et Match à mort.</li><li>Suppression de Boulder, Fachwerk et Shelter du groupe de cartes du matchmaking officiel.</li></ul>[MUSIQUE]<ul><li>Ajout de 8 nouveaux kits de musiques de Monstercat.</li></ul>[ANIMATIONS]<ul><li>Correction du problème suivant : la tête des modèles s&#39;abaissait trop en cas d&#39;angles de visée extrêmes.</li><li>La posture des terroristes en joue a été rétablie (l&#39;arme est désormais plus basse).</li></ul>[DIVERS]<ul><li>Correction du problème suivant : les kits de désamorçage n&#39;étaient pas correctement attribués en mode Reprises de contrôle.</li><li>Correction du problème suivant : les bots terroristes n&#39;attaquaient pas les antiterroristes qui tentaient de désamorcer la bombe.</li><li>Ajout d&#39;un traitement personnalisé des effets de feu sur les matériaux du sol afin de durcir les surfaces métalliques, de faire fondre la neige, etc.</li><li>Ajout de la valeur de sortie « health_c4_preview » aux objets player_state pour l&#39;intégration de l&#39;état du jeu (Game State Integration).</li><li>Ajout d&#39;un bouton pour écouter un extrait de la musique spéciale de MJ lorsqu&#39;on parcourt les kits de musiques dans le magasin du jeu.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">687522235410286587</guid>
+      <pubDate>Tue, 17 Nov 2026 23:40:07 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -605,22 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498333631688736878</guid>
       <pubDate>Wed, 24 Sep 2025 00:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>[DIVERS]</p><ul><li><p>Correction d&#39;une régression qui affectait la vision lors du recul des tirs en rafale.</p></li><li><p>Correction de la régression suivante : un problème de performance de serveur provoquait fréquemment des trames trop longues, principalement dans les modes de jeu pouvant être rejoints et quittés rapidement. </p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840274525</guid>
-      <pubDate>Fri, 19 Sep 2025 00:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[<p>[COLLECTION GENÈSE]</p><ul><li><p>Les joueurs et joueuses en Belgique, aux Pays-Bas et en France peuvent maintenant desceller leurs items du terminal Genèse.</p></li><li><p>Correction d&#39;erreurs d&#39;achat pour les comptes disposant de fonds sur leur portemonnaie Steam en pesos chiliens, pesos colombiens, colones costariciens, roupies indonésiennes, yens japonais, wons sud-coréens, tenges kazakhs, nouveaux dollars de Taïwan, hryvnias ukrainiennes, pesos uruguayens et dongs vietnamiens.</p></li></ul><p>[ITEMS]</p><ul><li><p>La position de l&#39;étiquette et du module StatTrak sur les dagues sombres a été corrigée.</p></li></ul><p>[CRÉATION DE SCRIPTS DE CARTE]</p><ul><li><p>Ajout de Javascript à la liste des types de ressources.</p></li><li><p>Correction du type de déclaration pour le paramètre « newAngles » de l&#39;entité « Entity.Teleport. ».</p></li><li><p>Correction du problème suivant : GetTraceHit plantait quand le paramètre de configuration n&#39;était pas indiqué.</p></li></ul><p>[DIVERS]</p><ul><li><p>Amélioration de l&#39;indépendance de l&#39;accélération du mouvement entre les ticks par rapport au pas de temps.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840273547</guid>
-      <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
