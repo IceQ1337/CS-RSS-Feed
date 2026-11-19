@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-fr.xml</link>
     </image>
     <language>fr</language>
-    <lastBuildDate>Wed, 18 Nov 2026 23:41:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:02:51 +0000</lastBuildDate>
+    <item>
+      <title>Mise à jour de Counter-Strike 2</title>
+      <link>https://www.counter-strike.net/news/updates?l=french</link>
+      <description><![CDATA[<p>[CARTES]</p><p>Cobblestone</p><ul><li><p>Correction de plusieurs surfaces au sol dans le couloir A.</p></li><li><p>Correction du problème suivant : la carte chargeait un fichier de skybox vide.</p></li><li><p>Correction d&#39;un problème de blocage audio au niveau du milieu et du site de bombe A.</p></li><li><p>Ajout d&#39;une collision de grenade au parechoc du fourgon d&#39;intervention.</p></li><li><p>Correction de divers interstices sur la carte.</p></li></ul><p>Inferno</p><ul><li><p>Correction d&#39;une faille permettant de lancer une grenade ou un cocktail Molotov depuis l&#39;intérieur de l&#39;église vers l&#39;arrière du site de bombe B.</p></li></ul><p>[DIVERS]</p><ul><li><p>Mise à jour de l&#39;animation de rechargement silencieux de l&#39;AWP.</p></li><li><p>Optimisation des traces de brulure laissées au sol sous la fumée avec les paramètres graphiques très élevés.</p></li></ul><p>[Scanner à rayons X]</p><ul><li><p>Les personnes en Suisse auront un onglet « Scanner à rayons X » dans leur inventaire. Dorénavant, il leur faudra obligatoirement utiliser le scanner à rayons X pour ouvrir un conteneur. Le scanner à rayons X sera préchargé avec un exemplaire authentique du « P250 | Rayons X » exclusif et non échangeable. Il faut d&#39;abord récupérer cet item avant de pouvoir utiliser le scanner pour révéler les items à l&#39;intérieur des autres conteneurs.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">694278269818634559</guid>
+      <pubDate>Thu, 19 Nov 2026 00:57:59 +0000</pubDate>
+    </item>
     <item>
       <title>Mise à jour de Counter-Strike 2</title>
       <link>https://www.counter-strike.net/news/updates?l=french</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498333631688737092</guid>
       <pubDate>Thu, 25 Sep 2025 00:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour de Counter-Strike 2</title>
-      <link>https://www.counter-strike.net/news/updates?l=french</link>
-      <description><![CDATA[[CARTES]<br /><ul><li>Ancient<ul></ul></li><li>Diverses corrections de collisions de modèles.</li><li>Train<ul></ul></li><li>Diverses corrections de collisions de modèles.</li></ul>[DIVERS]<br /><ul><li>Correction du problème suivant : remuer la souris pouvait empêcher les déplacements.</li><li>Correction du problème suivant : la vitesse de marche était anormalement lente lors de la montée des rampes.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498333631688736878</guid>
-      <pubDate>Wed, 24 Sep 2025 00:54:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
