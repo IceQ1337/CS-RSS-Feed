@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-en.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:02:11 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[<p>[ MAPS ]</p><p>Cobblestone</p><ul><li><p>Fixed some walkable ledges in long A</p></li><li><p>Fixed map issue that was loading an empty skybox</p></li><li><p>Fixed an audio blocker issue by mid/A</p></li><li><p>Added a grenade clip to assault van bumper</p></li><li><p>Fixed various gaps in the world</p></li></ul><p>Inferno</p><ul><li><p>Fixed grenade and Molotov exploit spot from church to dark on bombsite B.</p></li></ul><p>[ MISC ]</p><ul><li><p>Updated slow reload animation for the AWP</p></li><li><p>Optimized ground burn decals under smoke on very high graphics settings</p></li></ul><p>[ X-RAY SCANNER ]</p><ul><li><p>Players in Switzerland will have an X-Ray Scanner tab in their Inventory. For those players, containers can only be opened via X-Ray Scanner. The X-Ray Scanner will come preloaded with a one-time exclusive non-tradable &quot;Genuine P250 | X-Ray&quot;, which must be claimed before using the X-Ray Scanner to reveal items in other containers.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">694278269818634559</guid>
+      <pubDate>Thu, 19 Nov 2026 00:57:59 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -605,14 +613,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498333631688737092</guid>
       <pubDate>Thu, 25 Sep 2025 00:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MAPS ]<br /><ul><li>Ancient<ul></ul></li><li>Various player clipping fixes</li><li>Train<ul></ul></li><li>Various player clipping fixes</li></ul>[ MISC ]<br /><ul><li>Fixed a case where you couldn&#39;t start moving while wiggling the mouse.</li><li>Fixed a case where velocity was abnormally low while walking up ramps.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498333631688736878</guid>
-      <pubDate>Wed, 24 Sep 2025 00:54:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
