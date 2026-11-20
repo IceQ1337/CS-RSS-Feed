@@ -13,7 +13,15 @@
       <link>https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-de.xml</link>
     </image>
     <language>de</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:03:13 +0000</lastBuildDate>
+    <item>
+      <title>Counter-Strike 2 – Update vom 18.11.2026</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[<p>[ KARTEN ]</p><p>Cobblestone</p><ul><li><p>Einige unsichtbare Kanten bei A-Lang korrigiert.</p></li><li><p>Problem behoben, durch das auf der Karte eine leere Skybox geladen wurde.</p></li><li><p>Problem behoben, das verhinderte, dass Audio in der Mitte/am Bombenort A erwartungsgemäß abgespielt wurde.</p></li><li><p>Granaten-Clipping zur Stoßstange des Spezialtransporters hinzugefügt.</p></li><li><p>Diverse Lücken in der Spielwelt ausgebessert.</p></li></ul><p>Inferno</p><ul><li><p>Problem behoben, durch das Granaten und Molotows von einem Ort in der Kirche nicht korrekt bis ins hintere rechte Eck von Bombenort B geworfen werden konnten.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Animation für das leise Nachladen der AWP aktualisiert.</p></li><li><p>Bodeneffekte durch Feuer unter einer Rauchwolke bei sehr hohen Grafikeinstellungen optimiert.</p></li></ul><p>[ RÖNTGENSCANNER ]</p><ul><li><p>Spieler in der Schweiz finden ab heute den Tab „Röntgenscanner“ in ihrem Inventar. Besagte Spieler können Behälter nur noch per Röntgenscanner öffnen. Der Röntgenscanner enthält einmalig eine exklusive, nicht handelbare „P250 (Echt) | Röntgen“, die eingelöst werden muss. Erst dann kann der Röntgenscanner verwendet werden, um Gegenstände in anderen Behältern zu enthüllen.</p></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">694278269818634559</guid>
+      <pubDate>Thu, 19 Nov 2026 00:57:59 +0000</pubDate>
+    </item>
     <item>
       <title>Counter-Strike 2 – Update vom 11.11.2026</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -597,30 +605,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">498333631688737092</guid>
       <pubDate>Thu, 25 Sep 2025 00:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 23.09.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<br /><ul><li>Ancient<ul></ul></li><li>Verschiedene Fehlerbehebungen am Spieler-Clipping vorgenommen.</li><li>Train<ul></ul></li><li>Verschiedene Fehlerbehebungen am Spieler-Clipping vorgenommen.</li></ul>[ VERSCHIEDENES ]<br /><ul><li>Fehler behoben, durch den sich Spieler nicht mehr von der Stelle bewegen konnten, während sie ihre Maus umherbewegten.</li><li>Fehler behoben, durch den die Bewegungsgeschwindigkeit beim Hochlaufen von Rampen ungewöhnlich niedrig war.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498333631688736878</guid>
-      <pubDate>Wed, 24 Sep 2025 00:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 18.09.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<p>[ VERSCHIEDENES ]</p><ul><li><p>Regression bei der Rückstoßanimation des Ansichtsmodells behoben, die sich negativ auf die Waffenkontrolle beim Dauerfeuern auswirkte.</p></li><li><p>Regression bei der Serverleistung behoben, die häufig zu langen Framezeiten führte. Dieses Problem trat hauptsächlich auf Servern mit Spielmodi auf, bei denen Spieler spontan beitreten bzw. diese auch wieder verlassen konnten. </p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840274525</guid>
-      <pubDate>Fri, 19 Sep 2025 00:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 17.09.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[<p>[ GENESIS-KOLLEKTION ]</p><ul><li><p>Spieler in Belgien, den Niederlanden und Frankreich können jetzt erhaltene Genesis-Uplink-Terminals entsiegeln.</p></li><li><p>Fehler bei Käufen mit Steam-Guthaben in den folgenden Währungen behoben: Chilenischer Peso, Kolumbianischer Peso, Costa-Rica-Colón, Indonesische Rupiah, Indische Rupie, Japanischer Yen, Südkoreanischer Won, Kasachischer Tenge, Neuer Taiwan-Dollar, Ukrainische Hrywnja, Uruguayischer Peso und Vietnamesischer Dong.</p></li></ul><p>[ GEGENSTÄNDE ]</p><ul><li><p>Fehlerhafte Position des Namensschilds und des StatTrak™-Zählers auf Schattendolchen behoben.</p></li></ul><p>[ KARTEN-SCRIPTING ]</p><ul><li><p>JavaScript zur Liste der Elementtypen hinzugefügt.</p></li><li><p>Fehlerhafte Typdeklaration des Parameters „newAngles“ für „Entity.Teleport“ korrigiert.</p></li><li><p>Absturz behoben, der auftrat, wenn die Funktion „GetTraceHit“ ohne Konfigurationsparameter verwendet wurde.</p></li></ul><p>[ VERSCHIEDENES ]</p><ul><li><p>Zeitliche Unabhängigkeit der Subtick-Bewegungsbeschleunigung verbessert.</p></li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">498332997840273547</guid>
-      <pubDate>Wed, 17 Sep 2025 23:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
